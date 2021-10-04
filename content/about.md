@@ -1,20 +1,115 @@
 ---
 title: About
-weight: 203
+weight: 
+pdf: false
+epub: false
 ---
 
-This is a starter theme for [Quire](https://gettypubs.github.io/quire/), a multiformat digital publishing framework. Quire can be used to generate a web book, EPUB and MOBI e-books, and a PDF optimized for print; all from a single set of text files. 
+Eggshells, flowers, onion peels, sponge cake, dried bread, breast milk—these are just a few of the biological materials that some contemporary artists have used to make art. But how can works made from such perishable ingredients be preserved? And what ethical and conceptual dilemmas might be posed by doing so?
+Because they are prone to rapid decay, even complete disappearance, biological materials used in art pose a range of unique conservation challenges. This groundbreaking book probes the moral and practical challenges associated with displaying, collecting, and preserving these unique works of art. Theoretical considerations are complemented by a range of specific case studies, thereby affording a comprehensive and richly detailed overview of current thinking and practices on this topic.
 
-This starter theme allows for the quick customization of a few key styles to make you publication project your own. 
+With contributions by conservators, scholars, curators, and artists, Living Matter is the first publication to address broadly these provocative issues, exploring the role of biological materials in the creative process and presenting a wide variety of possible approaches to their preservation.
 
-- Modern and Classic type styles
-- Cover and splash page images
-- Accent color
-- Background colors
-- Navigation bar style
+---
 
-By diving further into the included style sheets and layout templates, there’s almost no limit to what can be done.
+*Living Matter: The Preservation of Biological Materials Used in Contemporary Art*<br />
+A conference organized by the Getty Conservation Institute (GCI), Museo Universitario Arte Contemporáneo (MUAC) of the Universidad Nacional Autónoma de México (UNAM), and Escuela Nacional de Conservación, Restauración y Museografia (ENCRyM) of the Instituto Nacional de Antropología e Historia (INAH), Mexico City, June 3–5, 2019
 
-The text excerpts included in this starter theme come from *Walker Evans: Catalogue of the Collection* by Judith Keller (Getty Publications, 1995) available for free download in the Getty’s [Virtual Library](https://www.getty.edu/publications/virtuallibrary/0892363177.html); *In Focus: Dorothea Lange* (Getty Publications, 2002); and from the J. Paul Getty Museum online collection records.
 
-The images included come from the J. Paul Getty Museum online collection records under their Open Content Program. The pictures of [Dorothea Lange](https://www.loc.gov/resource/fsa.8b27245/) and [Walker Evans](https://www.loc.gov/item/2017728481/) used in the Introduction, come from the Library of Congress Prints and Photographs Division.
+{{< q-class "backmatter" >}}
+
+## Citation Information
+
+### Chicago
+
+Rivenc, Rachel, and Kendra Roth, eds. *Living Matter: The Preservation of Biological Materials in Contemporary Art, An International Conference Held in Mexico City, June 3–5, 2019*. Los Angeles: Getty Conservation Institute, 2022. http://www.getty.edu/publications/living-matter/.
+
+### MLA
+
+Rivenc, Rachel, and Kendra Roth, editors. *Living Matter: The Preservation of Biological Materials in Contemporary Art, An International Conference Held in Mexico City, June 3–5, 2019*. Getty Conservation Institute, 2022. http://www.getty.edu/publications/living-matter/. Accessed <span class="cite-current-date">Feb. 23, 2021</span>.
+
+### Permanent URL
+
+http://www.getty.edu/publications/living-matter/
+
+## Revision History
+
+Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at [github.com/thegetty/living-matter/](https://github.com/thegetty/living-matter/), where a more detailed version history is available. The revisions branch of the project repository, when present, will also show any changes currently under consideration but not yet published here.
+
+### May 24, 2022
+
+  - First edition
+
+## Other Formats
+
+  - [PDF (X MB)](/downloads/output.pdf)
+  - [EPUB (X MB)](/downloads/output.epub)
+  - [Kindle/MOBI (X MB)](/downloads/oputput.mobi)
+  - [Paperback](#)
+
+## Copyright
+
+This publication was created using Quire™, a multiformat publishing tool from Getty.
+
+© 2022 J. Paul Getty Trust
+
+{{< q-class "cc-icon" >}}
+<svg class="quire-copyright__icon">
+<switch>
+  <use xlink:href="#cc"></use>
+</switch>
+<switch>
+  <use xlink:href="#cc-by"></use>
+</switch>
+<switch>
+  <use xlink:href="#cc-by-nc"></use>
+  <foreignObject width="135" height="30">
+      <img src="../img/icons/cc-by-nc.png" alt="CC BY-NC" />
+  </foreignObject>
+</switch>
+</svg>
+{{< /q-class >}}
+
+Unless otherwise indicated, the text and images of this work are licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights.
+
+**Published by the Getty Conservation Institute, Los Angeles**<br />
+Getty Publications<br />
+1200 Getty Center Drive, Suite 500<br />
+Los Angeles, California 90049-1682<br />
+[getty.edu/publications](http://www.getty.edu/publications/)<br />
+
+Tevvy Ball, *Project Editor*<br />
+Lindsey Westbrook, *Manuscript Editor*<br />
+Greg Albers, *Digital Manager*<br />
+Kurt Hauser, *Cover Designer*<br />
+Molly McGeehan, *Production*<br />
+Leslie Rollins and Nancy Rivera, *Image and Rights Acquisition*<br />
+Audrey Warne, *Digital Assistant*<br />
+
+{{< q-class "cip-data" >}}
+
+Library of Congress Cataloging-in-Publication Data
+
+- Names: Getty Conservation Institute, author, issuing body. | Rivenc, Rachel,
+   editor. | Kendra Roth, editor.
+- Title: Living Matter: The Preservation of Biological Materials Used in Contemporary Art
+- Description:
+- Identifiers: LCCN (print) | LCCN (ebook) | ISBN
+   9781606066874 (paperback) | ISBN 9781606067673 (ebook) | ISBN
+- Subjects:
+- Classification:
+- LC record available at
+- LC ebook record available at
+
+{{< /q-class >}}
+
+Cover:
+
+## The Getty Conservation Institute
+
+Timothy P. Whalen, John E. and Louise Bryson Director<br />
+Jeanne Marie Teutonico, Associate Director, Strategic Initiatives<br />
+
+The Getty Conservation Institute (GCI) works internationally to advance conservation practice in the visual arts—broadly interpreted to include objects, collections, architecture, and sites. The Institute serves the conservation community through scientific research, education and training, model field projects, and the dissemination of the results of both its own work and the work of others in the field. In all its endeavors, the GCI focuses on the creation and delivery of knowledge that will benefit the professionals and organizations responsible for the conservation of the world’s cultural heritage.
+
+{{< /q-class >}}
