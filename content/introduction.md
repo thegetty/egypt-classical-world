@@ -2,8 +2,8 @@
 title: Introduction
 weight: 6
 contributor:
-- id:
-- id:
+- id: jspier
+- id: scole
 type: splash
 class: page-one
 ---
