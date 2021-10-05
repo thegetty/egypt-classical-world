@@ -1,7 +1,7 @@
 ---
 title: Director's Foreword
 subtitle:
-weight: 2
+weight: 4
 contributor:
 - first_name: Timothy
   last_name: Potts
