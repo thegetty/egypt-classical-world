@@ -1,20 +1,88 @@
 ---
 title: About
-weight: 203
+weight: 100
+pdf: false
+epub: false
 ---
 
-This is a starter theme for [Quire](https://gettypubs.github.io/quire/), a multiformat digital publishing framework. Quire can be used to generate a web book, EPUB and MOBI e-books, and a PDF optimized for print; all from a single set of text files. 
 
-This starter theme allows for the quick customization of a few key styles to make you publication project your own. 
+---
 
-- Modern and Classic type styles
-- Cover and splash page images
-- Accent color
-- Background colors
-- Navigation bar style
 
-By diving further into the included style sheets and layout templates, there’s almost no limit to what can be done.
+{{< q-class "backmatter" >}}
 
-The text excerpts included in this starter theme come from *Walker Evans: Catalogue of the Collection* by Judith Keller (Getty Publications, 1995) available for free download in the Getty’s [Virtual Library](https://www.getty.edu/publications/virtuallibrary/0892363177.html); *In Focus: Dorothea Lange* (Getty Publications, 2002); and from the J. Paul Getty Museum online collection records.
+## Citation Information
 
-The images included come from the J. Paul Getty Museum online collection records under their Open Content Program. The pictures of [Dorothea Lange](https://www.loc.gov/resource/fsa.8b27245/) and [Walker Evans](https://www.loc.gov/item/2017728481/) used in the Introduction, come from the Library of Congress Prints and Photographs Division.
+
+### Chicago
+
+
+### MLA
+
+
+
+### Permanent URL
+
+
+
+## Revision History
+
+
+
+## Other Formats
+
+  - [PDF (X MB)](/downloads/output.pdf)
+  - [EPUB (X MB)](/downloads/output.epub)
+  - [Kindle/MOBI (X MB)](/downloads/oputput.mobi)
+  - [Paperback](#)
+
+## Copyright
+
+This publication was created using Quire™, a multiformat publishing tool from Getty.
+
+© 2022 J. Paul Getty Trust
+
+{{< q-class "cc-icon" >}}
+<svg class="quire-copyright__icon">
+<switch>
+  <use xlink:href="#cc"></use>
+</switch>
+<switch>
+  <use xlink:href="#cc-by"></use>
+</switch>
+<switch>
+  <use xlink:href="#cc-by-nc"></use>
+  <foreignObject width="135" height="30">
+      <img src="../img/icons/cc-by-nc.png" alt="CC BY-NC" />
+  </foreignObject>
+</switch>
+</svg>
+{{< /q-class >}}
+
+Unless otherwise indicated, the text and images of this work are licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights.
+
+**Published by the Getty Conservation Institute, Los Angeles**<br />
+Getty Publications<br />
+1200 Getty Center Drive, Suite 500<br />
+Los Angeles, California 90049-1682<br />
+[getty.edu/publications](http://www.getty.edu/publications/)<br />
+
+
+
+{{< q-class "cip-data" >}}
+
+Library of Congress Cataloging-in-Publication Data
+
+- Names:
+- Title:
+- Description:
+- Identifiers: LCCN (print) | LCCN (ebook) | ISBN
+   9781606066874 (paperback) | ISBN 9781606067673 (ebook) | ISBN
+- Subjects:
+- Classification:
+- LC record available at
+- LC ebook record available at
+
+{{< /q-class >}}
+
+Cover:
