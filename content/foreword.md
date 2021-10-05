@@ -1,5 +1,5 @@
 ---
-title: Director's Foreword
+title: Director’s Foreword
 subtitle:
 weight: 4
 contributor:
