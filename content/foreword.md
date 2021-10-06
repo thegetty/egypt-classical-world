@@ -7,7 +7,7 @@ contributor:
   last_name: Potts
   title: Director
   affiliation: J. Paul Getty Museum
-  contributor_byline: false
+contributor_byline: false
 type: page
 ---
 
