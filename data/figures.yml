@@ -1,201 +1,261 @@
 figure_list:
-  - id:
-    src:
+  - id: "fig-1-1"
+    src: figures/fig-1-1.jpg
     label: "Figure 1.1"
     caption: "Map of the Eastern Mediterranean with the location of the Uluburun shipwreck"
     credit:
-  - id:
-    src:
+  - id: "fig-1-2"
+    src: figures/fig-1-2.jpg
     label: "Figure 1.2"
     caption: "Scepter-Mace, Late Bronze Age, ca. 1300 BC. Stone, 7.8 × 19.2 × 5.2 cm. Found in the Uluburun shipwreck. Bodrum Museum of Underwater Archaeology, 12.7.92 (KW 2742)."
     credit: "© Institute of Nautical Archaeology"
-  - id:
-    src:
+  - id: "fig-1-3"
+    src: figures/fig-1-3.jpg
     label: "Figure 1.3"
     caption: "Relief from Abu Simbel showing the Sherden bodyguards of Ramesses II at Kadesh (after Breasted 1906, vol. 1)."
     credit: "Reproduced with permission from Hanna Holborn Gray Special Collections Research Center, University of Chicago Library"
-  - id:
-    src:
+  - id: "fig-1-4-a"
+    src: figures/fig-1-4-a.jpg
     label: "Figure 1.4a–b"
     caption: "Model of a ship cart, Egyptian, 19th–20th Dynasty, late 13th–early 12th century BC. Wood with pigment, 13.2 × 38.5 × 5.5 cm. Found in a tomb at Gurob, Egypt. University College London, Petrie Museum of Egyptian Archaeology, UC16044."
     credit: "Photograph courtesy of the J. Paul Getty Museum and the Petrie Museum of Egyptian Archaeology"
-  - id:
-    src:
+  - id: "fig-1-4-b"
+    src: figures/fig-1-4-b.jpg
+    label: "Figure 1.4a–b"
+    caption: "Model of a ship cart, Egyptian, 19th–20th Dynasty, late 13th–early 12th century BC. Wood with pigment, 13.2 × 38.5 × 5.5 cm. Found in a tomb at Gurob, Egypt. University College London, Petrie Museum of Egyptian Archaeology, UC16044."
+    credit: "Photograph courtesy of the J. Paul Getty Museum and the Petrie Museum of Egyptian Archaeology"
+  - id: "fig-1-5-a"
+    src: figures/fig-1-5-a.jpg
     label: "Figure 1.5a–b"
     caption: "Egyptian and Mycenaean warriors, Egyptian, 18th Dynasty, ca. 1346–1332 BC. Painted papyrus, 10.3 × 10.5 cm. Found in the Chapel of the King’s Statue, Tell el-‘Amarna (Akhetaten). London, The British Museum, EA74100. (a) Papyrus. (b) Detail illustration."
     credit: "Papyrus © The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License. Illustration by Martin Hense"
-  - id:
-    src:
+  - id: "fig-1-5-b"
+    src: figures/fig-1-5-b.jpg
+    label: "Figure 1.5a–b"
+    caption: "Egyptian and Mycenaean warriors, Egyptian, 18th Dynasty, ca. 1346–1332 BC. Painted papyrus, 10.3 × 10.5 cm. Found in the Chapel of the King’s Statue, Tell el-‘Amarna (Akhetaten). London, The British Museum, EA74100. (a) Papyrus. (b) Detail illustration."
+    credit: "Papyrus © The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License. Illustration by Martin Hense"
+  - id: "fig-1-6"
+    src: figures/fig-1-6.jpg
     label: "Figure 1.6"
     caption: "Schematic representation of contacts and the transfer of ideas and literary topoi"
     credit:
-  - id:
-    src:
+  - id: "fig-2-1"
+    src: figures/fig-2-1.jpg
     label: "Figure 2.1"
     caption: "Grave stele of Piabrm with Carian inscription, Egyptian, ca. 540–500 BC. Limestone, 63.5 × 31.3 × 10 cm. Found at Saqqara. London, British Museum, EA67235."
     credit: "© The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License"
-  - id:
-    src:
+  - id: "fig-2-2"
+    src: figures/fig-2-2.jpg
     label: "Figure 2.2"
     caption: "Color reconstruction of Piabrm’s stele (London, British Museum, EA67235). ). Left: areas with substantial traces of identifiable color; right: hypothetical reconstruction using minor traces and comparative data."
     credit: "Drawing by Kate Morton"
-  - id:
-    src:
+  - id: "fig-2-3"
+    src: figures/fig-2-3.jpg
     label: "Figure 2.3"
     caption: "Fragments of a Carian grave stele, ca. 540–500 BC. Limestone, 12 × 10.8 cm, 17.4 × 16.2 cm. Found at Saqqara. London, British Museum, EA67238, EA67239."
     credit: "© The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License"
-  - id:
-    src:
+  - id: "fig-2-4"
+    src: figures/fig-2-4.jpg
     label: "Figure 2.4"
     caption: "Tomb group, early 4th century BC. (a) Offering tray. Terracotta, 2.1 × 5 × 6.4 cm. (b) *Lekythos*. Terracotta, 7.4 × 4.9 cm. (c) *Lekytho*s. Terracotta, H: 5.4 cm. (d) Lamp. Terracotta, L: 7.6 cm. Found in the cemetery of Naukratis. Boston, Museum of Fine Arts, RES.87.163, 11.46019, 2017.803, 88.819."
     credit: "Photograph © 2022, Museum of Fine Arts, Boston"
-  - id:
-    src:
+  - id: "fig-2-5"
+    src: figures/fig-2-5.jpg
     label: "Figure 2.5"
     caption: "Red-figure acorn *lekythos*, Greek, Athenian, early 4th century BC. Terracotta, 22 × 7.5 cm. Found in the cemetery at Naukratis. London, British Museum 1888,0601.716."
     credit: "© The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License"
-  - id:
-    src:
+  - id: "fig-2-6"
+    src: figures/fig-2-6.jpg
     label: "Figure 2.6"
     caption: "Finger ring showing Eros playing with an *iunx*, Greek, 4th century BC. Gilded copper, Diam: 1.8 cm. Found in the cemetery at Naukratis. London, British Museum, 1888,0601.1."
     credit: "© The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License"
-  - id:
-    src:
+  - id: "fig-2-7"
+    src: figures/fig-2-7.jpg
     label: "Figure 2.7"
     caption: "Figures of cats, Egyptian, early 3rd century BC. Marble and limestone, H: 4.5 to 30.5 cm. Probably from the Boubasteion at Naukratis. London, British Museum, 1905,0612.1–3, 4, 6, 7, 18."
     credit: "© The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License"
-  - id:
-    src:
+  - id: "fig-2-8"
+    src: figures/fig-2-8.jpg
     label: "Figure 2.8"
     caption: "Silver statuette of a boy and goose, Ptolemaic, ca. 240 BC. Silver, H: 9.2 cm. Found at Alexandria. London, British Museum, 1845,0705.1."
     credit: "© The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License"
-  - id:
-    src:
+  - id: "fig-2-9"
+    src: figures/fig-2-9.jpg
     label: "Figure 2.9"
     caption: "Wild goat–style *oinochoe* showing a sphinx strangling a goose, Milesian, ca. 600 BC (after Jacopi 1931, plate VI). From Kameiros, Rhodes"
     credit:
-  - id:
-    src:
+  - id: "fig-2-10"
+    src: figures/fig-2-10.jpg
     label: "Figure 2.10"
     caption: "Tomb painting, Egyptian, 18th Dynasty, ca. 1350 BC. Painted plaster, 98 × 115 × 22 cm. From the tomb of Nebamun, Thebes. London, British Museum, EA37977."
     credit: "© The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License"
-  - id:
-    src:
+  - id: "fig-3-1"
+    src: figures/fig-3-1.jpg
     label: "Figure 3.1"
     caption: "Statuette of Isis with Horus on her lap, Egyptian, Third Intermediate Period, ca. 1069–664 BC. Faience, 14.3 × 4 cm. Eton College, Myers Collection, ECM.1717-2010."
     credit: "Reproduced by permission of the Provost and Fellows of Eton College."
-  - id:
-    src:
+  - id: "fig-3-2"
+    src: figures/fig-3-2.jpg
     label: "Figure 3.2"
     caption: "Amulet with the triad Isis-Harpokrates-Nephthys, Egyptian, Third Intermediate Period, ca. 1069–664 BC. Faience, 2.2 × 1.5 cm. Eton College, Myers Collection, ECM.1558-2010."
     credit: "Reproduced by permission of the Provost and Fellows of Eton College."
-  - id:
-    src:
+  - id: "fig-3-3"
+    src: figures/fig-3-3.jpg
     label: "Figure 3.3"
     caption: "Ostracon with the representation of a typical shaft tomb in profile showing funerary rites in the burial chamber as well as at the mouth of the tomb shaft, Egyptian, ca. 1450 BC. Limestone, H: 16 cm. From Thebes. Manchester Museum, University of Manchester, 5886."
     credit: "Reproduced with permission."
-  - id:
-    src:
+  - id: "fig-3-4"
+    src: figures/fig-3-4.jpg
     label: "Figure 3.4"
     caption: "Bust of Isis wearing a horned lunar headdress with side plumes, Romano-Egyptian, ca. 1st century BC–1st century AD. Bronze, 9.3 × 5.8 × 2.3 cm. Sydney, Macquarie University History Museum, MU4488. A 3D scan of this object is available for viewing at [https://objectbasedlearning.com/Macquarie-University-History-Museum/MU4488.html](https://objectbasedlearning.com/Macquarie-University-History-Museum/MU4488.html)."
     credit:
-  - id:
-    src:
+  - id: "fig-3-5"
+    src: figures/fig-3-5.jpg
     label: "Figure 3.5"
     caption: "Sanctuary of Isis on the Island of Delos (Serapeion C). The statue of Isis found in the cella was donated by the population of Athens in 128/127 BC."
     credit:
-  - id:
-    src:
+  - id: "fig-4-1"
+    src: figures/fig-4-1.jpg
     label: "Figure 4.1"
     caption: "Pylon tower, excavated by the HIAMAS underwater mission at Alexandria in 2003. © Hellenic Institute of Ancient and Medieval Alexandrian Studies, Athens."
     credit: "Drawing by Silvana Gargiulo"
-  - id:
-    src:
+  - id: "fig-4-2"
+    src: figures/fig-4-2.jpg
     label: "Figure 4.2"
     caption: "Axonometric view of the Pylon tower excavated by the HIAMAS underwater mission at Alexandria in 2003. © Hellenic Institute of Ancient and Medieval Alexandrian Studies, Athens."
     credit: "Drawing by Silvana Gargiulo"
-  - id:
-    src:
+  - id: "fig-4-3"
+    src: figures/fig-4-3.jpg
     label: "Figure 4.3"
     caption: "Frontal view of the diminutive pylon tower, excavated by the HIAMAS underwater mission at Alexandria in 2003 and exhibited in the Open-Air Museum in Kom el-Dikka, Alexandria, since 2009"
     credit:
-  - id:
-    src:
+  - id: "fig-4-4"
+    src: figures/fig-4-4.jpg
     label: "Figure 4.4"
     caption: "Lateral view of the diminutive pylon tower, Kom el-Dikka"
     credit:
-  - id:
-    src:
+  - id: "fig-4-5"
+    src: figures/fig-4-5.jpg
     label: "Figure 4.5"
     caption: "Sketch of the monolithic flight of steps as found on the seabed."
     credit: "© Hellenic Institute of Ancient and Medieval Alexandrian Studies, Athens. Drawing by Silvana Gargiulo"
-  - id:
-    src:
+  - id: "fig-4-6"
+    src: figures/fig-4-6.jpg
     label: "Figure 4.6"
     caption: "Hypothetical reconstruction of the Isis temple on Acra Lochias, Alexandria."
     credit: "© Hellenic Institute of Ancient and Medieval Alexandrian Studies, Athens. Drawing by Yiannis Nakas, after a proposal by Harry Tzalas before the excavation of the flight of steps (see fig. 5)"
-  - id:
-    src:
+  - id: "fig-4-7"
+    src: figures/fig-4-7.jpg
     label: "Figure 4.7"
     caption: "Karnak, pylon gate on the eastern side of the courtyard between the seventh and eighth pylons, opening to the barque shrine of Thutmose III at the sacred lake."
     credit: "Photo: R. Preys with agreement of the CFEETK"
-  - id:
-    src:
+  - id: "fig-4-8"
+    src: figures/fig-4-8.jpg
     label: "Figure 4.8"
     caption: "Karnak, external side of pylon gate on the eastern side of the courtyard between the seventh and eighth pylons, opening to the barque shrine of Thutmose III at the sacred lake."
     credit: "Photo: M. Minas-Nerpel with agreement of the CFEETK"
-  - id:
-    src:
+  - id: "fig-4-9"
+    src: figures/fig-4-9.jpg
     label: "Figure 4.9"
     caption: "The altar at Tôd. Photo: Christophe Thiers"
     credit:
-  - id:
-    src:
+  - id: "fig-4-10"
+    src: figures/fig-4-10.jpg
     label: "Figure 4.10"
     caption: "Pyramid and pylon of tomb Beg. N19 of King Tarekeniwal (second century BC) at the royal pyramid cemetery of Begrawiya North (Meroe/Sudan)."
     credit:  "© DAI/QMPS, Photo: P. Wolf"
-  - id:
-    src:
+  - id: "fig-5-1"
+    src: figures/fig-5-1.jpg
     label: "Figure 5.1"
     caption: "Plan of the Kellis main temple with its mammisi."
     credit:  "Adapted from a drawing by Jarosław Dobrowolski (1996)"
-  - id:
-    src:
+  - id: "fig-5-2"
+    src: figures/fig-5-2.jpg
     label: "Figure 5.2"
     caption: "View of the rear wall of the mammisi after excavation"
     credit:
-  - id:
-    src:
+  - id: "fig-5-3"
+    src: figures/fig-5-3.jpg
     label: "Figure 5.3"
     caption: "Reconstruction of the northwestern corner of the mammisi, showing the niche in the rear wall and the Seven Hathors in the upper register of the vault."
     credit: "Drawing by Martin Hense"
-  - id:
-    src:
+  - id: "fig-5-4"
+    src: figures/fig-5-4.jpg
     label: "Figure 5.4"
     caption: "Painted apron from the aedicula niche in the back wall of the mammisi."
     credit: "Restoration: Edwige Brida"
-  - id:
-    src:
+  - id: "fig-5-5"
+    src: figures/fig-5-5.jpg
     label: "Figure 5.5"
     caption: "Ceiling pattern from the northern half of the shrine with a goddess supporting the sky. Restoration set on a background of sand, in preparation for a final layer of plaster."
     credit: "Restoration: Laurence Blondaux"
-  - id:
-    src:
+  - id: "fig-5-6"
+    src: figures/fig-5-6.jpg
     label: "Figure 5.6"
     caption: "Reconstruction of the entire central pattern of the vaulted ceiling."
     credit: "Drawing by Martin Hense"
-  - id:
-    src:
+  - id: "fig-5-7"
+    src: figures/fig-5-7.jpg
     label: "Figure 5.7"
     caption: "Reconstruction of the entire central pattern of the vaulted ceiling."
     credit: "Drawing by Martin Hense"
-  - id:
-    src:
+  - id: "fig-5-8"
+    src: figures/fig-5-8.jpg
     label: "Figure 5.8"
     caption: "Detail of the first four of the Seven Hathors."
     credit: "Photo: © Fotografie Christien Boeles"
-  - id:
-    src:
+  - id: "fig-5-9"
+    src: figures/fig-5-9.jpg
     label: "Figure 5.9"
     caption: "The first five priests on the southern wall. Their feet as well as the shrine on the right end have been copied from the part of the painting still on the wall. Restoration: Laurence Blondaux."
     credit: "Photo: © Fotografie Christien Boeles"
+  - id: "fig-6-1"
+    src: figures/fig-6-1.jpg
+    label: "Figure 6.1"
+    caption:
+    credit:
+  - id: "fig-6-2"
+    src: figures/fig-6-2.jpg
+    label: "Figure 6.2"
+    caption:
+    credit:
+  - id: "fig-6-3"
+    src: figures/fig-6-3.jpg
+    label: "Figure 6.3"
+    caption:
+    credit:
+  - id: "fig-6-4"
+    src: figures/fig-6-4.jpg
+    label: "Figure 6.4"
+    caption:
+    credit:
+  - id: "fig-6-5"
+    src: figures/fig-6-5.jpg
+    label: "Figure 6.5"
+    caption:
+    credit:
+  - id: "fig-6-6"
+    src: figures/fig-6-6.jpg
+    label: "Figure 6.6"
+    caption:
+    credit:
+  - id: "fig-6-7"
+    src: figures/fig-6-7.jpg
+    label: "Figure 6.7"
+    caption:
+    credit:
+  - id: "fig-6-8"
+    src: figures/fig-6-8.jpg
+    label: "Figure 6.8"
+    caption:
+    credit:
+  - id: "fig-6-9"
+    src: figures/fig-6-9.jpg
+    label: "Figure 6.9"
+    caption:
+    credit:
+  - id: "fig-6-10"
+    src: figures/fig-6-10.jpg
+    label: "Figure 6.10"
+    caption:
+    credit:
