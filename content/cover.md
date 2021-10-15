@@ -5,7 +5,7 @@ menu: false
 type: cover
 slug: .
 toc: false
-image:
+image: figures/cover-detail.jpg
 ---
 
 From Mycenaean weaponry found among the cargo of a Bronze Age shipwreck off the Turkish coast to the Egyptian-inspired domestic interiors of a luxury villa built in Greece during the Roman Empire, Egypt and the Classical World documents two millennia of cultural and artistic interconnectedness in the ancient Mediterranean. This open-access volume gathers pioneering research from the Getty scholars' symposium that helped shape the major international loan exhibition Beyond the Nile: Egypt and the Classical World (J. Paul Getty Museum, 2018).
