@@ -41,9 +41,10 @@
   {{- $full := "" -}}
   {{- $short := "" -}}
   {{- $alphaOrder := "" -}}
+  {{- $essay := int .Page.Params.label -}}
 
   {{- range $.Site.Data.references.entries -}}
-    {{- if eq .id $id -}}
+    {{- if and (eq .id $id) (eq .essay $essay) -}}
 
         {{- $full = .full -}}
 
