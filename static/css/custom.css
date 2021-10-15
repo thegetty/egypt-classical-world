@@ -1,4 +1,53 @@
-/* Style copyright notices included at the bottom of each essay */
+/*
+color palette
+https://coolors.co/bed3b1-577642-a26628-e2b88d-000000
+*/
+
+/*
+Merriweather
+https://github.com/EbenSorkin/Merriweather
+Open Font License 1.1 (https://scripts.sil.org/OFL)
+*/
+/* Merriweather Black */
+@font-face {
+  font-family: "Merriweather";
+  src: url("../fonts/merriweather-black.woff2") format("woff2"),
+       url("../fonts/merriweather-black.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+}
+/* Merriweather Black Italic */
+@font-face {
+  font-family: "Merriweather";
+  src: url("../fonts/merriweather-blackitalic.woff2") format("woff2"),
+       url("../fonts/merriweather-blackitalic.woff") format("woff");
+  font-weight: 900;
+  font-style: italic;
+}
+
+/*
+Nunito Sans
+https://github.com/googlefonts/NunitoSans
+Open Font License 1.1 (https://scripts.sil.org/OFL)
+*/
+/* Nunito Sans Regular */
+@font-face {
+  font-family: "Nunito Sans";
+  src: url("../fonts/nunitosans-regular.woff2") format("woff2"),
+       url("../fonts/nunitosans-regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+/* Nunito Sans Italic */
+@font-face {
+  font-family: "Nunito Sans";
+  src: url("../fonts/nunitosans-italic.woff2") format("woff2"),
+       url("../fonts/nunitosans-italic.woff") format("woff");
+  font-weight: 400;
+  font-style: italic;
+}
+
+/* COPYRIGHT NOTICES AT THE BOTTOM OF ESSAYS */
 .quire-page__content .container .content .backmatter.page-copyright-notice {
   margin-top: 3rem;
   padding-top: 1rem;
