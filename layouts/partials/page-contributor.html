@@ -37,9 +37,12 @@
       <p class="quire-contributor">{{ markdownify .Params.contributor_as_it_appears }}<p>
     </div>
   {{- else -}}
-  {{- with .Params.contributor -}}
+  {{- if .Params.contributor -}}
     <div class="quire-page__header__contributor">
-      {{ partial "contributor-list.html" (dict "range" . "contributorType" "all" "listType" ($.Scratch.Get "listType") "Site" $.Site) }}
+      {{ partial "contributor-list.html" (dict "range" .Params.contributor "contributorType" "all" "listType" ($.Scratch.Get "listType") "Site" $.Site) }}
+      {{- with .Params.additional_contributor -}}
+      <p>{{ . | markdownify }}</p>
+      {{- end -}}
     </div>
   {{- end -}}
   {{- end -}}
