@@ -93,6 +93,31 @@ Open Font License 1.1 (https://scripts.sil.org/OFL)
   font-size: 1.25rem;
 }
 
+/* PAGE STYLES*/
+.quire-page__header .hero-body .label {
+  background-color: #577642;
+}
+.quire-page h1, .quire-page__header__title {
+  font-size: 2.7rem;
+  line-height: 1.2
+}
+.quire-page__header .hero-body {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.quire-page h2,
+.quire-page h2:not(:first-child) {
+  text-transform: none;
+  margin-top: 1.25rem;
+}
+
+/* MENU ACTIVE ITEM COLOR */
+.quire-menu .page-item a.active,
+.quire-menu .section-item a.active {
+  color: #bed3b1 !important;
+  border-color: #bed3b1;
+}
+
 /* COPYRIGHT NOTICES AT THE BOTTOM OF ESSAYS */
 .quire-page__content .container .content .backmatter.page-copyright-notice {
   margin-top: 3rem;
