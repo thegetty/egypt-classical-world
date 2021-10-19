@@ -143,6 +143,7 @@ Specifically for Essay 7, provided by author
   max-height: 1.5em;
   margin-top: -.5em;
   margin-bottom: -.1em;
+  line-height: 1.43;
   /* background: yellow; */
 }
 .quire-page--transliteration .quire-page__content *:not(figure) table td:nth-child(n+2):nth-child(-n+3) img {
@@ -157,4 +158,10 @@ Specifically for Essay 7, provided by author
 }
 .quire-page--transliteration .quire-page__content table {
   font-size: 1em;
+}
+.quire-page--transliteration .quire-page__content .underline {
+  text-decoration: underline;
+}
+.quire-page--transliteration .quire-page__content .smallcaps {
+  font-variant: small-caps;
 }
