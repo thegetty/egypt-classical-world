@@ -143,7 +143,6 @@ Specifically for Essay 7, provided by author
   max-height: 1.5em;
   margin-top: -.5em;
   margin-bottom: -.1em;
-  line-height: 1.43;
   /* background: yellow; */
 }
 .quire-page--transliteration .quire-page__content *:not(figure) table td:nth-child(n+2):nth-child(-n+3) img {
@@ -152,9 +151,10 @@ Specifically for Essay 7, provided by author
   margin-bottom: 0;
 }
 .quire-page--transliteration .quire-page__content em strong {
-  font-family: "Transliteration", sans-serif;
+  font-family: "Transliteration", serif;
   font-size: 1.1em;
   font-style: normal;
+  line-height: 1.43;
 }
 .quire-page--transliteration .quire-page__content table {
   font-size: 1em;
