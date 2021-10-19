@@ -1517,7 +1517,7 @@ entries:
   - id: "Beckerath 1999"
     essay: 7
     full: "Beckerath, Jürgen von. 1999. *Handbuch der ägyptischen Königsnamen*. Mainz: Zabern."
-  - id: "Amin 2013"
+  - id: "Benaissa 2013"
     essay: 7
     full: "Benaissa, Amin. 2013. “Ammianus Marcellinus *Res Gestae* 17.4.17 and the Translator of the Obelisk in Rome’s *Circus Maximus*.” *Zeitschrift für Papyrologie und Epigraphik* 186:114–18."
   - id: "Bierbrier 2019"
@@ -1535,7 +1535,7 @@ entries:
   - id: "Bragantini 2018"
     essay: 7
     full: "Bragantini, Irene. 2018. “A Note on the Temple of Isis at Beneventum.” In *The Iseum Campense from the Roman Empire to the Modern Age: Temple—Monument—Lieu de mémoire*, edited by Miguel John Versluys, Kristine Bülow Clausen, and Giuseppina Capriotti Vittozzi, 243–59. Rome: Quasar."
-  - id: ""Bresciani 1986"
+  - id: "Bresciani 1986"
     essay: 7
     full: "Bresciani, Edda. 1986. “Tra Egitto e Roma: Aspetti della cultura egiziana in rapporto col mondo romano.” In *Gli interscambi culturali e socio-economici fra l’Africa settentrionale e l’Europa mediterranea*, edited by Luigi Serra, 1:83–98. Naples: Istituto Universitario Orientale."
   - id: "Bresciani 1989"
@@ -1547,7 +1547,7 @@ entries:
   - id: "Bricault 2005"
     essay: 7
     full: "Bricault, Laurent. 2005. *Recueil des inscriptions concernant les cultes isiaques (RICIS)*. Vol. 2, *Corpus*. Paris: De Boccard."
-  - id: "Bricault 2013."
+  - id: "Bricault 2013"
     essay: 7
     full: "Bricault, Laurent. 2013. *Les cultes isiaques dans le monde gréco-romain*. Paris: Belles Lettres."
   - id: "Bricault and Gasparini 2018"
@@ -1577,7 +1577,7 @@ entries:
   - id: "Champollion-Figeac 1842"
     essay: 7
     full: "Champollion-Figeac, Jacques-Joseph. 1842. Review of *Interpretatio obeliscorum Urbis ad Gregorium XVI Pontificem Maximum digesta per Aloisium Mariam Ungarellium sodalem Barnabitam*, by Luigi Maria Ungarelli. *Revue de Bibliographie Analytique, ou Compte Rendu des Ouvrages Scientifiques et de Haute Littérature, Publiés en France et à l’Étranger* 3:648–66."
-  - id: "Ciampini 2004."
+  - id: "Ciampini 2004"
     essay: 7
     full: "Ciampini, Emanuele Marcello. 2004. *Gli obelischi iscritti di Roma*. Rome: Istituto Poligrafico e Zecca dello Stato."
   - id: "Coarelli 1994"
@@ -1828,7 +1828,7 @@ entries:
     full: "Nagel, Svenja. 2019. *Isis im Römischen Reich*. 2 vols. Wiesbaden: Harrassowitz."
   - id: "Panov 2015"
     essay: 7
-    full: "Panov, Maxim Vyacheslavovich \[Панов, Максим Вячеславович\]. 2015. *Источники по истории жреческих семей Мемфиса и Летополя в Поздний Период*. 2 vols. Novosibirsk: privately printed."
+    full: "Panov, Maxim Vyacheslavovich [Панов, Максим Вячеславович]. 2015. *Источники по истории жреческих семей Мемфиса и Летополя в Поздний Период*. 2 vols. Novosibirsk: privately printed."
   - id: "Parker 2007"
     essay: 7
     full: "Parker, Grant. 2007. “Obelisks Still in Exile: Monuments Made to Measure?” In *Nile into Tiber: Egypt in the Roman World*, edited by Laurent Bricault, Miguel John Versluys, and Paul G. P. Meyboom, 209–22. Leiden: Brill."
@@ -1903,7 +1903,7 @@ entries:
     full: "Smith, Ian Gordon. 2015. “A Chronology for Agricola, *Mons Graupius* and Domitian’s Triumph in the Chattan War.” *Historia: Zeitschrift für Alte Geschichte* 64:156–204."
   - id: "Spalinger 2015"
     essay: 7
-    full: "Spalinger, Anthony. 2015. “Concepts of Kingship: The Golden Horus Name ![](media/image1.emf){width="0.16666666666666666in" height="0.19444444444444445in"}.” In *Royal versus Divine Authority: Acquisition, Legitimization and Renewal of Power*, edited by Filip Coppens, Jiří Janák, and Hana Vymazalová, 331–50. Wiesbaden: Harrassowitz."
+    full: "Spalinger, Anthony. 2015. “Concepts of Kingship: The Golden Horus Name *![](media/image1.emf)width=0.16666666666666666in height=0.19444444444444445in*.” In *Royal versus Divine Authority: Acquisition, Legitimization and Renewal of Power*, edited by Filip Coppens, Jiří Janák, and Hana Vymazalová, 331–50. Wiesbaden: Harrassowitz."
   - id: "Sperveslage 2017"
     essay: 7
     full: "Sperveslage, Gunnar. 2017. “Der Domitiansobelisk: Ägyptische Hieroglyphen für römische Leser?” *Sokar* 34:78–87."
@@ -1915,11 +1915,11 @@ entries:
     full: "Spier, Jeffrey, Timothy Potts, and Sarah Elizabeth Cole, eds. 2018. *Beyond the Nile: Egypt and the Classical World*. Los Angeles: J. Paul Getty Museum."
   - id: "Stauffer 1984"
     essay: 7
-    full: "Stauffer, Ethelbert. 1984. “Antike Madonnenreligion: IX. Die Gottesmutter von Benevent.” In *Principat*. Vol. 17.3, *Religion (Heidentum: Römische Götterkulte, orientalische Kulte in der römischen Welt \[Forts.\])*, edited by Wolfgang Haase, 1481–86. Berlin: De Gruyter."
+    full: "Stauffer, Ethelbert. 1984. “Antike Madonnenreligion: IX. Die Gottesmutter von Benevent.” In *Principat*. Vol. 17.3, *Religion (Heidentum: Römische Götterkulte, orientalische Kulte in der römischen Welt [Forts.])*, edited by Wolfgang Haase, 1481–86. Berlin: De Gruyter."
   - id: "Stern 1884"
     essay: 7
     full: "Stern, Ludwig. 1884. “Alterthumskunde: Aegyptische Ausgrabungen in Rom—Ein neuer Obelisk—Die Geschichte der Obelisken in Aegypten, Europa und Amerika—Unabhängigkeit der ältesten ägyptischen Kunst–Asiatisches in der mittleren und neuen—Die Phönicier.” *Zeitschrift für die Gebildete Welt über das Gesammte Wissen Unserer Zeit und über Alle Wichtigen Berufszweige* 5:290–300."
-  - id: "Swetnam-Burland 2007"
+  - id: "Swetnam—Burland 2007"
     essay: 7
     full: "Swetnam-Burland, Molly. 2007. “Egyptian Objects, Roman Contexts: A Taste for Aegyptiaca in Italy.” In *Nile into Tiber: Egypt in the Roman World*, edited by Laurent Bricault, Miguel John Versluys, and Paul G. P. Meyboom, 113–36. Leiden: Brill."
   - id: "Swetnam-Burland 2010"
@@ -1928,7 +1928,7 @@ entries:
   - id: "Swetnam-Burland 2011"
     essay: 7
     full: "Swetnam-Burland, Molly. 2011. ““Egyptian” Priests in Roman Italy.” In *Cultural Identity in the Ancient Mediterranean*, edited by Erich Stephen Gruen, 336–53. Los Angeles: Getty Publications."
-  - id: "Swetnam-Burland 2015."
+  - id: "Swetnam-Burland 2015"
     essay: 7
     full: "Swetnam-Burland, Molly. 2015. *Egypt in Italy: Visions of Egypt in Roman Imperial Culture*. New York: Cambridge University Press."
   - id: "Takács 1995"
@@ -1939,7 +1939,7 @@ entries:
     full: "Torelli, Marina R. 2002. *Benevento romana*. Rome: «L’Erma» di Bretschneider."
   - id: "Ungarellius 1842"
     essay: 7
-    full: "Ungarellius, Aloisius Maria \[Ungarelli, Luigi Maria\]. 1842. *Interpretatio obeliscorum Urbis ad Gregorium XVI Pontificem Maximum digesta*. 2 vols. Rome: Typographia Reverendae Camerae Apostolicae."
+    full: "Ungarellius, Aloisius Maria [Ungarelli, Luigi Maria]. 1842. *Interpretatio obeliscorum Urbis ad Gregorium XVI Pontificem Maximum digesta*. 2 vols. Rome: Typographia Reverendae Camerae Apostolicae."
   - id: "Verhoeven 2001"
     essay: 7
     full: "Verhoeven, Ursula. 2001. *Untersuchungen zur späthieratischen Buchschrift*. Leuven: Peeters."
@@ -1975,4 +1975,4 @@ entries:
     full: "Zawadzki, Tadeusz. 1969. “Un nouveau praefectus castrorum en Égypte et deux obélisques érigés par un centurion.” *Chronique d’Égypte* 44:106–17."
   - id: "Zoega 1797"
     essay: 7
-    full: "Zoega, Georgius \[Zoëga, Georg\]. 1797. *De origine et usu obeliscorum*. Rome: Typis Lazzarinii Typographi Cameralis."
+    full: "Zoega, Georgius [Zoëga, Georg]. 1797. *De origine et usu obeliscorum*. Rome: Typis Lazzarinii Typographi Cameralis."
