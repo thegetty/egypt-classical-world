@@ -138,6 +138,14 @@ Specifically for Essay 7, provided by author
   border-top: 1px solid #333;
 }
 
+/* ESSAY 4 */
+.quire-page__content .glyph img {
+  max-height: 1.5em;
+  margin-top: -.5em;
+  margin-bottom: -.2em;
+  /* background: yellow; */
+}
+
 /* ESSAY 7 */
 .quire-page--transliteration .quire-page__content *:not(figure) img {
   max-height: 1.5em;
