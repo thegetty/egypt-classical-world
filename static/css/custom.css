@@ -47,6 +47,19 @@ Open Font License 1.1 (https://scripts.sil.org/OFL)
   font-style: italic;
 }
 
+/*
+Transliteration
+Specifically for Essay 7, provided by author
+*/
+/* Transliteration Italic */
+@font-face {
+  font-family: "Transliteration";
+  src: url("../fonts/transliteration-italic.woff2") format("woff2"),
+       url("../fonts/transliteration-italic.woff") format("woff");
+  font-weight: 400;
+  font-style: italic;
+}
+
 /* COVER */
 .quire-cover__overlay {
   background-size: contain;
@@ -123,4 +136,40 @@ Open Font License 1.1 (https://scripts.sil.org/OFL)
   margin-top: 3rem;
   padding-top: 1rem;
   border-top: 1px solid #333;
+}
+
+/* ESSAY 4 */
+.quire-page__content .glyph img {
+  max-height: 1.5em;
+  margin-top: -.5em;
+  margin-bottom: -.2em;
+  /* background: yellow; */
+}
+
+/* ESSAY 7 */
+.quire-page--transliteration .quire-page__content *:not(figure) img {
+  max-height: 1.5em;
+  margin-top: -.5em;
+  margin-bottom: -.1em;
+  /* background: yellow; */
+}
+.quire-page--transliteration .quire-page__content *:not(figure) table td:nth-child(n+2):nth-child(-n+3) img {
+  max-height: 5em;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.quire-page--transliteration .quire-page__content em strong {
+  font-family: "Transliteration", serif;
+  font-size: 1.1em;
+  font-style: normal;
+  line-height: 1.43;
+}
+.quire-page--transliteration .quire-page__content table {
+  font-size: 1em;
+}
+.quire-page--transliteration .quire-page__content .underline {
+  text-decoration: underline;
+}
+.quire-page--transliteration .quire-page__content .smallcaps {
+  font-variant: small-caps;
 }
