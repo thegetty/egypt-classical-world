@@ -66,13 +66,13 @@ Getty Publications<br />
 Los Angeles, California 90049-1682<br />
 [getty.edu/publications](http://www.getty.edu/publications/)<br />
 
-Laura diZerega, *Project Editor*
-Karen Jacobson, *Manuscript Editor*
-Greg Albers, *Digital Manager*
-Molly McGeehan, *Production*
-Jeffrey Cohen, *Cover Designer*
-Leslie Rollins, *Image and Rights Acquisition*
-Erin Cecele Dunigan and Dina Murokh, *Assistant Digital Editors*
+Laura diZerega, *Project Editor*<br />
+Karen Jacobson, *Manuscript Editor*<br />
+Greg Albers, *Digital Manager*<br />
+Molly McGeehan, *Production*<br />
+Jeffrey Cohen, *Cover Designer*<br />
+Leslie Rollins, *Image and Rights Acquisition*<br />
+Erin Cecele Dunigan and Dina Murokh, *Assistant Digital Editors*<br />
 
 {{< q-class "cip-data" >}}
 
@@ -91,3 +91,5 @@ Library of Congress Cataloging-in-Publication Data
 {{< /q-class >}}
 
 Front cover: Osiris Canopus, Roman, AD 117–138 (detail). Alabaster. H: 50.8 cm (20 in.); Diam: 27.9 cm (11 in.). The Hague, Royal Collections, 4-1690. Reproduced with permission (final credit line TK).
+
+{{< /q-class >}}
