@@ -212,50 +212,50 @@ figure_list:
   - id: "fig-6-1"
     src: figures/fig-6-1.jpg
     label: "Figure 6.1"
-    caption:
+    caption: "Plan of the villa of Herodes Atticus. Drawing by Anna Pantelakaki based on a plan provided by G. Spyropoulos"
     credit:
   - id: "fig-6-2"
     src: figures/fig-6-2.jpg
     label: "Figure 6.2"
-    caption:
+    caption: "View of the atrium of the villa of Herodes Atticus and the artificial pool from the southeast"
     credit:
   - id: "fig-6-3"
     src: figures/fig-6-3.jpg
     label: "Figure 6.3"
-    caption:
+    caption: "View of the southern stoa with mosaics and the artificial pool from the southwest"
     credit:
   - id: "fig-6-4"
     src: figures/fig-6-4.jpg
     label: "Figure 6.4"
-    caption:
+    caption: "Bust of Emperor Hadrian. The usual image of the mythical gorgon Medusa decorating the emperor’s breastplate has been replaced by a portrait of Antinous. The bust was found on the western side of the river, close to the exedra on which it stood, along with many other portraits"
     credit:
   - id: "fig-6-5"
     src: figures/fig-6-5.jpg
     label: "Figure 6.5"
-    caption:
+    caption: "Bust of Artemis Ephesia. This bust represents a copy of the cult statue of Artemis, known mainly from coins. On her head she wears a *polos *decorated with rosettes, sphinxes, and deer, one of her companion animals. From the sides of the *polos *emerges a disc decorated with a star on the proper right side. The upper part of her breastplate is decorated with a necklace, from which acorns hang. The lower part of her breast supports, up to its point of preservation, two rows of breasts as a fertility symbol or, as other scholars have suggested, gourds, also a fertility symbol."
     credit:
   - id: "fig-6-6"
     src: figures/fig-6-6.jpg
     label: "Figure 6.6"
-    caption:
+    caption: "The Temple-Sanctuary of Antinous-Dionysos, view from the west"
     credit:
   - id: "fig-6-7"
     src: figures/fig-6-7.jpg
     label: "Figure 6.7"
-    caption:
+    caption: "Statue of Antinous-Dionysos. The statue, which originally stood on a podium in the apsis of the building, was removed when the sanctuary was transformed into a mausoleum and placed on a pedestal on the northwest corner of the building, where it was found. Antinous was worshipped here as Dionysos, as also verified by the inscriptions (ΘΕΩ ΔΙΟΝΥΣΩ) found in situ."
     credit:
   - id: "fig-6-8"
     src: figures/fig-6-8.jpg
     label: "Figure 6.8"
-    caption:
+    caption: "Statue of a river god, found in the Serapeion of the villa"
     credit:
   - id: "fig-6-9"
     src: figures/fig-6-9.jpg
     label: "Figure 6.9"
-    caption:
+    caption: "Head of a statue of a river god, found in the Serapeion of the villa, probably a personification of the Nile River"
     credit:
   - id: "fig-6-10"
     src: figures/fig-6-10.jpg
     label: "Figure 6.10"
-    caption:
+    caption: "Fragmentary statue of Osiris, found in the Serapeion of the villa"
     credit:
