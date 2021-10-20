@@ -17,12 +17,12 @@ figure_list:
   - id: "fig-1-4-a"
     src: figures/fig-1-4-a.jpg
     label: "Figure 1.4a"
-    caption: "Model of a ship cart, Egyptian, 19th–20th Dynasty, late 13th–early 12th century BC. Wood with pigment, 13.2 × 38.5 × 5.5 cm. Found in a tomb at Gurob, Egypt. University College London, Petrie Museum of Egyptian Archaeology, UC16044."
+    caption: "Two views of a model of a ship cart, Egyptian, 19th–20th Dynasty, late 13th–early 12th century BC. Wood with pigment, 13.2 × 38.5 × 5.5 cm. Found in a tomb at Gurob, Egypt. University College London, Petrie Museum of Egyptian Archaeology, UC16044."
     credit: "Photograph courtesy of the J. Paul Getty Museum and the Petrie Museum of Egyptian Archaeology"
   - id: "fig-1-4-b"
     src: figures/fig-1-4-b.jpg
     label: "Figure 1.4b"
-    caption: "Model of a ship cart, Egyptian, 19th–20th Dynasty, late 13th–early 12th century BC. Wood with pigment, 13.2 × 38.5 × 5.5 cm. Found in a tomb at Gurob, Egypt. University College London, Petrie Museum of Egyptian Archaeology, UC16044."
+    caption: "Two views of a model of a ship cart, Egyptian, 19th–20th Dynasty, late 13th–early 12th century BC. Wood with pigment, 13.2 × 38.5 × 5.5 cm. Found in a tomb at Gurob, Egypt. University College London, Petrie Museum of Egyptian Archaeology, UC16044."
     credit: "Photograph courtesy of the J. Paul Getty Museum and the Petrie Museum of Egyptian Archaeology"
   - id: "fig-1-5-a"
     src: figures/fig-1-5-a.jpg
@@ -259,3 +259,178 @@ figure_list:
     label: "Figure 6.10"
     caption: "Fragmentary statue of Osiris, found in the Serapeion of the villa"
     credit:
+  - id: "fig-7-1"
+    src: figures/fig-7-1.jpg
+    label: "Figure 7.1"
+    caption: "Borgia obelisk, the two upper fragments. First century AD. Granite, H: 0.63 and 0.47 meter. Palestrina, Museo Archeologico Nazionale di Palestrina, inv. 80548; E 19."
+    credit: "Photograph courtesy of the Museo Archeologico Nazionale di Palestrina"
+  - id: "fig-7-2"
+    src: figures/fig-7-2.jpg
+    label: "Figure 7.2"
+    caption: "Borgia obelisk, the lower section. First century AD. Granite, H: 1.9 meters. Naples, Museo Archeologico Nazionale di Napoli, inv. 2317."
+    credit: "Photograph courtesy of the Museo Archeologico Nazionale di Napoli"
+  - id: "fig-7-3"
+    src: figures/fig-7-3.jpg
+    label: "Figure 7.3"
+    caption: "Borgia obelisk, facsimile of the inscriptions (after Bove 2008, 89)"
+    credit:
+  - id: "fig-7-4"
+    src: figures/fig-7-4.jpg
+    label: "Figure 7.4"
+    caption: "Borgia obelisk, standardized copy of the hieroglyphic inscriptions (prepared with JSesh hieroglyphic editor)"
+    credit:
+  - id: "fig-7-5"
+    src: figures/fig-7-5.jpg
+    label: "Figure 7.5"
+    caption: "Albani obelisk. First century AD. Granite, H of ancient section: 3.2 meters; H as restored: 5.5 meters. Munich, Staatliches Museum Ägyptischer Kunst, inv. Gl. WAF 39."
+    credit: "Photograph courtesy of Staatliches Museum Ägyptischer Kunst"
+  - id: "fig-7-6"
+    src: figures/fig-7-6.jpg
+    label: "Figure 7.6"
+    caption: "Albani obelisk, facsimile of the inscriptions (after Müller 1975, 16)"
+    credit:
+  - id: "fig-7-7"
+    src: figures/fig-7-7.jpg
+    label: "Figure 7.7"
+    caption: "Albani obelisk, standardized copy of the hieroglyphic inscriptions (prepared with JSesh hieroglyphic editor)"
+    credit:
+  - id: "fig-7-8"
+    src: figures/fig-7-8.jpg
+    label: "Figure 7.8"
+    caption: "Benevento obelisk A, view from the southeast. AD 88/89. Granite, H: 5.39 m. Piazza Papiniano."
+    credit: "Photograph by Luigi Prada (29 July 2020)"
+  - id: "fig-7-9"
+    src: figures/fig-7-9.jpg
+    label: "Figure 7.9"
+    caption: "Benevento obelisk B, following conservation in 2017–18. AD 88/89. Granite, H of ancient section: 3.5 m; H as restored: approximately 5.5 m. Museo del Sannio, inv. 1916."
+    credit: "Photograph by Paul D. Wordsworth (29 July 2020)"
+  - id: "fig-7-10"
+    src: figures/fig-7-10.jpg
+    label: "Figure 7.10"
+    caption: "Benevento obelisk A, side 1 (orthophotograph)."
+    credit: "Photograph and imaging by Paul D. Wordsworth (2020)"
+  - id: "fig-7-11"
+    src: figures/fig-7-11.jpg
+    label: "Figure 7.11"
+    caption: "Benevento obelisk B, side 1 (photograph, prior to conservation)"
+    credit:
+  - id: "fig-7-12"
+    src: figures/fig-7-12.jpg
+    label: "Figure 7.12"
+    caption: "Benevento obelisks, facsimile of inscriptions A/1 and B/1 (edited and improved version of Erman 1896, plate viii)"
+    credit:
+  - id: "fig-7-13"
+    src: figures/fig-7-13.jpg
+    label: "Figure 7.13"
+    caption: "Benevento obelisks, synoptic standardized copy of the hieroglyphic inscriptions A/1 and B/1 (prepared with JSesh hieroglyphic editor)"
+    credit:
+  - id: "fig-7-14"
+    src: figures/fig-7-14.jpg
+    label: "Figure 7.14"
+    caption: "Benevento obelisk A, side 2 (orthophotograph)."
+    credit: "Photograph and imaging by Paul D. Wordsworth (2020)"
+  - id: "fig-7-15"
+    src: figures/fig-7-15.jpg
+    label: "Figure 7.15"
+    caption: "Benevento obelisk B, side 2 (photograph, prior to conservation)"
+    credit:
+  - id: "fig-7-16"
+    src: figures/fig-7-16.jpg
+    label: "Figure 7.16"
+    caption: "Benevento obelisks, facsimile of inscriptions A/2 and B/2 (edited and improved version of Erman 1896, plate viii)"
+    credit:
+  - id: "fig-7-17"
+    src: figures/fig-7-17.jpg
+    label: "Figure 7.17"
+    caption: "Benevento obelisks, synoptic standardized copy of the hieroglyphic inscriptions A/2 and B/2 (prepared with JSesh hieroglyphic editor)"
+    credit:
+  - id: "fig-7-18"
+    src: figures/fig-7-18.jpg
+    label: "Figure 7.18"
+    caption: "Benevento obelisk A, side 3 (orthophotograph)."
+    credit: "Photograph and imaging by Paul D. Wordsworth (2020)"
+  - id: "fig-7-19"
+    src: figures/fig-7-19.jpg
+    label: "Figure 7.19"
+    caption: "Benevento obelisk B, side 3 (photograph, prior to conservation)"
+    credit:
+  - id: "fig-7-20"
+    src: figures/fig-7-20.jpg
+    label: "Figure 7.20"
+    caption: "Benevento obelisks, facsimile of inscriptions A/3 and B/3 (edited and improved version of Erman 1896, plate viii)"
+    credit:
+  - id: "fig-7-21"
+    src: figures/fig-7-21.jpg
+    label: "Figure 7.21"
+    caption: "Benevento obelisks, synoptic standardized copy of the hieroglyphic inscriptions A/3 and B/3 (prepared with JSesh hieroglyphic editor)"
+    credit:
+  - id: "fig-7-22"
+    src: figures/fig-7-22.jpg
+    label: "Figure 7.22"
+    caption: "Benevento obelisk A, side 4 (orthophotograph)."
+    credit: "Photograph and imaging by Paul D. Wordsworth (2020)"
+  - id: "fig-7-23"
+    src: figures/fig-7-23.jpg
+    label: "Figure 7.23"
+    caption: "Benevento obelisk B, side 4 (photograph, prior to conservation)"
+    credit:
+  - id: "fig-7-24"
+    src: figures/fig-7-24.jpg
+    label: "Figure 7.24"
+    caption: "Benevento obelisks, facsimile of inscriptions A/4 and B/4 (edited and improved version of Erman 1896, plate viii)"
+    credit:
+  - id: "fig-7-25"
+    src: figures/fig-7-25.jpg
+    label: "Figure 7.25"
+    caption: "Benevento obelisks, synoptic standardized copy of the hieroglyphic inscriptions A/4 and B/4 (prepared with JSesh hieroglyphic editor)"
+    credit:
+  - id: "fig-7-26"
+    src: figures/fig-7-26.jpg
+    label: "Figure 7.26"
+    caption: "Benevento obelisk A, combined orthophotographs of all sides."
+    credit: "Photograph and imaging by Paul D. Wordsworth (2020)"
+  - id: "fig-7-27"
+    src: figures/fig-7-27.jpg
+    label: "Figure 7.27"
+    caption: "Benevento obelisk B, combined photographs of all sides (prior to conservation)"
+    credit:
+  - id: "fig-7-28"
+    src: figures/fig-7-28.jpg
+    label: "Figure 7.28"
+    caption: "The first published copy of the Benevento obelisk(s), by Georg Zoëga, as a single monument recomposed from a number of fragments pertaining to both obelisks A and B (from Zoega 1797, 644)"
+    credit:
+  - id: "fig-7-29"
+    src: figures/fig-7-29.jpg
+    label: "Figure 7.29"
+    caption: "Copy of the Benevento obelisks by Luigi Ungarelli, based on original work by Jean-François Champollion, prior to the rediscovery of the top fragment of obelisk A (from Ungarellius 1842, 2: plate v)"
+    credit:
+  - id: "fig-7-30"
+    src: figures/fig-7-30.jpg
+    label: "Figure 7.30"
+    caption: "Facsimile of Benevento obelisk A by Adolf Erman (from Erman 1896, plate viii). The curly brackets have been edited in, to mark differences between Erman’s facsimile and mine"
+    credit:
+  - id: "fig-7-31"
+    src: figures/fig-7-31.jpg
+    label: "Figure 7.31"
+    caption: "Facsimile of Benevento obelisk B by Adolf Erman (from Erman 1896, plate viii). The curly brackets have been edited in, to mark differences between Erman’s facsimile and mine"
+    credit:
+  - id: "fig-7-32"
+    src: figures/fig-7-32.jpg
+    label: "Figure 7.32"
+    caption: "Facsimile of Benevento obelisk A (edited and improved version of Erman 1896, plate viii)"
+    credit:
+  - id: "fig-7-33"
+    src: figures/fig-7-33.jpg
+    label: "Figure 7.33"
+    caption: "Facsimile of Benevento obelisk B (edited and improved version of Erman 1896, plate viii)"
+    credit:
+  - id: "fig-7-34"
+    src: figures/fig-7-34.jpg
+    label: "Figure 7.34"
+    caption: "Paul D. Wordsworth documenting Benevento obelisk A on July 29, 2020."
+    credit: "Photograph by Luigi Prada (29 July 2020)"
+  - id: "fig-7-35"
+    src: figures/fig-7-35.jpg
+    label: "Figure 7.35"
+    caption: "Detail of telescopic pole rig for photographic documentation of Benevento obelisk A."
+    credit: "Photograph by Luigi Prada (29 July 2020)"
