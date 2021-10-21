@@ -131,6 +131,12 @@ Specifically for Essay 7, provided by author
   border-color: #bed3b1;
 }
 
+/* FIX FIGURE LABEL LINE SPACING */
+.quire-figure__label .quire-figure__label-icon {
+  height: 0;
+  margin-top: -2.3em;
+}
+
 /* COPYRIGHT NOTICES AT THE BOTTOM OF ESSAYS */
 .quire-page__content .container .content .backmatter.page-copyright-notice {
   margin-top: 3rem;
