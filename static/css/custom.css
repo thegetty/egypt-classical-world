@@ -245,8 +245,15 @@ Specifically for Essay 7, provided by author
 }
 
 /* IMAGES */
-.quire-figure.pdf-30-percent-width .q-figure__wrapper img {
-  max-width: 30%;
-  margin-left: auto;
-  margin-right: auto;
+@media screen {
+  .quire-figure.screen-30-percent-width .q-figure__wrapper img {
+    max-width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+@media print {
+  .quire-figure.pdf-two-column {
+    column-span: all;
+  }
 }
