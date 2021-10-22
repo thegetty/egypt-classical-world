@@ -8,9 +8,9 @@ toc: false
 
 {{< q-class "backmatter" >}}
 
-This publication was created using Quire^TM^, a multiformat publishing tool from Getty.
+This publication was created using [Quire](https://quire.getty.edu/)™, a multiformat publishing tool from Getty.
 
-The free online edition of this publication is available at getty.edu/publications/egypt-classical-world/ and includes zoomable illustrations. Also available are free PDF, EPUB, and Kindle/MOBI downloads of the book.
+The free online edition of this publication is available at [getty.edu/publications/egypt-classical-world/](https://getty.edu/publications/egypt-classical-world/) and includes zoomable illustrations. Also available are free PDF, EPUB, and Kindle/MOBI downloads of the book.
 
 © 2022 J. Paul Getty Trust
 
@@ -19,7 +19,7 @@ The free online edition of this publication is available at getty.edu/publicatio
 Unless otherwise indicated, the text of this work and figs.1.4a-b, 7.11, 7.15, 7.19, 7.23, and 7.27 are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit creativecommons.org/licenses/by-nc/4.0/. All other images are reproduced with the permission of the rights holders acknowledged in captions and expressly excluded from the CC BY-NC license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights.
 
 First edition, 2022<br />
-[github.com/thegetty/egypt-classical-world](github.com/thegetty/egypt-classical-world)
+[github.com/thegetty/egypt-classical-world/](https://github.com/thegetty/egypt-classical-world/)
 
 **Published by the J. Paul Getty Museum, Los Angeles**<br />
 Getty Publications<br />

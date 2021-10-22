@@ -6,10 +6,8 @@ epub: false
 ---
 
 From Mycenaean weaponry found among the cargo of a Bronze Age shipwreck off the Turkish coast to the Egyptian-inspired domestic interiors of a luxury villa built in Greece during the Roman Empire, Egypt and the Classical World documents two millennia of cultural and artistic interconnectedness in the ancient Mediterranean. This open-access volume gathers pioneering research from the Getty scholars' symposium that helped shape the major international loan exhibition Beyond the Nile: Egypt and the Classical World (J. Paul Getty Museum, 2018).
+
 Generously illustrated essays consider a range of artistic and other material evidence, including archaeological finds, artworks, and inscriptions, to shed light on cultural interactions between Egypt, Greece, and Rome from the Late Period and Ptolemaic dynasty to the Roman Empire. The military's role as a conduit of knowledge and ideas in the Bronze Age Aegean, and an in-depth study of hieroglyphic Egyptian inscriptions found on Roman obelisks offer but two examples of scholarly lacunae addressed by this publication. Specialists across the fields of art history, archaeology, Classics, Egyptology, and philology will benefit from the volume's investigations into syncretic processes that enlivened and informed nearly twenty-five hundred years of dynamic cultural exchange.
-
----
-
 
 {{< q-class "backmatter" >}}
 
@@ -18,15 +16,23 @@ Generously illustrated essays consider a range of artistic and other material ev
 
 ### Chicago
 
+Spier, Jeffrey, and Sara E. Cole, eds. *Egypt and the Classical World: Cross-Cultural Encounters in Antiquity*. Los Angeles: J. Paul Getty Museum, 2022. https://www.getty.edu/publications/egypt-classical-world/.
 
 ### MLA
 
+Spier, Jeffrey, and Sara E. Cole, editors. *Egypt and the Classical World: Cross-Cultural Encounters in Antiquity*. J. Paul Getty Museum, 2022. https://www.getty.edu/publications/egypt-classical-world/. Accessed <span class="cite-current-date">Aug. 26, 2019</span>.
 
 ### Permanent URL
 
+https://www.getty.edu/publications/egypt-classical-world/
 
 ## Revision History
 
+Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at [github.com/thegetty/egypt-classical-world/](https://github.com/thegetty/egypt-classical-world/), where a more detailed version history is available. The revisions branch of the project repository, when present, will also show any changes currently under consideration but not yet published here.
+
+### July 21, 2022
+
+  - First edition
 
 ## Other Formats
 
@@ -37,7 +43,7 @@ Generously illustrated essays consider a range of artistic and other material ev
 
 ## Copyright
 
-This publication was created using Quire™, a multiformat publishing tool from Getty.
+This publication was created using [Quire](https://quire.getty.edu/)™, a multiformat publishing tool from Getty.
 
 © 2022 J. Paul Getty Trust
 
@@ -60,7 +66,7 @@ This publication was created using Quire™, a multiformat publishing tool from 
 
 Unless otherwise indicated, the text of this work and figs.1.4a-b, 7.11, 7.15, 7.19, 7.23, and 7.27 are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit creativecommons.org/licenses/by-nc/4.0/. All other images are reproduced with the permission of the rights holders acknowledged in captions and expressly excluded from the CC BY-NC license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights.
 
-**Published by the Getty Conservation Institute, Los Angeles**<br />
+**Published by the J. Paul Getty Museum, Los Angeles**<br />
 Getty Publications<br />
 1200 Getty Center Drive, Suite 500<br />
 Los Angeles, California 90049-1682<br />
