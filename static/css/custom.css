@@ -154,7 +154,8 @@ Specifically for Essay 7, provided by author
 /* ESSAY 7 */
 .quire-page--transliteration .quire-page__content p img,
 .quire-page--transliteration .quire-page__content table img,
-.quire-page--transliteration .quire-page__content li img {
+.quire-page--transliteration .quire-page__content li img,
+.quire-page--transliteration .quire-page__content dd img {
   max-height: 1.5em;
   margin-top: -.5em;
   margin-bottom: -.1em;
