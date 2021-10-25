@@ -76,6 +76,34 @@ Specifically for Essay 7, provided by author
   font-style: italic;
 }
 
+/*
+Noto Sans Coptic
+https://github.com/googlefonts/noto-fonts
+Open Font License 1.1 (https://scripts.sil.org/OFL)
+Note: this woff2 file came direct from Google, another version generated from
+Font Squirrel didn't work for some reason
+*/
+/* Noto Sans Coptic */
+@font-face {
+  font-family: "Noto Sans Coptic";
+  src: url("../fonts/notosanscoptic-regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/*
+Junicode
+https://junicode.sourceforge.io/
+Open Font License 1.1 (https://scripts.sil.org/OFL)
+*/
+/* Junicode */
+@font-face {
+  font-family: "Junicode";
+  src: url("../fonts/junius-vf.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
 /* COVER */
 .quire-cover__overlay {
   background-size: contain;
@@ -202,6 +230,18 @@ Specifically for Essay 7, provided by author
 }
 .quire-page--transliteration .quire-page__content .smallcaps {
   font-variant: small-caps;
+}
+
+/* COPTIC */
+span[lang=coptic] {
+  color: blue;
+  font-family: "Noto Sans Coptic";
+}
+
+/* ANCIENT EGYPTIAN: SPECIFICLALLY FOR SUPPORT THE ꜣ CHARACTER*/
+/* Applies the custom font as a fallback to the main font */
+.quire-page__content p {
+  font-family: "Noto Serif", "Junicode", serif !important;
 }
 
 /* ABOUT & COPYRIGHT PAGE */
