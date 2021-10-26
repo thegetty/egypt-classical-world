@@ -91,19 +91,6 @@ Font Squirrel didn't work for some reason
   font-style: normal;
 }
 
-/*
-Junicode
-https://junicode.sourceforge.io/
-Open Font License 1.1 (https://scripts.sil.org/OFL)
-*/
-/* Junicode */
-@font-face {
-  font-family: "Junicode";
-  src: url("../fonts/junius-vf.woff2") format("woff2");
-  font-weight: 400;
-  font-style: normal;
-}
-
 /* COVER */
 .quire-cover__overlay {
   background-size: contain;
@@ -236,12 +223,6 @@ Open Font License 1.1 (https://scripts.sil.org/OFL)
 span[lang=coptic] {
   color: blue;
   font-family: "Noto Sans Coptic";
-}
-
-/* ANCIENT EGYPTIAN: SPECIFICLALLY FOR SUPPORT THE ꜣ CHARACTER*/
-/* Applies the custom font as a fallback to the main font */
-.quire-page__content p {
-  font-family: "Noto Serif", "Junicode", serif !important;
 }
 
 /* ABOUT & COPYRIGHT PAGE */
