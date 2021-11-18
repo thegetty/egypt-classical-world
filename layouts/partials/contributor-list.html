@@ -1,5 +1,9 @@
 {{/*
 
+  THIS OVERRIDE VERSION LOOKS FOR BOTH affiliation_as_it_appears AND role
+  ATTRIBUTES IN THE CONTRIBUTOR INFORMATION AND ADDS THEM TO THE PAGE
+  ACCORDINGLY.
+
   A simple partial to create a list of contributor names. Looks first for
   .full_name and otherwise combines first and last. Expects three values to be
   passed in:
@@ -62,8 +66,9 @@
     <ul>
       {{- range $contributors -}}
         <li class="quire-contributor">
+          {{- with .role }}<span class="quire-contributor__role">{{ . }}</span> {{ end -}}
           {{- template "name-check" (dict "Site" $.Site "contributor" .) -}}
-          {{- if or .title .affiliation -}}
+          {{- if or (or .title .affiliation) .affiliation_as_it_appears -}}
             {{- template "title" . -}}
           {{- else if .id }}
             {{- range where $.Site.Data.publication.contributor "id" .id -}}
@@ -95,8 +100,12 @@
 {{- end -}}
 
 {{- define "title" -}}
-  {{- if or .title .affiliation}}, {{ end -}}
-  {{- with .title }}<span class="quire-contributor__title">{{ . }}</span>{{ end -}}
-  {{- if and .title .affiliation }}, {{ end -}}
-  {{- with .affiliation }}<span class="quire-contributor__affiliation">{{ . }}</span>{{ end -}}
+  {{- if .affiliation_as_it_appears -}}
+    <br /><span class="quire-contributor__affiliation">{{ .affiliation_as_it_appears | safeHTML | markdownify }}</span>
+  {{- else -}}
+    {{- if or .title .affiliation}}<br />{{ end -}}
+    {{- with .title }}<span class="quire-contributor__title">{{ . }}</span>{{ end -}}
+    {{- if and .title .affiliation }}, {{ end -}}
+    {{- with .affiliation }}<span class="quire-contributor__affiliation">{{ . }}</span>{{ end -}}
+  {{- end -}}
 {{- end -}}
