@@ -73,12 +73,6 @@
 {{- .Page.Scratch.SetInMap "contributor" "6" "n/a" -}}
 {{- end -}}
 
-{{- if .contributor.honorific -}}
-{{- .Page.Scratch.SetInMap "contributor" "7" .contributor.honorific -}}
-{{- else -}}
-{{- .Page.Scratch.SetInMap "contributor" "7" "n/a" -}}
-{{- end -}}
-
 {{- $contributor := (.Page.Scratch.GetSortedMapValues "contributor") -}}
 
 {{- if .index -}}

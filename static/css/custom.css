@@ -167,6 +167,11 @@ Font Squirrel didn't work for some reason
   margin-top: 1.25rem;
 }
 
+/* REMOVE BIO FROM CONTRIBUTOR LIST */
+#contributors #timothy-potts {
+  display: none;
+}
+
 /* MENU ACTIVE ITEM COLOR */
 .quire-menu .page-item a.active,
 .quire-menu .section-item a.active {
