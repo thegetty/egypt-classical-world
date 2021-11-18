@@ -47,14 +47,16 @@ contributor:
     type: primary
     first_name: Jeffrey
     last_name: Spier
-    bio: Jeffrey Spier is senior curator of antiquities at the J. Paul Getty Museum.
+    title: Anissa and Paul John Balson II Senior Curator of Antiquities 
+    affiliation: The J. Paul Getty Museum, Los Angeles
     url:
     pic:
   - id: scole
     type: primary
     first_name: Sara E.
     last_name: Cole
-    bio: Sara E. Cole is assistant curator of antiquities at the J. Paul Getty Museum.
+    title: Assistant Curator, Antiquities Department
+    affiliation: The J. Paul Getty Museum, Los Angeles
     url:
     pic:
 

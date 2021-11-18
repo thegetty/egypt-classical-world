@@ -142,6 +142,16 @@ Font Squirrel didn't work for some reason
 .quire-page__header .hero-body .label {
   background-color: #577642;
 }
+.quire-page .quire-page__header__contributor .quire-contributor {
+  margin-bottom: 1rem;
+  max-width: 640px;
+  margin-left: auto;
+  margin-right: auto;
+  font-style: normal;
+}
+.quire-page .quire-page__header__contributor .quire-contributor span {
+  font-style: italic;
+}
 .quire-page h1, .quire-page__header__title {
   font-size: 2.7rem;
   line-height: 1.2;
@@ -155,6 +165,11 @@ Font Squirrel didn't work for some reason
 .quire-page h2:not(:first-child) {
   text-transform: none;
   margin-top: 1.25rem;
+}
+
+/* REMOVE BIO FROM CONTRIBUTOR LIST */
+#contributors #timothy-potts {
+  display: none;
 }
 
 /* MENU ACTIVE ITEM COLOR */
