@@ -302,6 +302,15 @@ span[lang=coptic] {
   }
 }
 
+@media print {
+  /* Accounts for pdf output of cover and first blank page. Numbering
+    should alwys start at 1 on the half title page. This negative number
+    hack on the cover seems to do the trick */
+  .quire-page--frontmatter.quire-cover {
+    counter-reset: page -1;
+  }
+}
+
 /* IMAGES */
 @media screen {
   .quire-figure.screen-30-percent-width .q-figure__wrapper img {
@@ -311,7 +320,72 @@ span[lang=coptic] {
   }
 }
 @media print {
-  .quire-figure.pdf-two-column {
+  .content figure:not(:first-child) {
+    margin-top: 0;
+    margin-bottom: 1.5rem;
+    border-top: 1px solid #808080;
+    padding-top: 1.5rem;
+  }
+  .content figure:not(:first-child) figure {
+    border-width: 0;
+    padding-top: 0;
+  }
+  .content figure.quire-figure.pdf-two-column {
     column-span: all;
+  }
+  /* https://www.princexml.com/howcome/2021/guides/float/index.html */
+  .content figure.quire-figure.pdf-float-top {
+    -prince-float: top;
+    -prince-margin-alt: 0;
+    margin-bottom: 1.5rem;
+    border-width: 0;
+    padding-top: 0;
+  }
+}
+
+/* For the override version of the q-figure-group shortcode */
+@media screen {
+  .content .quire-figure--group figure,
+  .content .quire-figure--group figure:not(:first-child) {
+    margin: 0;
+  }
+  .quire-page__content figure.quire-figure--group {
+    display: grid;
+    grid-gap: 1rem;
+  }
+  .quire-page__content figure.quire-figure--group.quire-figure--group--grid-1 {
+    grid-template-columns: 1fr;
+  }
+  .quire-page__content figure.quire-figure--group.quire-figure--group--grid-2 {
+    grid-template-columns: 1fr 1fr;
+  }
+  .quire-page__content figure.quire-figure--group.quire-figure--group--grid-3 {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  .quire-page__content figure.quire-figure--group.quire-figure--group--grid-4 {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+  .quire-page__content figure.quire-figure--group > .quire-figure__caption {
+    grid-column: 1/-1;
+    margin-top: 0;
+  }
+}
+@media print {
+  .quire-page__content figure.quire-figure--group {
+    display: block;
+    white-space: nowrap;
+  }
+  .quire-page__content figure.quire-figure--group figcaption {
+    white-space: normal;
+  }
+  .content .quire-figure--group.quire-figure--group--grid-2 figure,
+  .content .quire-figure--group.quire-figure--group--grid-2 figure:not(:first-child) {
+    margin: 0;
+    width: calc(50% - .75rem);
+    display: inline-block;
+    vertical-align: top;
+  }
+  .content .quire-figure--group.quire-figure--group--grid-2 figure:not(:first-child) {
+    margin-left: 1.5rem;
   }
 }
