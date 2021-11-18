@@ -179,6 +179,13 @@ Font Squirrel didn't work for some reason
   }
 }
 
+/* REFINE BLOCKQUOTE */
+.quire-page__content .container .content blockquote p:first-child::before {
+  color: #bed3b1;
+  left: -.8em;
+  top: .6em;
+}
+
 /* REMOVE BIO FROM CONTRIBUTOR LIST */
 #contributors #timothy-potts {
   display: none;
