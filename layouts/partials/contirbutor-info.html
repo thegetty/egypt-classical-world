@@ -1,5 +1,10 @@
 {{/*
 
+  THIS OVERRIDE VERSION OF THE PARTIAL ADDS A SEVENTH PIECE OF CONTRIBUTOR INFO
+  THE `affiliation_as_it_appears` ATTRIBUTE. THIS ATTRIBUTE IS USED WHEN A
+  CONTRIBUTOR TITLE AND AFFILIATION CAN’T BE EASILY BROKEN DOWN INTO SINGLE
+  CLEAR VALUES. IT CAN HOLD HTML AND MARKDOWN FORMATTING.
+
   This contributor-info partial is used in the q-contirbutors shortcode.
   It cycles through the contributors in the given range and create a
   "contributor" object with an index of all the relevant data for that
@@ -11,6 +16,7 @@
     3 bio
     4 url
     5 pic
+    6 affiliation_as_it_appears
 
   This "contributor" object is then added to a "contributorlist" Scratch map.
   The contributors are added to this larger list either by last_name, or by
@@ -59,6 +65,18 @@
 {{- .Page.Scratch.SetInMap "contributor" "5" .contributor.pic -}}
 {{- else -}}
 {{- .Page.Scratch.SetInMap "contributor" "5" "n/a" -}}
+{{- end -}}
+
+{{- if .contributor.affiliation_as_it_appears -}}
+{{- .Page.Scratch.SetInMap "contributor" "6" .contributor.affiliation_as_it_appears -}}
+{{- else -}}
+{{- .Page.Scratch.SetInMap "contributor" "6" "n/a" -}}
+{{- end -}}
+
+{{- if .contributor.honorific -}}
+{{- .Page.Scratch.SetInMap "contributor" "7" .contributor.honorific -}}
+{{- else -}}
+{{- .Page.Scratch.SetInMap "contributor" "7" "n/a" -}}
 {{- end -}}
 
 {{- $contributor := (.Page.Scratch.GetSortedMapValues "contributor") -}}
