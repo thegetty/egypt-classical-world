@@ -255,7 +255,6 @@ Font Squirrel didn't work for some reason
 
 /* COPTIC */
 span[lang=coptic] {
-  color: blue;
   font-family: "Noto Sans Coptic";
 }
 
