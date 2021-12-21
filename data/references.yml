@@ -318,9 +318,11 @@ entries:
     full: "Hitzl, Ingrid. 1991. *Die griechischen Sarkophage der archaischen und klassischen Zeit*. Göteborg: Åström."
   - id: "Höckmann 2001"
     essay: 2
+    sort: "Hockmann 2001"
     full: "Höckmann, Ursula. 2001. “‘Bilinguen’: Zu Ikonographie und Stil der karisch-ägyptischen Grabstelen des 6. Jhs. v. Chr.” In *Naukratis: Die Beziehungen zu Ostgriechenland, Ägypten und Zypern in archaischer Zeit*, edited by Ursula Höckmann and Detlev Kreikenbom, 217–32. Möhnesee: Bibliopolis."
   - id: "Höckmann and Weiss 2017"
     essay: 2
+    sort: "Hockmann and Weiss 2017"
     full: "Höckmann, Ursula, and Katja Weiss. 2017. “Bemerkungen zu dem Kult des Apis und der Apismutter in Memphis/Saqqara unter Amasis.” *Jahreshefte des Österreichischen Archäologischen Institutes in Wien* 86:107–48."
   - id: "Hogarth, Edgar, and Gutch 1898–99"
     essay: 2
@@ -333,6 +335,7 @@ entries:
     full: "Huber, Ingeborg. 2001. *Die Ikonographie der Trauer in der griechischen Kunst*. Mannheim: Bibliopolis."
   - id: "Hürmüzlü 2010"
     essay: 2
+    sort: "Hurmuzlu 2010"
     full: "Hürmüzlü, Bilge. 2010. “Die früheste Gruppe Klazomenischer Sarkophage aus Klazomenai.” *Jahrbuch des Deutschen Archäologischen Instituts* 125:89−153."
   - id: "Iancu 2016"
     essay: 2
@@ -399,6 +402,7 @@ entries:
     full: "Martin, Geoffrey Thorndike, and Richard Vaughan Nicholls. 1978. “Hieroglyphic Stelae with Carian Texts and Carian Stelae with Egyptianizing or Hellenizing Motifs.” In *Carian Inscriptions from North Saqqara and Buhen*, by Olivier Masson, 55–87. London: Egypt Exploration Society."
   - id: "Masson 1978"
     essay: 2
+    sort: "Masson-A 1978"
     full: "Masson, Olivier. 1978. *Carian Inscriptions from North Saqqara and Buhen*. London: Egypt Exploration Society."
   - id: "Masson-Berghoff 2019"
     essay: 2
@@ -670,6 +674,7 @@ entries:
     full: "Assmann, Jan. 2008. *Altägyptische Totenliturgien*. Vol. 3, *Osirisliturgien in den Papyri der Spätzeit*. Heidelberg: Winter."
   - id: "Assmann and Kucharek 2008"
     essay: 3
+    sort: "Assmann x"
     full: "Assmann, Jan, and Andrea Kucharek. 2008. *Altägyptische Religion*. Vol. 1, *Totenliteratur*. Frankfurt: Verlag der Weltreligionen."
   - id: "Austin 1962"
     essay: 3
@@ -751,6 +756,7 @@ entries:
     full: "Delgado, Mariano. 2017. “Inkulturation als Wesenseigenheit des Christentums.” In *Inkulturation: Gottes Gegenwart in den Kulturen*, edited by Klaus Krämer and Klaus Vellguth, 20–32. Freiburg: Herder."
   - id: "Díaz Hernández 2014"
     essay: 3
+    sort: "Diaz Hernandez 2014"
     full: "Díaz Hernández, Roberto A. 2014. *Der Ramesseumspapyrus E: Ein Ritualbuch für Bestattungen aus dem Mittleren Reich*. Göttingen: Seminar für Ägyptologie und Koptologie der Georg-August-Universität."
   - id: "Dieleman 2009"
     essay: 3
@@ -823,6 +829,7 @@ entries:
     full: "Müller, Dieter. 1961. *Ägypten und die griechischen Isis-Aretalogien*. Berlin: Akademie-Verlag."
   - id: "Münster 1968"
     essay: 3
+    sort: "Munster 1968"
     full: "Münster, Maria. 1968. *Untersuchungen zur Göttin Isis vom Alten Reich bis zum Ende des Neuen Reiches*. Berlin: Hessling."
   - id: "Oldfather 1933–67"
     essay: 3
@@ -953,6 +960,7 @@ entries:
     full: "Cooney, Kara. 2018. *When Women Ruled the World: Six Queens of Egypt*. Washington, DC: National Geographic."
   - id: "Ćwiek 2014"
     essay: 4
+    sort: "Cwiek 2014"
     full: "Ćwiek, Andrzej. 2014. “Old and Middle Kingdom Tradition in the Temple of Hatshepsut at Deir el-Bahari.” *Études et Travaux* (Institut des Cultures Méditerranéennes et Orientales de l’Académie Polonaise des Sciences) 27:61–93."
   - id: "Demetriou 2010"
     essay: 4
@@ -1058,9 +1066,11 @@ entries:
     full: "Hoffmann, Friedhelm. 2015. “Königinnen in ägyptischen Quellen der römischen Zeit.” In *Ägyptische Königinnen vom Neuen Reich bis in die islamische Zeit*, edited by Mamdouh Eldamaty at al., 139–56. Vaterstetten: Brose."
   - id: "Hölbl 2001"
     essay: 4
+    sort: "Holbl 2001"
     full: "Hölbl, Günter. 2001. *A History of the Ptolemaic Empire*. London: Routledge."
   - id: "Hölbl 2003"
     essay: 4
+    sort: "Holbl 2003"
     full: "Hölbl, Günter. 2003. “Ptolemäische Königin und weiblicher Pharao.” In *Faraoni come dei, Tolemei come faraoni*, edited by Nicola Bonacasa et al., 88–97. Turin: Museo Egizio."
   - id: "Kákosy 1994"
     essay: 4
@@ -1085,6 +1095,7 @@ entries:
     full: "Lohwasser, Angelika. 2021. “The Role and Status of Royal Women in Kush.” In *The Routledge Companion to Women and Monarchy in the Ancient Mediterranean World*, edited by Elizabeth D. Carney and Sabine Müller, 61–72. Abington, UK: Routledge."
   - id: "Łukaszewicz 2016"
     essay: 4
+    sort: "Lukaszewicz 2016"
     full: "Łukaszewicz, Adam. 2016. “Cleopatra and *Kandake*.” In *Aegyptus et Nubia christiana: The Włodzimierz Godlewski Jubilee Volume on the Occasion of His 70th Birthday*, edited by Adam Łajtar, Artur Obłuski, and Iwona Zych, 691–98. Warsaw: Polish Centre of Mediterranean Archaeology."
   - id: "Malaise 2005"
     essay: 4
@@ -1124,6 +1135,7 @@ entries:
     full: "Minas-Nerpel, Martina, and René Preys. Forthcoming. *The Kiosk of Taharqa*. Vol. II: *The Ptolemaic Decoration (TahKiosk nos. E1–24, F1–4)*, Travaux du centre franco-égyptien d'étude des temples de Karnak. Cairo: Institut français d'Archéologie orientale."
   - id: "Müller 2009"
     essay: 4
+    sort: "Muller 2009"
     full: "Müller, Sabine. 2009. *Das hellenistische Königspaar in der medialen Repräsentation: Ptolemaios II. und Arsinoe II*. Berlin: De Gruyter."
   - id: "Nagel 2014"
     essay: 4
@@ -1262,6 +1274,7 @@ entries:
     full: "Winlock, Herbert E. 1941. *The Temple of Hibis in el Khārgeh Oasis*. Pt. 1, *The Excavations*. New York: Metropolitan Museum of Art."
   - id: "Žabkar 1988"
     essay: 4
+    sort: "Zabkar 1988"
     full: "Žabkar, Louis V. 1988. *Hymns to Isis in Her Temple at Philae*. Hanover, NH: Published for Brandeis University Press by University Press of New England."
   - id: "Zibelius-Chen 2006"
     essay: 4
@@ -1284,6 +1297,7 @@ entries:
     full: "Bettles, Elizabeth. 2020. “Pink in the Kellis Mammisi and Kalabsha Temple: Solar Theology and Divine Gender in Roman Period Cultic Monuments.” In *Dust, Demons and Pots: Studies in Honour of Colin A. Hope*, edited by Ashten R. Warfe et al., 25–38. Leuven: Peeters."
   - id: "Bettles and Kaper 2011"
     essay: 5
+    sort: "Bettles 2011"
     full: "Bettles, Elizabeth, and Olaf E. Kaper. 2011. “The Divine Potters of Kellis.” In *Under the Potter’s Tree: Studies on Ancient Egypt Presented to Janine Bourriau on the Occasion of Her 70th Birthday*, edited by David Aston et al., 215–51. Leuven: Peeters."
   - id: "Blondaux 2002"
     essay: 5
@@ -1320,6 +1334,7 @@ entries:
     full: "Effland, Andreas. 2014. “‘You Will Open Up the Ways in the Underworld of the God’: Aspects of Roman and Late Antique Abydos.” In *Egypt in the First Millennium AD: Perspectives from New Fieldwork*, edited by E. O’Connell, 193–205. Leuven: Peeters."
   - id: "Effland and Effland 2013"
     essay: 5
+    sort: "Effland 2015"
     full: "Effland, Andreas, and Ute Effland. 2013. *Abydos: Tor zur ägyptischen Unterwelt*. Mainz-Darmstadt: Wissenschaftliche Buchgesellschaft."
   - id: "Frankfurter 1998"
     essay: 5
@@ -1344,9 +1359,11 @@ entries:
     full: "Hawass, Zahi. 2000. *Valley of the Golden Mummies*. Cairo: American University in Cairo Press."
   - id: "Hölbl 2000"
     essay: 5
+    sort: "Holbl 2000"
     full: "Hölbl, Günther. 2000. *Altägypten im Römischen Reich: Der römische Pharao und seine Tempel.* Vol. 1, *Römische Politik und altägyptische Ideologie von Augustus bis Diocletian: Tempelbau in Oberägypten*. Mainz: Zabern."
   - id: "Hölbl 2005"
     essay: 5
+    sort: "Holbl 2005"
     full: "Hölbl, Günther. 2005. *Altägypten im Römischen Reich: Der römische Pharao und seine Tempel.* Vol. 3, *Heiligtümer und religiöses Leben in den ägyptischen Wüsten und Oasen*. Mainz: Zabern."
   - id: "Hope 2004"
     essay: 5
@@ -1392,6 +1409,7 @@ entries:
     full: "Kaper, Olaf E. 2010. “Galba’s Cartouches at Ain Birbiyeh.” In *Tradition and Transformation: Egypt under Roman Rule*, edited by Katja Lembke, Martina Minas-Nerpel, and Stefan Pfeiffer, 181–201. Leiden: Brill."
   - id: "Kaper 2012a"
     essay: 5
+    sort: "Kaper 2011"
     full: "Kaper, Olaf E., ed. 2012a. *Colours of the Oasis: Artists and the Archaeology of Dakhleh Oasis, Egypt*. Leiden: privately printed."
   - id: "Kaper 2012b"
     essay: 5
@@ -1413,6 +1431,7 @@ entries:
     full: "Kockelmann, Holger. 2011. “Mammisi (Birth House).” In *UCLA Encyclopedia of Egyptology*, edited by Willeke Wendrich. Los Angeles: University of California. <http://digital2.library.ucla.edu/viewItem.do?ark=21198/zz0026wfgr>."
   - id: "Kockelmann and Pfeiffer 2009"
     essay: 5
+    sort: "Kockelmann x"
     full: "Kockelmann, Holger, and Stefan Pfeiffer. 2009. “Betrachtungen zur Dedikation von Tempeln und Tempelteilen in ptolemäischer und römischer Zeit.” In *“. . . vor dem Papyrus sind alle gleich!”: Papyrologische Beiträge zu Ehren von Bärbel Kramer (P. Kramer)*, edited by Raimar Eberhard et al., 93–104. Berlin: De Gruyter."
   - id: "Kurth 2016"
     essay: 5
