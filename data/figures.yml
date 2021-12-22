@@ -2,7 +2,7 @@ figure_list:
   - id: "fig-1-1"
     src: figures/fig-1-1.jpg
     label: "Figure 1.1"
-    caption: "Map of the Eastern Mediterranean with the location of the Uluburun shipwreck"
+    caption: "Map of the eastern Mediterranean with the location of the Uluburun shipwreck"
     credit:
   - id: "fig-1-2"
     src: figures/fig-1-2.jpg
@@ -23,16 +23,16 @@ figure_list:
     src: figures/fig-1-4-b.jpg
     label: "Figure 1.4b"
     caption: "Two views of a model of a ship cart, Egyptian, 19th–20th Dynasty, late 13th–early 12th century BC. Wood with pigment, 13.2 × 38.5 × 5.5 cm. Found in a tomb at Gurob, Egypt. University College London, Petrie Museum of Egyptian Archaeology, UC16044."
-    credit: "Photograph courtesy of the J. Paul Getty Museum and the Petrie Museum of Egyptian Archaeology"
+    credit: "Photographs courtesy of the J. Paul Getty Museum and the Petrie Museum of Egyptian Archaeology"
   - id: "fig-1-5-a"
     src: figures/fig-1-5-a.jpg
     label: "Figure 1.5a"
-    caption: "Egyptian and Mycenaean warriors, Egyptian, 18th Dynasty, ca. 1346–1332 BC. Painted papyrus, 10.3 × 10.5 cm. Found in the Chapel of the King’s Statue, Tell el-‘Amarna (Akhetaten). London, The British Museum, EA74100. (a) Papyrus. (b) Detail illustration."
+    caption: "Egyptian and Mycenaean warriors, Egyptian, 18th Dynasty, ca. 1346–1332 BC. Painted papyrus, 10.3 × 10.5 cm. Found in the Chapel of the King’s Statue, Tell el-Amarna (Akhetaten). London, The British Museum, EA74100. (a) Papyrus. (b) Detail illustration."
     credit: "Papyrus © The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License. Illustration by Martin Hense"
   - id: "fig-1-5-b"
     src: figures/fig-1-5-b.jpg
     label: "Figure 1.5b"
-    caption: "Egyptian and Mycenaean warriors, Egyptian, 18th Dynasty, ca. 1346–1332 BC. Painted papyrus, 10.3 × 10.5 cm. Found in the Chapel of the King’s Statue, Tell el-‘Amarna (Akhetaten). London, The British Museum, EA74100. (a) Papyrus. (b) Detail illustration."
+    caption: "Egyptian and Mycenaean warriors, Egyptian, 18th Dynasty, ca. 1346–1332 BC. Painted papyrus, 10.3 × 10.5 cm. Found in the Chapel of the King’s Statue, Tell el-‘Amarna (Akhetaten). London, British Museum, EA74100. (a) Papyrus. (b) Detail illustration."
     credit: "Papyrus © The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License. Illustration by Martin Hense"
   - id: "fig-1-6"
     src: figures/fig-1-6.jpg
