@@ -42,17 +42,17 @@ figure_list:
   - id: "fig-2-1"
     src: figures/fig-2-1.jpg
     label: "Figure 2.1"
-    caption: "Grave stele of Piabrm with Carian inscription, Egyptian, ca. 540–500 BC. Limestone, 63.5 × 31.3 × 10 cm. Found at Saqqara. London, British Museum, EA67235."
+    caption: "Grave stela of Piabrm with Carian inscription, Caro-Egyptian, ca. 540–500 BC. Limestone, 63.5 × 31.3 × 10 cm. Found at Saqqara. London, British Museum, EA67235."
     credit: "© The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License"
   - id: "fig-2-2"
     src: figures/fig-2-2.jpg
     label: "Figure 2.2"
-    caption: "Color reconstruction of Piabrm’s stele (London, British Museum, EA67235). ). Left: areas with substantial traces of identifiable color; right: hypothetical reconstruction using minor traces and comparative data."
-    credit: "Drawing by Kate Morton"
+    caption: "Color reconstruction of Piabrm’s stela (London, British Museum, EA67235). Left: areas with substantial traces of identifiable color; right: hypothetical reconstruction using minor traces and comparative data."
+    credit: "Drawing by Kate Morton. © The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License."
   - id: "fig-2-3"
     src: figures/fig-2-3.jpg
     label: "Figure 2.3"
-    caption: "Fragments of a Carian grave stele, ca. 540–500 BC. Limestone, 12 × 10.8 cm, 17.4 × 16.2 cm. Found at Saqqara. London, British Museum, EA67238, EA67239."
+    caption: "Fragments of a grave stele, Caro-Egyptian, ca. 540–500 BC. Limestone, 12 × 10.8 cm, 17.4 × 16.2 cm. Found at Saqqara. London, British Museum, EA67238, EA67239."
     credit: "© The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License"
   - id: "fig-2-4"
     src: figures/fig-2-4.jpg
