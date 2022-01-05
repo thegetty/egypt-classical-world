@@ -2,7 +2,7 @@ figure_list:
   - id: "fig-1-1"
     src: figures/fig-1-1.jpg
     label: "Figure 1.1"
-    caption: "Map of the Eastern Mediterranean with the location of the Uluburun shipwreck"
+    caption: "Map of the eastern Mediterranean with the location of the Uluburun shipwreck"
     credit:
   - id: "fig-1-2"
     src: figures/fig-1-2.jpg
@@ -23,16 +23,16 @@ figure_list:
     src: figures/fig-1-4-b.jpg
     label: "Figure 1.4b"
     caption: "Two views of a model of a ship cart, Egyptian, 19th–20th Dynasty, late 13th–early 12th century BC. Wood with pigment, 13.2 × 38.5 × 5.5 cm. Found in a tomb at Gurob, Egypt. University College London, Petrie Museum of Egyptian Archaeology, UC16044."
-    credit: "Photograph courtesy of the J. Paul Getty Museum and the Petrie Museum of Egyptian Archaeology"
+    credit: "Photographs courtesy of the J. Paul Getty Museum and the Petrie Museum of Egyptian Archaeology"
   - id: "fig-1-5-a"
     src: figures/fig-1-5-a.jpg
     label: "Figure 1.5a"
-    caption: "Egyptian and Mycenaean warriors, Egyptian, 18th Dynasty, ca. 1346–1332 BC. Painted papyrus, 10.3 × 10.5 cm. Found in the Chapel of the King’s Statue, Tell el-‘Amarna (Akhetaten). London, The British Museum, EA74100. (a) Papyrus. (b) Detail illustration."
+    caption: "Egyptian and Mycenaean warriors, Egyptian, 18th Dynasty, ca. 1346–1332 BC. Painted papyrus, 10.3 × 10.5 cm. Found in the Chapel of the King’s Statue, Tell el-Amarna (Akhetaten). London, The British Museum, EA74100. (a) Papyrus. (b) Detail illustration."
     credit: "Papyrus © The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License. Illustration by Martin Hense"
   - id: "fig-1-5-b"
     src: figures/fig-1-5-b.jpg
     label: "Figure 1.5b"
-    caption: "Egyptian and Mycenaean warriors, Egyptian, 18th Dynasty, ca. 1346–1332 BC. Painted papyrus, 10.3 × 10.5 cm. Found in the Chapel of the King’s Statue, Tell el-‘Amarna (Akhetaten). London, The British Museum, EA74100. (a) Papyrus. (b) Detail illustration."
+    caption: "Egyptian and Mycenaean warriors, Egyptian, 18th Dynasty, ca. 1346–1332 BC. Painted papyrus, 10.3 × 10.5 cm. Found in the Chapel of the King’s Statue, Tell el-‘Amarna (Akhetaten). London, British Museum, EA74100. (a) Papyrus. (b) Detail illustration."
     credit: "Papyrus © The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License. Illustration by Martin Hense"
   - id: "fig-1-6"
     src: figures/fig-1-6.jpg
@@ -42,17 +42,17 @@ figure_list:
   - id: "fig-2-1"
     src: figures/fig-2-1.jpg
     label: "Figure 2.1"
-    caption: "Grave stele of Piabrm with Carian inscription, Egyptian, ca. 540–500 BC. Limestone, 63.5 × 31.3 × 10 cm. Found at Saqqara. London, British Museum, EA67235."
+    caption: "Grave stela of Piabrm with Carian inscription, Caro-Egyptian, ca. 540–500 BC. Limestone, 63.5 × 31.3 × 10 cm. Found at Saqqara. London, British Museum, EA67235."
     credit: "© The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License"
   - id: "fig-2-2"
     src: figures/fig-2-2.jpg
     label: "Figure 2.2"
-    caption: "Color reconstruction of Piabrm’s stele (London, British Museum, EA67235). ). Left: areas with substantial traces of identifiable color; right: hypothetical reconstruction using minor traces and comparative data."
-    credit: "Drawing by Kate Morton"
+    caption: "Color reconstruction of Piabrm’s stela (London, British Museum, EA67235). Left: areas with substantial traces of identifiable color; right: hypothetical reconstruction using minor traces and comparative data."
+    credit: "Drawing by Kate Morton. © The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License."
   - id: "fig-2-3"
     src: figures/fig-2-3.jpg
     label: "Figure 2.3"
-    caption: "Fragments of a Carian grave stele, ca. 540–500 BC. Limestone, 12 × 10.8 cm, 17.4 × 16.2 cm. Found at Saqqara. London, British Museum, EA67238, EA67239."
+    caption: "Fragments of a grave stele, Caro-Egyptian, ca. 540–500 BC. Limestone, 12 × 10.8 cm, 17.4 × 16.2 cm. Found at Saqqara. London, British Museum, EA67238, EA67239."
     credit: "© The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License"
   - id: "fig-2-4"
     src: figures/fig-2-4.jpg
@@ -62,7 +62,7 @@ figure_list:
   - id: "fig-2-5"
     src: figures/fig-2-5.jpg
     label: "Figure 2.5"
-    caption: "Red-figure acorn *lekythos*, Greek, Athenian, early 4th century BC. Terracotta, 22 × 7.5 cm. Found in the cemetery at Naukratis. London, British Museum 1888,0601.716."
+    caption: "Red-figure acorn *lekythos*, Greek, Athenian, early 4th century BC. Terracotta, 22 × 7.5 cm. Found in the cemetery at Naukratis. London, British Museum, 1888,0601.716."
     credit: "© The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License"
   - id: "fig-2-6"
     src: figures/fig-2-6.jpg
@@ -77,7 +77,7 @@ figure_list:
   - id: "fig-2-8"
     src: figures/fig-2-8.jpg
     label: "Figure 2.8"
-    caption: "Silver statuette of a boy and goose, Ptolemaic, ca. 240 BC. Silver, H: 9.2 cm. Found at Alexandria. London, British Museum, 1845,0705.1."
+    caption: "Statuette of a boy and goose, Ptolemaic, ca. 240 BC. Silver, H: 9.2 cm. Found at Alexandria. London, British Museum, 1845,0705.1."
     credit: "© The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License"
   - id: "fig-2-9"
     src: figures/fig-2-9.jpg
@@ -122,12 +122,12 @@ figure_list:
   - id: "fig-4-2"
     src: figures/fig-4-2.jpg
     label: "Figure 4.2"
-    caption: "Axonometric view of the Pylon tower excavated by the HIAMAS underwater mission at Alexandria in 2003. © Hellenic Institute of Ancient and Medieval Alexandrian Studies, Athens."
+    caption: "Axonometric view of the pylon tower excavated by the HIAMAS underwater mission at Alexandria in 2003. © Hellenic Institute of Ancient and Medieval Alexandrian Studies, Athens."
     credit: "Drawing by Silvana Gargiulo"
   - id: "fig-4-3"
     src: figures/fig-4-3.jpg
     label: "Figure 4.3"
-    caption: "Frontal view of the diminutive pylon tower, excavated by the HIAMAS underwater mission at Alexandria in 2003 and exhibited in the Open-Air Museum in Kom el-Dikka, Alexandria, since 2009"
+    caption: "Frontal view of the diminutive pylon tower, exhibited in the Open-Air Museum in Kom el-Dikka, Alexandria, since 2009"
     credit:
   - id: "fig-4-4"
     src: figures/fig-4-4.jpg
@@ -143,17 +143,17 @@ figure_list:
     src: figures/fig-4-6.jpg
     label: "Figure 4.6"
     caption: "Hypothetical reconstruction of the Isis temple on Acra Lochias, Alexandria."
-    credit: "© Hellenic Institute of Ancient and Medieval Alexandrian Studies, Athens. Drawing by Yiannis Nakas, after a proposal by Harry Tzalas before the excavation of the flight of steps (see fig. 5)"
+    credit: "© Hellenic Institute of Ancient and Medieval Alexandrian Studies, Athens. Drawing by Yiannis Nakas, after a proposal by Harry Tzalas before the excavation of the flight of steps (see fig. 4.5)"
   - id: "fig-4-7"
     src: figures/fig-4-7.jpg
     label: "Figure 4.7"
     caption: "Karnak, pylon gate on the eastern side of the courtyard between the seventh and eighth pylons, opening to the barque shrine of Thutmose III at the sacred lake."
-    credit: "Photo: R. Preys with agreement of the CFEETK"
+    credit: "Photo: R. Preys with agreement of CFEETK (French-Egyptian Centre for the Study of Karnak Temples)"
   - id: "fig-4-8"
     src: figures/fig-4-8.jpg
     label: "Figure 4.8"
     caption: "Karnak, external side of pylon gate on the eastern side of the courtyard between the seventh and eighth pylons, opening to the barque shrine of Thutmose III at the sacred lake."
-    credit: "Photo: M. Minas-Nerpel with agreement of the CFEETK"
+    credit: "Photo: M. Minas-Nerpel with agreement of CFEETK (French-Egyptian Centre for the Study of Karnak Temples)"
   - id: "fig-4-9"
     src: figures/fig-4-9.jpg
     label: "Figure 4.9"
@@ -187,18 +187,18 @@ figure_list:
   - id: "fig-5-5"
     src: figures/fig-5-5.jpg
     label: "Figure 5.5"
-    caption: "Ceiling pattern from the northern half of the shrine with a goddess supporting the sky. Restoration set on a background of sand, in preparation for a final layer of plaster."
-    credit: "Restoration: Laurence Blondaux"
+    caption: "Reconstruction of the entire central pattern of the vaulted ceiling."
+    credit: "Drawing by Martin Hense"
   - id: "fig-5-6"
     src: figures/fig-5-6.jpg
     label: "Figure 5.6"
-    caption: "Reconstruction of the entire central pattern of the vaulted ceiling."
-    credit: "Drawing by Martin Hense"
+    caption: "Ceiling pattern from the northern half of the shrine with a goddess supporting the sky. Restoration set on a background of sand, in preparation for a final layer of plaster."
+    credit: "Restoration: Laurence Blondaux"
   - id: "fig-5-7"
     src: figures/fig-5-7.jpg
     label: "Figure 5.7"
-    caption: "Reconstruction of the entire central pattern of the vaulted ceiling."
-    credit: "Drawing by Martin Hense"
+    caption: "The Seven Hathors, preceded by a figure of the goddess Meret, and facing a seated Tapsais followed by Neith. Restoration set upon a background of sand, in preparation for a final layer of plaster."
+    credit: "Restoration: Laurence Blondaux; Photo: © Fotografie Christien Boeles"
   - id: "fig-5-8"
     src: figures/fig-5-8.jpg
     label: "Figure 5.8"
