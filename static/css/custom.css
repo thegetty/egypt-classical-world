@@ -166,6 +166,25 @@ Font Squirrel didn't work for some reason
   text-transform: none;
   margin-top: 1.25rem;
 }
+@media print {
+  .quire-page h1, .quire-page__header__title {
+    font-size: 2.2rem;
+    line-height: 1.4;
+  }
+  .quire-page h2,
+  .quire-page h2:not(:first-child) {
+    font-size: 1.5rem;
+    line-height: 1.35;
+    max-width: 90%;
+  }
+}
+
+/* REFINE BLOCKQUOTE */
+.quire-page__content .container .content blockquote p:first-child::before {
+  color: #bed3b1;
+  left: -.8em;
+  top: .6em;
+}
 
 /* REMOVE BIO FROM CONTRIBUTOR LIST */
 #contributors #timothy-potts {
@@ -233,10 +252,62 @@ Font Squirrel didn't work for some reason
 .quire-page--transliteration .quire-page__content .smallcaps {
   font-variant: small-caps;
 }
+@media print {
+  .quire-page--transliteration .quire-page__content table {
+    column-span: all;
+  }
+  .quire-page--transliteration .quire-page__content table tr {
+    page-break-inside: avoid;
+  }
+  .quire-page--transliteration .quire-page__content table th,
+  .quire-page--transliteration .quire-page__content table td {
+    padding-left: 0;
+    padding-right: 1.5rem;
+  }
+  .quire-page--transliteration .quire-page__content table th:last-child,
+  .quire-page--transliteration .quire-page__content table td:last-child {
+    padding-right: 0;
+  }
+  .quire-page--transliteration .quire-page__content .pdf-page-break {
+    page-break-before: always;
+  }
+  .quire-page--transliteration .quire-page__content .pdf-page-break + * {
+    margin-top: 0;
+  }
+  .quire-page--transliteration .quire-page__content #albani-obelisk,
+  .quire-page--transliteration .quire-page__content #appendix-a,
+  .quire-page--transliteration .quire-page__content #appendix-b {
+    page-break-before: always;
+    margin-top: 0;
+  }
+  .quire-page--transliteration .quire-page__content #albani-obelisk,
+  .quire-page--transliteration .quire-page__content #albani-obelisk + p,
+  .quire-page--transliteration .quire-page__content #appendix-a,
+  .quire-page--transliteration .quire-page__content #appendix-a + p,
+  .quire-page--transliteration .quire-page__content #appendix-a + p + p {
+    column-span: all;
+  }
+  .quire-page--transliteration .quire-page__content #appendix-a + p + p {
+    margin-bottom: 1.5rem;
+  }
+  .quire-page--transliteration .quire-page__content hr {
+    column-span: all;
+    margin-top: 1.5rem;
+  }
+  .quire-page--transliteration .quire-page__content hr + .backmatter {
+    page-break-before: always;
+  }
+  .quire-page--transliteration .quire-page__content hr + .backmatter p:first-child {
+    margin-top: 0;
+  }
+  .content figure.quire-figure.pdf-tall-image .q-figure__wrapper img {
+    width: auto;
+    max-height: 7.5in;
+  }
+}
 
 /* COPTIC */
 span[lang=coptic] {
-  color: blue;
   font-family: "Noto Sans Coptic";
 }
 
@@ -278,18 +349,103 @@ span[lang=coptic] {
   #copyright img {
     height: .25in;
   }
+  #copyright .cip-data {
+    column-break-before: always;
+  }
+}
+
+@media print {
+  /* Accounts for pdf output of cover and first blank page. Numbering
+    should alwys start at 1 on the half title page. This negative number
+    hack on the cover seems to do the trick */
+  .quire-page--frontmatter.quire-cover {
+    counter-reset: page -1;
+  }
 }
 
 /* IMAGES */
 @media screen {
-  .quire-figure.screen-30-percent-width .q-figure__wrapper img {
-    max-width: 30%;
+  .quire-figure.screen-20-percent-width .q-figure__wrapper img {
+    max-width: 20%;
     margin-left: auto;
     margin-right: auto;
   }
 }
 @media print {
-  .quire-figure.pdf-two-column {
+  .content figure:not(:first-child) {
+    margin-top: 0;
+    margin-bottom: 1.5rem;
+    border-top: 1px solid #808080;
+    padding-top: 1.5rem;
+  }
+  .content figure:not(:first-child) figure {
+    border-width: 0;
+    padding-top: 0;
+  }
+  .content figure.quire-figure.pdf-two-column {
     column-span: all;
+  }
+  .content figure.quire-figure.pdf-add-top-margin {
+    margin-top: 1rem;
+  }
+  /* https://www.princexml.com/howcome/2021/guides/float/index.html */
+  .content figure.quire-figure.pdf-float-top {
+    -prince-float: top;
+    -prince-margin-alt: 0;
+    margin-bottom: 1.5rem;
+    border-width: 0;
+    padding-top: 0;
+  }
+  .content figure.quire-figure.pdf-80-percent-width .q-figure__wrapper img {
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+/* For the override version of the q-figure-group shortcode */
+@media screen {
+  .content .quire-figure--group figure,
+  .content .quire-figure--group figure:not(:first-child) {
+    margin: 0;
+  }
+  .quire-page__content figure.quire-figure--group {
+    display: grid;
+    grid-gap: 1rem;
+  }
+  .quire-page__content figure.quire-figure--group.quire-figure--group--grid-1 {
+    grid-template-columns: 1fr;
+  }
+  .quire-page__content figure.quire-figure--group.quire-figure--group--grid-2 {
+    grid-template-columns: 1fr 1fr;
+  }
+  .quire-page__content figure.quire-figure--group.quire-figure--group--grid-3 {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  .quire-page__content figure.quire-figure--group.quire-figure--group--grid-4 {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+  .quire-page__content figure.quire-figure--group > .quire-figure__caption {
+    grid-column: 1/-1;
+    margin-top: 0;
+  }
+}
+@media print {
+  .quire-page__content figure.quire-figure--group {
+    display: block;
+    white-space: nowrap;
+  }
+  .quire-page__content figure.quire-figure--group figcaption {
+    white-space: normal;
+  }
+  .content .quire-figure--group.quire-figure--group--grid-2 figure,
+  .content .quire-figure--group.quire-figure--group--grid-2 figure:not(:first-child) {
+    margin: 0;
+    width: calc(50% - .75rem);
+    display: inline-block;
+    vertical-align: top;
+  }
+  .content .quire-figure--group.quire-figure--group--grid-2 figure:not(:first-child) {
+    margin-left: 1.5rem;
   }
 }
