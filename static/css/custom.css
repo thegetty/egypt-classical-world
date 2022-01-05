@@ -252,10 +252,62 @@ Font Squirrel didn't work for some reason
 .quire-page--transliteration .quire-page__content .smallcaps {
   font-variant: small-caps;
 }
+@media print {
+  .quire-page--transliteration .quire-page__content table {
+    column-span: all;
+  }
+  .quire-page--transliteration .quire-page__content table tr {
+    page-break-inside: avoid;
+  }
+  .quire-page--transliteration .quire-page__content table th,
+  .quire-page--transliteration .quire-page__content table td {
+    padding-left: 0;
+    padding-right: 1.5rem;
+  }
+  .quire-page--transliteration .quire-page__content table th:last-child,
+  .quire-page--transliteration .quire-page__content table td:last-child {
+    padding-right: 0;
+  }
+  .quire-page--transliteration .quire-page__content .pdf-page-break {
+    page-break-before: always;
+  }
+  .quire-page--transliteration .quire-page__content .pdf-page-break + * {
+    margin-top: 0;
+  }
+  .quire-page--transliteration .quire-page__content #albani-obelisk,
+  .quire-page--transliteration .quire-page__content #appendix-a,
+  .quire-page--transliteration .quire-page__content #appendix-b {
+    page-break-before: always;
+    margin-top: 0;
+  }
+  .quire-page--transliteration .quire-page__content #albani-obelisk,
+  .quire-page--transliteration .quire-page__content #albani-obelisk + p,
+  .quire-page--transliteration .quire-page__content #appendix-a,
+  .quire-page--transliteration .quire-page__content #appendix-a + p,
+  .quire-page--transliteration .quire-page__content #appendix-a + p + p {
+    column-span: all;
+  }
+  .quire-page--transliteration .quire-page__content #appendix-a + p + p {
+    margin-bottom: 1.5rem;
+  }
+  .quire-page--transliteration .quire-page__content hr {
+    column-span: all;
+    margin-top: 1.5rem;
+  }
+  .quire-page--transliteration .quire-page__content hr + .backmatter {
+    page-break-before: always;
+  }
+  .quire-page--transliteration .quire-page__content hr + .backmatter p:first-child {
+    margin-top: 0;
+  }
+  .content figure.quire-figure.pdf-tall-image .q-figure__wrapper img {
+    width: auto;
+    max-height: 7.5in;
+  }
+}
 
 /* COPTIC */
 span[lang=coptic] {
-  color: blue;
   font-family: "Noto Sans Coptic";
 }
 
@@ -313,8 +365,8 @@ span[lang=coptic] {
 
 /* IMAGES */
 @media screen {
-  .quire-figure.screen-30-percent-width .q-figure__wrapper img {
-    max-width: 30%;
+  .quire-figure.screen-20-percent-width .q-figure__wrapper img {
+    max-width: 20%;
     margin-left: auto;
     margin-right: auto;
   }
@@ -333,6 +385,9 @@ span[lang=coptic] {
   .content figure.quire-figure.pdf-two-column {
     column-span: all;
   }
+  .content figure.quire-figure.pdf-add-top-margin {
+    margin-top: 1rem;
+  }
   /* https://www.princexml.com/howcome/2021/guides/float/index.html */
   .content figure.quire-figure.pdf-float-top {
     -prince-float: top;
@@ -340,6 +395,11 @@ span[lang=coptic] {
     margin-bottom: 1.5rem;
     border-width: 0;
     padding-top: 0;
+  }
+  .content figure.quire-figure.pdf-80-percent-width .q-figure__wrapper img {
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 
