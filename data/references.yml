@@ -1774,9 +1774,11 @@ entries:
     full: "Budge, E. A. Wallis. 1926. *Cleopatra’s Needles and Other Egyptian Obelisks: A Series of Descriptions of All the Important Inscribed Obelisks, with Hieroglyphic Texts, Translations, Etc.* London: Religious Tract Society."
   - id: "Bülow Clausen 2012"
     essay: 7
+    sort: "Bulow 2012"
     full: "Bülow Clausen, Kristine. 2012. “Domitian between Isis and Minerva: The Dialogue between the ‘Egyptian’ and the ‘Graeco-Roman’ Aspects of the Sanctuary at Beneventum.” In *Egyptian Gods in the Hellenistic and Roman Mediterranean: Image and Reality between Local and Global*, edited by Laurent Bricault and Miguel John Versluys, 93–122. Palermo: Salvatore Sciascia."
   - id: "Bülow Clausen 2015"
     essay: 7
+    sort: "Bulow 2015"
     full: "Bülow Clausen, Kristine. 2015. “The Flavian *Isea* in Beneventum and Rome: The Appropriation of Egyptian and Egyptianising Art in Imperial Beneventum and Rome.” PhD diss., Det Humanistiske Fakultet, Copenhagen."
   - id: "Burkhardt 1985"
     essay: 7
@@ -1960,6 +1962,7 @@ entries:
     full: "Leitz, Christian. 2004. *Quellentexte zur ägyptischen Religion*. Vol. 1, *Die Tempelinschriften der griechisch-römischen Zeit*. Münster: LIT."
   - id: "Leitz and Mendel 2017"
     essay: 7
+    sort: "Leitz 2017"
     full: "Leitz, Christian, and Daniela Mendel. 2017. *Athribis IV: Der Umgang L 1 bis L 3*. 2 vols. Cairo: Institut Français d’Archéologie Orientale."
   - id: "Lembke 1994"
     essay: 7
@@ -2014,9 +2017,11 @@ entries:
     full: "Moje, Jan. 2013. “Die hieroglyphisch/demotische Stele Louvre E 13074: Synoptische Untersuchung der bilinguen Inschriften.” *Studien zur Altägyptischen Kultur* 42:233–49."
   - id: "Möller 1912"
     essay: 7
+    sort: "Moller 1912"
     full: "Möller, Georg. 1912. *Hieratische Paläographie: Die ägyptische Buchschrift in ihrer Entwicklung von der fünften Dynastie bis zur römischen Kaiserzeit*. Vol. 3, *Von der zweiundzwanzigsten Dynastie bis zum dritten Jahrhundert nach Chr*. Leipzig: Hinrichs."
   - id: "Möller 1913"
     essay: 7
+    sort: "Moller 1913"
     full: "Möller, Georg. 1913. *Die beiden Totenpapyrus Rhind des Museums zu Edinburg*. Leipzig: Hinrichs."
   - id: "Montanari 2004"
     essay: 7
@@ -2029,12 +2034,15 @@ entries:
     full: "Morenz, Ludwig D., and Gunnar Sperveslage. 2020. *Römisches Kaisertum in ägyptischem Gewand: Vom Pharao-fashioning der Imperatoren Augustus, Domitian und Hadrian*. Berlin: EB-Verlag."
   - id: "Müller 1969"
     essay: 7
+    sort: "Muller 1969"
     full: "Müller, Hans Wolfgang. 1969. *Der Isiskult im antiken Benevent und Katalog der Skulpturen aus den ägyptischen Heiligtümern im Museo del Sannio zu Benevent*. Berlin: Hessling."
   - id: "Müller 1975"
+    sort: "Muller 1975"
     essay: 7
     full: "Müller, Hans Wolfgang. 1975. “L’obélisque Albani (à Munich) avant son transfert à Paris.” *Bulletin de la Société Française d’Égyptologie* 72:7–22."
   - id: "Müskens 2017"
     essay: 7
+    sort: "Muskens 2017"
     full: "Müskens, Sander. 2017. *Egypt beyond Representation: Materials and Materiality of Aegyptiaca Romana*. Leiden: Leiden University Press."
   - id: "Nagel 2014"
     essay: 7
@@ -2074,6 +2082,7 @@ entries:
     full: "Pirelli, Rosanna. 2016. “Il tempio di Iside a Benevento.” In *Il Nilo a Pompei: Visioni d’Egitto nel mondo romano*, edited by Federico Poole, 89–95. Modena: Franco Cosimo Panini."
   - id: "Pirelli and Iasiello 1997"
     essay: 7
+    sort: "Pirelli 2017"
     full: "Pirelli, Rosanna, and Italo M. Iasiello. 1997. “L’Iseo di Benevento—Marco Rutilio Lupo.” In *Iside: Il mito il mistero la magia*, edited by Ermanno A. Arslan, 376–80. Milan: Electa."
   - id: "Posener 1936"
     essay: 7
