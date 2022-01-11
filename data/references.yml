@@ -132,9 +132,9 @@ entries:
   - id: "Varberg et al. 2016"
     essay: 1
     full: "Varberg, Jeanette, et al. 2016. “Mesopotamian Glass from Late Bronze Age Egypt, Romania, Germany and Denmark.” *Journal of Archaeological Science* 74 (October): 184–94."
-  - id: "Waal Forthcoming"
+  - id: "Waal 2021"
     essay: 1
-    full: "Waal, W. J. I. Forthcoming. “Distorted Reflections? Writing the Late Bronze Age in the Mirror of Anatolia.” In *Linguistic and Cultural Interactions between Greece and the Ancient Near East: In Search of the Golden Fleece*, edited by Michele Bianconi. Leiden: Brill."
+    full: "Waal, W. J. I. 2021. “Distorted Reflections? Writing the Late Bronze Age in the Mirror of Anatolia.” In *Linguistic and Cultural Interactions between Greece and the Ancient Near East: In Search of the Golden Fleece*, edited by Michele Bianconi. Leiden: Brill."
   - id: "Wachsmann 2013"
     essay: 1
     full: "Wachsmann, Shelley. 2013. *The Gurob Ship-Cart Model and Its Mediterranean Context*. College Station: Texas A & M University Press."
@@ -409,6 +409,7 @@ entries:
     full: "Masson-Berghoff, Aurélia. 2019. “Naukratis: Egyptian Offerings in Context.” In “Naukratis in Context,” edited by Aurélia Masson-Berghoff and Ross I. Thomas, 127–58. Special issue, *British Museum Studies in Ancient Egypt and Sudan* 24. https://www.britishmuseum.org/research/publications/bmsaes."
   - id: "Masson-Berghoff and Goddio 2016"
     essay: 2
+    Sort: "Masson-Berghoff 2020"
     full: "Masson-Berghoff, Aurélia, and Franck Goddio, eds. 2016. *Sunken Cities: Egypt’s Lost Worlds*. London: Thames & Hudson."
   - id: "McAnally 2016"
     essay: 2
@@ -1132,6 +1133,7 @@ entries:
     full: "Minas-Nerpel, Martina. 2021. “Regnant Women in Egypt.” In *The Routledge Companion to Women and Monarchy in the Ancient Mediterranean*, edited by Elizabeth D. Carney and Sabine Müller, 22–34. Abingdon: Routledge."
   - id: "Minas-Nerpel and Preys Forthcoming"
     essay: 4
+    Sort: "Minas-Nerpel 2022"
     full: "Minas-Nerpel, Martina, and René Preys. Forthcoming. *The Kiosk of Taharqa*. Vol. II: *The Ptolemaic Decoration (TahKiosk nos. E1–24, F1–4)*, Travaux du centre franco-égyptien d'étude des temples de Karnak. Cairo: Institut français d'Archéologie orientale."
   - id: "Müller 2009"
     essay: 4
@@ -1297,7 +1299,7 @@ entries:
     full: "Bettles, Elizabeth. 2020. “Pink in the Kellis Mammisi and Kalabsha Temple: Solar Theology and Divine Gender in Roman Period Cultic Monuments.” In *Dust, Demons and Pots: Studies in Honour of Colin A. Hope*, edited by Ashten R. Warfe et al., 25–38. Leuven: Peeters."
   - id: "Bettles and Kaper 2011"
     essay: 5
-    sort: "Bettles 2011"
+    sort: "Bettles 2021"
     full: "Bettles, Elizabeth, and Olaf E. Kaper. 2011. “The Divine Potters of Kellis.” In *Under the Potter’s Tree: Studies on Ancient Egypt Presented to Janine Bourriau on the Occasion of Her 70th Birthday*, edited by David Aston et al., 215–51. Leuven: Peeters."
   - id: "Blondaux 2002"
     essay: 5
@@ -1409,7 +1411,7 @@ entries:
     full: "Kaper, Olaf E. 2010. “Galba’s Cartouches at Ain Birbiyeh.” In *Tradition and Transformation: Egypt under Roman Rule*, edited by Katja Lembke, Martina Minas-Nerpel, and Stefan Pfeiffer, 181–201. Leiden: Brill."
   - id: "Kaper 2012a"
     essay: 5
-    sort: "Kaper 2011"
+    sort: "Kaper 2012a"
     full: "Kaper, Olaf E., ed. 2012a. *Colours of the Oasis: Artists and the Archaeology of Dakhleh Oasis, Egypt*. Leiden: privately printed."
   - id: "Kaper 2012b"
     essay: 5
@@ -1665,10 +1667,6 @@ entries:
   - id: "G. Spyropoulos 2010"
     essay: 6
     full: "Spyropoulos, George. 2010. “A New Statue of Herakles from the Villa of Herodes Attikos in Arkadia.” In *Skopas of Paros: Abstracts Volume of the Third International Conference on the Archaeology of Paros and the Cyclades*, edited by Dora Katsonopoulou, 65–66. Athens: Dora Katsonopoulou."
-  - id: "G. Spyropoulos 2014"
-    essay: 6
-    sort: "Spyropoulos, George. 2014."
-    full: "[[ Reference needed ]]"
   - id: "G. Spyropoulos 2015a"
     essay: 6
     full: "Spyropoulos, George. 2015a. “La villa de Herodes Attico en Eva/Loukou, Arcadia.” In *Dioses, héroes y atletas: La imagen del cuerpo en la Grecia antigua*, edited by Carmen Sánchez and Inmaculada Escobar, 392–95. Alcalá de Henares: Museo Arqueológico Regional."
