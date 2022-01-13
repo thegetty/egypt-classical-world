@@ -254,7 +254,6 @@ Font Squirrel didn't work for some reason
 .quire-page--transliteration .quire-page__content em strong {
   font-family: "Transliteration", serif;
   font-size: 1.1em;
-  font-style: normal;
   line-height: 1.43;
 }
 .quire-page--transliteration .quire-page__content table {
