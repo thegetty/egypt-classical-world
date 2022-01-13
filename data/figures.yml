@@ -262,17 +262,17 @@ figure_list:
   - id: "fig-7-1"
     src: figures/fig-7-1.jpg
     label: "Figure 7.1"
-    caption: "Borgia obelisk, the two upper fragments. 1st century AD. Granite, H: 0.63 and 0.47 m. Museo Archeologico Nazionale di Palestrina, inv. 80548; E 19"
+    caption: "Borgia obelisk, the two upper fragments. 1st century AD. Granite, H: 0.63 and 0.47 m. Museo Archeologico Nazionale di Palestrina, inv. 80548; E 19."
     credit: "Photograph courtesy of the Museo Archeologico Nazionale di Palestrina"
   - id: "fig-7-2"
     src: figures/fig-7-2.jpg
     label: "Figure 7.2"
-    caption: "Borgia obelisk, the lower section. 1st century AD. Granite, H 1.9 m. Naples, Museo Archeologico Nazionale di Napoli, inv. 2317"
+    caption: "Borgia obelisk, the lower section. 1st century AD. Granite, H: 1.9 m. Museo Archeologico Nazionale di Napoli, inv. 2317."
     credit: "Photograph courtesy of the Museo Archeologico Nazionale di Napoli"
   - id: "fig-7-3"
     src: figures/fig-7-3.jpg
     label: "Figure 7.3"
-    caption: "Borgia obelisk, facsimile of the inscriptions (after Bove 2008, 89)"
+    caption: "Borgia obelisk, facsimile of the inscriptions (after Bove 2008, 89)."
     credit:
   - id: "fig-7-4"
     src: figures/fig-7-4.jpg
@@ -282,7 +282,7 @@ figure_list:
   - id: "fig-7-5"
     src: figures/fig-7-5.jpg
     label: "Figure 7.5"
-    caption: "Albani obelisk. 1st century AD. Granite, H of ancient section: 3.2 m; H as restored: 5.5 m. Munich, Staatliches Museum Ägyptischer Kunst, inv. Gl. WAF 39"
+    caption: "Albani obelisk. 1st century AD. Granite, H of ancient section: 3.2 m; H as restored: 5.5 m. Munich, Staatliches Museum Ägyptischer Kunst, inv. Gl. WAF 39."
     credit: "Photograph courtesy of Staatliches Museum Ägyptischer Kunst"
   - id: "fig-7-6"
     src: figures/fig-7-6.jpg
@@ -297,22 +297,22 @@ figure_list:
   - id: "fig-7-8"
     src: figures/fig-7-8.jpg
     label: "Figure 7.8"
-    caption: "Benevento obelisk A, view from the southeast. AD 88/89. Granite, H: 5.39 m. Benevento, Piazza Papiniano"
+    caption: "Benevento obelisk A, view from the southeast. AD 88/89. Granite, H: 5.39 m. Benevento, Piazza Papiniano."
     credit: "Photograph by Luigi Prada (29 July 2020)"
   - id: "fig-7-9"
     src: figures/fig-7-9.jpg
     label: "Figure 7.9"
-    caption: "Benevento obelisk B, following conservation in 2017–18. AD 88/89. Granite, H of ancient section: 3.5 m; H as restored: 5.2 m. Benevento, Museo del Sannio, inv. 1916"
+    caption: "Benevento obelisk B, following conservation in 2017–18. AD 88/89. Granite, H of ancient section: 3.5 m; H as restored: 5.2 m. Benevento, Museo del Sannio, inv. 1916."
     credit: "Photograph by Paul D. Wordsworth (29 July 2020)"
   - id: "fig-7-10"
     src: figures/fig-7-10.jpg
     label: "Figure 7.10"
-    caption: "Benevento obelisk A, side 1 (orthophotograph)"
+    caption: "Benevento obelisk A, side 1 (orthophotograph)."
     credit: "Photograph and imaging by Paul D. Wordsworth (2020)"
   - id: "fig-7-11"
     src: figures/fig-7-11.jpg
     label: "Figure 7.11"
-    caption: "Benevento obelisk B, side 1 (photograph, prior to conservation)"
+    caption: "Benevento obelisk B, side 1 (photograph, prior to conservation)."
     credit:
   - id: "fig-7-12"
     src: figures/fig-7-12.jpg
@@ -327,12 +327,12 @@ figure_list:
   - id: "fig-7-14"
     src: figures/fig-7-14.jpg
     label: "Figure 7.14"
-    caption: "Benevento obelisk A, side 2 (orthophotograph)"
+    caption: "Benevento obelisk A, side 2 (orthophotograph)."
     credit: "Photograph and imaging by Paul D. Wordsworth (2020)"
   - id: "fig-7-15"
     src: figures/fig-7-15.jpg
     label: "Figure 7.15"
-    caption: "Benevento obelisk B, side 2 (photograph, prior to conservation)"
+    caption: "Benevento obelisk B, side 2 (photograph, prior to conservation)."
     credit:
   - id: "fig-7-16"
     src: figures/fig-7-16.jpg
@@ -347,12 +347,12 @@ figure_list:
   - id: "fig-7-18"
     src: figures/fig-7-18.jpg
     label: "Figure 7.18"
-    caption: "Benevento obelisk A, side 3 (orthophotograph)"
+    caption: "Benevento obelisk A, side 3 (orthophotograph)."
     credit: "Photograph and imaging by Paul D. Wordsworth (2020)"
   - id: "fig-7-19"
     src: figures/fig-7-19.jpg
     label: "Figure 7.19"
-    caption: "Benevento obelisk B, side 3 (photograph, prior to conservation)"
+    caption: "Benevento obelisk B, side 3 (photograph, prior to conservation)."
     credit:
   - id: "fig-7-20"
     src: figures/fig-7-20.jpg
@@ -367,12 +367,12 @@ figure_list:
   - id: "fig-7-22"
     src: figures/fig-7-22.jpg
     label: "Figure 7.22"
-    caption: "Benevento obelisk A, side 4 (orthophotograph)"
+    caption: "Benevento obelisk A, side 4 (orthophotograph)."
     credit: "Photograph and imaging by Paul D. Wordsworth (2020)"
   - id: "fig-7-23"
     src: figures/fig-7-23.jpg
     label: "Figure 7.23"
-    caption: "Benevento obelisk B, side 4 (photograph, prior to conservation)"
+    caption: "Benevento obelisk B, side 4 (photograph, prior to conservation)."
     credit:
   - id: "fig-7-24"
     src: figures/fig-7-24.jpg
@@ -387,7 +387,7 @@ figure_list:
   - id: "fig-7-26"
     src: figures/fig-7-26.jpg
     label: "Figure 7.26"
-    caption: "Benevento obelisk A, combined orthophotographs of all sides"
+    caption: "Benevento obelisk A, combined orthophotographs of all sides."
     credit: "Photograph and imaging by Paul D. Wordsworth (2020)"
   - id: "fig-7-27"
     src: figures/fig-7-27.jpg
@@ -427,10 +427,10 @@ figure_list:
   - id: "fig-7-34"
     src: figures/fig-7-34.jpg
     label: "Figure 7.34"
-    caption: "Paul D. Wordsworth documenting Benevento obelisk A on July 29, 2020"
+    caption: "Paul D. Wordsworth documenting Benevento obelisk A on July 29, 2020."
     credit: "Photograph by Luigi Prada (29 July 2020)"
   - id: "fig-7-35"
     src: figures/fig-7-35.jpg
     label: "Figure 7.35"
-    caption: "Detail of telescopic pole rig for photographic documentation of Benevento obelisk A"
+    caption: "Detail of telescopic pole rig for photographic documentation of Benevento obelisk A."
     credit: "Photograph by Luigi Prada (29 July 2020)"

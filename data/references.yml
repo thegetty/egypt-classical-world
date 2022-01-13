@@ -409,7 +409,7 @@ entries:
     full: "Masson-Berghoff, Aurélia. 2019. “Naukratis: Egyptian Offerings in Context.” In “Naukratis in Context,” edited by Aurélia Masson-Berghoff and Ross I. Thomas, 127–58. Special issue, *British Museum Studies in Ancient Egypt and Sudan* 24. https://www.britishmuseum.org/research/publications/bmsaes."
   - id: "Masson-Berghoff and Goddio 2016"
     essay: 2
-    Sort: "Masson-Berghoff 2020"
+    sort: "Masson-Berghoff b"
     full: "Masson-Berghoff, Aurélia, and Franck Goddio, eds. 2016. *Sunken Cities: Egypt’s Lost Worlds*. London: Thames & Hudson."
   - id: "McAnally 2016"
     essay: 2
@@ -1133,7 +1133,7 @@ entries:
     full: "Minas-Nerpel, Martina. 2021. “Regnant Women in Egypt.” In *The Routledge Companion to Women and Monarchy in the Ancient Mediterranean*, edited by Elizabeth D. Carney and Sabine Müller, 22–34. Abingdon: Routledge."
   - id: "Minas-Nerpel and Preys Forthcoming"
     essay: 4
-    Sort: "Minas-Nerpel 2022"
+    Sort: "Minas-Nerpel, Martina. 2022."
     full: "Minas-Nerpel, Martina, and René Preys. Forthcoming. *The Kiosk of Taharqa*. Vol. II: *The Ptolemaic Decoration (TahKiosk nos. E1–24, F1–4)*, Travaux du centre franco-égyptien d'étude des temples de Karnak. Cairo: Institut français d'Archéologie orientale."
   - id: "Müller 2009"
     essay: 4
@@ -1299,7 +1299,7 @@ entries:
     full: "Bettles, Elizabeth. 2020. “Pink in the Kellis Mammisi and Kalabsha Temple: Solar Theology and Divine Gender in Roman Period Cultic Monuments.” In *Dust, Demons and Pots: Studies in Honour of Colin A. Hope*, edited by Ashten R. Warfe et al., 25–38. Leuven: Peeters."
   - id: "Bettles and Kaper 2011"
     essay: 5
-    sort: "Bettles 2021"
+    sort: "Bettles, Elizabeth. 2020b."
     full: "Bettles, Elizabeth, and Olaf E. Kaper. 2011. “The Divine Potters of Kellis.” In *Under the Potter’s Tree: Studies on Ancient Egypt Presented to Janine Bourriau on the Occasion of Her 70th Birthday*, edited by David Aston et al., 215–51. Leuven: Peeters."
   - id: "Blondaux 2002"
     essay: 5
@@ -1336,7 +1336,7 @@ entries:
     full: "Effland, Andreas. 2014. “‘You Will Open Up the Ways in the Underworld of the God’: Aspects of Roman and Late Antique Abydos.” In *Egypt in the First Millennium AD: Perspectives from New Fieldwork*, edited by E. O’Connell, 193–205. Leuven: Peeters."
   - id: "Effland and Effland 2013"
     essay: 5
-    sort: "Effland 2015"
+    sort: "Effland, Andreas. 2014b."
     full: "Effland, Andreas, and Ute Effland. 2013. *Abydos: Tor zur ägyptischen Unterwelt*. Mainz-Darmstadt: Wissenschaftliche Buchgesellschaft."
   - id: "Frankfurter 1998"
     essay: 5
@@ -1411,7 +1411,7 @@ entries:
     full: "Kaper, Olaf E. 2010. “Galba’s Cartouches at Ain Birbiyeh.” In *Tradition and Transformation: Egypt under Roman Rule*, edited by Katja Lembke, Martina Minas-Nerpel, and Stefan Pfeiffer, 181–201. Leiden: Brill."
   - id: "Kaper 2012a"
     essay: 5
-    sort: "Kaper 2012a"
+    sort: "Kaper, Olaf E. 2012a."
     full: "Kaper, Olaf E., ed. 2012a. *Colours of the Oasis: Artists and the Archaeology of Dakhleh Oasis, Egypt*. Leiden: privately printed."
   - id: "Kaper 2012b"
     essay: 5
@@ -1513,7 +1513,6 @@ entries:
   - id: "Whitehouse 2015"
     essay: 5
     full: "Whitehouse, Helen. 2015. “A House, but Not Exactly a Home? The Painted Residence at Kellis Revisited.” In *Housing and Habitat in the Ancient Mediterranean: Cultural and Environmental Responses*, edited by Angelo Andrea Di Castro, Colin A. Hope, and Bruce E. Parr, 243–54. Leuven: Peeters."
-
   - id: "Anderson 1987–88"
     essay: 6
     full: "Anderson, Maxwell L. 1987–88. “Pompeian Frescoes in the Metropolitan Museum of Art.” *Metropolitan Museum of Art Bulletin* 45 (Winter): 3–54."
@@ -1855,6 +1854,7 @@ entries:
     full: "Erman, Adolf. 1917. *Römische Obelisken*. Berlin: Verlag der Königlichen Akademie der Wissenschaften."
   - id: "Erman and Grapow 1926–31"
     essay: 7
+    sort: "Erman, Adolf. 1917b."
     full: "Erman, Adolf, and Hermann Grapow, eds. 1926–31. *Wörterbuch der ägyptischen Sprache*. 5 vols. Leipzig: Hinrichs."
   - id: "Fairman 1943"
     essay: 7
@@ -1870,6 +1870,7 @@ entries:
     full: "Gasparini, Valentino. 2014. “Les cultes isiaques et les pouvoirs locaux en Italie.” In *Power, Politics and the Cult of Isis*, edited by Laurent Bricault and Miguel John Versluys, 260–99. Leiden: Brill."
   - id: "Gasparini and Gordon 2018"
     essay: 7
+    sort: "Gasparini, Valentino. 2014b."
     full: "Gasparini, Valentino, and Richard L. Gordon. 2018. “Egyptianism: Appropriating ‘Egypt’ in the ‘Isiac Cults’ of the Graeco-Roman World.” *Acta Antiqua Academiae Scientiarum Hungaricae* 58, no. 1, 571–606."
   - id: "Gatti 1997"
     essay: 7
@@ -1891,6 +1892,7 @@ entries:
     full: "Grenier, Jean-Claude. 2008. *L’Osiris Antinoos*. Montpellier: Université Paul Valéry–CNRS."
   - id: "Grenier and Coarelli 1986"
     essay: 7
+    sort: "Grenier, Jean-Claude. 2008b."
     full: "Grenier, Jean-Claude, and Filippo Coarelli. 1986. “La tombe d’Antinoüs à Rome.” *Mélanges de l’École Française de Rome: Antiquité* 98, no. 1, 217–53."
   - id: "Habachi 2000"
     essay: 7
@@ -1960,7 +1962,7 @@ entries:
     full: "Leitz, Christian. 2004. *Quellentexte zur ägyptischen Religion*. Vol. 1, *Die Tempelinschriften der griechisch-römischen Zeit*. Münster: LIT."
   - id: "Leitz and Mendel 2017"
     essay: 7
-    sort: "Leitz 2017"
+    sort: "Leitz, Christian. 2004b."
     full: "Leitz, Christian, and Daniela Mendel. 2017. *Athribis IV: Der Umgang L 1 bis L 3*. 2 vols. Cairo: Institut Français d’Archéologie Orientale."
   - id: "Lembke 1994"
     essay: 7
@@ -2080,7 +2082,7 @@ entries:
     full: "Pirelli, Rosanna. 2016. “Il tempio di Iside a Benevento.” In *Il Nilo a Pompei: Visioni d’Egitto nel mondo romano*, edited by Federico Poole, 89–95. Modena: Franco Cosimo Panini."
   - id: "Pirelli and Iasiello 1997"
     essay: 7
-    sort: "Pirelli 2017"
+    sort: "Pirelli, Rosanna. 2016b."
     full: "Pirelli, Rosanna, and Italo M. Iasiello. 1997. “L’Iseo di Benevento—Marco Rutilio Lupo.” In *Iside: Il mito il mistero la magia*, edited by Ermanno A. Arslan, 376–80. Milan: Electa."
   - id: "Posener 1936"
     essay: 7
@@ -2142,16 +2144,16 @@ entries:
   - id: "Stern 1884"
     essay: 7
     full: "Stern, Ludwig. 1884. “Alterthumskunde: Aegyptische Ausgrabungen in Rom—Ein neuer Obelisk—Die Geschichte der Obelisken in Aegypten, Europa und Amerika—Unabhängigkeit der ältesten ägyptischen Kunst–Asiatisches in der mittleren und neuen—Die Phönicier.” *Zeitschrift für die Gebildete Welt über das Gesammte Wissen Unserer Zeit und über Alle Wichtigen Berufszweige* 5:290–300."
-  - id: "Swetnam—Burland 2007"
+  - id: "Swetnam-Burland 2007"
     essay: 7
     full: "Swetnam-Burland, Molly. 2007. “Egyptian Objects, Roman Contexts: A Taste for Aegyptiaca in Italy.” In *Nile into Tiber: Egypt in the Roman World*, edited by Laurent Bricault, Miguel John Versluys, and Paul G. P. Meyboom, 113–36. Leiden: Brill."
-  - id: "Swetnam—Burland 2010"
+  - id: "Swetnam-Burland 2010"
     essay: 7
     full: "Swetnam-Burland, Molly. 2010. “*Aegyptus Redacta*: The Egyptian Obelisk in the Augustan Campus Martius.” *Art Bulletin* 92, no. 3 (September): 135–53."
-  - id: "Swetnam—Burland 2011"
+  - id: "Swetnam-Burland 2011"
     essay: 7
     full: "Swetnam-Burland, Molly. 2011. “‘Egyptian’ Priests in Roman Italy.” In *Cultural Identity in the Ancient Mediterranean*, edited by Erich S. Gruen, 336–53. Los Angeles: Getty Publications."
-  - id: "Swetnam—Burland 2015"
+  - id: "Swetnam-Burland 2015"
     essay: 7
     full: "Swetnam-Burland, Molly. 2015. *Egypt in Italy: Visions of Egypt in Roman Imperial Culture*. New York: Cambridge University Press."
   - id: "Takács 1995"
