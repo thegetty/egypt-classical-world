@@ -233,9 +233,23 @@ Font Squirrel didn't work for some reason
   margin-bottom: -.1em;
 }
 .quire-page--transliteration .quire-page__content table td:nth-child(n+2):nth-child(-n+3) img {
-  max-height: 5em;
+  max-height: inherit;
   margin-top: 0;
   margin-bottom: 0;
+  min-width: 100px;
+  max-width: 100px;
+}
+@media screen and (max-width:600px) {
+  .quire-page--transliteration .quire-page__content table td:nth-child(n+2):nth-child(-n+3) img {
+    min-width: 60px;
+    max-width: 60px;
+  }
+}
+@media print {
+  .quire-page--transliteration .quire-page__content table td:nth-child(n+2):nth-child(-n+3) img {
+    min-width: .625in;
+    max-width: .625in;
+  }
 }
 .quire-page--transliteration .quire-page__content em strong {
   font-family: "Transliteration", serif;
