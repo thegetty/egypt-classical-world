@@ -236,11 +236,51 @@ Font Squirrel didn't work for some reason
   margin-top: -2.3em;
 }
 
+/* STYLE FIGURE LABELS INCLUDED INSIDE LINK TAG FOR FIGURE MODAL */
+.quire-figure__label.quire-figure__label--below {
+  font-size: .75em;
+  margin-top: .47rem;
+  float: left;
+}
+
+/* ENSURE IMAGES ARE SEEN IN FULL WITHIN USER'S WINDOW WITHOUT SCROLLING */
+@media screen {
+  .content figure .quire-figure__image {
+    max-height: calc(100vh - 6rem);
+    width: auto;
+  }
+}
+
+/* KEEP WORDS FROM BREAKING ACROSS LINES */
+span.no-break {
+  white-space: nowrap;
+}
+
 /* COPYRIGHT NOTICES AT THE BOTTOM OF ESSAYS */
 .quire-page__content .container .content .backmatter.page-copyright-notice {
   margin-top: 3rem;
   padding-top: 1rem;
   border-top: 1px solid #333;
+}
+@media print {
+  .quire-page__content .container .content .backmatter.page-copyright-notice {
+    margin-top: 2rem;
+  }
+}
+
+/* MAKE FOOTNOTE NUMBERS INSIDE BLOCKQUOTES ROMAN */
+.quire-page__content .content blockquote a.footnote-ref {
+  font-style: normal;
+}
+
+/* ESSAY 2 TO FIX PAGE SPACING */
+.quire-page__content .container .content .backmatter.pdf-break-notes #notes {
+  page-break-before: always;
+}
+
+/* ESSAY 3 */
+.quire-page__content .container .content blockquote p:first-child::before {
+  content: "";
 }
 
 /* ESSAY 4 */
@@ -414,7 +454,7 @@ span[lang=coptic] {
 }
 @media print {
   .content figure:not(:first-child) {
-    margin-top: 0;
+    margin-top: 1.5rem;
     margin-bottom: 1.5rem;
     border-top: 1px solid #808080;
     padding-top: 1.5rem;
@@ -425,6 +465,7 @@ span[lang=coptic] {
   }
   .content figure.quire-figure.pdf-two-column {
     column-span: all;
+    margin-top: 1.5rem;
   }
   .content figure.quire-figure.pdf-add-top-margin {
     margin-top: 1rem;
@@ -432,13 +473,35 @@ span[lang=coptic] {
   /* https://www.princexml.com/howcome/2021/guides/float/index.html */
   .content figure.quire-figure.pdf-float-top {
     -prince-float: top;
-    -prince-margin-alt: 0;
+    margin-top: 0;
     margin-bottom: 1.5rem;
     border-width: 0;
     padding-top: 0;
   }
+  .content figure.quire-figure.pdf-top-edge {
+    margin-top: 0;
+    margin-bottom: 1.5rem;
+    border-width: 0;
+    padding-top: 0;
+  }
+  .content figure.quire-figure.pdf-break-after {
+    page-break-after: always;
+  }
+  .content figure.quire-figure.pdf-column-break-before {
+    column-break-before: always;
+  }
+  .content figure.quire-figure.pdf-85-percent-width .q-figure__wrapper img {
+    max-width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+  }
   .content figure.quire-figure.pdf-80-percent-width .q-figure__wrapper img {
     max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .content figure.quire-figure.pdf-70-percent-width .q-figure__wrapper img {
+    max-width: 70%;
     margin-left: auto;
     margin-right: auto;
   }
@@ -488,5 +551,18 @@ span[lang=coptic] {
   }
   .content .quire-figure--group.quire-figure--group--grid-2 figure:not(:first-child) {
     margin-left: 1.5rem;
+  }
+}
+
+/* Hide caption/credit when it's a group shortcode w/ its own caption/credit */
+@media screen {
+  .quire-figure.quire-figure--shared-caption figure figcaption {
+    display: none;
+  }
+}
+@media print {
+  .quire-figure.quire-figure--shared-caption figure figcaption .quire-figure__caption-content,
+  .quire-figure.quire-figure--shared-caption figure figcaption .quire-figure__credit {
+    display: none;
   }
 }

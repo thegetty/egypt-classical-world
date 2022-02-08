@@ -29,7 +29,7 @@
 {{- $idList := replace (.Get "id") " " "" -}}
 {{- $idList = split $idList "," -}}
 
-<figure class='quire-figure quire-figure--group quire-figure--group--grid-{{ $grid }} {{ with .Get "class" }}{{ . }}{{ end }} {{ if eq $.Site.Params.pdf true }}quire-figure--group-pdf {{ end }}'>
+<figure class='quire-figure quire-figure--group quire-figure--group--grid-{{ $grid }} {{ with .Get "class" }}{{ . }}{{ end }} {{ if eq $.Site.Params.pdf true }}quire-figure--group-pdf {{ end }}{{ if or ($.Get "caption") ($.Get "credit") }} quire-figure--shared-caption{{ end }}'>
 
 {{- range $idList -}}
 
@@ -38,9 +38,9 @@
   {{- with .alt }}{{ $alt = . }}{{ end -}}
   {{- with .aspect_ratio }}{{ $aspectRatio = . }}{{ end -}}
   {{- if ($.Get "caption") }}
-    {{ $caption = "" }}{{ else if .caption }}{{ $caption = .caption }}{{ end -}}
+    {{ $caption = ($.Get "caption") }}{{ else if .caption }}{{ $caption = .caption }}{{ end -}}
   {{- if ($.Get "credit") }}
-    {{ $credit = "" }}{{ else if .credit }}{{ $credit = .credit }}{{ end -}}
+    {{ $credit = ($.Get "credit") }}{{ else if .credit }}{{ $credit = .credit }}{{ end -}}
   {{- with .download }}{{ $download = . }}{{ end -}}
   {{- with .id }}{{ $id = . }}{{ end -}}
   {{- if ($.Get "label") }}
