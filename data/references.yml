@@ -1759,12 +1759,15 @@ entries:
     full: "Bresciani, Edda. 1992. “La stele trilingue di Cornelio Gallo: Una rilettura.” In *Roma e l’Egitto nell’antichità classica*, edited by Giovanni Pugliese Caratelli et al., 99–102. Rome: Istituto Poligrafico e Zecca dello Stato."
   - id: "Bricault 2005"
     essay: 7
+    sort: "Bricault 2005"
     full: "Bricault, Laurent. 2005. *Recueil des inscriptions concernant les cultes isiaques (RICIS)*. Vol. 2, *Corpus*. Paris: De Boccard."
   - id: "Bricault 2013"
     essay: 7
+    sort: "Bricault 2013"
     full: "Bricault, Laurent. 2013. *Les cultes isiaques dans le monde gréco-romain*. Paris: Belles Lettres."
   - id: "Bricault and Gasparini 2018"
     essay: 7
+    sort: "Bricault 2018"
     full: "Bricault, Laurent, and Valentino Gasparini. 2018. “I Flavi, Roma e il culto di Iside.” In *Roma, la città degli dèi: La capitale dell’Impero come laboratorio religioso*, edited by Corinne Bonnet and Ennio Sanzi, 121–36. Rome: Carocci."
   - id: "Budge 1926"
     essay: 7
