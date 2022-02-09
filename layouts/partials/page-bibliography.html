@@ -1,0 +1,116 @@
+{{/*
+
+      THIS OVERRIDE FILE ADDS SOME CHECKS THAT CAN BE PERFORMED
+      BY ADDING check_biblio: true TO THE PAGE YAML. WILL CHECK THAT
+      THE NUMBER OF REFERENCES INCLUDED IN THE BIBLIO MATCH THE NUMBER
+      IN references.yml AND WILL DISPLAY A NUMBERED LIST OF BOTH TO COMPARE.
+
+      Duplicates part of the code from q-cite.html in order to add
+      references to the page-level bibliography list */}}
+{{/* ---------------------------------------------------------------------- */}}
+{{- $essay := int .Params.label -}}
+{{- range .Params.references -}}
+
+  {{- $id := . -}}
+  {{- $full := "" -}}
+  {{- $short := "" -}}
+  {{- $alphaOrder := "" -}}
+
+  {{- range $.Site.Data.references.entries -}}
+      {{- if and (eq .id $id) (eq .essay $essay) -}}
+
+          {{- $full = .full -}}
+
+          {{ if .short }}
+            {{- $short = .short -}}
+          {{ else }}
+            {{- $short = .id -}}
+          {{ end }}
+
+          {{ if .sort }}
+            {{- $alphaOrder = .sort -}}
+          {{ else }}
+            {{- $alphaOrder = .full -}}
+          {{ end }}
+
+      {{- end -}}
+  {{- end -}}
+
+  {{- $alphaOrder := $alphaOrder | truncate 100 | urlize -}}
+  {{- $.Page.Scratch.SetInMap "entry" "0" $short -}}
+  {{- $.Page.Scratch.SetInMap "entry" "1" $full -}}
+  {{- $entry := ($.Page.Scratch.GetSortedMapValues "entry") -}}
+  {{- $.Page.Scratch.SetInMap "cited" $alphaOrder $entry -}}
+  {{- $.Page.Scratch.Delete "entry" -}}
+
+{{- end -}}
+
+{{- if ($.Scratch.GetSortedMapValues "cited") }}
+<div class="quire-page__content__references backmatter">
+    {{ with .Site.Params.biblioHeading }}<h2 id="{{ urlize . }}">{{ . }}</h2>{{ end }}
+    {{- if eq .Site.Params.displayBiblioShort true }}
+    <dl>
+        {{- range ($.Scratch.GetSortedMapValues "cited") }}
+        {{/* the id is in a span because Pandoc otherwise strips them out from dt and dd for EPUBs for some reason */}}
+        <dt><span id="{{ urlize (index . 0) }}">{{ markdownify (index . 0) }}</span></dt>
+        <dd>{{ markdownify (index . 1)}}</dd>
+        {{- end }}
+    </dl>
+    {{- else }}
+    <ul>
+        {{- range ($.Scratch.GetSortedMapValues "cited") }}
+        <li id="{{ urlize (index . 0) }}">{{ markdownify (index . 1) }}</li>
+        {{- end }}
+    </ul>
+    {{- end }}
+</div>
+{{- end -}}
+
+{{ if eq .Params.check_biblio true }}
+
+{{ $refs := slice }}
+{{ range ($.Scratch.GetSortedMapValues "cited") }}
+{{ $refs = append (index . 0) $refs }}
+{{ end }}
+
+{{ $essay := int .Page.Params.label }}
+{{ $cites := len $refs }}
+{{ $references := where $.Site.Data.references.entries "essay" $essay }}
+{{ $references = len $references }}
+<hr />
+<p style="font-weight: bold;" id="check">There are {{ $cites }} references above, versus {{ $references }} in references.yml</p>
+
+{{ if ne $cites $references }}
+<div class="backmatter">
+<p style="font-weight: bold;">NOT CITED:</p>
+<dl>
+    {{- range where $.Site.Data.references.entries "essay" $essay }}
+    {{ if eq .cited false }}
+    <dt>{{ .id }}</dt>
+    <dd>{{ markdownify .full }}</dd>
+    {{- end }}
+    {{ end }}
+</dl>
+</div>
+{{ end }}
+
+{{- if ($.Scratch.GetSortedMapValues "cited") }}
+<div class="backmatter" style="column-count: 2;">
+    <p>PAGE BIBLIOGRAPHY</p>
+    <ol>
+        {{- range ($.Scratch.GetSortedMapValues "cited") }}
+        <li id="{{ urlize (index . 0) }}">{{ markdownify (index . 0) }}</li>
+        {{- end }}
+    </ol>
+    <p style="break-before: always; margin-top: 20rem;">REFERENCES.YML</p>
+    <ol>
+        {{ range where $.Site.Data.references.entries "essay" $essay }}
+        {{ if ne .cited false }}
+        <li>{{ .id }}</li>
+        {{ end }}
+        {{ end }}
+    </ol>
+</div>
+{{- end -}}
+
+{{ end }}
