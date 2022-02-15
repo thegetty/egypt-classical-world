@@ -6,17 +6,6 @@
 
 */}}
 
-{{- $alt := "" -}}
-{{- $aspectRatio := "" -}}
-{{- $caption := "" -}}
-{{- $credit := "" -}}
-{{- $download := "" -}}
-{{- $id := "" -}}
-{{- $label := "" -}}
-{{- $mediaId := "" -}}
-{{- $mediaType := "" -}}
-{{- $src := "" -}}
-
 {{- $grid := "" -}}
 {{- if and (.Get "grid") ( gt (.Get "grid") 0 ) }}
   {{- $grid = (.Get "grid") -}}
@@ -32,6 +21,17 @@
 <figure class='quire-figure quire-figure--group quire-figure--group--grid-{{ $grid }} {{ with .Get "class" }}{{ . }}{{ end }} {{ if eq $.Site.Params.pdf true }}quire-figure--group-pdf {{ end }}{{ if or ($.Get "caption") ($.Get "credit") }} quire-figure--shared-caption{{ end }}'>
 
 {{- range $idList -}}
+
+{{- $alt := "" -}}
+{{- $aspectRatio := "" -}}
+{{- $caption := "" -}}
+{{- $credit := "" -}}
+{{- $download := "" -}}
+{{- $id := "" -}}
+{{- $label := "" -}}
+{{- $mediaId := "" -}}
+{{- $mediaType := "" -}}
+{{- $src := "" -}}
 
 {{- range where $.Site.Data.figures.figure_list "id" "eq" . -}}
 
@@ -78,14 +78,15 @@
 
 {{- if or (or (.Get "caption") (.Get "credit")) (.Get "label") -}}
 
-  {{- if (.Get "caption") }}
-    {{ $caption = ($.Get "caption") }}{{ else }}{{ $caption = "" }}{{ end -}}
-  {{- if (.Get "credit") }}
-    {{ $credit = (.Get "credit") }}{{ else }}{{ $credit = "" }}{{ end -}}
-  {{- if ($.Get "label") }}
-    {{ $label = ($.Get "label") }}{{ else }}{{ $label = "" }}{{ end -}}
+  {{- $groupCaption := "" -}}
+  {{- $groupCredit := "" -}}
+  {{- $groupLabel := "" -}}
 
-  {{- $captionDict := dict "Site" .Site "caption" $caption "credit" $credit "label" $label -}}
+  {{- with (.Get "caption") }}{{ $groupCaption = . }}{{ end -}}
+  {{- with (.Get "credit") }}{{ $groupCredit = . }}{{ end -}}
+  {{- with (.Get "label") }}{{ $groupLabel = . }}{{ end -}}
+
+  {{- $captionDict := dict "Site" .Site "caption" $groupCaption "credit" $groupCredit "label" $groupLabel -}}
 
   {{- partial "figures/caption.html" $captionDict -}}
 
