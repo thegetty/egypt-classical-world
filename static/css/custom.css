@@ -434,6 +434,16 @@ span.no-break {
     max-height: 7.5in;
   }
 }
+@media print {
+  .quire-page__content .content .appendix-b-tables h3 {
+    column-span: all;
+    margin-top: 3rem !important;
+  }
+  .quire-page__content .content .appendix-b-tables table th:nth-child(-n+3) {
+    width: 15%;
+  }
+}
+
 
 /* COPTIC */
 span[lang=coptic] {
@@ -537,6 +547,11 @@ span[lang=coptic] {
   }
   .content figure.quire-figure.pdf-column-break-before {
     column-break-before: always;
+  }
+  .content figure.quire-figure.pdf-90-percent-width .q-figure__wrapper img {
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
   }
   .content figure.quire-figure.pdf-85-percent-width .q-figure__wrapper img {
     max-width: 85%;

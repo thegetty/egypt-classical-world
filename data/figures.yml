@@ -272,7 +272,7 @@ figure_list:
   - id: "fig-7-3"
     src: figures/fig-7-3.jpg
     label: "Figure 7.3"
-    caption: "Borgia obelisk, facsimile of the inscriptions (after Bove 2008, 89)."
+    caption: "Borgia obelisk, facsimile of the inscriptions (after Bove 2008, 89)"
     credit:
   - id: "fig-7-4"
     src: figures/fig-7-4.jpg
@@ -313,7 +313,7 @@ figure_list:
     src: figures/fig-7-11.jpg
     label: "Figure 7.11"
     caption: "Benevento obelisk B, side 1 (photograph, prior to conservation)."
-    credit:
+    credit: Photograph courtesy of the J. Paul Getty Museum, Los Angeles (2017)
   - id: "fig-7-12"
     src: figures/fig-7-12.jpg
     label: "Figure 7.12"
@@ -333,7 +333,7 @@ figure_list:
     src: figures/fig-7-15.jpg
     label: "Figure 7.15"
     caption: "Benevento obelisk B, side 2 (photograph, prior to conservation)."
-    credit:
+    credit: Photograph courtesy of the J. Paul Getty Museum, Los Angeles (2017)
   - id: "fig-7-16"
     src: figures/fig-7-16.jpg
     label: "Figure 7.16"
@@ -353,7 +353,7 @@ figure_list:
     src: figures/fig-7-19.jpg
     label: "Figure 7.19"
     caption: "Benevento obelisk B, side 3 (photograph, prior to conservation)."
-    credit:
+    credit: Photograph courtesy of the J. Paul Getty Museum, Los Angeles (2017)
   - id: "fig-7-20"
     src: figures/fig-7-20.jpg
     label: "Figure 7.20"
@@ -373,7 +373,7 @@ figure_list:
     src: figures/fig-7-23.jpg
     label: "Figure 7.23"
     caption: "Benevento obelisk B, side 4 (photograph, prior to conservation)."
-    credit:
+    credit: Photograph courtesy of the J. Paul Getty Museum, Los Angeles (2017)
   - id: "fig-7-24"
     src: figures/fig-7-24.jpg
     label: "Figure 7.24"
@@ -392,8 +392,8 @@ figure_list:
   - id: "fig-7-27"
     src: figures/fig-7-27.jpg
     label: "Figure 7.27"
-    caption: "Benevento obelisk B, combined photographs of all sides (prior to conservation)"
-    credit:
+    caption: "Benevento obelisk B, combined photographs of all sides (prior to conservation)."
+    credit: Photographs courtesy of the J. Paul Getty Museum, Los Angeles (2017)
   - id: "fig-7-28"
     src: figures/fig-7-28.jpg
     label: "Figure 7.28"
@@ -427,7 +427,7 @@ figure_list:
   - id: "fig-7-34"
     src: figures/fig-7-34.jpg
     label: "Figure 7.34"
-    caption: "Paul D. Wordsworth documenting Benevento obelisk A on July 29, 2020."
+    caption: "Paul D. Wordsworth documenting Benevento obelisk A."
     credit: "Photograph by Luigi Prada (29 July 2020)"
   - id: "fig-7-35"
     src: figures/fig-7-35.jpg
