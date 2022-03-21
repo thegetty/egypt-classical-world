@@ -95,7 +95,7 @@ entries:
     full: "Morris, Sarah P. 2008. “Bridges to Babylon: Homer, Anatolia, and the Levant.” In *Beyond Babylon: Art, Trade, and Diplomacy in the Second Millennium B.C*., edited by Joan Aruz, Kim Benzel, and Jean M. Evans, 435–39. New York: Metropolitan Museum of Art."
   - id: "Petrie 1890"
     essay: 1
-    full: "Petrie, W. M. Flinders. 1890. *Kahun, Gurob, and Hawara*. London: Kegan Paul."
+    full: "Petrie, W. M. Flinders. 1890. *Kahun, Gurob and Hawara*. London: Kegan Paul."
   - id: "Petrie 1891"
     essay: 1
     full: "Petrie, W. M. Flinders. 1891. *Illahun, Kahun and Gurob, 1889–1890*. London: David Nutt."
@@ -277,9 +277,9 @@ entries:
   - id: "Draycott 2018"
     essay: 2
     full: "Draycott, Catherine M. 2018. “Making Meaning of Myth: On the Interpretation of Mythological Imagery in the Polyxena Sarcophagus and the Kızılbel Tomb and the History of Achaemenid Asia Minor.” In *Wandering Myths: Transcultural Uses of Myth in the Ancient World*, edited by Lucy Gaynor Audley-Miller and Beate Dignas, 23–70. Berlin: De Gruyter."
-  - id: "Dyer and Villing Forthcoming"
+  - id: "Dyer and Villing unpublished manuscript"
     essay: 2
-    full: "Dyer, Joanne, and Alexandra Villing. Forthcoming. ”Polychromy on a Carian Grave Stela from Egypt.” **FULL CITATION TK**"
+    full: "Dyer, Joanne, and Alexandra Villing. ”Polychromy on a Carian Grave Stela from Egypt.” Unpublished mansucript, last modified March 21, 2022. Microsoft Word file."
   - id: "Edwards 1984"
     essay: 2
     full: "Edwards, Charles M. 1984. “Aphrodite on a Ladder.” *Hesperia* 53, no. 1 (January–March): 59–72."
@@ -594,9 +594,9 @@ entries:
   - id: "Villing 2019"
     essay: 2
     full: "Villing, Alexandra. 2019. “Naukratis: Religion in a Cross-Cultural Context.” In “Naukratis in Context,” edited by Aurélia Masson-Berghoff and Ross I. Thomas, 204–47. Special issue, *British Museum Studies in Ancient Egypt and Sudan* 24. [https://www.britishmuseum.org/research/publications/bmsaes](https://www.britishmuseum.org/research/publications/bmsaes)."
-  - id: "Villing Forthcoming"
+  - id: "Villing 2021"
     essay: 2
-    full: "Villing, Alexandra. Forthcoming. “Between Apollo and Osiris: Egyptianising East Greek Pottery, Translating Gods and Cross-cultural Interaction in the 6th Century B.C.” *Jahrbuch des Deutschen Archäologischen Instituts* 136."
+    full: "Villing, Alexandra. 2021. “Between Apollo and Osiris: Egyptianising East Greek Pottery, Translating Gods and Cross-cultural Interaction in the 6th Century B.C.” *Jahrbuch des Deutschen Archäologischen Instituts* 136:1–110."
   - id: "Villing et al. 2013–20"
     essay: 2
     full: "Villing, Alexandra, et al. 2013–20. *Naukratis: Greeks in Egypt; British Museum Online Research Catalogue*. London: British Museum. http://www.britishmuseum.org/naukratis."
@@ -623,7 +623,7 @@ entries:
     full: "Wasmuth, Melanie. 2010. “Integration of Foreigners—New Insights from the Stele Found in Saqqara in 1994.” In *The World of Achaemenid Persia*, edited by John Curtis and St. John Simpson, 535–43. London: I. B. Tauris."
   - id: "Wasmuth 2017"
     essay: 2
-    full: "Wasmuth, Melanie. 2017. “Die Stele des Djedherbes als kulturelles Zeugnis ihrer Zeit.” *Archäologischer Anzeiger* no. 1, 85–123."
+    full: "Wasmuth, Melanie. 2017. “Die Stele des Djedherbes als kulturelles Zeugnis ihrer Zeit.” *Archäologischer Anzeiger* 1:85–123."
   - id: "Wehgartner 1992"
     essay: 2
     full: "Wehgartner, Irma. 1992. “Die Gruppe Vogell: Attische Eichellekythen und ihre Symbolik.” In *Kotinos: Festschrift für Erika Simon*, edited by Heide Froning, Tonio Hölscher, and Harald Mielsch, 284–91. Mainz: Zabern."
@@ -686,9 +686,6 @@ entries:
   - id: "Bergmann 1968"
     essay: 3
     full: "Bergmann, Jan. 1968. *“Ich bin Isis”: Studien zum memphitischen Hintergrund der griechischen Isisaretalogien*. Uppsala: Uppsala Universitet."
-  - id: "Beylage 2002"
-    essay: 3
-    full: "Beylage, Peter. 2002. *Aufbau der königlichen Stelentexte vom Beginn der 18. Dynastie bis zur Amarnazeit*. Vol. 1, *Transkription und Übersetzung der Texte*. Wiesbaden: Harrassowitz."
   - id: "Bommas 1999"
     essay: 3
     full: "Bommas, Martin. 1999. *Die Mythisierung der Zeit: Die beiden Bücher über die altägyptischen Schalttage des magischen pLeiden I 346*. Wiesbaden: Harrassowitz."
@@ -716,9 +713,6 @@ entries:
   - id: "Bommas 2011b"
     essay: 3
     full: "Bommas, Martin. 2011b. “Pausanias’ Egypt.” In *Cultural Memory and Identity in Ancient Societies*, edited by Martin Bommas, 79–108. London: Continuum."
-  - id: "Bommas 2012"
-    essay: 3
-    full: "Bommas, Martin. 2012. “Im Angesicht des Todes: Altern und Zweifel am Fortleben im Jenseits im Alten Ägypten.” In *Alter(n) anders denken: Kulturelle und biologische Perspektiven*, edited by Brigitte Röder, Willemijn de Jong, and Kurt W. Alt, 93–108. Cologne: Böhlau."
   - id: "Bommas 2013"
     essay: 3
     full: "Bommas, Martin. 2013. “Pyramids in Rome: Images without Cult?” In *Kult und Bild: Die bildliche Dimension des Kultes im Alten Orient, in der Antike und in der Neuzeit*, edited by Maria Michela Luiselli, Jürgen Mohn, and Stephanie Gripentrog, 91–109. Würzburg: Ergon."
@@ -731,9 +725,6 @@ entries:
   - id: "Bresciani 1978"
     essay: 3
     full: "Bresciani, Edda. 1978. *Assuan: Il tempio tolemaico di Isi*. Pisa: Giardini."
-  - id: "Bujo 1993"
-    essay: 3
-    full: "Bujo, Bénézet. 1993. “Gottesvorstellung in der afrikanischen Tradition und ihre Fortführung im Christentum.” In *Der eine Gott in vielen Kulturen: Inkulturation und christliche Gottesvorstellung*, edited by Konrad Hilpert and Karl-Heinz Ohlig, 247–58. Zurich: Benziger."
   - id: "D’Auria, Lacovara, and Roehrig 1992"
     essay: 3
     full: "D’Auria, Sue, Peter Lacovara, and Catherine H. Roehrig. (1988) 1992. *Mummies and Magic: The Funerary Arts of Ancient Egypt*. Boston: Museum of Fine Arts."
@@ -752,9 +743,6 @@ entries:
   - id: "De Buck 1956"
     essay: 3
     full: "De Buck, Adriaan. 1956. *The Ancient Egyptian Coffin Texts*. Vol. 6, *Texts of Spells 472–786*. Chicago: University of Chicago Press."
-  - id: "Delgado 2017"
-    essay: 3
-    full: "Delgado, Mariano. 2017. “Inkulturation als Wesenseigenheit des Christentums.” In *Inkulturation: Gottes Gegenwart in den Kulturen*, edited by Klaus Krämer and Klaus Vellguth, 20–32. Freiburg: Herder."
   - id: "Díaz Hernández 2014"
     essay: 3
     sort: "Diaz Hernandez 2014"
@@ -804,18 +792,12 @@ entries:
   - id: "Lichtheim 2006"
     essay: 3
     full: "Lichtheim, Miriam. 2006. *Ancient Egyptian Literature*. Vol. 3, *The Late Period*. 2nd ed. Berkeley: University of California Press."
-  - id: "Loprieno 1995"
-    essay: 3
-    full: "Loprieno, Antonio. 1995. *Ancient Egyptian: A Linguistic Introduction*. Cambridge: Cambridge University Press."
   - id: "Malaise 1972"
     essay: 3
     full: "Malaise, Michel. 1972. *Les conditions de pénétration et de diffusion des cultes égyptiens en Italie*. Leiden: Brill."
   - id: "Mania 2001"
     essay: 3
     full: "Mania, Ulrich. 2001. “Die Einbauten im Heiligtum der ägyptischen Götter Pergamons (Kizil Avlu).” MA thesis, University of Halle."
-  - id: "Maspero 1914"
-    essay: 3
-    full: "Maspero, Gustave. 1914. *Sarcophages des époques persane et ptolémaïque (nos. 29301–29306)*. Cairo: Institut Français d’Archéologie Orientale."
   - id: "Mazurek 2018"
     essay: 3
     full: "Mazurek, Lyndsey A. 2018. “The Middle Platonic Isis: Text and Image of the Sanctuary of the Egyptian Gods at Herodes Atticus’ Marathon Villa.” *American Journal of Archaeology* 122, no. 4 (October): 611–44."
@@ -834,7 +816,7 @@ entries:
     full: "Münster, Maria. 1968. *Untersuchungen zur Göttin Isis vom Alten Reich bis zum Ende des Neuen Reiches*. Berlin: Hessling."
   - id: "Oldfather 1933–67"
     essay: 3
-    full: "Oldfather, Charles Henry, trans. 1933–67. *Bibliotheca Historica: Diodorus of Sicily*. 12 vols. Cambridge, MA: Harvard University Press."
+    full: "Oldfather, Charles Henry, trans. 1933–67. *Bibliotheca historica: Diodorus of Sicily*. 12 vols. Cambridge, MA: Harvard University Press."
   - id: "Quack 2003"
     essay: 3
     full: "Quack, Joachim Friedrich. 2003. “‘Ich bin Isis, die Herrin der beiden Länder’: Versuch zum demotischen Hintergrund der memphitischen Isisaretalogie.” In *Egypt—Temple of the Whole World: Studies in Honour of Jan Assmann*, edited by Sibylle Meyer, 319–65. Leiden: Brill."
@@ -993,12 +975,12 @@ entries:
   - id: "Fraser 1972"
     essay: 4
     full: "Fraser, Peter Marshall. 1972. *Ptolemaic Alexandria*. 3 vols. Oxford: Clarendon."
-  - id: "Gabolde and Laisney 2017"
-    essay: 4
-    full: "Gabolde, Luc, and Damien Laisney. 2017. “L’orientation du temple d’Héliopolis: Données géophysiques et implications historiques.” *Mitteilungen des Deutschen Archäologischen Instituts* 73:105–32."
   - id: "Gabolde 1992"
     essay: 4
     full: "Gabolde, Marc. 1992. “Étude sur l’évolution des dénominations et de l'aspect des pylônes du temple d’Amon-Rê à Karnak.” *Bulletin de Cercle Lyonnais d’Égyptologie Victor Loret* 6:17–60."
+  - id: "Gabolde and Laisney 2017"
+    essay: 4
+    full: "Gabolde, Luc, and Damien Laisney. 2017. “L’orientation du temple d’Héliopolis: Données géophysiques et implications historiques.” *Mitteilungen des Deutschen Archäologischen Instituts* 73:105–32."
   - id: "Gauthier 1911"
     essay: 4
     full: "Gauthier, Henri. 1911. *Le temple de Kalabchah*. Vol. 1, *Texte*. Cairo: Institut Français d’Archéologie Orientale."
@@ -1010,7 +992,7 @@ entries:
     full: "Gill, Ann-Katrin. 2019. *The Hieratic Ritual Books of Pawerem (P. BM EA 10252 and P. BM EA 10081) from the Late 4th Century BC*. Wiesbaden: Harrassowitz."
   - id: "Goebs and Baines 2018"
     essay: 4
-    full: "Goebs, Katja, and John Baines. 2018. “Functions and Uses of Egyptian Myth.” *Revue de l’histoire des religions* 235, no. 4, 645–81."
+    full: "Goebs, Katja, and John Baines. 2018. “Functions and Uses of Egyptian Myth.” *Revue de l’histoire des religions* 235 (4):645–81."
   - id: "Goelet 1991"
     essay: 4
     full: "Goelet, Ogden. 1991. “The Blessing of Ptah.” In *Fragments of a Shattered Visage: The Proceedings of the International Symposium of Ramesses the Great*, edited by Edward Bleiberg and Rita E. Freed, 28–37. Memphis: Memphis State University."
@@ -1029,9 +1011,6 @@ entries:
   - id: "Gundlach 1995"
     essay: 4
     full: "Gundlach, Rolf. 1995. “Das Dekorationsprogramm der Tempel von Abu Simbel und ihre kultische und königsideologische Funktion.” In *Systeme und Programme der ägyptischen Tempeldekoration*, edited by Dieter Kurth, 47–71. Wiesbaden: Harrassowitz."
-  - id: "Habachi 2001"
-    essay: 4
-    full: "Habachi, Labib. 2001. *Tell el-Dabʿa I: Tell el-Dabʿa and Qantir; The Site and Its Connection with Avaris and Piramesse*. Edited by Eva-Maria Engel et al. Vienna: Verlag der Österreichischen Akademie der Wissenschaften."
   - id: "Handler 1971"
     essay: 4
     full: "Handler, Susan. 1971. “Architecture on the Roman Coins of Alexandria.” *American Journal of Archaeology* 75:57–74."
@@ -1131,10 +1110,10 @@ entries:
   - id: "Minas-Nerpel 2021"
     essay: 4
     full: "Minas-Nerpel, Martina. 2021. “Regnant Women in Egypt.” In *The Routledge Companion to Women and Monarchy in the Ancient Mediterranean*, edited by Elizabeth D. Carney and Sabine Müller, 22–34. Abingdon: Routledge."
-  - id: "Minas-Nerpel and Preys Forthcoming"
+  - id: "Minas-Nerpel and Preys forthcoming"
     essay: 4
     Sort: "Minas-Nerpel, Martina. 2022."
-    full: "Minas-Nerpel, Martina, and René Preys. Forthcoming. *The Kiosk of Taharqa*. Vol. II: *The Ptolemaic Decoration (TahKiosk nos. E1–24, F1–4)*, Travaux du centre franco-égyptien d'étude des temples de Karnak. Cairo: Institut français d'Archéologie orientale."
+    full: "Minas-Nerpel, Martina, and René Preys. Forthcoming. *The Kiosk of Taharqa*. Vol. II: *The Ptolemaic Decoration (TahKiosk nos. E1–24, F1–4)*, Travaux du Centre Franco-égyptien d'Etude des Temples de Karnak. Cairo: Institut Français d'Archéologie Orientale."
   - id: "Müller 2009"
     essay: 4
     sort: "Muller 2009"
@@ -1225,7 +1204,7 @@ entries:
     full: "Sourouzian, Hourig. 1981. “L’apparition du pylône.” *Bulletin de l’Institut Français d'Archéologie Orientale* 81 (1): 141–51."
   - id: "Spencer 2004"
     essay: 4
-    full: "Spencer, Patricia. 2004. “Digging Diary 2003.” *Egyptian Archaeology*, no. 24 (Autumn): 25–29."
+    full: "Spencer, Patricia. 2004. “Digging Diary 2003.” *Egyptian Archaeology* 24 (Autumn): 25–29."
   - id: "Spier, Potts, and Cole 2018"
     essay: 4
     full: "Spier, Jeffrey, Timothy Potts, and Sarah E. Cole, eds. 2018. *Beyond the Nile: Egypt and the Classical World*. Los Angeles: J. Paul Getty Museum."
@@ -1393,7 +1372,7 @@ entries:
     full: "Kaper, Olaf E. 1997. “Temples and Gods in Roman Dakhleh: Studies in the Indigenous Cults of an Egyptian Oasis.” PhD diss., University of Groningen."
   - id: "Kaper 1998"
     essay: 5
-    full: "Kaper, Olaf E. 1998. “Temple Building in the Egyptian Deserts during the Roman Period.” In *Life on the Fringe: Living in the Southern Egyptian Deserts in the Roman and Early-Byzantine Periods. Proceedings of a Colloquium Held on the Occasion of the 25th Anniversary of the Netherlands Institute for Archaeology and Arabic Studies in Cairo, 9–12 December 1996*, edited by Olaf E. Kaper, 139–58. Leiden: Research School CNWS."
+    full: "Kaper, Olaf E. 1998. “Temple Building in the Egyptian Deserts during the Roman Period.” In *Life on the Fringe: Living in the Southern Egyptian Deserts during the Roman and Early-Byzantine Periods. Proceedings of a Colloquium Held on the Occasion of the 25th Anniversary of the Netherlands Institute for Archaeology and Arabic Studies in Cairo, 9–12 December 1996*, edited by Olaf E. Kaper, 139–58. Leiden: Research School CNWS."
   - id: "Kaper 2002"
     essay: 5
     full: "Kaper, Olaf E. 2002. “Pharaonic-Style Decoration in the Mammisi at Ismant el-Kharab: New Insights after the 1996–1997 Field Season.” In *Dakhleh Oasis Project: Preliminary Reports of the 1994–1995 to 1998–1999 Field Seasons*, edited by Colin A. Hope and Gillian E. Bowen, 217–23. Oxford: Oxbow."
@@ -1422,9 +1401,9 @@ entries:
   - id: "Kaper 2019"
     essay: 5
     full: "Kaper, Olaf E. 2019. “The Egyptian Royal Costume in the Late Period.” In *Egyptian Royal Ideology and Kingship under Periods of Foreign Rulers: Case Studies from the First Millennium BC*, edited by Julia Budka, 31–39. Wiesbaden: Harrassowitz."
-  - id: "Kaper Forthcoming"
+  - id: "Kaper forthcoming"
     essay: 5
-    full: "Kaper, Olaf E. Forthcoming. “The Mammisi of Tutu in Kellis: Towards a New Definition of Birth Houses.” In *Mammisis of Egypt: Proceedings of the 1st International Colloquium Cairo, Institut Français d’Archéologie Orientale, March 27–28, 2019*, edited by Ali Abdelhalim Ali and Dagmar Budde. Cairo: Institut français d’Archéologie orientale."
+    full: "Kaper, Olaf E. Forthcoming. “The Mammisi of Tutu in Kellis: Towards a New Definition of Birth Houses.” In *Mammisis of Egypt: Proceedings of the 1st International Colloquium Cairo, Institut Français d’Archéologie Orientale, March 27–28, 2019*, edited by Ali Abdelhalim Ali and Dagmar Budde. Cairo: Institut Français d’Archéologie Orientale."
   - id: "Kaper and Worp 1995"
     essay: 5
     full: "Kaper, Olaf E., and Klaas A. Worp. 1995. “A Bronze Representing Tapsais of Kellis.” *Revue d’Égyptologie* 46:107–18."
@@ -1488,7 +1467,7 @@ entries:
     full: "Ross, Andrew. 2002. “Identifying the Oil Used in the Rituals in the Temple of Tutu.” In *Dakhleh Oasis Project: Preliminary Reports on the 1994–1995 to 1998–1999 Field Seasons*, edited by Colin A. Hope and Gillian E. Bowen, 263–67. Oxford: Oxbow."
   - id: "Sauneron 1959"
     essay: 5
-    full: "Sauneron, Serge. 1959. *Quatre campagnes à Esna*. Cairo: Institut Français d’Archéologie Orientale."
+    full: "Sauneron, Serge. 1959. *Esna I: Quatre campagnes à Esna*. Cairo: Institut Français d’Archéologie Orientale."
   - id: "Schlögl 1977"
     essay: 5
     full: "Schlögl, Hermann. 1977. *Der Sonnengott auf der Blüte: Eine ägyptische Kosmogonie des Neuen Reiches*. Basel: Éditions de Belles-Lettres."
