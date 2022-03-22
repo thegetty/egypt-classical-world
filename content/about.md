@@ -96,6 +96,6 @@ Library of Congress Cataloging-in-Publication Data
 
 {{< /q-class >}}
 
-Front cover: Osiris Canopus, Roman, AD 117–138 (detail). Alabaster. H: 50.8 cm; Diam: 27.9 cm. The Hague, Royal Collections, 4-1690. Image courtesy of Royal Collections, the Netherlands.
+Front cover: Osiris Canopus, Roman, AD 117–138 (detail). Alabaster. H: 50.8 cm; Diam: 27.9 cm. The Hague, Royal Collections, 4-1690. Image: Courtesy of Royal Collections, the Netherlands.
 
 {{< /q-class >}}
