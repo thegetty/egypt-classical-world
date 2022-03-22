@@ -5,9 +5,9 @@ pdf: false
 epub: false
 ---
 
-From Mycenaean weaponry found among the cargo of a Bronze Age shipwreck off the Turkish coast to the Egyptian-inspired domestic interiors of a luxury villa built in Greece during the Roman Empire, Egypt and the Classical World documents two millennia of cultural and artistic interconnectedness in the ancient Mediterranean. This open-access volume gathers pioneering research from the Getty scholars' symposium that helped shape the major international loan exhibition *Beyond the Nile: Egypt and the Classical World* (J. Paul Getty Museum, 2018).
+From Mycenaean weaponry found among the cargo of a Bronze Age shipwreck off the Turkish coast to the Egyptian-inspired domestic interiors of a luxury villa built in Greece during the Roman Empire, *Egypt and the Classical World* documents two millennia of cultural and artistic interconnectedness in the ancient Mediterranean. This volume gathers pioneering research from the Getty scholars' symposium that helped shape the major international loan exhibition *Beyond the Nile: Egypt and the Classical World* (J. Paul Getty Museum, 2018).
 
-Generously illustrated essays consider a range of artistic and other material evidence, including archaeological finds, artworks, papyri, and inscriptions, to shed light on cultural interactions between Egypt, Greece, and Rome from the Bronze Age to the Late Period and Ptolemaic dynasty to the Roman Empire. The military's role as a conduit of knowledge and ideas in the Bronze Age Aegean and an in-depth study of hieroglyphic Egyptian inscriptions found on Roman obelisks offer but two examples of scholarly lacunae addressed by this publication. Specialists across the fields of art history, archaeology, Classics, Egyptology, and philology will benefit from the volume's investigations into syncretic processes that enlivened and informed nearly twenty-five hundred years of dynamic cultural exchange.
+Generously illustrated essays consider a range of artistic and other material evidence, including archaeological finds, artworks, papyri, and inscriptions, to shed light on cultural interactions between Egypt, Greece, and Rome from the Bronze Age, to the Late Period and Ptolemaic dynasty, to the Roman Empire. The military's role as a conduit of knowledge and ideas in the Aegean and an in-depth study of hieroglyphic Egyptian inscriptions found on Roman obelisks offer but two examples of scholarly lacunae addressed by this publication. Specialists across the fields of art history, archaeology, Classics, Egyptology, and philology will benefit from the volume's investigations into syncretic processes that enlivened and informed nearly twenty-five hundred years of dynamic cultural exchange.
 
 {{< q-class "backmatter" >}}
 
@@ -64,7 +64,7 @@ This publication was created using [Quire](https://quire.getty.edu/)™, a multi
 </svg>
 {{< /q-class >}}
 
-Unless otherwise indicated, the text of this work and figs.1.4a-b, 7.11, 7.15, 7.19, 7.23, and 7.27 are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit creativecommons.org/licenses/by-nc/4.0/. All other images are reproduced with the permission of the rights holders acknowledged in captions and expressly excluded from the CC BY-NC license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights.
+Unless otherwise indicated, the text of this work and figs.1.4a–b are licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). To view a copy of this license, visit creativecommons.org/licenses/by-nc/4.0/. All other images are reproduced with the permission of the rights holders acknowledged in captions and expressly excluded from the CC BY-NC license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights.
 
 **Published by the J. Paul Getty Museum, Los Angeles**<br />
 Getty Publications<br />
@@ -96,6 +96,6 @@ Library of Congress Cataloging-in-Publication Data
 
 {{< /q-class >}}
 
-Front cover: Osiris Canopus, Roman, AD 117–138 (detail). Alabaster. H: 50.8 cm (20 in.); Diam: 27.9 cm (11 in.). The Hague, Royal Collections, 4-1690. Reproduced with permission (final credit line TK).
+Front cover: Osiris Canopus, Roman, AD 117–138 (detail). Alabaster. H: 50.8 cm; Diam: 27.9 cm. The Hague, Royal Collections, 4-1690. Image: Courtesy of Royal Collections, the Netherlands.
 
 {{< /q-class >}}
