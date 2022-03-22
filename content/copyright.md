@@ -10,13 +10,13 @@ toc: false
 
 This publication was created using [Quire](https://quire.getty.edu/)™, a multiformat publishing tool from Getty.
 
-The free online edition of this publication is available at [getty.edu/publications/egypt-classical-world/](https://getty.edu/publications/egypt-classical-world/) and includes zoomable illustrations. Also available are free PDF, EPUB, and Kindle/MOBI downloads of the book.
+The free online edition of this publication is available at [getty.edu/&#65279;publications/egypt-classical-world/](https://getty.edu/publications/egypt-classical-world/) and includes zoomable illustrations. Also available are free PDF, EPUB, and Kindle/MOBI downloads of the book.
 
 © 2022 J. Paul Getty Trust
 
 ![cc-by-nc](/img/cc-by-nc--black.png)
 
-Unless otherwise indicated, the text of this work and figs.1.4a–b are licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). To view a copy of this license, visit creativecommons.org/licenses/by-nc/4.0/. All other images are reproduced with the permission of the rights holders acknowledged in captions and expressly excluded from the CC BY-NC license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights.
+Unless otherwise indicated, the text of this work and figs.1.4a–b are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit creativecommons.org/licenses/by-nc/4.0/. All other images are reproduced with the permission of the rights holders acknowledged in captions and expressly excluded from the CC BY‑NC license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights.
 
 First edition, 2022<br />
 [github.com/thegetty/egypt-classical-world/](https://github.com/thegetty/egypt-classical-world/)
