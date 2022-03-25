@@ -1,5 +1,7 @@
 {{/*
 
+  THIS OVERRIDE VERSION ADDS TITLE AND AFFILIATION INFO IN PLACE OF THE BIO
+
   The q-contributor shortcode can be used to create a page of contributor
   biographies, a section of bios for a single page, a list of contributors,
   or a byline for a particular page.
@@ -204,13 +206,8 @@
       </div>
       {{- end -}}
       <div class="quire-contributor__bio">
-        {{- if ne (index . 6) "n/a" -}}
-          {{- (index . 6) | safeHTML | markdownify -}}
-        {{- else -}}
-          {{- if ne (index . 1) "n/a" }}{{ markdownify (index . 1) }}{{ end -}}
-          {{- if ne (index . 2) "n/a" }}, {{ markdownify (index . 2) }}{{ end -}}
-        {{- end -}}
-        {{- if ne (index . 3) "n/a" }}<br />{{ markdownify (index . 3) }}{{ end -}}
+        {{- if ne (index . 1) "n/a" }}{{ markdownify (index . 1) }}{{ end -}}
+        {{- if ne (index . 2) "n/a" }}, {{ markdownify (index . 2) }}{{ end -}}
       </div>
 
       {{ if ne $listRange "page" }}
