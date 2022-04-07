@@ -43,14 +43,30 @@ Distributed outside the United States and Canada by Yale University Press, Londo
 
 Library of Congress Cataloging-in-Publication Data
 
-- Names:
-- Title:
-- Description:
-- Identifiers:
-- Subjects: LCSH:
-- Classification:
-- LC record available at
-- LC ebook record available at
+- Names: Spier, Jeffrey, editor. | Cole, Sara E., editor. | J. Paul Getty
+   Museum, issuing body.
+- Title: Egypt and the classical world : cross-cultural encounters in
+   antiquity / edited by Jeffrey Spier and Sara E. Cole.
+- Description: First edition. | Los Angeles : J. Paul Getty Museum, 2022. |
+   Includes bibliographical references. | Summary: "This publication, the
+   proceedings of a 2018 scholars' symposium held at the J. Paul Getty
+   Museum in association with the exhibition Beyond the Nile: Egypt and the
+   Classical World, synthesizes current research on cultural interactions
+   between Egypt, Greece, and Rome from the Bronze Age to the Roman
+   Empire"-- Provided by publisher.
+- Identifiers: LCCN 2022010010 (print) | LCCN 2022010011 (ebook) | ISBN
+   9781606067376 (paperback) | ISBN 9781606067383 | ISBN 9781606067574
+   (mobi) | ISBN 9781606067390 (epub)
+- Subjects: LCSH: Civilization, Classical--Congresses. | Classical
+   antiquities--Congresses. | Egypt--Civilization--To 332 B.C.--Congresses.
+   | Egypt--Civilization--332 B.C.-638 A.D.--Congresses. |
+   Greece--Civilization--Egyptian influences--Congresses. |
+   Rome--Civilization--Egyptian influences--Congresses. |
+   Egypt--Antiquities--Congresses.
+- Classification: LCC DT61 .E327 2022  (print) | LCC DT61  (ebook) | DDC
+   932--dc23/eng/20220405
+- LC record available at https://lccn.loc.gov/2022010010
+- LC ebook record available at https://lccn.loc.gov/2022010011
 
 {{< /q-class >}}
 
