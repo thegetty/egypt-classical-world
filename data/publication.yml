@@ -1,4 +1,4 @@
---- # ------------------------------------------------------------------------------
+# ------------------------------------------------------------------------------
 
 # ==============================================================================
 # Publication.yml
@@ -119,23 +119,18 @@ resource_link:
 # ------------------------------------------------------------------------------
 
 subject:
-  - type:
-    name:
-    identifer:
-  - type:
-    name:
-    identifier:
-  - type:
-    name:
-  - type:
-    name:
-    identifier:
-  - type:
-    name:
-    identifier:
-  - type:
-    name:
-    identifier:
+  - type: BISAC
+    name: ART / History / Ancient & Classical
+    identifer: ART015060
+  - type: BISAC
+    name: HISTORY / Ancient / Egypt
+    identifier: HIS002030
+  - type: BISAC
+    name: HISTORY / Ancient / Greece
+    identifier: HIS002010
+  - type: BISAC
+    name: HISTORY / Ancient / Rome
+    identifier: HIS002020
 
 # ------------------------------------------------------------------------------
 # Revision History
