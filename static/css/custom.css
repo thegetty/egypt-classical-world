@@ -661,3 +661,20 @@ span[lang=coptic] {
     display: none;
   }
 }
+
+@media screen {
+  .remove-from-pdf {
+    display: inherit !important;
+  }
+  .remove-from-screen {
+    display: none !important;
+  }
+}
+@media print {
+  .remove-from-pdf {
+    display: none !important;
+  }
+  .remove-from-screen {
+    display: inherit !important;
+  }
+}
