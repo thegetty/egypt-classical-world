@@ -118,6 +118,23 @@ Font Squirrel didn't work for some reason
   font-style: normal;
 }
 
+@media screen {
+  .remove-from-pdf {
+    display: inherit !important;
+  }
+  .remove-from-screen {
+    display: none !important;
+  }
+}
+@media print {
+  .remove-from-pdf {
+    display: none !important;
+  }
+  .remove-from-screen {
+    display: inherit !important;
+  }
+}
+
 /* COVER */
 .quire-cover__overlay {
   background-size: contain;
@@ -315,11 +332,17 @@ span.no-break {
   padding-top: 1rem;
   border-top: 1px solid #333;
 }
+@media screen {
+  .quire-page__content .container .content .backmatter.page-copyright-notice span {
+    display: inline !important;
+  }
+}
 @media print {
   .quire-page__content .container .content .backmatter.page-copyright-notice {
     margin-top: 2rem;
   }
 }
+
 
 /* MAKE FOOTNOTE NUMBERS INSIDE BLOCKQUOTES ROMAN */
 .quire-page__content .content blockquote a.footnote-ref {
@@ -659,22 +682,5 @@ span[lang=coptic] {
   .quire-figure.quire-figure--shared-caption figure figcaption .quire-figure__caption-content,
   .quire-figure.quire-figure--shared-caption figure figcaption .quire-figure__credit {
     display: none;
-  }
-}
-
-@media screen {
-  .remove-from-pdf {
-    display: inherit !important;
-  }
-  .remove-from-screen {
-    display: none !important;
-  }
-}
-@media print {
-  .remove-from-pdf {
-    display: none !important;
-  }
-  .remove-from-screen {
-    display: inherit !important;
   }
 }
