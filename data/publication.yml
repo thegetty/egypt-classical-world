@@ -82,20 +82,25 @@ license:
 
 resource_link:
   - type: other-format
-    name: PDF
+    name: PDF (9.2 MB)
     media_type: application/pdf
     link_relation: alternate
-    url: /downloads/output.pdf
+    url: /downloads/SpierCole_EgyptClassicalWorld.pdf
   - type: other-format
-    name: EPUB
+    name: EPUB (32 MB)
     media_type: application/epub+zip
     link_relation: alternate
-    url: /downloads/output.epub
+    url: /downloads/SpierCole_EgyptClassicalWorld.epub
   - type: other-format
-    name: Kindle/MOBI
+    name: Kindle/MOBI (71 MB)
     media_type: vnd.amazon.mobi8-ebook
     link_relation: alternate
-    url: /downloads/output.mobi
+    url: /downloads/SpierCole_EgyptClassicalWorld.mobi
+  - type: other-format
+    name: Paperback
+    media_type: print
+    link_relation: alternate
+    url: https://shop.getty.edu/products/egypt-and-the-classical-world-cross-cultural-encounters-in-antiquity-978-1606067376
   - type: footer-link
     name: About
     link_relation: about
