@@ -64,7 +64,7 @@ This publication was created using [Quire](https://quire.getty.edu/)™, a multi
 </svg>
 {{< /q-class >}}
 
-Unless otherwise indicated, the text of this work and figs.1.4a–b are licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). To view a copy of this license, visit creativecommons.org/licenses/by-nc/4.0/. All other images are reproduced with the permission of the rights holders acknowledged in captions and expressly excluded from the CC BY-NC license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights.
+Unless otherwise indicated, the text of this work and figs.1.4a–b are licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). All other images are reproduced with the permission of the rights holders acknowledged in captions and expressly excluded from the CC BY-NC license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights.
 
 **Published by the J. Paul Getty Museum, Los Angeles**<br />
 Getty Publications<br />
@@ -84,15 +84,30 @@ Erin Cecele Dunigan and Dina Murokh, *Assistant Digital Editors*<br />
 
 Library of Congress Cataloging-in-Publication Data
 
-- Names:
-- Title:
-- Description:
-- Identifiers: LCCN (print) | LCCN (ebook) | ISBN
-   9781606066874 (paperback) | ISBN 9781606067673 (ebook) | ISBN
-- Subjects:
-- Classification:
-- LC record available at
-- LC ebook record available at
+- Names: Spier, Jeffrey, editor. | Cole, Sara E., editor. | J. Paul Getty 
+   Museum, issuing body.
+- Title: Egypt and the classical world : cross-cultural encounters in
+   antiquity / edited by Jeffrey Spier and Sara E. Cole.
+- Description: First edition. | Los Angeles : J. Paul Getty Museum, 2022. |
+   Includes bibliographical references. | Summary: "This publication, the
+   proceedings of a 2018 scholars' symposium held at the J. Paul Getty
+   Museum in association with the exhibition Beyond the Nile: Egypt and the
+   Classical World, synthesizes current research on cultural interactions
+   between Egypt, Greece, and Rome from the Bronze Age to the Roman
+   Empire"-- Provided by publisher.
+- Identifiers: LCCN 2022010010 (print) | LCCN 2022010011 (ebook) | ISBN
+   9781606067376 (paperback) | ISBN 9781606067383 | ISBN 9781606067574
+   (mobi) | ISBN 9781606067390 (epub)
+- Subjects: LCSH: Civilization, Classical--Congresses. | Classical
+   antiquities--Congresses. | Egypt--Civilization--To 332 B.C.--Congresses.
+   | Egypt--Civilization--332 B.C.-638 A.D.--Congresses. |
+   Greece--Civilization--Egyptian influences--Congresses. |
+   Rome--Civilization--Egyptian influences--Congresses. |
+   Egypt--Antiquities--Congresses.
+- Classification: LCC DT61 .E327 2022  (print) | LCC DT61  (ebook) | DDC
+   932--dc23/eng/20220405
+- LC record available at https://lccn.loc.gov/2022010010
+- LC ebook record available at https://lccn.loc.gov/2022010011
 
 {{< /q-class >}}
 

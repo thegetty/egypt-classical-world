@@ -6,7 +6,7 @@ contributor:
 - id: scole
 type: essay
 class: page-one
-copyright: "Originally published in *Egypt and the Classical World: Cross-Cultural Encounters in Antiquity*. © 2022 J. Paul Getty Trust, www.getty.edu/publications/egypt-classical-world (licensed under CC BY 4.0)"
+copyright: "<span class='remove-from-screen'>© 2022 J. Paul Getty Trust</span><span class='remove-from-pdf remove-from-epub'>Originally published in *Egypt and the Classical World: Cross-Cultural Encounters in Antiquity*. © 2022 J. Paul Getty Trust, [www.getty.edu/&#65279;publications/egypt-classical-world/](https://www.getty.edu/publications/egypt-classical-world/) (licensed under CC BY‑NC 4.0)</span>"
 ---
 
 In 2018 the J. Paul Getty Museum presented the exhibition *Beyond the Nile: Egypt and the Classical World*, curated by Jeffrey Spier, Timothy Potts, and Sara E. Cole. This was the first in a series of exhibitions and publications seeking to explore how Greece and Rome influenced and were influenced by neighboring cultures and civilizations in the Mediterranean and Near East over a period spanning nearly twenty-five hundred years. Providing an assemblage of objects rarely, if ever, displayed together, the exhibition invited viewers to move beyond a common perception of Egypt, Greece, and Rome as monolithic, static cultures; to think about the “classical world” beyond the confines of its traditional definition; and to contemplate the interconnectedness of the ancient Mediterranean.

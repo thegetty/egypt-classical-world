@@ -118,6 +118,23 @@ Font Squirrel didn't work for some reason
   font-style: normal;
 }
 
+@media screen {
+  .remove-from-pdf {
+    display: inherit !important;
+  }
+  .remove-from-screen {
+    display: none !important;
+  }
+}
+@media print {
+  .remove-from-pdf {
+    display: none !important;
+  }
+  .remove-from-screen {
+    display: inherit !important;
+  }
+}
+
 /* COVER */
 .quire-cover__overlay {
   background-size: contain;
@@ -224,6 +241,11 @@ Font Squirrel didn't work for some reason
   margin-right: auto;
   font-style: normal;
 }
+@media print {
+  .quire-page .quire-page__header__contributor .quire-contributor {
+    color: #000;
+  }
+}
 .quire-page .quire-page__header__contributor .quire-contributor span {
   font-style: italic;
 }
@@ -310,11 +332,17 @@ span.no-break {
   padding-top: 1rem;
   border-top: 1px solid #333;
 }
+@media screen {
+  .quire-page__content .container .content .backmatter.page-copyright-notice span {
+    display: inline !important;
+  }
+}
 @media print {
   .quire-page__content .container .content .backmatter.page-copyright-notice {
     margin-top: 2rem;
   }
 }
+
 
 /* MAKE FOOTNOTE NUMBERS INSIDE BLOCKQUOTES ROMAN */
 .quire-page__content .content blockquote a.footnote-ref {
@@ -371,6 +399,7 @@ span.no-break {
   font-size: 1.1em;
   line-height: 1.43;
   font-weight: 400;
+  color: inherit;
 }
 .quire-page--transliteration .quire-page__content table {
   font-size: 1em;
@@ -441,6 +470,9 @@ span.no-break {
   }
   .quire-page__content .content .appendix-b-tables table th:nth-child(-n+3) {
     width: 15%;
+  }
+  .quire-page__content .content #obelisk-a-differences-between-ungarellis-and-ermans-copies {
+    page-break-before: always;
   }
 }
 
@@ -542,11 +574,18 @@ span[lang=coptic] {
     border-width: 0;
     padding-top: 0;
   }
+  .content figure.quire-figure.pdf-add-top-border {
+    border-width: 1px;
+    padding-top: 1.5rem;
+  }
   .content figure.quire-figure.pdf-break-after {
     page-break-after: always;
   }
   .content figure.quire-figure.pdf-column-break-before {
     column-break-before: always;
+  }
+  html body .content figure.quire-figure.remove-from-epub {
+    display: block;
   }
   .content figure.quire-figure.pdf-90-percent-width .q-figure__wrapper img {
     max-width: 90%;
@@ -567,6 +606,22 @@ span[lang=coptic] {
     max-width: 70%;
     margin-left: auto;
     margin-right: auto;
+  }
+  .content figure.pdf-70-30-grid {
+    display: flex !important;
+  }
+  .content figure.pdf-70-30-grid figure:first-child {
+    width: calc(64.3% - .75rem);
+    margin-left: 0;
+    margin-right: .75rem;
+    display: inline-block;
+  }
+  .content figure.pdf-70-30-grid figure:last-child {
+    width: calc(35.7% - .75rem);
+    margin-left: .75rem;
+    margin-right: 0;
+    display: inline-block;
+    margin-top: 0;
   }
 }
 
