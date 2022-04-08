@@ -224,6 +224,11 @@ Font Squirrel didn't work for some reason
   margin-right: auto;
   font-style: normal;
 }
+@media print {
+  .quire-page .quire-page__header__contributor .quire-contributor {
+    color: #000;
+  }
+}
 .quire-page .quire-page__header__contributor .quire-contributor span {
   font-style: italic;
 }
@@ -371,6 +376,7 @@ span.no-break {
   font-size: 1.1em;
   line-height: 1.43;
   font-weight: 400;
+  color: inherit;
 }
 .quire-page--transliteration .quire-page__content table {
   font-size: 1em;
