@@ -84,7 +84,7 @@ Erin Cecele Dunigan and Dina Murokh, *Assistant Digital Editors*<br />
 
 Library of Congress Cataloging-in-Publication Data
 
-- Names: Spier, Jeffrey, editor. | Cole, Sara E., editor. | J. Paul Getty 
+- Names: Spier, Jeffrey, editor. | Cole, Sara E., editor. | J. Paul Getty
    Museum, issuing body.
 - Title: Egypt and the classical world : cross-cultural encounters in
    antiquity / edited by Jeffrey Spier and Sara E. Cole.
@@ -111,6 +111,6 @@ Library of Congress Cataloging-in-Publication Data
 
 {{< /q-class >}}
 
-Front cover: Osiris Canopus, Roman, AD 117–138 (detail). Alabaster. H: 50.8 cm; Diam: 27.9 cm. The Hague, Royal Collections, 4-1690. Image: Courtesy of Royal Collections, the Netherlands.
+Front cover: Osiris Canopus, Roman, AD 117–138 (detail). Alabaster. H: 50.8 cm; Diam: 27.9 cm. The Hague, Royal Collections, 4-1690. Image: Courtesy of Royal Collections, the Netherlands
 
 {{< /q-class >}}

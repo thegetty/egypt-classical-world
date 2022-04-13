@@ -396,9 +396,11 @@ entries:
     full: "Marinatos, Nanno, and A. Sebastian Anderson. 2010. “Elysion and Egypt.” *Journal of Ancient Egyptian Interconnections* 2 (2): 13–24. <https://journals.uair.arizona.edu/index.php/jaei/article/view/56>."
   - id: "Martin 1979"
     essay: 2
+    sort: "Martin, Geoffrey Thorndike 1"
     full: "Martin, Geoffrey Thorndike. 1979. *The Tomb of Hetepka and Other Reliefs and Inscriptions from the Sacred Animal Necropolis, North Saqqara, 1964–73*. London: Egypt Exploration Society."
   - id: "Martin and Nicholls 1978"
     essay: 2
+    sort: "Martin, Geoffrey Thorndike 2"
     full: "Martin, Geoffrey Thorndike, and Richard Vaughan Nicholls. 1978. “Hieroglyphic Stelae with Carian Texts and Carian Stelae with Egyptianizing or Hellenizing Motifs.” In *Carian Inscriptions from North Saqqara and Buhen*, by Olivier Masson, 55–87. London: Egypt Exploration Society."
   - id: "Masson 1978"
     essay: 2
