@@ -13,7 +13,7 @@
     // inside the link, like other html elements, and they include "http"
     // they'll match. Would be better to limit the innerHTML search to
     // childNodes that have a TEXT_NODE type.
-    if(link.innerHTML.indexOf("http") !== -1) {
+    if(link.innerHTML.indexOf("http") !== -1 || link.innerHTML.indexOf("www") !== -1) {
 
       // For links that are URLs, add word break html elements, <wbr>, in
       // appropriate places, as specified in Chicago Manual of Style 17, 14.18
