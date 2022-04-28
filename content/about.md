@@ -7,7 +7,7 @@ epub: false
 
 From Mycenaean weaponry found among the cargo of a Bronze Age shipwreck off the Turkish coast to the Egyptian-inspired domestic interiors of a luxury villa built in Greece during the Roman Empire, *Egypt and the Classical World* documents two millennia of cultural and artistic interconnectedness in the ancient Mediterranean. This volume gathers pioneering research from the Getty scholars' symposium that helped shape the major international loan exhibition *Beyond the Nile: Egypt and the Classical World* (J. Paul Getty Museum, 2018).
 
-Generously illustrated essays consider a range of artistic and other material evidence, including archaeological finds, artworks, papyri, and inscriptions, to shed light on cultural interactions between Egypt, Greece, and Rome from the Bronze Age, to the Late Period and Ptolemaic dynasty, to the Roman Empire. The military's role as a conduit of knowledge and ideas in the Aegean and an in-depth study of hieroglyphic Egyptian inscriptions found on Roman obelisks offer but two examples of scholarly lacunae addressed by this publication. Specialists across the fields of art history, archaeology, Classics, Egyptology, and philology will benefit from the volume's investigations into syncretic processes that enlivened and informed nearly twenty-five hundred years of dynamic cultural exchange.
+Generously illustrated essays consider a range of artistic and other material evidence, including archaeological finds, artworks, papyri, and inscriptions, to shed light on cultural interactions between Egypt, Greece, and Rome from the Bronze Age, to the Late Period and Ptolemaic dynasty, to the Roman Empire. The military's role as a conduit of knowledge and ideas in the Aegean and an in-depth study of hieroglyphic Egyptian inscriptions found on Roman obelisks offer but two examples of scholarly lacunae addressed by this publication. Specialists across the fields of art history, archaeology, classics, Egyptology, and philology will benefit from the volume's investigations into syncretic processes that enlivened and informed nearly twenty-five hundred years of dynamic cultural exchange.
 
 {{< q-class "backmatter" >}}
 
@@ -36,10 +36,10 @@ Any revisions or corrections made to this publication after the first edition da
 
 ## Other Formats
 
-  - [PDF (X MB)](/downloads/output.pdf)
-  - [EPUB (X MB)](/downloads/output.epub)
-  - [Kindle/MOBI (X MB)](/downloads/oputput.mobi)
-  - [Paperback](#)
+  - [PDF (9.2 MB)](/downloads/SpierCole_EgyptClassicalWorld.pdf)
+  - [EPUB (32 MB)](/downloads/SpierCole_EgyptClassicalWorld.epub)
+  - [Kindle/MOBI (71 MB)](/downloads/SpierCole_EgyptClassicalWorld.mobi)
+  - [Paperback](https://shop.getty.edu/products/egypt-and-the-classical-world-cross-cultural-encounters-in-antiquity-978-1606067376)
 
 ## Copyright
 
@@ -64,7 +64,7 @@ This publication was created using [Quire](https://quire.getty.edu/)™, a multi
 </svg>
 {{< /q-class >}}
 
-Unless otherwise indicated, the text of this work and figs.1.4a–b are licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). All other images are reproduced with the permission of the rights holders acknowledged in captions and expressly excluded from the CC BY-NC license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights.
+The text of this work, unless otherwise indicated, and figs.1.4a–b are licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). All other images are reproduced with the permission of the rights holders acknowledged in captions and expressly excluded from the CC BY-NC license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights.
 
 **Published by the J. Paul Getty Museum, Los Angeles**<br />
 Getty Publications<br />
@@ -90,22 +90,22 @@ Library of Congress Cataloging-in-Publication Data
    antiquity / edited by Jeffrey Spier and Sara E. Cole.
 - Description: First edition. | Los Angeles : J. Paul Getty Museum, 2022. |
    Includes bibliographical references. | Summary: "This publication, the
-   proceedings of a 2018 scholars' symposium held at the J. Paul Getty
-   Museum in association with the exhibition Beyond the Nile: Egypt and the
-   Classical World, synthesizes current research on cultural interactions
+   proceedings of a 2018 scholars’ symposium held at the J. Paul Getty
+   Museum in association with the exhibition *Beyond the Nile: Egypt and the
+   Classical World*, synthesizes current research on cultural interactions
    between Egypt, Greece, and Rome from the Bronze Age to the Roman
-   Empire"-- Provided by publisher.
+   Empire"—Provided by publisher.
 - Identifiers: LCCN 2022010010 (print) | LCCN 2022010011 (ebook) | ISBN
    9781606067376 (paperback) | ISBN 9781606067383 | ISBN 9781606067574
    (mobi) | ISBN 9781606067390 (epub)
-- Subjects: LCSH: Civilization, Classical--Congresses. | Classical
-   antiquities--Congresses. | Egypt--Civilization--To 332 B.C.--Congresses.
-   | Egypt--Civilization--332 B.C.-638 A.D.--Congresses. |
-   Greece--Civilization--Egyptian influences--Congresses. |
-   Rome--Civilization--Egyptian influences--Congresses. |
-   Egypt--Antiquities--Congresses.
+- Subjects: LCSH: Civilization, Classical—Congresses. | Classical
+   antiquities—Congresses. | Egypt—Civilization—To 332 B.C.—Congresses.
+   | Egypt—Civilization—332 B.C.–638 A.D.—Congresses. |
+   Greece—Civilization—Egyptian influences—Congresses. |
+   Rome—Civilization—Egyptian influences—Congresses. |
+   Egypt—Antiquities—Congresses.
 - Classification: LCC DT61 .E327 2022  (print) | LCC DT61  (ebook) | DDC
-   932--dc23/eng/20220405
+   932—dc23/eng/20220405
 - LC record available at https://lccn.loc.gov/2022010010
 - LC ebook record available at https://lccn.loc.gov/2022010011
 

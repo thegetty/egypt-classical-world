@@ -295,9 +295,14 @@ Font Squirrel didn't work for some reason
   border-color: #bed3b1;
 }
 
-/* TOC LINE SPACING */
+/* TOC LINE SPACING & FONT SIZE */
 .quire-page__content .quire-contents-list.list .title {
   line-height: 1.5;
+}
+@media screen {
+  .quire-contents-list .menu-list a {
+    font-size: 1.125em;
+  }
 }
 
 /* FIX FIGURE LABEL LINE SPACING */
