@@ -50,8 +50,8 @@ Library of Congress Cataloging-in-Publication Data
 - Description: First edition. | Los Angeles : J. Paul Getty Museum, 2022. |
    Includes bibliographical references. | Summary: "This publication, the
    proceedings of a 2018 scholars’ symposium held at the J. Paul Getty
-   Museum in association with the exhibition *Beyond the Nile: Egypt and the
-   Classical World*, synthesizes current research on cultural interactions
+   Museum in association with the exhibition Beyond the Nile: Egypt and the
+   Classical World, synthesizes current research on cultural interactions
    between Egypt, Greece, and Rome from the Bronze Age to the Roman
    Empire"—Provided by publisher.
 - Identifiers: LCCN 2022010010 (print) | LCCN 2022010011 (ebook) | ISBN
