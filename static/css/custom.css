@@ -242,6 +242,9 @@ Font Squirrel didn't work for some reason
   font-style: normal;
 }
 @media print {
+  .quire-page .quire-page__header__contributor {
+    opacity: inherit;
+  }
   .quire-page .quire-page__header__contributor .quire-contributor {
     color: #000;
   }
