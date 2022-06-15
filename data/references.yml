@@ -1,11 +1,2191 @@
 entries:
-  - id: "Evans 1938"
-    full: "Evans, Walker. *American Photographs*. New York: Museum of Modern Art, 1938."
-  - id: "Lynd 1929"
-    full: "Lynd, Robert S., and Helen Merrell Lynd. *Middletown: A Study in American Culture* San Diego: Harcourt Brace Jovanovich, 1929; reprint, Harvest/HBJ, 1956."
-  - id: "Agee 1941"
-    full: "Agee, James, and Walker Evans. *Let Us Now Praise Famous Men: Three Tenant Families*. Boston: Houghton Mifflin, 1941."
-  - id: "Kirstein 1938"
-    full: "Kirstein, Lincoln. Photographs of America: Walker Evans *American Photographs*. New York: Museum of Modern Art, 1938"
-  - id: "West 1939"
-    full: "West, Anthony. Middletown and Main street. *Architectual Review* 85. 1939."
+
+  - id: "Abbas 2017"
+    essay: 1
+    full: "Abbas, Mohamed Raafat. 2017. “A Survey of the Military Role of the Sherden Warriors in the Egyptian Army during the Ramesside Period.” *Égypte Nilotique et Méditerranéenne* 10:7–23."
+  - id: "Aruz, Benzel, and Evans 2008"
+    essay: 1
+    full: "Aruz, Joan, Kim Benzel, and Jean M. Evans, eds. 2008. *Beyond Babylon: Art, Trade, and Diplomacy in the Second Millennium B.C*. New York: Metropolitan Museum of Art."
+  - id: "Bachhuber 2006"
+    essay: 1
+    full: "Bachhuber, Christoph. 2006. “Aegean Interest on the Uluburun Ship.” *American Journal of Archaeology* 110, no. 3 (July): 345–63."
+  - id: "Bouzek 1994"
+    essay: 1
+    full: "Bouzek, Jan. 1994. “Late Bronze Age Greece and the Balkans: A Review of the Present Picture.” *Annual of the British School at Athens* 89:217–34."
+  - id: "Bouzek 2018"
+    essay: 1
+    full: "Bouzek, Jan. 2018. *Studies of Homeric Greece*. Prague: Karolinum Press, Charles University."
+  - id: "Bryce 2016"
+    essay: 1
+    full: "Bryce, Trevor. 2016. “The Land of Hiyawa (Que) Revisited.” *Anatolian Studies* 66:67–79."
+  - id: "Causey 2011"
+    essay: 1
+    full: "Causey, Faya. 2011. *Amber and the Ancient World*. Los Angeles: J. Paul Getty Museum."
+  - id: "Cline 1996"
+    essay: 1
+    full: "Cline, E. H. 1996. “Aššuwa and the Achaeans: The ‘Mycenaean’ Sword at Hattušas and Its Possible Implications.” *Annual of the British School at Athens* 91:137–51."
+  - id: "Drews 2017"
+    essay: 1
+    full: "Drews, Robert. 2017. *Militarism and the Indo-Europeanizing of Europe*. London: Routledge."
+  - id: "Emanuel 2014a"
+    essay: 1
+    full: "Emanuel, Jeffrey P. 2014a. “Odysseus’ Boat? New Mycenaean Evidence from the Egyptian New Kingdom.” In Discovery of the Classical World: An Interdisciplinary Workshop on Ancient Societies, a lecture series presented by the Department of the Classics at Harvard University, Cambridge, MA. <http://nrs.harvard.edu/urn-3:HUL.InstRepos:24013723>."
+  - id: "Emanuel 2014b"
+    essay: 1
+    full: "Emanuel, Jeffrey P. 2014b. “Sailing from Periphery to Core in the Late Bronze Age Eastern Mediterranean.” In *There and Back Again—the Crossroads II*, edited by Jana Mynářová, Pavel Onderka, and Peter Pavúk, 163–79. Prague: Faculty of Arts, Charles University."
+  - id: "Emanuel 2017"
+    essay: 1
+    full: "Emanuel, Jeffrey P. 2017. *Black Ships and Sea Raiders: The Late Bronze–Early Iron Age Context of Odysseus’ Second Cretan Lie*. Lanham, MD: Lexington."
+  - id: "Gardiner 1941"
+    essay: 1
+    full: "Gardiner, Alan Henderson. 1941. “Adoption Extraordinary.” *Journal of Egyptian Archaeology* 26 (February): 23–29."
+  - id: "Gardiner 1948"
+    essay: 1
+    full: "Gardiner, Alan Henderson. 1948. *The Wilbour Papyrus*. Vol. 2, *Commentary*. London: Oxford University Press."
+  - id: "Gasperini 2018"
+    essay: 1
+    full: "Gasperini, Valentina. 2018. *Tomb Robberies at the End of the New Kingdom: The Gurob Burnt Groups Reinterpreted*. Oxford: Oxford University Press."
+  - id: "Hansen 2002"
+    essay: 1
+    full: "Hansen, William F. 2002. *Ariadne’s Thread: A Guide to International Tales Found in Classical Literature*. Ithaca, NY: Cornell University Press."
+  - id: "Harding 2000"
+    essay: 1
+    full: "Harding, A. F. 2000. *European Societies in the Bronze Age*. Cambridge: Cambridge University Press."
+  - id: "Heimpel 2003"
+    essay: 1
+    full: "Heimpel, Wolfgang. 2003. *Letters to the King of Mari: A New Translation with Historical Introduction, Notes, and Commentary*. Winona Lake, IN: Eisenbrauns."
+  - id: "Jung 2018"
+    essay: 1
+    full: "Jung, Reinhard. 2018. “Warriors and Weapons on the Central and Eastern Balkans.” In *Gold and Bronze: Metals, Technologies and Interregional Contacts in the Eastern Balkans during the Bronze Age*, edited by Stefan Alexandrov et al., 240–51. Sofia: National Archaeological Institute with Museum."
+  - id: "Kelder 2010"
+    essay: 1
+    full: "Kelder, Jorrit M. 2010. *The Kingdom of Mycenae: A Great Kingdom in the Late Bronze Age Aegean*. Bethesda, MD: CDL."
+  - id: "Kelder 2016"
+    essay: 1
+    full: "Kelder, Jorrit M. 2016. “Een paspoort uit de Late Bronstijd? Een nieuwe interpretatie van het houten diptiek uit het Uluburun-wrak.” *Tijdschrift Mediterrane Archeologie* 55:1–6."
+  - id: "Kristiansen and Suchowska-Ducke 2015"
+    essay: 1
+    full: "Kristiansen, Kristian, and Paulina Suchowska-Ducke. 2015. “Connected Histories: The Dynamics of Bronze Age Interaction and Trade 1500–1100 BC.” *Proceedings of the Prehistoric Society* 81:361–92."
+  - id: "Kuniholm et al. 1996"
+    essay: 1
+    full: "Kuniholm, Peter, et al. 1996. “Anatolian Tree Rings and the Absolute Chronology of the Eastern Mediterranean, 2220–718 BC.” *Nature* 381:780–83."
+  - id: "Leshtakov 2011"
+    essay: 1
+    full: "Leshtakov, Lyuben. 2011. “Late Bronze and Early Iron Age Bronze Spear- and Javelinheads in Bulgaria in the Context of Southeastern Europe.” *Archaeologia Bulgarica* 15 (2): 25–52."
+  - id: "Litzka 2011"
+    essay: 1
+    full: "Litzka, Kate. 2011. “‘We Have Come from the Well of Ibhet’: Ethnogenesis of the Medjay.” *Journal of Egyptian History* 4 (2): 149–71."
+  - id: "Longman et al. 2018"
+    essay: 1
+    full: "Longman, Jack, et al. 2018. “Exceptionally High Levels of Lead Pollution in the Balkans from the Early Bronze Age to the Industrial Revolution.” *Proceedings of the National Academy of Sciences* 115, no. 25 (June): E5661–E5668. <https://doi.org/10.1073/pnas.1721546115>."
+  - id: "Manning et al. 2001"
+    essay: 1
+    full: "Manning, Sturt W., et al. 2001. “Anatolian Tree Rings and a New Chronology for the East Mediterranean Bronze–Iron Ages.” *Science* 294, no. 5551 (December 21): 2532–35."
+  - id: "Mcintyre 2004"
+    essay: 1
+    full: "Mcintyre, Ben. 2004. *Josiah the Great: The True Story of the Man Who Would Be King*. London: Harper Perennial."
+  - id: "Molloy 2012"
+    essay: 1
+    full: "Molloy, Barry. 2012. “The Origins of Plate Armour in the Aegean and Europe.” In *Recent Research and Perspectives on the Late Bronze Age Eastern Mediterranean*, edited by Angelos Papadopoulos, 273–94. Amsterdam: Dutch Archaeological and Historical Society."
+  - id: "Morris 2003"
+    essay: 1
+    full: "Morris, Sarah P. 2003. “Imaginary Kings: Alternatives to Monarchy in Early Greece.” In *Popular Tyranny: Sovereignty and Its Discontents in Ancient Greece*, edited by Kathryn A. Morgan, 1–24. Austin: University of Texas Press."
+  - id: "Morris 2008"
+    essay: 1
+    full: "Morris, Sarah P. 2008. “Bridges to Babylon: Homer, Anatolia, and the Levant.” In *Beyond Babylon: Art, Trade, and Diplomacy in the Second Millennium B.C*., edited by Joan Aruz, Kim Benzel, and Jean M. Evans, 435–39. New York: Metropolitan Museum of Art."
+  - id: "Petrie 1890"
+    essay: 1
+    full: "Petrie, W. M. Flinders. 1890. *Kahun, Gurob and Hawara*. London: Kegan Paul."
+  - id: "Petrie 1891"
+    essay: 1
+    full: "Petrie, W. M. Flinders. 1891. *Illahun, Kahun and Gurob, 1889–1890*. London: David Nutt."
+  - id: "Pulak 1998"
+    essay: 1
+    full: "Pulak, Cemal. 1998. “The Uluburun Shipwreck: An Overview.” *International Journal of Nautical Archaeology* 27, no. 3 (August): 188–224."
+  - id: "Pusch 1989"
+    essay: 1
+    full: "Pusch, Edgar B. 1989. “Ausländisches Kulturgut in Qantir-Piramesse.” In *Akten des 4. internationalen Ägyptologenkongresses*. Vol. 2, *Archäologie, Feldforschung, Prähistorie*, edited by Sylvia Schoske, 249–56. Hamburg: Buske."
+  - id: "Ruppenstein 2015"
+    essay: 1
+    full: "Ruppenstein, Florian. 2015. “Did the Terms ‘Wanax’ and ‘Lāwāgetās’ Already Exist before the Emergence of the Mycenaean Palatial Polities?” *Göttinger Forum für Altertumswissenschaft* 18:91–107."
+  - id: "Sandars 1985"
+    essay: 1
+    full: "Sandars, N. K. 1985. *The Sea Peoples: Warriors of the Ancient Mediterranean, 1250–1150 BC*. London: Thames & Hudson."
+  - id: "Schofield and Parkinson 1994"
+    essay: 1
+    full: "Schofield, L., and R. B. Parkinson. 1994. “Of Helmets and Heretics: A Possible Egyptian Representation of Mycenaean Warriors on a Papyrus from el-Amarna.” *Annual of the British School at Athens* 89:157–70."
+  - id: "Singer 2006"
+    essay: 1
+    full: "Singer, Itamar. 2006. “Ships Bound for Lukka: A New Interpretation of the Companion Letters RS 94.2530 and RS 94.2523.” *Altorientalische Forschungen* 33 (2): 242–62."
+  - id: "Spier, Potts, and Cole 2018"
+    essay: 1
+    full: "Spier, Jeffrey, Timothy Potts, and Sara E. Cole, eds. 2018. *Beyond the Nile: Egypt and the Classical World*. Los Angeles: J. Paul Getty Museum."
+  - id: "Trimm 2017"
+    essay: 1
+    full: "Trimm, Charlie. 2017. *Fighting for the King and the Gods: A Survey of Warfare in the Ancient Near East*. Atlanta: SBL."
+  - id: "Vandkilde 2014"
+    essay: 1
+    full: "Vandkilde, Helle. 2014. “Breakthrough of the Nordic Bronze Age: Transcultural Warriorhood and a Carpathian Crossroad in the Sixteenth Century BC.” *European Journal of Archaeology* 17 (4): 602–33."
+  - id: "Varberg, Gratuze, and Kaul 2015"
+    essay: 1
+    full: "Varberg, Jeanette, Bernard Gratuze, and Flemming Kaul. 2015. “Between Egypt, Mesopotamia and Scandinavia: Late Bronze Age Glass Beads Found in Denmark.” *Journal of Archaeological Science* 54 (February): 168–81."
+  - id: "Varberg et al. 2016"
+    essay: 1
+    full: "Varberg, Jeanette, et al. 2016. “Mesopotamian Glass from Late Bronze Age Egypt, Romania, Germany and Denmark.” *Journal of Archaeological Science* 74 (October): 184–94."
+  - id: "Waal 2021"
+    essay: 1
+    full: "Waal, W. J. I. 2021. “Distorted Reflections? Writing the Late Bronze Age in the Mirror of Anatolia.” In *Linguistic and Cultural Interactions between Greece and the Ancient Near East: In Search of the Golden Fleece*, edited by Michele Bianconi. Leiden: Brill."
+  - id: "Wachsmann 2013"
+    essay: 1
+    full: "Wachsmann, Shelley. 2013. *The Gurob Ship-Cart Model and Its Mediterranean Context*. College Station: Texas A&M University Press."
+  - id: "Wachsmann 2018"
+    essay: 1
+    full: "Wachsmann, Shelley. 2018. “Egyptian Ship Model Sheds Light on Bronze Age Warfare and Religion.” *The Iris* (blog), Getty Trust, July 9, 2018. <http://blogs.getty.edu/iris/egyptian-ship-model-sheds-light-on-bronze-age-warfare-and-religion/>."
+  - id: "Whitley et al. 2005–6"
+    essay: 1
+    full: "Whitley, James, et al. 2005–6. “Archaeology in Greece 2005–2006.” *Archaeological Reports* 52:1–112."
+
+  - id: "Abd el-Fattah, Abd el-Maksoud, and Carrez-Maratray 2014"
+    essay: 2
+    full: "Abd el-Fattah, Ahmed, Mohamed Abd el-Maksoud, and Jean-Yves Carrez-Maratray. 2014. “Deux inscriptions grecques du Boubasteion d’Alexandrie.” *Ancient Society* 44:149–77."
+  - id: "Abd el–Maksoud, Abd el–Fattah, and Seif el–Din 2012"
+    essay: 2
+    full: "Abd el-Maksoud, Mohamed, Ahmed Abd el-Fattah, and Mervat Seif el-Din. 2012. “La fouille du Boubasteion d’Alexandrie.” In *L’enfant et la mort dans l’antiquité*. Vol. 3, *Le matériel associé aux tombes d’enfants*, edited by Antoine Hermary and Céline Dubois, 427–46. Paris: Errance."
+  - id: "Abd el–Maksoud, Abd el–Fattah, and Seif el–Din 2015"
+    essay: 2
+    full: "Abd el-Maksoud, Mohamed, Ahmed Abd el-Fattah, and Mervat Seif el-Din. 2015. “Foundation Deposit Plaques from the Boubasteion.” *Bulletin de la Société Archéologique d’Alexandrie* 49:125–44."
+  - id: "Abd el–Maksoud, Abd el–Fattah, and Seif el–Din 2018"
+    essay: 2
+    full: "Abd el-Maksoud, Mohamed, Ahmed Abd el-Fattah, and Mervat Seif el-Din. 2018. “The Early Greek Presence in Alexandria.” In *Hellenistic Alexandria: Celebrating 24 Centuries*, edited by Christos S. Zerefos and Marianna V. Vardinoyannis, 51–60. Oxford: Oxbow."
+  - id: "Adiego 2007"
+    essay: 2
+    full: "Adiego, Ignacio-Javier. 2007. *The Carian Language*. Leiden: Brill."
+  - id: "Adiego 2013"
+    essay: 2
+    full: "Adiego, Ignacio-Javier. 2013. “Unity and Diversity in the Carian Alphabet.” In *Euploia: La Lycie et la Carie antiques; Dynamiques des territoires, échanges et identités*, edited by Patrice Brun et al., 17–28. Bordeaux: Ausonius."
+  - id: "Adiego 2019"
+    essay: 2
+    full: "Adiego, Ignasi-Xavier. 2019. “‘Archaic’ Carian.” In *Karia Arkhaia: La Carie, des origines à la période pré-hékatomnide*, edited by Olivier Henry and Koray Konuk, 23–41. Istanbul: Institut Français d’Études Anatoliennes Georges Dumézil."
+  - id: "Agelarakis 2015"
+    essay: 2
+    full: "Agelarakis, Anagnostis P. 2015. “Klazomenaeans of Three Continents: Emphasis on the 7th C. BC.” In *Nostoi: Indigenous Culture, Migration and Integration in the Aegean Islands and Western Anatolia during the Late Bronze and Early Iron Age*, edited by Nicholas C. Stampolidis, Çiğdem Manner, and Konstantinos Kopanias, 923–81. Istanbul: Koҫ University Press."
+  - id: "Agut-Labordère 2013"
+    essay: 2
+    full: "Agut-Labordère, Damien. 2013. “The Saite Period: The Emergence of a Mediterranean Power.” In *Ancient Egyptian Administration*, edited by Juan Carlos Moreno García, 965–1028. Leiden: Brill."
+  - id: "Arrington 2015"
+    essay: 2
+    full: "Arrington, Nathan T. 2015. “Talismanic Practice at Lefkandi: Trinkets, Burials and Belief in the Early Iron Age.” *Cambridge Classical Journal* 62:1–30."
+  - id: "Atallah 1966"
+    essay: 2
+    full: "Atallah, Wahib. 1966. *Adonis dans la littérature et l’art grec*. Paris: Klincksieck."
+  - id: "Baines 1985"
+    essay: 2
+    full: "Baines, John. 1985. “Color Terminology and Color Classification: Ancient Egyptian Color Terminology and Polychromy.” *American Anthropologist*, n.s., 87, no. 2 (June): 282–97."
+  - id: "BAPD"
+    essay: 2
+    full: "BAPD. Beazley Archive Pottery Database, Classical Art Research Center, University of Oxford. [https://www.beazley.ox.ac.uk/pottery/&#65279;default.htm](https://www.beazley.ox.ac.uk/pottery/default.htm)."
+  - id: "Baughan 2013"
+    essay: 2
+    full: "Baughan, Elizabeth P. 2013. *Couched in Death: Klinai and Identity in Anatolia and Beyond*. Madison: University of Wisconsin Press."
+  - id: "Beck, Bol, and Bückling 2005"
+    essay: 2
+    full: "Beck, Herbert, Peter C. Bol, and Maraike Bückling. 2005. *Ägypten Griechenland Rom: Abwehr und Berührung*. Frankfurt: Städel, Städelsches Kunstinstitut und Städtische Galerie; Tübingen: Wasmuth."
+  - id: "Bergmann 2019"
+    essay: 2
+    full: "Bergmann, Marianne. 2019. “Frühhellenistische Weihgeschenke aus dem Tempel von Zagazig (Bubastis) im Nildelta.” *Jahrbuch des Deutschen Archäologischen Instituts* 134:53–166."
+  - id: "Bierl and Lardinois 2016"
+    essay: 2
+    full: "Bierl, Anton, and André Lardinois, eds. 2016. *The Newest Sappho: P. Sapph. Obbink and P. GC inv. 105, Frs. 1–4*. Leiden: Brill."
+  - id: "Bing 2018"
+    essay: 2
+    full: "Bing, Peter. 2018. “Tombs of Poets’ Minor Characters.” In *Tombs of the Ancient Poets: Between Literary Reception and Material Culture*, edited by Nora Goldschmidt and Barbara Graziosi, 147–70. Oxford: Oxford University Press."
+  - id: "Bonnet and Bricault 2016"
+    essay: 2
+    full: "Bonnet, Corinne, and Laurent Bricault. 2016. *Quand les dieux voyagent: Cultes et mythes en mouvement dans l’espace méditerranéen antique*. Geneva: Labor et Fides."
+  - id: "Bowie 2016"
+    essay: 2
+    full: "Bowie, Ewen. 2016. “How Did Sappho’s Songs Get into the Male Sympotic Repertoire?” In *The Newest Sappho: P. Sapph. Obbink and P. GC inv. 105, Frs. 1–4*, edited by Anton Bierl and André Lardinois, 148–64. Leiden: Brill."
+  - id: "Bredow 2017"
+    essay: 2
+    full: "Bredow, Iris von. 2017. *Kontaktzone Vorderer Orient und Ägypten: Orte, Situationen und Bedingungen für primäre griechisch-orientalische Kontakte vom 10. bis zum 6. Jahrhundert v. Chr*. Stuttgart: Steiner."
+  - id: "Bremmer 2016"
+    essay: 2
+    full: "Bremmer, Jan. 2016. “The Construction of an Individual Eschatology: The Case of the Orphic Gold Leaves.” In *Burial Rituals, Ideas of Afterlife, and the Individual in the Hellenistic World and the Roman Empire*, edited by Katharina Waldner, Richard Gordon, and Wolfgang Spickermann, 31–51. Stuttgart: Steiner."
+  - id: "Brinkmann, Dreyfus, and Koch-Brinkmann 2017"
+    essay: 2
+    full: "Brinkmann, Vinzenz, Renée Dreyfus, and Ulrike Koch-Brinkmann. 2017. *Gods in Color: Polychromy in the Ancient World*. San Francisco: Fine Arts Museums of San Francisco; New York: DelMonico/Prestel."
+  - id: "Bubenheimer-Erhart 2004"
+    essay: 2
+    full: "Bubenheimer-Erhart, Friederike. 2004. “Ägyptische Elemente in der Ausstattung eines etruskischen Grabes.” In *Fremdheit—Eigenheit: Ägypten, Griechenland und Rom; Austausch und Verständnis*, edited by Peter Cornelis Bol, Gabriele Kaminski, and Caterina Maderna, 85–96. Stuttgart: Scheufele."
+  - id: "Burkert 2004"
+    essay: 2
+    full: "Burkert, Walter. 2004. *Babylon, Memphis, Persepolis: Eastern Contexts of Greek Culture*. Cambridge, MA: Harvard University Press."
+  - id: "Cambitoglou 2018"
+    essay: 2
+    full: "Cambitoglou, Alexander. 2018. *Adonis: His Representations in South Italian Vase-Painting*, edited by Jean-Paul Descœudres. Bern: Lang."
+  - id: "Caneva 2012"
+    essay: 2
+    full: "Caneva, Stefano G. 2012. “Queens and Ruler Cults in Early Hellenism: Festivals, Administration, and Ideology.” *Kernos* 25 (November): 75–100."
+  - id: "Caneva 2014"
+    essay: 2
+    full: "Caneva, Stefano G. 2014. “Ruler Cults in Practice: Sacrifices and Libations for Arsinoe Philadelphos, from Alexandria and Beyond.” In *Divinizzazione, culto del sovrano e apoteosi: Tra Antichità e Medioevo*, edited by Tommaso Gnoli and Federicomaria Muccioli, 85–116. Bologna: Bononia University Press."
+  - id: "Caneva 2016"
+    essay: 2
+    full: "Caneva, Stefano G. 2016. *From Alexander to the Theoi Adelphoi: Foundation and Legitimation of a Dynasty*. Leuven: Peeters."
+  - id: "Carty 2015"
+    essay: 2
+    full: "Carty, Aideen. 2015. *Polycrates, Tyrant of Samos: New Light on Archaic Greece*. Stuttgart: Steiner."
+  - id: "Closterman 2015"
+    essay: 2
+    full: "Closterman, Wendy E. 2015. “Family Meals: Banquet Imagery on Classical Athenian Funerary Reliefs.” In *Cities Called Athens: Studies Honoring John McK. Camp II*, edited by Kevin F. Daly and Lee Ann Riccardi, 1–22. Lewisburg, PA: Bucknell University Press; Lanham, MD: Rowman & Littlefield."
+  - id: "Colburn 2018"
+    essay: 2
+    full: "Colburn, Henry P. 2018. “Contact Points: Memphis, Naukratis, and the Greek East.” In *Beyond the Nile: Egypt and the Classical World*, edited by Jeffrey Spier, Timothy Potts, and Sara E. Cole, 82–88. Los Angeles: J. Paul Getty Museum."
+  - id: "Coulon 2005"
+    essay: 2
+    full: "Coulon, Laurent. 2005. “Trauerrituale im Grab des Osiris in Karnak.” In *Der Abschied von den Toten: Trauerrituale im Kulturvergleich*, edited by Jan Assmann, Franz Maciejewski, and Axel Michaels, 326–41. Göttingen: Wallstein."
+  - id: "Coulon 2013"
+    essay: 2
+    full: "Coulon, Laurent. 2013. “Osiris chez Hérodote.” In *Hérodote et l’Égypte: Regards croisés sur le livre II de l’Enquête d’Hérodote*, edited by Laurent Coulon, Pascale Giovannelli-Jouanna, and Flore Kimmel-Clauzet, 167–90. Lyon: Maison de l’Orient et de la Méditerranée."
+  - id: "Couroucli 2012"
+    essay: 2
+    full: "Couroucli, Maria. 2012. “Introduction: Sharing Sacred Places—a Mediterranean Tradition.” In *Sharing Sacred Spaces in the Mediterranean: Christians, Muslims, and Jews at Shrines and Sanctuaries*, edited by Dionigi Albera and Maria Couroucli, 1–9. Bloomington: Indiana University Press."
+  - id: "Darby, Ghalioungui, and Grivetti 1977"
+    essay: 2
+    full: "Darby, William J., Paul Ghalioungui, and Louis Grivetti. 1977. *Food: The Gift of Osiris*. London: Academic Press."
+  - id: "Davies 2006"
+    essay: 2
+    full: "Davies, Sue. 2006. *The Sacred Animal Necropolis at North Saqqara: Mother of Apis and Baboon Catacombs*. London: Egypt Exploration Society."
+  - id: "Descat 2008"
+    essay: 2
+    full: "Descat, Raymond. 2008. “Note sur l’émigration carienne en Égypte à l’époque archaïque.” In *D’Orient et d’Occident: Mélanges offerts à Pierre Aupert*, edited by Alain Bouet, 87–91. Bordeaux: Ausonius."
+  - id: "Detienne 1977"
+    essay: 2
+    full: "Detienne, Marcel. 1977. *The Gardens of Adonis: Spices in Greek Mythology*. Hassocks, UK: Harvester."
+  - id: "Devauchelle 2010"
+    essay: 2
+    full: "Devauchelle, Didier. 2010. “Osiris, Apis, Sarapis et les autres: Remarques sur les Osiris memphites au Ier millénaire av. J.-C.” In *Le culte d’Osiris au Ier millénaire av. J.-C.: Découvertes et travaux récents*, edited by Laurent Coulon, 33–38. Cairo: Institut Français d’Archéologie Orientale."
+  - id: "Devauchelle 2012"
+    essay: 2
+    full: "Devauchelle, Didier. 2012. “Pas d’Apis pour Sarapis!” In *Et in Ægypto et ad Ægyptum: Recueil d’études dédiées à* *Jean-Claude Grenier*, edited by Annie Gassze, Frédéric Servajean, and Christophe Thiers, 2:213–26. Montpellier: Université Paul Valéry."
+  - id: "Di Filippo Balestrazzi 1999"
+    essay: 2
+    full: "Di Filippo Balestrazzi, Elena. 1999. “Adone, o quando la regalità è finzione: Della terrazza cultuale di Ebla al rito ‘sul tetto’ nelle Adonie occidentali; Storia ed evoluzione di una festa.” *Ostraka* 8:309–42."
+  - id: "Dousa 2010"
+    essay: 2
+    full: "Dousa, Thomas M. 2010. “Common Motifs in the ‘Orphic’ B Tablets and Egyptian Funerary Texts: Continuity or Convergence?” In *The “Orphic” Gold Tablets and Greek Religion: Further along the Path*, edited by Radcliffe G. Edmonds III, 120–64. Cambridge: Cambridge University Press."
+  - id: "Draycott 2018"
+    essay: 2
+    full: "Draycott, Catherine M. 2018. “Making Meaning of Myth: On the Interpretation of Mythological Imagery in the Polyxena Sarcophagus and the Kızılbel Tomb and the History of Achaemenid Asia Minor.” In *Wandering Myths: Transcultural Uses of Myth in the Ancient World*, edited by Lucy Gaynor Audley-Miller and Beate Dignas, 23–70. Berlin: De Gruyter."
+  - id: "Dyer and Villing unpublished manuscript"
+    essay: 2
+    full: "Dyer, Joanne, and Alexandra Villing. ”Polychromy on a Carian Grave Stela from Egypt.” Unpublished mansucript, last modified March 21, 2022. Microsoft Word file."
+  - id: "Edwards 1984"
+    essay: 2
+    full: "Edwards, Charles M. 1984. “Aphrodite on a Ladder.” *Hesperia* 53, no. 1 (January–March): 59–72."
+  - id: "Emery 1970"
+    essay: 2
+    full: "Emery, W. B. 1970. “Preliminary Report on the Excavations at North Saqqara, 1968–9.” *Journal of Egyptian Archaeology* 56, no. 1 (August): 5–11."
+  - id: "Faraone 1993"
+    essay: 2
+    full: "Faraone, Christopher A. 1993. “The Wheel, the Whip and Other Implements of Torture: Erotic Magic in Pindar *Pythian* 4.213–19.” *Classical Journal* 89, no. 1 (November): 1–19."
+  - id: "Ferrari 2014"
+    essay: 2
+    full: "Ferrari, Franco. 2014. “Sappho and Her Brothers, and Other Passages from the First Book.” *Zeitschrift für Papyrologie und Epigraphik* 192:1–19."
+  - id: "Gallo and Masson 1993"
+    essay: 2
+    full: "Gallo, Paolo, and Olivier Masson. 1993. “Une stele ‘hellenomemphite’ de l’ex-Collection Nahman.” *Bulletin de l’Institut Français d’Archéologie Orientale* 93:265–76."
+  - id: "Gardner 1888"
+    essay: 2
+    full: "Gardner, Ernest Arthur. 1888. *Naukratis: Part II*. London: Egypt Exploration Fund."
+  - id: "Glotz 1920"
+    essay: 2
+    full: "Glotz, Gustave. 1920. “Les fêtes d’Adonis sous Ptolémée II.” *Revue des Études Grecques* 33, no. 152 (April–June): 169–222."
+  - id: "Hansen 1983"
+    essay: 2
+    full: "Hansen, P. A. 1983. *Carmina epigraphica Graeca*. Vol. 1, *Saeculorum VIII–V a. Chr. N.* Berlin: De Gruyter."
+  - id: "Henrichs 2010"
+    essay: 2
+    full: "Henrichs, Albert. 2010. “Mystika, Orphika, Dionysiaka: Esoterische Gruppenbildungen, Glaubensinhalte und Verhaltensweisen in der griechischen Religion.” In *Gewalt und Opfer: Im Dialog mit Walter Burkert*, edited by Anton Bierl and Wolfgang Braungart, 87–114. Berlin: De Gruyter."
+  - id: "Henrichs 2011"
+    essay: 2
+    full: "Henrichs, Albert. 2011. “Dionysos Dismembered and Restored to Life: The Earliest Evidence (OF 59 I–II).” In *Tracing Orpheus: Studies of Orphic Fragments*, edited by Miguel Herrero de Jáuregui et al., 61–68. Berlin: De Gruyter."
+  - id: "Herda 2013"
+    essay: 2
+    full: "Herda, Alexander. 2013. “Greek (and Our) Views on the Karians.” In *Luwian Identities: Culture, Language and Religion between Anatolia and the Aegean*, edited by Alice Mouton, Ian Rutherford, and Ilya Yakubovich, 421–506. Leiden: Brill."
+  - id: "Hitzl 1991"
+    essay: 2
+    full: "Hitzl, Ingrid. 1991. *Die griechischen Sarkophage der archaischen und klassischen Zeit*. Göteborg: Åström."
+  - id: "Höckmann 2001"
+    essay: 2
+    sort: "Hockmann 2001"
+    full: "Höckmann, Ursula. 2001. “‘Bilinguen’: Zu Ikonographie und Stil der karisch-ägyptischen Grabstelen des 6. Jhs. v. Chr.” In *Naukratis: Die Beziehungen zu Ostgriechenland, Ägypten und Zypern in archaischer Zeit*, edited by Ursula Höckmann and Detlev Kreikenbom, 217–32. Möhnesee: Bibliopolis."
+  - id: "Höckmann and Weiss 2017"
+    essay: 2
+    sort: "Hockmann and Weiss 2017"
+    full: "Höckmann, Ursula, and Katja Weiss. 2017. “Bemerkungen zu dem Kult des Apis und der Apismutter in Memphis/Saqqara unter Amasis.” *Jahreshefte des Österreichischen Archäologischen Institutes in Wien* 86:107–48."
+  - id: "Hogarth, Edgar, and Gutch 1898–99"
+    essay: 2
+    full: "Hogarth, David George, Campbell Cowan Edgar, and Clement Gutch. 1898–99. “Excavations at Naukratis.” *Annual of the British School at Athens* 5:26–97."
+  - id: "Houlihan and Goodman 1986"
+    essay: 2
+    full: "Houlihan Patrick F., with Steven M. Goodman. 1986. *The Birds of Ancient Egypt*. Warminster: Aris & Phillips."
+  - id: "Huber 2001"
+    essay: 2
+    full: "Huber, Ingeborg. 2001. *Die Ikonographie der Trauer in der griechischen Kunst*. Mannheim: Bibliopolis."
+  - id: "Hürmüzlü 2010"
+    essay: 2
+    sort: "Hurmuzlu 2010"
+    full: "Hürmüzlü, Bilge. 2010. “Die früheste Gruppe Klazomenischer Sarkophage aus Klazomenai.” *Jahrbuch des Deutschen Archäologischen Instituts* 125:89−153."
+  - id: "Iancu 2016"
+    essay: 2
+    full: "Iancu, Liviu Mihail. 2016. “Greek and Other Aegean Mercenaries in the Archaic Age: Aristocrats, Common People, or Both?” *Studia Hercynia* 20 (2): 9–29."
+  - id: "Iancu 2017"
+    essay: 2
+    full: "Iancu, Liviu Mihail. 2017. “Self-Mutilation, Multiculturalism and Hybridity: Herodotos on the Karians in Egypt (Hdt. 2.61.2).” *Anatolia Antiqua* 25:57–67."
+  - id: "Jacopi 1931"
+    essay: 2
+    full: "Jacopi, Giulio. 1931. *Clara Rhodos.* Vol. 4, *Esplorazione archeologica di Camiro*. Pt. 1, *Scavi nelle necropoli camiresi 1929–1930*. Rhodes: Istituto Storico-Archeologico."
+  - id: "Jakobeit 2016"
+    essay: 2
+    full: "Jakobeit, Ulrike. 2016. “Das jüdische Viertel Yht in Memphis—ein weiterer Beleg.” In *Sapientia Felicitas: Festschrift für Günter Vittmann zum 29. Februar 2016*, edited by Sandra L. Lippert, Maren Schentuleit, and Martin A. Stadler, 261–69. Montpellier: Université Paul Valéry."
+  - id: "Johnston 2013–20a"
+    essay: 2
+    full: "Johnston, Alan W. 2013–20a. “Greek Transport Amphorae.” In *Naukratis: Greeks in Egypt; British Museum Online Research Catalogue*, by Alexandra Villing et al. London: British Museum. http://www.britishmuseum.org/naukratis."
+  - id: "Johnston 2013–20b"
+    essay: 2
+    full: "Johnston, Alan W. 2013–20b. “Ceramic Inscriptions.” In *Naukratis: Greeks in Egypt; British Museum Online Research Catalogue*, by Alexandra Villing et al. London: British Museum. http://www.britishmuseum.org/naukratis."
+  - id: "Johnston 1995"
+    essay: 2
+    full: "Johnston, Sarah Iles. 1995. “The Song of the Iynx: Magic and Rhetoric in Pythian 4.” *Transactions of the American Philological Association* 125:177–206."
+  - id: "Jurman 2010"
+    essay: 2
+    full: "Jurman, Claus. 2010. “Running with Apis: The Memphite Apis Cult as a Point of Reference for Social and Religious Practice in Late Period Elite Culture.” In *Egypt in Transition: Social and Religious Development of Egypt in the First Millennium BCE*, edited by Ladislav Bareš, Filip Coppens, and Květa Smoláriková, 224–67. Prague: Czech Institute of Egyptology, Faculty of Arts, Charles University."
+  - id: "Kaltsas 1996–97"
+    essay: 2
+    full: "Kaltsas, Νikolaos. 1996–97. “Κλαζομενιακές Σαρκοφάγοι από το νεκροταφείο της Ακάνθου.” *Αρχαιολογικόν Δελτίον* 51/52:35–50."
+  - id: "Kaplan 2003"
+    essay: 2
+    full: "Kaplan, Philip. 2003. “Cross-Cultural Contacts among Mercenary Communities in Saite and Persian Egypt.” *Mediterranean Historical Review* 18 (1): 1–31."
+  - id: "Kammerzell 1993"
+    essay: 2
+    full: "Kammerzell, Frank. 1993. *Studien zu Sprache und Geschichte der Karer in Ägypten*. Wiesbaden: Harrassowitz."
+  - id: "Kammerzell 2001"
+    essay: 2
+    full: "Kammerzell, Frank. 2001. “Die Geschichte der karischen Minderheit in Ägypten.” In *Naukratis: Die Beziehungen zu Ostgriechenland, Ägypten und Zypern in archaischer Zeit*, edited by Ursula Höckmann and Detlev Kreikenbom, 233–55. Möhnesee: Bibliopolis."
+  - id: "Lane Fox 2009"
+    essay: 2
+    full: "Lane Fox, Robin. 2009. *Travelling Heroes: Greeks and Their Myths in the Epic Age of Homer*. London: Penguin."
+  - id: "Lardinois 2016"
+    essay: 2
+    full: "Lardinois, André. 2016. “Sappho’s Brothers Song and the Fictionality of Early Greek Lyric Poetry.” In *The Newest Sappho: P. Sapph. Obbink and P. GC inv. 105, Frs. 1–4*, edited by Anton Bierl and André Lardinois, 167–87. Leiden: Brill."
+  - id: "Lieven 2016"
+    essay: 2
+    full: "Lieven, Alexandra von. 2016. “Translating Gods, Interpreting Gods: On the Mechanisms behind the Interpretatio Graeca of Egyptian Gods.” In *Greco-Egyptian Interactions: Literature, Translation and Culture, 500 BC–AD 300*, edited by Ian Rutherford, 61–82. Oxford: Oxford University Press."
+  - id: "Lightfoot 2003"
+    essay: 2
+    full: "Lightfoot, Jane L. 2003. *Lucian: On the Syrian Goddess*. Oxford: Oxford University Press."
+  - id: "Malinine, Posener, and Vercoutter 1968"
+    essay: 2
+    full: "Malinine, Michel, Georges Posener, and Jean Vercoutter. 1968. *Catalogue des stèles de Sérapéum de Memphis*. Paris: Éditions des Musées Nationaux."
+  - id: "Manning 2009"
+    essay: 2
+    full: "Manning, Joseph Gilbert. 2009. *The Last Pharaohs: Egypt under the Ptolemies, 305–30 BC*. Princeton, NJ: Princeton University Press."
+  - id: "Marinatos and Anderson 2010"
+    essay: 2
+    full: "Marinatos, Nanno, and A. Sebastian Anderson. 2010. “Elysion and Egypt.” *Journal of Ancient Egyptian Interconnections* 2 (2): 13–24. <https://journals.uair.arizona.edu/index.php/jaei/article/view/56>."
+  - id: "Martin 1979"
+    essay: 2
+    sort: "Martin, Geoffrey Thorndike 1"
+    full: "Martin, Geoffrey Thorndike. 1979. *The Tomb of Hetepka and Other Reliefs and Inscriptions from the Sacred Animal Necropolis, North Saqqara, 1964–73*. London: Egypt Exploration Society."
+  - id: "Martin and Nicholls 1978"
+    essay: 2
+    sort: "Martin, Geoffrey Thorndike 2"
+    full: "Martin, Geoffrey Thorndike, and Richard Vaughan Nicholls. 1978. “Hieroglyphic Stelae with Carian Texts and Carian Stelae with Egyptianizing or Hellenizing Motifs.” In *Carian Inscriptions from North Saqqara and Buhen*, by Olivier Masson, 55–87. London: Egypt Exploration Society."
+  - id: "Masson 1978"
+    essay: 2
+    sort: "Masson-A 1978"
+    full: "Masson, Olivier. 1978. *Carian Inscriptions from North Saqqara and Buhen*. London: Egypt Exploration Society."
+  - id: "Masson-Berghoff 2019"
+    essay: 2
+    full: "Masson-Berghoff, Aurélia. 2019. “Naukratis: Egyptian Offerings in Context.” In “Naukratis in Context,” edited by Aurélia Masson-Berghoff and Ross I. Thomas, 127–58. Special issue, *British Museum Studies in Ancient Egypt and Sudan* 24. https://www.britishmuseum.org/research/publications/bmsaes."
+  - id: "Masson-Berghoff and Goddio 2016"
+    essay: 2
+    sort: "Masson-Berghoff b"
+    full: "Masson-Berghoff, Aurélia, and Franck Goddio, eds. 2016. *Sunken Cities: Egypt’s Lost Worlds*. London: Thames & Hudson."
+  - id: "McAnally 2016"
+    essay: 2
+    full: "McAnally, Jay. 2016. “Herodotus 2.61.2 and the *Mwdon-* of Caromemphitae.” *Ancient Near Eastern Studies* 53:195–218."
+  - id: "Meer 2012"
+    essay: 2
+    full: "Meer, Lammert Bouke van der. 2012. “Adonis: A Greek Ritual and Myth in the Etruscan World.” In “The End of Our Fifth Decade,” edited by Corrie Bakels and Hans Kamermans, 165–75. Special issue, *Analecta Praehistorica Leidensia*, no. 43/44."
+  - id: "Mettinger 2001"
+    essay: 2
+    full: "Mettinger, Tryggve N. D. 2001. *The Riddle of Resurrection: Dying and Rising Gods in the Ancient Near East*. Stockholm: Almqvist & Wiksell."
+  - id: "Mohr 2015"
+    essay: 2
+    full: "Mohr, Eva-Maria. 2015. *Eisenzeitliche Nekropolen im westlichen Kleinasien: Struktur und Entwicklung zwischen dem 9. und 6. Jh. v. Chr*. Istanbul: Ege Yayınları."
+  - id: "Moyer 2011"
+    essay: 2
+    full: "Moyer, Ian S. 2011. *Egypt and the Limits of Hellenism*. Cambridge: Cambridge University Press."
+  - id: "Munro 1973"
+    essay: 2
+    full: "Munro, Peter. 1973. *Die spätägyptischen Totenstelen*. Glückstadt: Augustin."
+  - id: "Murray 2018"
+    essay: 2
+    full: "Murray, Sarah C. 2018. “Imported Objects in the Aegean beyond Élite Interaction: A Contextual Approach to Eastern *Exotica* on the Greek Mainland.” In *Change, Continuity, and Connectivity: North-Eastern Mediterranean at the Turn of the Bronze Age and in the Early Iron Age*, edited by Łukasz Niesiołowski-Spanò and Marek Węcowski, 221–34. Wiesbaden: Harrassowitz."
+  - id: "Nagy 2015"
+    essay: 2
+    full: "Nagy, Gregory. 2015. “Herodotus and a Courtesan from Naucratis.” *Classical Inquiries: Studies on the Ancient World from the Center for Hellenic Studies*, July 1, 2015. <https://classical-inquiries.chs.harvard.edu/herodotus-and-a-courtesan-from-naucratis/>."
+  - id: "Nardelli 2017"
+    essay: 2
+    full: "Nardelli, Jean-Fabrice. 2017. *L’Osiris de Plutarque, un commentaire de De Iside et Osiride, chapitres 12–19*. Huelva: Universidad de Huelva."
+  - id: "Nesselrath 2017"
+    essay: 2
+    full: "Nesselrath, Heinz-Günther. 2017. Review of *Aigyptiazein: Frammenti della commedia attica antica*, by Anna Sofia. *Bryn Mawr Classical Review*, June 26, 2017. <http://bmcr.brynmawr.edu/2017/2017-06-26.html>."
+  - id: "Parkinson 2008"
+    essay: 2
+    full: "Parkinson, Richard G. 2008. *The Painted Tomb-Chapel of Nebamun*. London: British Museum."
+  - id: "Pemberton 2015"
+    essay: 2
+    full: "Pemberton, Elizabeth G. 2015. “The Offering Trays.” In *The Sanctuary of Demeter and Kore: The Greek Lamps and Offering Trays*, by Nancy Bookidis and Elizabeth G. Pemberton, 111–42. Princeton, NJ: American School of Classical Studies at Athens."
+  - id: "Pfeiffer 2004"
+    essay: 2
+    full: "Pfeiffer, Stefan. 2004. *Das Dekret von Kanopos (238 v. Chr.): Kommentar und historische Auswertung eines dreisprachigen Synodaldekrets der ägyptischen Priester zu Ehren Ptolemaios’ III und seiner Familie*. Munich: Sauer."
+  - id: "Philipp 1981"
+    essay: 2
+    full: "Philipp, Hanna. 1981. “Archaische Gräber in Ostionien.” *Istanbuler Mitteilungen* 31:149–66."
+  - id: "Porten and Gee 2001"
+    essay: 2
+    full: "Porten, Bezalel, and John Gee. 2001. “Aramaic Funerary Practices in Egypt.” In *The World of the Aramaeans*. Vol. 2, *Studies in History and Archaeology in Honor of Paul-Eugène Dion*, edited by P. M. Michèle Daviau, John W. Wevers, and Michael Weigl, 270–307. Sheffield, UK: Sheffield Academic Press."
+  - id: "Quack 2006"
+    essay: 2
+    full: "Quack, Joachim Friedrich. 2006. “Opfermahl und Feindvernichtung im Altägyptischen Ritual.” *Mitteilungen der Berliner Gesellschaft für Anthropologie, Ethnologie und Urgeschichte* 27:67–80."
+  - id: "Quack 2007"
+    essay: 2
+    full: "Quack, Joachim Friedrich. 2007. “Saatprobe und Kornosiris.” In *Das Heilige und die Ware: Zum Spannungsfeld von Religion und Ökonomie*, edited by Martin Fitzenreiter, 325–31. London: Golden House."
+  - id: "Queyrel 2014"
+    essay: 2
+    full: "Queyrel, François. 2014. “Le garçon du Cricket et les enfants d’Alexandrie.” In *Alexandrina 4: En l’honneur de Mervat Seif el-Din*, edited by Jean-Yves Empereur, 131–61. Alexandria: Centre d’Études Alexandrines."
+  - id: "Raaflaub 2004"
+    essay: 2
+    full: "Raaflaub, Kurt A. 2004. “Archaic Greek Aristocrats as Carriers of Cultural Interaction.” In *Commerce and Monetary Systems in the Ancient World: Means of Transmission and Cultural Interaction*, edited by Robert Rollinger and Christoph Ulf, 197–217. Stuttgart: Steiner."
+  - id: "Raaflaub 2016"
+    essay: 2
+    full: "Raaflaub, Kurt A. 2016. “The Newest Sappho and Archaic Greek–Near Eastern Interactions.” In *The Newest Sappho: P. Sapph. Obbink and P. GC inv. 105, Frs. 1–4*, edited by Anton Bierl and André Lardinois, 127–47. Leiden: Brill."
+  - id: "Recklinghausen 2019"
+    essay: 2
+    full: "Recklinghausen, Daniel von. 2019. “Die Soubassements des Amun-Tempels in Naukratis: Ein Zeugnis für die Tempeldekoration in der frühen Ptolemäerzeit.” In *Von Elephantine bis zu den Küsten des Meeres: Die Kulttopographie Ägyptens nach den Gauprozessionen der Spätzeit und der frühptolemäischen Epoche*, edited by Aiman Ashmawy, Dietrich Raue, and Daniel von Recklinghausen, 267–378. Wiesbaden: Harrassowitz."
+  - id: "Reed 2000"
+    essay: 2
+    full: "Reed, Joseph D. 2000. “Arsinoe’s Adonis and the Poetics of Ptolemaic Imperialism.” *Transactions of the American Philological Association* 130 (1): 319–51."
+  - id: "Reitzammer 2016"
+    essay: 2
+    full: "Reitzammer, Laurialan. 2016. *The Athenian Adonia in Context: The Adonis Festival as Cultural Practice*. Madison: University of Wisconsin Press."
+  - id: "Ridgway 2006"
+    essay: 2
+    full: "Ridgway, Brunilde S. 2006. “The Boy Strangling the Goose: Genre Figure or Mythological Symbol?” *American Journal of Archaeology* 110, no. 4 (October): 643–48."
+  - id: "Robins 2001"
+    essay: 2
+    full: "Robins, Gay. 2001. “Color Symbolism.” In *The Oxford Encyclopedia of Ancient Egypt*, edited by Donald B. Redford, 291–94. Oxford: Oxford University Press."
+  - id: "Roosevelt 2006"
+    essay: 2
+    full: "Roosevelt, Christopher H. 2006. “Symbolic Door Stelae and Graveside Monuments in Western Anatolia.” *American Journal of Archaeology* 110, no. 1 (January): 65–91."
+  - id: "Rosenzweig 2004"
+    essay: 2
+    full: "Rosenzweig, Rachel. 2004. *Worshipping Aphrodite: Art and Cult in Classical Athens*. Ann Arbor: University of Michigan Press."
+  - id: "Rumscheid 2019"
+    essay: 2
+    full: "Rumscheid, Frank. 2019. “Überlegungen zur materiellen Kultur Mylasas in archaischer Zeit.” In *Karia Arkhaia: La Carie, des origines à la période pré-hékatomnide*, edited by Olivier Henry and Koray Konuk, 309–26. Istanbul: Institut Français d’Études Anatoliennes Georges Dumézil."
+  - id: "Sacks 2017"
+    essay: 2
+    full: "Sacks, Kenneth S. 2017. “Who Markets Ideas? Elite and Non-elite Transmission of Culture and Technology.” In *Cultural Contact and Appropriation in the Axial-Age Mediterranean World: A Periplos*, edited by Baruch Halpern and Kenneth S. Sacks, 212–41. Leiden: Brill."
+  - id: "Schlesier 2014"
+    essay: 2
+    full: "Schlesier, Renate. 2014. “Atthis, Gyrinno, and Other *Hetairai*: Female Personal Names in Sappho’s Poetry.” *Philologus* 157, no. 2 (December): 199–222."
+  - id: "Schmitz 2010"
+    essay: 2
+    full: "Schmitz, Philip C. 2010. “The Phoenician Contingent in the Campaign of Psammetichus II against Kush.” *Journal of Egyptian History* 3 (2): 321–37."
+  - id: "Schollmeyer 2003"
+    essay: 2
+    full: "Schollmeyer, Patrick. 2003. “Der Münchner Ganswürger: Ein ptolemäischer Kindgott?” In *Kindgötter im Ägypten der griechisch-römischen Zeit: Zeugnisse aus Stadt und Tempel als Spiegel des interkulturellen Kontakts*, edited by Dagmar Budde, 283–300. Leuven: Peeters."
+  - id: "Schollmeyer 2007"
+    essay: 2
+    full: "Schollmeyer, Patrick. 2007. “Zwischen Ost und West: Der Knabe mit der Fuchsgans und die Temple-Boys.” In *Mouseion: Beiträge zur antiken Plastik; Festschrift für Peter Cornelis Bol*, edited by Hans von Steuben, Götz Lahusen, and Haritini Kotsidu, 321–29. Möhnesee: Bibliopolis."
+  - id: "Schorn 2001"
+    essay: 2
+    full: "Schorn, Stefan. 2001. “Eine Prozession zu Ehren Arsinoes II (*P. Oxy.* XXVII 2465 fr. 2: Satyros, *Über die Demen von Alexandreia*).” In *Punica—Libyca—Ptolemaica: Festschrift für Werner Huß zum 65. Geburtstag dargebracht von Schülern, Freunden und Kollegen*, edited by Klaus Geuss and Klaus Zimmermann, 199–220. Leuven: Peeters."
+  - id: "Servais-Soyez 1981"
+    essay: 2
+    full: "Servais-Soyez, Brigitte. 1981. “Adonis.” In *Lexicon Iconographicum Mythologiae Classicae*, 1:222–29. Zurich: Artemis."
+  - id: "Servais-Soyez 1983"
+    essay: 2
+    full: "Servais-Soyez, Brigitte. 1983. “Lits d’Osiris et jardins d’Adonis: Une question de vie ou de mort.” In *Vie et survie dans les civilisations orientales*, edited by Aristide Theorides, Paul Naster, and Julien Ries, 219–26. Leuven: Peeters."
+  - id: "Shapiro 1991"
+    essay: 2
+    full: "Shapiro, H. A. 1991. “The Iconography of Mourning in Athenian Art.” *American Journal of Archaeology* 95, no. 4 (October): 629–56."
+  - id: "Simms 1997–98"
+    essay: 2
+    full: "Simms, Ronda R. 1997–98. “Mourning and Community at the Athenian Adonia.” *Classical Journal* 93, no. 2 (December–January): 121–41."
+  - id: "Sofia 2016"
+    essay: 2
+    full: "Sofia, Anna. 2016. *Aigyptiazein: Frammenti della commedia attica antica; Ricerche; Letteratura greca e latina*. Milan: Vita e Pensiero."
+  - id: "Spier, Potts, and Cole 2018"
+    essay: 2
+    full: "Spier, Jeffrey, Timothy Potts, and Sara E. Cole, eds. 2018. *Beyond the Nile: Egypt and the Classical World*. Los Angeles: J. Paul Getty Museum."
+  - id: "Strudwick and Dawson 2016"
+    essay: 2
+    full: "Strudwick, Helen, and Julie Dawson. 2016. *Death on the Nile: Uncovering the Afterlife of Ancient Egypt*. London: Giles."
+  - id: "Thomas 2013–20a"
+    essay: 2
+    full: "Thomas, Ross I. 2013–20a. “Greek Terracotta Figures.” In *Naukratis: Greeks in Egypt; British Museum Online Research Catalogue*, by Alexandra Villing et al. London: British Museum. http://www.britishmuseum.org/naukratis."
+  - id: "Thomas 2013–20b"
+    essay: 2
+    full: "Thomas, Ross I. 2013–20b. “Lamps in Terracotta and Bronze.” In *Naukratis: Greeks in Egypt; British Museum Online Research Catalogue*, by Alexandra Villing et al. London: British Museum. http://www.britishmuseum.org/naukratis."
+  - id: "Thomas and Acosta 2013–20"
+    essay: 2
+    full: "Thomas, Ross I., and Camille R. Acosta. 2013–20. “Jewellery and Mirrors.” In *Naukratis: Greeks in Egypt; British Museum Online Research Catalogue*, by Alexandra Villing et al. London: British Museum. http://www.britishmuseum.org/naukratis."
+  - id: "Thomas and Higgs 2013–20"
+    essay: 2
+    full: "Thomas, Ross I., and Peter Higgs. 2013–20. “Greek and Roman Sculpture.” In *Naukratis: Greeks in Egypt; British Museum Online Research Catalogue*, by Alexandra Villing et al. London: British Museum. http://www.britishmuseum.org/naukratis."
+  - id: "Thompson 1998"
+    essay: 2
+    full: "Thompson, Dorothy J. 1998. “Demeter in Graeco-Roman Egypt.” In *Egyptian Religion: The Last Thousand Years; Studies Dedicated to the Memory of Jan Quaegebeur*, edited by Willy Clarysse, Antoon Schoors, and Harco Willems, 1:699–707. Leuven: Peeters."
+  - id: "Thompson 2012"
+    essay: 2
+    full: "Thompson, Dorothy J. 2012. *Memphis under the Ptolemies*. 2nd ed. Princeton, NJ: Princeton University Press."
+  - id: "Tooley 1996"
+    essay: 2
+    full: "Tooley, Angela M. J. 1996. “Osiris Bricks.” *Journal of Egyptian Archaeology* 82:167–79."
+  - id: "Tsakos 1996"
+    essay: 2
+    full: "Tsakos, Konstantinos. 1996. “Stadt und Nekropolen: Samos in der archaischen Epoche (6. Jh.).” In *Samos—die Kasseler Grabung 1894 in der Nekropole der archaischen Stadt von Johannes Boehlau und Edward Habich*, edited by Peter Gercke and Wanda Loewe, 120–31. Kassel: Staatliche Museen."
+  - id: "Tsiafakis 2016"
+    essay: 2
+    full: "Tsiafakis, Despoina. 2016. “Ancient Thrace and Thracians through the Athenian Eyes.” *Thracia* 21:261–82."
+  - id: "Van Wees 2021"
+    essay: 2
+    full: "Van Wees, Hans. 2021. “The First Greek Soldiers in Egypt: Myths and Realities.” In *Brill's Companion to Greek Land Warfare Beyond the Phalanx*, edited by Roel Konijnendijk, Cezary Kucewicz, and Matthew Lloyd, 293–344. Leiden: Brill."
+  - id: "Vasunia 2001"
+    essay: 2
+    full: "Vasunia, Phiroze. 2001. *The Gift of the Nile: Hellenizing Egypt from Aeschylus to Alexander*. Berkeley: University of California Press."
+  - id: "Vaux 1933"
+    essay: 2
+    full: "Vaux, R. de. 1933. “Sur quelques rapports entre Adonis et Osiris.” *Revue Biblique* 42, no. 1 (January): 31–56."
+  - id: "Venit 2015"
+    essay: 2
+    full: "Venit, Marjorie Susan. 2015. *Visualizing the Afterlife in the Tombs of Graeco-Roman Egypt*. Cambridge: Cambridge University Press."
+  - id: "Vermaseren 1981"
+    essay: 2
+    full: "Vermaseren, Maarten Jozef. 1981. “Apis.” In *Lexicon Iconographicum Mythologiae Classicae*, 1:177–82. Zurich: Artemis."
+  - id: "Vermeule 1979"
+    essay: 2
+    full: "Vermeule, Emily. 1979. *Aspects of Death in Early Greek Art and Poetry*. Berkeley: University of California Press."
+  - id: "Villing 2015"
+    essay: 2
+    full: "Villing, Alexandra. 2015. “Egyptian-Greek Exchange in the Late Period: The View from Nokradj-Naukratis.” In *Thonis-Heracleion in Context*, edited by Damian Robinson and Franck Goddio, 229–46. Oxford: Oxford Centre for Maritime Archaeology."
+  - id: "Villing 2017"
+    essay: 2
+    full: "Villing, Alexandra. 2017. “Don’t Kill the Goose That Lays the Golden Egg? Some Thoughts on Bird Sacrifice in Ancient Greece.” In *Animal Sacrifice in the Ancient Greek World*, edited by Sarah Hitch and Ian Rutherford, 63–101. Cambridge: Cambridge University Press."
+  - id: "Villing 2018a"
+    essay: 2
+    full: "Villing, Alexandra. 2018a. “The Greeks in Egypt: Renewed Contact in the Iron Age.” In *Beyond the Nile: Egypt and the Classical World*, edited by Jeffrey Spier, Timothy Potts, and Sara E. Cole, 73–81. Los Angeles: J. Paul Getty Museum."
+  - id: "Villing 2018b"
+    essay: 2
+    full: "Villing, Alexandra. 2018b. “Wahibreemakhet at Saqqara: The Tomb of a Greek in Egypt.” *Zeitschrift für Ägyptische Sprache und Altertumskunde* 145 (2): 174–86."
+  - id: "Villing 2019"
+    essay: 2
+    full: "Villing, Alexandra. 2019. “Naukratis: Religion in a Cross-Cultural Context.” In “Naukratis in Context,” edited by Aurélia Masson-Berghoff and Ross I. Thomas, 204–47. Special issue, *British Museum Studies in Ancient Egypt and Sudan* 24. [https://www.britishmuseum.org/research/publications/bmsaes](https://www.britishmuseum.org/research/publications/bmsaes)."
+  - id: "Villing 2021"
+    essay: 2
+    full: "Villing, Alexandra. 2021. “Between Apollo and Osiris: Egyptianising East Greek Pottery, Translating Gods and Cross-cultural Interaction in the 6th Century B.C.” *Jahrbuch des Deutschen Archäologischen Instituts* 136:1–110."
+  - id: "Villing et al. 2013–20"
+    essay: 2
+    sort: "Villing, Alexandra. 9"
+    full: "Villing, Alexandra, et al. 2013–20. *Naukratis: Greeks in Egypt; British Museum Online Research Catalogue*. London: British Museum. http://www.britishmuseum.org/naukratis."
+  - id: "Vittmann 2003"
+    essay: 2
+    full: "Vittmann, Günter. 2003. *Ägypten und die Fremden im ersten vorchristlichen Jahrtausend*. Mainz: Zabern."
+  - id: "Vittmann 2006"
+    essay: 2
+    full: "Vittmann, Günter. 2006. “Zwischen Integration und Ausgrenzung: Zur Akkulturation von Ausländern im spätzeitlichen Ägypten.” In *Altertum und Mittelmeerraum: Die antike Welt diesseits und jenseits der Levante; Festschrift für Peter W. Haider zum 60. Geburtstag*, edited by Robert Rollinger and Brigitte Truschnegg, 561–95. Stuttgart: Steiner."
+  - id: "Vittmann 2017"
+    essay: 2
+    full: "Vittmann, Günter. 2017. “The Aramaeans in Egypt.” In *Wandering Arameans: Arameans outside Syria; Textual and Archaeological Perspectives*, edited by Angelika Berlejung, Aren M. Maeir, and Andreas Schüle, 229–79. Wiesbaden: Harrassowitz."
+  - id: "Vos 1998"
+    essay: 2
+    full: "Vos, René L. 1998. “Varius coloribus Apis: Some Remarks on the Colours of Apis and Other Sacred Animals.” In *Egyptian Religion: The Last Thousand Years; Studies Dedicated to the Memory of Jan Quaegebeur*, edited by Willy Clarysse, Antoon Schoors, and Harco Willems, 1:709–18. Leuven: Peeters."
+  - id: "Wagner 1973"
+    essay: 2
+    full: "Wagner, Guy. 1973. “Stèle funéraire de Kobôn.” *Zeitschrift für Papyrologie und Epigraphik* 12:173–76."
+  - id: "Waitkus 1999"
+    essay: 2
+    full: "Waitkus, Wolfgang. 1999. “Die Dachkapelle des Edfu-tempels.” In *Edfu: Bericht über drei Surveys; Materialien und Studien*, edited by Dieter Kurth, 153–58. Wiesbaden: Harrassowitz."
+  - id: "Wasmuth 2010"
+    essay: 2
+    full: "Wasmuth, Melanie. 2010. “Integration of Foreigners—New Insights from the Stele Found in Saqqara in 1994.” In *The World of Achaemenid Persia*, edited by John Curtis and St. John Simpson, 535–43. London: I. B. Tauris."
+  - id: "Wasmuth 2017"
+    essay: 2
+    full: "Wasmuth, Melanie. 2017. “Die Stele des Djedherbes als kulturelles Zeugnis ihrer Zeit.” *Archäologischer Anzeiger* 1:85–123."
+  - id: "Wehgartner 1992"
+    essay: 2
+    full: "Wehgartner, Irma. 1992. “Die Gruppe Vogell: Attische Eichellekythen und ihre Symbolik.” In *Kotinos: Festschrift für Erika Simon*, edited by Heide Froning, Tonio Hölscher, and Harald Mielsch, 284–91. Mainz: Zabern."
+  - id: "Wilson 1988"
+    essay: 2
+    full: "Wilson, Hilary. 1988. *Egyptian Food and Drink*. Aylesbury, UK: Shire."
+  - id: "Wilson 2019"
+    essay: 2
+    full: "Wilson, Penelope. 2019. “Gateway to the Underworld: The Cult Areas at Sais.” In “Naukratis in Context,” edited by Aurélia Masson-Berghoff and Ross I. Thomas, 341–64. Special issue, *British Museum Studies in Ancient Egypt and Sudan* 24. https://www.britishmuseum.org/research/publications/bmsaes."
+  - id: "Winkler-Horaçek 2015"
+    essay: 2
+    full: "Winkler-Horaçek, Lorenz. 2015. *Monster in der frühgriechischen Kunst: Die Überwindung des Unfassbaren*. Berlin: De Gruyter."
+  - id: "Zurbach and Esposito 2010"
+    essay: 2
+    full: "Zurbach, Julien, and Arianna Esposito. 2010. “Femmes indigènes et colons grecs: Quelques observations.” In *Portraits de migrants, portraits de colons*, edited by Pierre Rouillard, 2:51–70. Paris: De Boccard."
+
+  - id: "Altenmüller 1975"
+    essay: 3
+    full: "Altenmüller, Hartwig. 1975. “Bestattungsritual.” In *Lexikon der Ägyptologie*, edited by Wolfgang Helck and Eberhard Otto, 1:745–65. Wiesbaden: Harrassowitz."
+  - id: "Assmann 1975"
+    essay: 3
+    full: "Assmann, Jan. 1975. “Aretalogien.” In *Lexikon der Ägyptologie*, edited by Wolfgang Helck and Eberhard Otto, 1:425–34. Wiesbaden: Harrassowitz."
+  - id: "Assmann 1978"
+    essay: 3
+    full: "Assmann, Jan. 1978. “Eine Traumoffenbarung der Göttin Hathor: Zeugnisse ‘Persönlicher Frömmigkeit’ in thebanischen Gräbern der Ramessidenzeit.” *Revue d’Égyptologie* 30:22–50."
+  - id: "Assmann 1984"
+    essay: 3
+    full: "Assmann, Jan. 1984. “Das Grab mit gewundenem Abstieg: Zum Typenwandel des Privat-Felsgrabes im Neuen Reich.” *Mitteilungen des Deutschen Archäologischen Instituts, Abteilung Kairo* 40:284–86."
+  - id: "Assmann 1990"
+    essay: 3
+    full: "Assmann, Jan. 1990. *Ma’at: Gerechtigkeit und Unsterblichkeit im Alten Ägypten*. Munich: Beck."
+  - id: "Assmann 1999"
+    essay: 3
+    full: "Assmann, Jan. 1999. *Ägyptische Hymnen und Gebete: Übersetzt, kommentiert und eingeleitet*. 2nd ed. Fribourg: Universitätsverlag; Göttingen: Vandenhoeck & Ruprecht."
+  - id: "Assmann 2002"
+    essay: 3
+    full: "Assmann, Jan. 2002. *Altägyptische Totenliturgien*. Vol. 1, *Totenliturgien in den Sargtexten des Mittleren Reiches*. Heidelberg: Winter."
+  - id: "Assmann 2004"
+    essay: 3
+    full: "Assmann, Jan. 2004. *Ägyptische Geheimnisse*. Munich: Fink."
+  - id: "Assmann 2005a"
+    essay: 3
+    full: "Assmann, Jan. 2005a. *Altägyptische Totenliturgien*. Vol. 2, *Totenliturgien und Totensprüche in Grabinschriften des Neuen Reiches*. Heidelberg: Winter."
+  - id: "Assmann 2005b"
+    essay: 3
+    full: "Assmann, Jan. 2005b. *Death and Salvation in Ancient Egypt*. Translated by David Lorton. Ithaca, NY: Cornell University Press."
+  - id: "Assmann 2008"
+    essay: 3
+    full: "Assmann, Jan. 2008. *Altägyptische Totenliturgien*. Vol. 3, *Osirisliturgien in den Papyri der Spätzeit*. Heidelberg: Winter."
+  - id: "Assmann and Kucharek 2008"
+    essay: 3
+    sort: "Assmann x"
+    full: "Assmann, Jan, and Andrea Kucharek. 2008. *Altägyptische Religion*. Vol. 1, *Totenliteratur*. Frankfurt: Verlag der Weltreligionen."
+  - id: "Austin 1962"
+    essay: 3
+    full: "Austin, John L. 1962. *How to Do Things with Words*. Oxford: Clarendon."
+  - id: "Baruq and Daumas 1980"
+    essay: 3
+    full: "Baruq, André, and François Daumas. 1980. *Hymnes et prières de l’Égypte ancienne*. Paris: Cerf."
+  - id: "Bergmann 1968"
+    essay: 3
+    full: "Bergmann, Jan. 1968. *“Ich bin Isis”: Studien zum memphitischen Hintergrund der griechischen Isisaretalogien*. Uppsala: Uppsala Universitet."
+  - id: "Bommas 1999"
+    essay: 3
+    full: "Bommas, Martin. 1999. *Die Mythisierung der Zeit: Die beiden Bücher über die altägyptischen Schalttage des magischen pLeiden I 346*. Wiesbaden: Harrassowitz."
+  - id: "Bommas 2002"
+    essay: 3
+    full: "Bommas, Martin. 2002. “Apostel Paulus und die ägyptischen Heiligtümer Makedoniens.” In *Ägyptische Mysterien?*, edited by Jan Assmann and Martin Bommas, 127–41. Munich: Fink."
+  - id: "Bommas 2004"
+    essay: 3
+    full: "Bommas, Martin. 2004. “‘Du, der du eintrittst, wirst das Seiende erkennen’: Zur Verbreitung der Isisreligion in der Ägäis von den Anfängen bis zu ihrem Niedergang.” In “Fremdheit—Eigenheit: Ägypten, Griechenland und Rom; Austausch und Verständnis,” edited by Peter Cornelius Bol, Gabriele Kaminski, and Caterina Maderna, 141–54. Special issue, *Städel-Jahrbuch*, n.s., 19."
+  - id: "Bommas 2005a"
+    essay: 3
+    full: "Bommas, Martin. 2005a. *Heiligtum und Mysterium: Griechenland und seine ägyptischen Gottheiten*. Mainz: Zabern."
+  - id: "Bommas 2005b"
+    essay: 3
+    full: "Bommas, Martin. 2005b. “Das Isisbuch des Apuleius und die Rote Halle von Pergamon: Überlegungen zum Kultverlauf in den Heiligtümern für ägyptische Gottheiten und seinen Ursprüngen.” In *Ägyptische Kulte und ihre Heiligtümer im Osten des Römischen Reiches*, edited by Adolf Hoffmann, 227–45. Istanbul: Ege Yayinlari."
+  - id: "Bommas 2006"
+    essay: 3
+    full: "Bommas, Martin. 2006. “Die Genese der Isis-Thermouthis im kaiserzeitlichen Ägypten sowie im Mittelmeerraum zwischen Aufnahme und Abgrenzung.” *Mediterraneo Antico* 9 (1): 221–39."
+  - id: "Bommas 2010"
+    essay: 3
+    full: "Bommas, Martin. 2010. “Travels to the Beyond in Ancient Egypt.” In *Sacred and Profane: Treasures of Ancient Egypt from the Myers Collection, Eton College and University of Birmingham*, edited by Eurydice Georganteli and Martin Bommas, 36–62. London: University of Birmingham and the Provost and Fellows of Eton College in association with Giles."
+  - id: "Bommas 2011a"
+    essay: 3
+    full: "Bommas, Martin. 2011a. “Isis: Von der Königsmacherin zur Universalgöttin.” *Epoc: Geschichte, Archäologie, Kultur* 5:24–29."
+  - id: "Bommas 2011b"
+    essay: 3
+    full: "Bommas, Martin. 2011b. “Pausanias’ Egypt.” In *Cultural Memory and Identity in Ancient Societies*, edited by Martin Bommas, 79–108. London: Continuum."
+  - id: "Bommas 2013"
+    essay: 3
+    full: "Bommas, Martin. 2013. “Pyramids in Rome: Images without Cult?” In *Kult und Bild: Die bildliche Dimension des Kultes im Alten Orient, in der Antike und in der Neuzeit*, edited by Maria Michela Luiselli, Jürgen Mohn, and Stephanie Gripentrog, 91–109. Würzburg: Ergon."
+  - id: "Bommas 2015"
+    essay: 3
+    full: "Bommas, Martin. 2015. “Fuzzification: On the Understanding of Social Motivation in Ancient Egypt.” In *Fuzzy Boundaries: Festschrift für Antonio Loprieno*, edited by Hans Amstutz et al., 559–71. Hamburg: Widmaier."
+  - id: "Bommas 2020"
+    essay: 3
+    full: "Bommas, Martin. 2020. “Qubbet el-Hawa, 2019.” With ceramic analysis by Eman Khalifa. *Journal of Egyptian Archaeology* 106, no. 1–2 (June–December): 17–36."
+  - id: "Bresciani 1978"
+    essay: 3
+    full: "Bresciani, Edda. 1978. *Assuan: Il tempio tolemaico di Isi*. Pisa: Giardini."
+  - id: "D’Auria, Lacovara, and Roehrig 1992"
+    essay: 3
+    full: "D’Auria, Sue, Peter Lacovara, and Catherine H. Roehrig. (1988) 1992. *Mummies and Magic: The Funerary Arts of Ancient Egypt*. Boston: Museum of Fine Arts."
+  - id: "David 2007"
+    essay: 3
+    full: "David, Rosalie. 2007. *Handbook to Life in Ancient Egypt*. Oxford: Oxford University Press."
+  - id: "Davies and Gardiner 1915"
+    essay: 3
+    full: "Davies, Nina de Garis, and Allan Henderson Gardiner. 1915. *The Tomb of Amenemhēt (No. 82)*. London: Egypt Exploration Fund and Kegan Paul."
+  - id: "De Buck 1935"
+    essay: 3
+    full: "De Buck, Adriaan. 1935. *The Ancient Egyptian Coffin Texts*. Vol. 1, *Texts of Spells 1–75*. Chicago: University of Chicago Press."
+  - id: "De Buck 1951"
+    essay: 3
+    full: "De Buck, Adriaan. 1951. *The Ancient Egyptian Coffin Texts*. Vol. 4, *Texts of Spells 268–354*. Chicago: University of Chicago Press."
+  - id: "De Buck 1956"
+    essay: 3
+    full: "De Buck, Adriaan. 1956. *The Ancient Egyptian Coffin Texts*. Vol. 6, *Texts of Spells 472–786*. Chicago: University of Chicago Press."
+  - id: "Díaz Hernández 2014"
+    essay: 3
+    sort: "Diaz Hernandez 2014"
+    full: "Díaz Hernández, Roberto A. 2014. *Der Ramesseumspapyrus E: Ein Ritualbuch für Bestattungen aus dem Mittleren Reich*. Göttingen: Seminar für Ägyptologie und Koptologie der Georg-August-Universität."
+  - id: "Dieleman 2009"
+    essay: 3
+    full: "Dieleman, Jacco. 2009. Review of *Isis, das göttliche Kind und die Weltordnung: Neue religiöse Texte aus dem Fayum nach dem Papyrus Wien D. 12006 recto, Wien 2004*, by Martin Andreas Stadler. *Bibliotheca Orientalis* 66 (3–4): 225–31."
+  - id: "Dunand 2000"
+    essay: 3
+    full: "Dunand, Françoise. 2000. *Isis, mère des dieux*. Paris: Errance."
+  - id: "Falck 2001"
+    essay: 3
+    full: "Falck, Martin von. 2001. “Textgeschichtliche Untersuchungen zu Götterreden und verwandten Texten auf ägyptischen Särgen und Sarkophagen von der 3. Zwischenzeit bis zur Ptolemäerzeit.” PhD diss., University of Münster."
+  - id: "Forgeau 2010"
+    essay: 3
+    full: "Forgeau, Annie. 2010. *Horus-fils-d’Isis: La jeunesse d’un dieu*. Cairo: Institut Français d'Archéologie Oriental."
+  - id: "Frood 2007"
+    essay: 3
+    full: "Frood, Elizabeth. 2007. *Biographical Texts from Ramessid Egypt*. Leiden: Brill."
+  - id: "Gardiner 1913"
+    essay: 3
+    full: "Gardiner, Allan Henderson. 1913. “An Unusual Sketch of a Theban Funeral.” *Proceedings of the Society of Biblical Archaeology* 35:229, plate 46."
+  - id: "Griffiths 1970"
+    essay: 3
+    full: "Griffiths, John Gwyn. 1970. *Plutarch’s De Iside et Osiride*. Cardiff: University of Wales Press."
+  - id: "Hornung 1999"
+    essay: 3
+    full: "Hornung, Erik. 1999. *Das esoterische Ägypten: Das geheime Wissen der Ägypter und sein Einfluss auf das Abendland*. Munich: Beck."
+  - id: "Junker 1910"
+    essay: 3
+    full: "Junker, Hermann. 1910. *Die Stundenwachen in den Osirismysterien nach den Inschriften von Dendera, Edfu und Philae*. Vienna: Hölder."
+  - id: "Kenney 2004"
+    essay: 3
+    full: "Kenney, Edward John, trans. 2004. *The Golden Ass*, by Apuleius. London: Penguin."
+  - id: "Knigge 2006"
+    essay: 3
+    full: "Knigge, Carsten. 2006. *Das Lob der Schöpfung: Die Entwicklung ägyptischer Sonnen- und Schöpfungshymnen nach dem Neuen Reich*. Fribourg: Academic Press."
+  - id: "Kucharek 2005"
+    essay: 3
+    full: "Kucharek, Andrea. 2005. “70 Tage—Trauerphasen und Trauerriten in Ägypten.” In *Der Abschied von den Toten: Trauerrituale im Kulturvergleich*, edited by Jan Assmann, Franz Maciejewski, and Axel Michaels, 342–58. Göttingen: Wallstein."
+  - id: "Lang 1998"
+    essay: 3
+    full: "Lang, Bernhard. 1998. “Monotheismus.” In *Handbuch religionswissenschaftlicher Grundbegriffe*. Vol. 4, *Kultbild–Rolle*, edited by Hubert Cancik, Burkhard Gladigow, and Karl-Heinz Kohl, 148–65. Stuttgart: Kohlhammer."
+  - id: "Lichtheim 1976"
+    essay: 3
+    full: "Lichtheim, Miriam. 1976. *Ancient Egyptian Literature*. Vol. 2, *The New Kingdom*. Berkeley: University of California Press."
+  - id: "Lichtheim 2006"
+    essay: 3
+    full: "Lichtheim, Miriam. 2006. *Ancient Egyptian Literature*. Vol. 3, *The Late Period*. 2nd ed. Berkeley: University of California Press."
+  - id: "Malaise 1972"
+    essay: 3
+    full: "Malaise, Michel. 1972. *Les conditions de pénétration et de diffusion des cultes égyptiens en Italie*. Leiden: Brill."
+  - id: "Mania 2001"
+    essay: 3
+    full: "Mania, Ulrich. 2001. “Die Einbauten im Heiligtum der ägyptischen Götter Pergamons (Kizil Avlu).” MA thesis, University of Halle."
+  - id: "Mazurek 2018"
+    essay: 3
+    full: "Mazurek, Lyndsey A. 2018. “The Middle Platonic Isis: Text and Image of the Sanctuary of the Egyptian Gods at Herodes Atticus’ Marathon Villa.” *American Journal of Archaeology* 122, no. 4 (October): 611–44."
+  - id: "Merkelbach 2001"
+    essay: 3
+    full: "Merkelbach, Reinhold. 2001. *Isis Regina—Zeus Sarapis: Die griechisch-ägyptische Religion nach den Quellen dargestellt*. Munich: Saur."
+  - id: "Moret 1930"
+    essay: 3
+    full: "Moret, Alexandre. 1930. “Légende de Osiris à l’époque thébaine d’après l’hymne à Osiris du Louvre.” *Bulletin de l’Institut Français d’Archéologie Orientale du Caire* 30:725–50."
+  - id: "Müller 1961"
+    essay: 3
+    sort: "Muller, Dieter. 1961."
+    full: "Müller, Dieter. 1961. *Ägypten und die griechischen Isis-Aretalogien*. Berlin: Akademie-Verlag."
+  - id: "Münster 1968"
+    essay: 3
+    sort: "Munster 1968"
+    full: "Münster, Maria. 1968. *Untersuchungen zur Göttin Isis vom Alten Reich bis zum Ende des Neuen Reiches*. Berlin: Hessling."
+  - id: "Oldfather 1933–67"
+    essay: 3
+    full: "Oldfather, Charles Henry, trans. 1933–67. *Bibliotheca historica: Diodorus of Sicily*. 12 vols. Cambridge, MA: Harvard University Press."
+  - id: "Quack 2003"
+    essay: 3
+    full: "Quack, Joachim Friedrich. 2003. “‘Ich bin Isis, die Herrin der beiden Länder’: Versuch zum demotischen Hintergrund der memphitischen Isisaretalogie.” In *Egypt—Temple of the Whole World: Studies in Honour of Jan Assmann*, edited by Sibylle Meyer, 319–65. Leiden: Brill."
+  - id: "Ritner 1993"
+    essay: 3
+    full: "Ritner, Robert Kriech. 1993. *The Mechanics of Ancient Egyptian Magical Practice*. Chicago: Oriental Institute of the University of Chicago."
+  - id: "Rusch 1922"
+    essay: 3
+    full: "Rusch, Adolf. 1922. *Die Entwicklung der Himmelsgöttin Nut zu einer Totengottheit*. Leipzig: Hinrichs."
+  - id: "Sander-Hansen 1956"
+    essay: 3
+    full: "Sander-Hansen, Constantin E. 1956. *Die Texte der Metternichstele*. Copenhagen: Munksgaard."
+  - id: "Sethe 1910"
+    essay: 3
+    full: "Sethe, Kurt. 1910. *Die altägyptischen Pyramidentexte nach den Papierabdrücken und Photographien des Berliner Museums*. 2 vols. Leipzig: Hinrichs."
+  - id: "Sharp 2010"
+    essay: 3
+    full: "Sharp, Michael. 2010. “Papyri in Hellenistic and Roman Egypt.” In *Sacred and Profane: Treasures of Ancient Egypt from the Myers Collection, Eton College and University of Birmingham*, edited by Eurydice Georganteli and Martin Bommas, 87–100. London: University of Birmingham and the Provost and Fellows of Eton College in association with Giles."
+  - id: "Smith 2009"
+    essay: 3
+    full: "Smith, Mark. 2009. *Traversing Eternity: Texts for the Afterlife from Ptolemaic and Roman Egypt*. Oxford: Oxford University Press."
+  - id: "Stadler 2004"
+    essay: 3
+    full: "Stadler, Martin Andreas. 2004. *Isis, das göttliche Kind und die Weltordnung: Neue religiöse Texte aus dem Fayum nach dem Papyrus Wien D. 12006 recto*. Vienna: Hollinek."
+  - id: "Stadler 2005"
+    essay: 3
+    full: "Stadler, Martin Andreas. 2005. “Zur ägyptischen Vorlage der memphitischen Isisaretalogie.” *Göttinger Miszellen* 204:7–9."
+  - id: "Steindorff and Wolf 1936"
+    essay: 3
+    full: "Steindorff, Georg, and Walther Wolf. 1936. *Die thebanische Gräberwelt*. Glückstadt: Augustin."
+  - id: "Strauss-Seeber 1974"
+    essay: 3
+    full: "Strauss-Seeber, Elisabeth-Christine. 1974. *Die Nunschale: Eine Gefässgruppe des Neuen Reiches*. Munich: Deutscher Kunstverlag."
+  - id: "Totti 1985"
+    essay: 3
+    full: "Totti, Maria. 1985. *Ausgewählte Texte der Isis und Sarapis-Religion*. Hildesheim: Olms."
+  - id: "Villing 2018"
+    essay: 3
+    full: "Villing, Alexandra. 2018. “The Greeks in Egypt: Renewed Contact in the Iron Age.” In *Beyond the Nile: Egypt and the Classical World*, edited by Jeffrey Spier, Timothy Potts, and Sara E. Cole, 73–81. Los Angeles: J. Paul Getty Museum."
+  - id: "Wild 1981"
+    essay: 3
+    full: "Wild, Robert A. 1981. *Water in the Cultic Worship of Isis and Sarapis*. Leiden: Brill."
+  - id: "Witt 1997"
+    essay: 3
+    full: "Witt, Reginald Eldred. 1997. *Isis in the Ancient World*. Baltimore: Johns Hopkins University Press."
+
+  - id: "Albersmeier 2002"
+    essay: 4
+    full: "Albersmeier, Sabine. 2002. *Untersuchungen zu den Frauenstatuen des ptolemäischen Ägypten*. Mainz: Zabern."
+  - id: "Altmann 2010"
+    essay: 4
+    full: "Altmann, Victoria. 2010. *Die Kultfrevel des Seth: Die Gefährdung der göttlichen Ordnung in zwei Vernichtungsritualen der ägyptischen Spätzeit (Urk. VI).* Wiesbaden: Harrassowitz."
+  - id: "Ashby 2020"
+    essay: 4
+    full: "Ashby, Solange. 2020. *Calling Out to Isis: The Enduring Nubian Presence at Philae*. Piscataway, NJ: Gorgias."
+  - id: "Baines 1990"
+    essay: 4
+    full: "Baines, John. 1990. “Restricted Knowledge, Hierarchy, and Decorum: Modern Perceptions and Ancient Institutions.” *Journal of the American Research Center in Egypt* 27:1–23."
+  - id: "Baines 1991"
+    essay: 4
+    full: "Baines, John. 1991. “On the Symbolic Context of the Principal Hieroglyph for ‘God.’” In *Religion und Philosophie im alten Ägypten: Festgabe für Philippe Derchain zu seinem 65. Geburtstag am 24. Juli 1991*, edited by Ursula Verhoeven and Erhard Graefe, 29–46. Leuven: Peeters."
+  - id: "Barbantani 2005"
+    essay: 4
+    full: "Barbantani, Sylvia. 2005. “Goddess of Love and Mistress of the Sea: Notes on a Hellenistic Hymn to Arsinoe-Aphrodite (*P. Lit. Goodsp*. 2, I-IV).” *Ancient Society* 35:135–65."
+  - id: "Barguet 1962"
+    essay: 4
+    full: "Barguet, Paul. 1962. *Le temple d’Amon-Rê à Karnak: Essai d’exégèse*. Cairo: Institut Français d’Archéologie Orientale."
+  - id: "Beckerath 1999"
+    essay: 4
+    full: "Beckerath, Jürgen von. 1999. *Handbuch der ägyptischen Königsnamen*. Mainz: Zabern."
+  - id: "Beinlich 2008"
+    essay: 4
+    full: "Beinlich, Horst. 2008. “Horus von Edfu in Philae.” In *Diener des Horus: Festschrift für Dieter Kurth zum 65. Geburtstag*, edited by Wolfgang Waitkus, 7–15. Gladbeck: PeWe."
+  - id: "Bing 2002–3"
+    essay: 4
+    full: "Bing, Peter. 2002–3. “Posidippus and the Admiral: Kallikrates of Samos in the Milan Epigrams.” *Greek, Roman and Byzantine Studies* 43:243–66."
+  - id: "Bisson de la Roque 1941"
+    essay: 4
+    full: "Bisson de la Roque, Fernand. 1941. “Note sur le dieu Montou.” *Bulletin de l’Institut Français d’Archéologie Orientale* 40:1–49."
+  - id: "Bommas 2013"
+    essay: 4
+    full: "Bommas, Martin. 2013. “Isis in Alexandria—Theologie und Ikonographie.” In *Alexandria*, edited by Tobias Georges, Felix Albrecht, and Reinhard Feldmeier, 127–47. Tübingen: Mohr Siebeck."
+  - id: "Brenk 1992"
+    essay: 4
+    full: "Brenk, Frederick E. 1992. “Antony-Osiris, Cleopatra-Isis: The End of Plutarch’s *Antony*.” In *Plutarch and the Historical Tradition*, edited by Philip A. Stadter, 159–82. London: Routledge."
+  - id: "Bresciani and Pernigotti 1978"
+    essay: 4
+    full: "Bresciani, Edda, and Sergio Pernigotti. 1978. *Assuan*. Pisa: Giardini."
+  - id: "Bricault 2020"
+    essay: 4
+    full: "Bricault, Laurent. 2020. *Isis Pelagia: Images, Names and Cults of a Goddess of the Seas*. Translated by Gil H. Renberg. Leiden: Brill"
+  - id: "Brunner 1991"
+    essay: 4
+    full: "Brunner, Hellmut. 1991. *Die Geburt des Gottkönigs: Studien zur Überlieferung eines altägyptischen Mythos*. 2nd ed. Wiesbaden: Harrassowitz."
+  - id: "Bryan 1992"
+    essay: 4
+    full: "Bryan, Betsy M. 1992. “Designing the Cosmos: Temples and Temple Decoration.” In *Egypt’s Dazzling Sun: Amenhotep III and His World*, edited by Arielle P. Kozloff and Betsy M. Bryan, 73–111. Cleveland: Cleveland Museum of Art."
+  - id: "Busch and Versluys 2015"
+    essay: 4
+    full: "Busch, Alexandra, and Miguel John Versluys. 2015. “Indigenous Pasts and the Roman Present.” In *Reinventing the Invention of Tradition? Indigenous Pasts and the Roman Present*, edited by Dietrich Boschung, Alexandra Busch, and Miguel John Versluys, 7–15. Paderborn: Fink."
+  - id: "Carney 2013"
+    essay: 4
+    full: "Carney, Elizabeth Donnelly. 2013. *Arsinoë of Egypt and Macedon: A Royal Life*. Oxford: Oxford University Press."
+  - id: "Carter 1933"
+    essay: 4
+    full: "Carter, Howard. 1933. *Tut-Ench-Amun: Ein ägyptisches Königsgrab*. Vol. 2. Leipzig: Brockhaus."
+  - id: "Cassor-Pfeiffer and Pfeiffer 2019"
+    essay: 4
+    full: "Cassor-Pfeiffer, Silke, and Stefan Pfeiffer. 2019. “Pharaonin Berenike II: Bemerkungen zur ägyptischen Titulatur einer frühptolemäischen Königin.” In *En détail: Philologie und Archäologie im Diskurs; Festschrift für Hans-Werner Fischer-Elfert*, Vol. 1, edited by Marc Brose et al., 199–238. Berlin: De Gruyter."
+  - id: "Cauville 2007a"
+    essay: 4
+    full: "Cauville, Sylvie. 2007a. *Le temple de Dendara*. Vol. 12, *Les parois extérieures du naos*. Pt. 1, *Textes hiéroglyphiques*. Pt. 2, *Planches, dessin et photographies*. Cairo: Institut Français d’Archéologie Orientale."
+  - id: "Cauville 2007b"
+    essay: 4
+    full: "Cauville, Sylvie. 2007b. *Le temple de Dendara*. Vol. 13, *Façade et colonnes du pronaos*. Cairo: Institut Français d’Archéologie Orientale. [https://www.ifao.egnet.net/uploads/publications/enligne/&#65279;Temples-Dendara013.pdf](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Dendara013.pdf)."
+  - id: "Cauville 2011a"
+    essay: 4
+    full: "Cauville, Sylvie. 2011a. *Dendara XIII: Traduction; Le pronaos du temple d’Hathor; Façade et colonnes*. Leuven: Peeters."
+  - id: "Cauville 2011b"
+    essay: 4
+    full: "Cauville, Sylvie. 2011b. *Dendara XIV: Traduction; Le pronaos du temple d’Hathor; Parois intér­ieures*. Leuven: Peeters."
+  - id: "Cooney 2018"
+    essay: 4
+    full: "Cooney, Kara. 2018. *When Women Ruled the World: Six Queens of Egypt*. Washington, DC: National Geographic."
+  - id: "Ćwiek 2014"
+    essay: 4
+    sort: "Cwiek 2014"
+    full: "Ćwiek, Andrzej. 2014. “Old and Middle Kingdom Tradition in the Temple of Hatshepsut at Deir el-Bahari.” *Études et Travaux* (Institut des Cultures Méditerranéennes et Orientales de l’Académie Polonaise des Sciences) 27:61–93."
+  - id: "Demetriou 2010"
+    essay: 4
+    full: "Demetriou, Denise. 2010. “Tῆς πάσης ναυτιλίης φύλαξ: Aphrodite and the Sea.” *Kernos* 23:67–89."
+  - id: "De Meulenaere 1976"
+    essay: 4
+    full: "De Meulenaere, Herman. 1976. “Cults and Priesthoods of the Mendesian Nome.” In *Mendes* II, edited by Herman De Meulenaere and Pierre MacKay. Warminster: Aris & Phillips."
+  - id: "Dunand 1973"
+    essay: 4
+    full: "Dunand, Françoise. 1973. *Le culte d’Isis dans le bassin oriental de la Méditerranée*. Vol. 1, *Le culte d’Isis et les Ptolémées*. Leiden: Brill."
+  - id: "Dunham 1957"
+    essay: 4
+    full: "Dunham, Dows. 1957. *The Royal Cemeteries of Kush*. Vol. 4, *Royal Tombs at Meroë and Barkal*. Boston: Museum of Fine Arts."
+  - id: "Ebling 2018"
+    essay: 4
+    full: "Ebling, Florian. 2018. “Editorial Note: Jan Assmann’s Transformation of Reception Studies to Cultural History.” In *Mnemohistory and Cultural Memory: Essays in Honour of Jan Assmann*, edited by Florian Ebling, 5–8. Heidelberg: Propylaeum."
+  - id: "Eckert 2016"
+    essay: 4
+    full: "Eckert, Martin. 2016. *Die Aphrodite der Seefahrer und ihre Heiligtümer am Mittelmeer: Archäologische Untersuchungen zu interkulturellen Kontaktzonen am Mittelmeer in der späten Bronzezeit und frühen Eisenzeit*. Berlin: LIT."
+  - id: "Eldamaty 2011"
+    essay: 4
+    full: "Eldamaty, Mamdouh. 2011. “Die ptolemäische Königin als weiblicher Horus.” In *Ägypten zwischen innerem Zwist und äußerem Druck: Die Zeit Ptolemaios’ VI. bis VIII.*, edited by Andrea Jördens and Joachim Friedrich Quack, 24–57. Wiesbaden: Harrassowitz."
+  - id: "Etman 2003"
+    essay: 4
+    full: "Etman, Ahmed. 2003. “Cleopatra VII as Nea Isis: A Mediterranean Identity.” In *Faraoni come dei, Tolemei come faraoni*, edited by Nicola Bonacasa et al., 75–78. Turin: Museo Egizio."
+  - id: "Fauerbach 2018"
+    essay: 4
+    full: "Fauerbach, Ulrike. 2018. *Der große Pylon des Horus-Tempels von Edfu: Architektur und Bautechnik eines monumentalen Torbaus der Ptolemaierzeit*. Wiesbaden: Harrassowitz."
+  - id: "Fraser 1972"
+    essay: 4
+    full: "Fraser, Peter Marshall. 1972. *Ptolemaic Alexandria*. 3 vols. Oxford: Clarendon."
+  - id: "Gabolde 1992"
+    essay: 4
+    full: "Gabolde, Marc. 1992. “Étude sur l’évolution des dénominations et de l'aspect des pylônes du temple d’Amon-Rê à Karnak.” *Bulletin de Cercle Lyonnais d’Égyptologie Victor Loret* 6:17–60."
+  - id: "Gabolde and Laisney 2017"
+    essay: 4
+    sort: "Gabolde, Marc. 2017."
+    full: "Gabolde, Luc, and Damien Laisney. 2017. “L’orientation du temple d’Héliopolis: Données géophysiques et implications historiques.” *Mitteilungen des Deutschen Archäologischen Instituts* 73:105–32."
+  - id: "Gauthier 1911"
+    essay: 4
+    full: "Gauthier, Henri. 1911. *Le temple de Kalabchah*. Vol. 1, *Texte*. Cairo: Institut Français d’Archéologie Orientale."
+  - id: "Gill 2015"
+    essay: 4
+    full: "Gill, Ann-Katrin. 2015. “The Spells against Enemies in the Papyrus of Pawerem (P. BM EA 10252): A Preliminary Report.” In *Liturgical Texts for Osiris and the Deceased in Late Period and Greco-Roman Egypt*, edited by Burkhard Backes and Jacco Dieleman, 133–42. Wiesbaden: Harrassowitz."
+  - id: "Gill 2019"
+    essay: 4
+    full: "Gill, Ann-Katrin. 2019. *The Hieratic Ritual Books of Pawerem (P. BM EA 10252 and P. BM EA 10081) from the Late 4th Century BC*. Wiesbaden: Harrassowitz."
+  - id: "Goebs and Baines 2018"
+    essay: 4
+    full: "Goebs, Katja, and John Baines. 2018. “Functions and Uses of Egyptian Myth.” *Revue de l’histoire des religions* 235 (4):645–81."
+  - id: "Goelet 1991"
+    essay: 4
+    full: "Goelet, Ogden. 1991. “The Blessing of Ptah.” In *Fragments of a Shattered Visage: The Proceedings of the International Symposium of Ramesses the Great*, edited by Edward Bleiberg and Rita E. Freed, 28–37. Memphis: Memphis State University."
+  - id: "Graefe 1983"
+    essay: 4
+    full: "Graefe, Erhart. 1983. “Der ‘Sonnenaufgang zwischen den Pylontürmen’—Erstes Bad, Krönung und Epiphanie des Sonnengottes—à propos Carter, Tutankhamen, Handlist no 181.” *Orientalia Lovaniensia Periodica* 14:55–79."
+  - id: "Griffin 2018"
+    essay: 4
+    full: "Griffin, Kenneth. 2018. *All the Rḫyt-People Adore: The Role of the Rekhyt-People in Egyptian Religion*. London: Golden House."
+  - id: "Griffith 1937"
+    essay: 4
+    full: "Griffith, Francis Llewellyn. 1937. *Catalogue of the Demotic Graffiti of the Dodecaschoenus*. Oxford: Oxford University Press."
+  - id: "Grimm 1999"
+    essay: 4
+    full: "Grimm, Günter. 1999. *Alexandria: Die erste Königsstadt der hellenistischen Welt*. Mainz: Zabern."
+  - id: "Gundlach 1995"
+    essay: 4
+    full: "Gundlach, Rolf. 1995. “Das Dekorationsprogramm der Tempel von Abu Simbel und ihre kultische und königsideologische Funktion.” In *Systeme und Programme der ägyptischen Tempeldekoration*, edited by Dieter Kurth, 47–71. Wiesbaden: Harrassowitz."
+  - id: "Handler 1971"
+    essay: 4
+    full: "Handler, Susan. 1971. “Architecture on the Roman Coins of Alexandria.” *American Journal of Archaeology* 75:57–74."
+  - id: "Hauben 1970"
+    essay: 4
+    full: "Hauben, Hans. 1970. *Callicrates of Samos: A Contribution to the Study of the Ptolemaic Admiralty*. Leuven: Peeters."
+  - id: "Hauben 1983"
+    essay: 4
+    full: "Hauben, Hans. 1983. “Arsinoé II et la politique extérieure.” In *Egypt and the Hellenistic World*, edited by Edmond Van ’t Dack et al., 99–127. Leuven: Peeters."
+  - id: "Hauben 2013"
+    essay: 4
+    full: "Hauben, Hans. 2013. “Callicrates of Samos and Patroclus of Macedon, Champions of Ptolemaic Thalassocracy.” In *The Ptolemies, the Sea and the Nile: Studies in Waterborne Power*, edited by Kostas Buraselis, Mary Stefanou, and Dorothy J. Thompson, 39–65. Cambridge: Cambridge University Press."
+  - id: "Heinen 2009"
+    essay: 4
+    full: "Heinen, Heinz. 2009. “‘Cleopatra regina amica populi Romani et caesaris’: Die Rom- und Caesarenfreundschaft der Kleopatra; Gebrauch und Missbrauch eines politischen Instruments.” In *Kleopatra-Studien: Gesammelte Schriften zur ausgehenden Ptolemäerzeit*, edited by Heinz Heinen, 288–98. Konstanz: UVK Universitätsverlag."
+  - id: "Helmbold-Doyé 2019"
+    essay: 4
+    full: "Helmbold-Doyé, Jana. 2019. “Tomb Architecture and Burial Customs of the Elite during the Meroitic Phase in the Kingdom of Kush.” In *Handbook of Ancient Nubia*, edited by Dietrich Raue, 2:783–809. Berlin: De Gruyter."
+  - id: "Hinkel 1981"
+    essay: 4
+    full: "Hinkel, Friedrich W. 1981. “Die Größe der Meroitischen Pyramiden.” In *Studies in Ancient Egypt, the Aegean, and the Sudan: Essays in Honor of Dow Dunham on the Occasion of His 90th Birthday, June 1, 1980*, edited by William Kelly Simpson and Whitney Davis, 91–98. Boston: Museum of Fine Arts."
+  - id: "Hinkel 1996"
+    essay: 4
+    full: "Hinkel, Friedrich W. 1996. “Meroitische Architektur.” In *Sudan: Antike Königreiche am Nil*, edited by Dietrich Wildung, 391–415. Tübingen: Wasmuth."
+  - id: "Hinkel 2000"
+    essay: 4
+    full: "Hinkel, Friedrich W. 2000. “The Royal Pyramids of Meroe: Architecture, Construction and Reconstruction of a Sacred Landscape.” *Sudan and Nubia* 4:11–27."
+  - id: "Hinkel and Yellin 1998"
+    essay: 4
+    full: "Hinkel, Friedrich W., and Janice W. Yellin. 1998. “Royal Pyramid Chapels of Kush Project.” In *Proceedings of the Seventh International Congress of Egyptologists, Cambridge, 3­–9 September 1995*, edited by Christopher Eyre, 555–62. Leuven: Peeters."
+  - id: "Hoffmann 2015"
+    essay: 4
+    full: "Hoffmann, Friedhelm. 2015. “Königinnen in ägyptischen Quellen der römischen Zeit.” In *Ägyptische Königinnen vom Neuen Reich bis in die islamische Zeit*, edited by Mamdouh Eldamaty at al., 139–56. Vaterstetten: Brose."
+  - id: "Hölbl 2001"
+    essay: 4
+    sort: "Holbl 2001"
+    full: "Hölbl, Günter. 2001. *A History of the Ptolemaic Empire*. London: Routledge."
+  - id: "Hölbl 2003"
+    essay: 4
+    sort: "Holbl 2003"
+    full: "Hölbl, Günter. 2003. “Ptolemäische Königin und weiblicher Pharao.” In *Faraoni come dei, Tolemei come faraoni*, edited by Nicola Bonacasa et al., 88–97. Turin: Museo Egizio."
+  - id: "Kákosy 1994"
+    essay: 4
+    full: "Kákosy, László. 1994. “Tempel und Mysterien.” In *Ägyptische Tempel—Struktur, Funktion und Programm: Akten der ägyptologischen Tempeltagung in Gosen 1990 und in Mainz 1992*, edited by Rolf Gundlach and Matthias Rochholz, 165–73. Hildesheim: Gerstenberg."
+  - id: "Larché 2018"
+    essay: 4
+    full: "Larché, François. 2018. “Nouvelles données et interprétation des vestiges du temple de Sésostris Ier à Tôd.” *Journal of Ancient Egyptian Architecture* 3:100–139."
+  - id: "Leitz 2002"
+    essay: 4
+    full: "Leitz, Christian, ed. 2002. *Lexikon der ägyptischen Götter und Götterbezeichnungen*. 7 vols. Leuven: Peeters."
+  - id: "Lohwasser 1994"
+    essay: 4
+    full: "Lohwasser, Angelika. 1994. “Die Königin Amanishakheto.” *Der Antike Sudan: Mitteilungen der Sudanarchäologischen Gesellschaft zu Berlin* 1:30–31."
+  - id: "Lohwasser 2001"
+    essay: 4
+    full: "Lohwasser, Angelika. 2001. “Der ‘Thronschatz’ der Königin Amanishakheto.” In *Begegnungen: Antike Kulturen im Niltal; Festgabe für Erika Endesfelder, Karl-Heinz Priese, Walter Friedrich Reinecke, Steffen Wenig*, edited by Caris-Beatrice Arnst, Ingelore Hafemann, and Angelika Lohwasser, 285–302. Leipzig: Wodtke & Stegbauer."
+  - id: "Lohwasser 2004"
+    essay: 4
+    full: "Lohwasser, Angelika. 2004. “Pyramiden in Nubien.” In *Die Pyramiden Ägyptens: Monumente der Ewigkeit*, edited by Christian Hölzl, 207–14. Vienna: Brandstätter."
+  - id: "Lohwasser 2021"
+    essay: 4
+    full: "Lohwasser, Angelika. 2021. “The Role and Status of Royal Women in Kush.” In *The Routledge Companion to Women and Monarchy in the Ancient Mediterranean World*, edited by Elizabeth D. Carney and Sabine Müller, 61–72. Abington, UK: Routledge."
+  - id: "Łukaszewicz 2016"
+    essay: 4
+    sort: "Lukaszewicz 2016"
+    full: "Łukaszewicz, Adam. 2016. “Cleopatra and *Kandake*.” In *Aegyptus et Nubia christiana: The Włodzimierz Godlewski Jubilee Volume on the Occasion of His 70th Birthday*, edited by Adam Łajtar, Artur Obłuski, and Iwona Zych, 691–98. Warsaw: Polish Centre of Mediterranean Archaeology."
+  - id: "Malaise 2005"
+    essay: 4
+    full: "Malaise, Michel. 2005. *Pour une terminologie et une analyse des cultes isiaques*. Brussels: Classe des Lettres, Académie Royale de Belgique."
+  - id: "Martzolff 2012"
+    essay: 4
+    full: "Martzolff, Laetitia. 2012. “Les mâts d’ornement des pylônes aux époques ptolémaïque et romaine: Entre réalité et idéal.” *Zeitschrift für ägyptische Sprache und Altertumskunde* 139 (2): 145–57."
+  - id: "El-Masry, Altenmüller, and Thissen 2012"
+    essay: 4
+    full: "El-Masry, Yahia, Hartwig Altenmüller, and Heinz-Josef Thissen. 2012. *Das Synodaldekret von Alexandria aus dem Jahre 243 v. Chr.* Hamburg: Buske."
+  - id: "McKenzie 2007"
+    essay: 4
+    full: "McKenzie, Judith. 2007. *The Architecture of Alexandria and Egypt, c. 300 BC to AD 700*. New Haven, CT: Yale University Press."
+  - id: "Megahed and Vymazalová 2011"
+    essay: 4
+    full: "Megahed, Mohamed, and Hana Vymazalová. 2011. “Ancient Egyptian Royal Circumcision from the Pyramid Complex of Djedkare.” *Anthropologie* 49:155–64."
+  - id: "Megahed and Vymazalová 2015"
+    essay: 4
+    full: "Megahed, Mohamed, and Hana Vymazalová. 2015. “The South-Saqqara Circumcision Scene: A Fragment of an Old Kingdom Birth-Legend.” In *Royal versus Divine Authority: Acquisition, Legitimization and Renewal of Power*, edited by Filip Coppens, Jiří Janák, and Hana Vymazalová, 275–87. Wiesbaden: Harrassowitz."
+  - id: "Merkelbach 1995"
+    essay: 4
+    full: "Merkelbach, Reinhold. 1995. *Isis Regina—Zeus Serapis*. Stuttgart: Teubner."
+  - id: "Minas-Nerpel 2014"
+    essay: 4
+    full: "Minas-Nerpel, Martina. 2014. “Koregentschaft und Thronfolge: Legitimation ptolemäischer Machtstrukturen in den ägyptischen Tempeln der Ptolemäerzeit.” In *Orient und Okzident in hellenistischer Zeit*, edited by Friedhelm Hoffmann and Karin Stella Schmidt, 143–66. Vaterstetten: Brose."
+  - id: "Minas-Nerpel 2019a"
+    essay: 4
+    full: "Minas-Nerpel, Martina. 2019a. “Ptolemaic Queens as Ritualists and Recipients of Cults: The Cases of Arsinoe II and Berenike II.” *Ancient Society* 49:141–83."
+  - id: "Minas-Nerpel 2019b"
+    essay: 4
+    full: "Minas-Nerpel, Martina. 2019b. “‘Seeing Double’: Intercultural Dimensions of the Royal Ideology in Ptolemaic Egypt.” In *Egyptian Royal Ideology and Kingship under Periods of Foreign Rulers: Case Studies from the First Millennium BC*, edited by Julia Budka, 189–205. Wiesbaden: Harrassowitz."
+  - id: "Minas-Nerpel 2021"
+    essay: 4
+    full: "Minas-Nerpel, Martina. 2021. “Regnant Women in Egypt.” In *The Routledge Companion to Women and Monarchy in the Ancient Mediterranean*, edited by Elizabeth D. Carney and Sabine Müller, 22–34. Abingdon: Routledge."
+  - id: "Minas-Nerpel and Preys forthcoming"
+    essay: 4
+    sort: "Minas-Nerpel, Martina. 2022."
+    full: "Minas-Nerpel, Martina, and René Preys. Forthcoming. *The Kiosk of Taharqa*. Vol. II: *The Ptolemaic Decoration (TahKiosk nos. E1–24, F1–4)*, Travaux du Centre Franco-égyptien d'Etude des Temples de Karnak. Cairo: Institut Français d'Archéologie Orientale."
+  - id: "Müller 2009"
+    essay: 4
+    sort: "Muller 2009"
+    full: "Müller, Sabine. 2009. *Das hellenistische Königspaar in der medialen Repräsentation: Ptolemaios II. und Arsinoe II*. Berlin: De Gruyter."
+  - id: "Nagel 2014"
+    essay: 4
+    full: "Nagel, Svenja. 2014. “Isis und die Herrscher: Eine ägyptische Göttin als (Über-)Trägerin von Macht und Herrschaft für Pharaonen, Ptolemäer und Kaiser.” In *Macht und Ohnmacht: Religiöse, soziale und ökonomische Spannungsfelder in frühen Gesellschaften*, edited by Diamantis Panagiotopoulos and Maren Schentuleit, 115–45. Wiesbaden: Harrassowitz."
+  - id: "Nagel 2019"
+    essay: 4
+    full: "Nagel, Svenja. 2019. *Isis im Römischen Reich*. Vol. 1, *Die Göttin im griechisch-römischen Ägypten*. Vol. 2, *Adaption(en) des Kultes im Westen*. Wiesbaden: Harrassowitz."
+  - id: "Naster 1968"
+    essay: 4
+    full: "Naster, Paul. 1968. “Le pylône égyptien sur les monnaies impériales d’Alexandrie.” In *Antidorum W. Peremans sexagenario ab alumnis oblatum*, edited by Willy Peremans and Albert Torhoudt, 181–90. Leuven: Peeters."
+  - id: "Nisetich 2005"
+    essay: 4
+    full: "Nisetich, Frank, trans. 2005. “The Poems of Posidippus.” In *The New Posidippus: A Hellenistic Poetry Book*, edited by Kathryn Gutzwiller, 17–64. Oxford: Oxford University Press."
+  - id: "Oppenheim 2011"
+    essay: 4
+    full: "Oppenheim, Adela. 2011. “The Early Life of Pharaoh: Divine Birth and Adolescence Scenes in the Causeway of Senwosret III at Dahshur.” In *Abusir and Saqqara in the Year 2010*, edited by Miroslav Bárta, Filip Coppens, and Jaromir Krejci, 1:171–88. Prague: Czech Institute of Egyptology, Faculty of Arts, Charles University."
+  - id: "Payraudeau 2015"
+    essay: 4
+    full: "Payraudeau, Frédéric. 2015. “Considérations sur quelques titres des reines de l’Ancien Empire à l’époque ptolémaïque.” In *Cinquante ans d’éternité: Jubilé de la Mission archéologique française de Saqqâra (1963–2013)*, edited by Rémi Legros, 209–25. Cairo: Institut Français d’Archéologie Orientale."
+  - id: "Petrie 1901"
+    essay: 4
+    full: "Petrie, W. M. Flinders. 1901. *The Royal Tombs of the Earliest Dynasties*. Vol. 2. London: Egypt Exploration Fund."
+  - id: "Pfeiffer 2017"
+    essay: 4
+    full: "Pfeiffer, Stefan. 2017. *Die Ptolemäer: Im Reich der Kleopatra*. Stuttgart: Kohlhammer."
+  - id: "Pfeiffer 2021"
+    essay: 4
+    full: "Pfeiffer, Stefan. 2021. “Royal Women and Ptolemaic Cults.” In *The Routledge Companion to Women and Monarchy in the Ancient Mediterranean World*, edited by Elizabeth D. Carney and Sabine Müller, 96–107. Abington, UK: Routledge."
+  - id: "Pfrommer 2002"
+    essay: 4
+    full: "Pfrommer, Michael. 2002. *Königinnen vom Nil*. Mainz: Zabern."
+  - id: "Plantzos 2011"
+    essay: 4
+    full: "Plantzos, Dimitris. 2011. “The Iconography of Assimilation: Isis and the Royal Imagery of Ptolemaic Seal Impressions.” In *More than Men, Less than Gods: Studies on Royal Cult and Imperial Worship*, edited by Panagiotos P. Iossif, 389–415. Leuven: Peeters."
+  - id: "Pomeroy 1991"
+    essay: 4
+    full: "Pomeroy, Sarah B. 1991. *Women’s History and Ancient History*. Chapel Hill, NC: University of North Carolina Press."
+  - id: "Pope 2008–9"
+    essay: 4
+    full: "Pope, Jeremy. 2008–9. “The Demotic *Proskynema* of a Meroitic Envoy to Roman Egypt (Philae 416).” *Enchoria* 31:68–103."
+  - id: "Porter and Moss 1972"
+    essay: 4
+    full: "Porter, Bertha, and Rosalind L. B. Moss. 1972. *Topographical Bibliography of Ancient Egyptian Hieroglyphic Texts, Reliefs, and Paintings*. Vol. 2, *Theban Temples*. 2nd ed. Oxford: Clarendon."
+  - id: "Preys 2002a"
+    essay: 4
+    full: "Preys, René. 2002a. “Hathor au sceptre-*ouas*: Images et textes au service de la théologie.” *Revue d’Égyptologie* 53:197–212."
+  - id: "Preys 2002b"
+    essay: 4
+    full: "Preys, René. 2002b. “Isis et Hathor *nbtyt rḫyt*.” *Bulletin de l’Institut Français d’Archéologie Orientale* 102:327–51."
+  - id: "Preys 2015"
+    essay: 4
+    full: "Preys, René. 2015. “Roi vivant et roi ancêtre: Iconographie et idéologie royale sous les Ptolémées.” In *Offrandes, rites et rituels dans les temples d’époques ptolémaïque et romaine*, edited by Christiane Zivie-Coche, 149–84. Montpellier: Université Paul Valéry-Montpellier III."
+  - id: "Raue 1999"
+    essay: 4
+    full: "Raue, Dietrich. 1999. *Heliopolis und das Haus des Re: Eine Prosopographie und ein Toponym im Neuen Reich*. Berlin: Achet."
+  - id: "Recklinghausen 2018"
+    essay: 4
+    full: "Recklinghausen, Daniel von. 2018. *Die Philensis-Dekrete: Untersuchungen über zwei Synodaldekrete aus der Zeit Ptolemaios*’ *V. und ihre geschichtliche und religiöse Bedeutung*. Wiesbaden: Harrassowitz."
+  - id: "Riedel 2020"
+    essay: 4
+    full: "Riedel, Stefan. 2020. *Die Basileia von Alexandria: Topographisch-urbanistische Untersuchungen zum ptolemäischen Königsviertel*. Turnhout: Brepols."
+  - id: "Rutherford 1998"
+    essay: 4
+    full: "Rutherford, Ian. 1998. “Island of the Extremity: Space, Language and Power in the Pilgrimage Traditions of Philae.” In *Pilgrimage and Holy Space in Late Antique Egypt*, edited by David Frankfurter, 229–56. Leiden: Brill."
+  - id: "Savvopoulos 2010"
+    essay: 4
+    full: "Savvopoulos, Kyriakos. 2010. “Alexandria in Aegypto: The Use and Meaning of Egyptian Elements in Hellenistic and Roman Alexandria.” In *Isis on the Nile: Egyptian Gods in Hellenistic and Roman Egypt*, edited by Laurent Bricault and Miguel John Versluys, 75–86. Leiden: Brill."
+  - id: "Schäfer 2011"
+    essay: 4
+    full: "Schäfer, Donata. 2011. *Makedonische Pharaonen und hieroglyphische Stelen*. Leuven: Peeters."
+  - id: "Schlögl 1989"
+    essay: 4
+    full: "Schlögl, Hermann Alexander. 1989. *Der Gott Tatenen nach Texten und Bildern des Neuen Reiches*. Freiburg: Universitätsverlag; Göttingen: Vandenhoeck & Ruprecht."
+  - id: "Schreiber 2011"
+    essay: 4
+    full: "Schreiber, Torben. 2011. “‘Ἀρσινόης θεᾶς Φιλαδέλφου’—Ein Miniaturaltar der Arsinoë II. im Archäologischen Museum der Westfälischen Wilhelms-Universität Münster.” *Boreas* 34:187–201."
+  - id: "Sethe 1904"
+    essay: 4
+    full: "Sethe, Kurt Heinrich. 1904. *Hieroglyphische Urkunden der griechisch-römischen Zeit*. Leipzig: Hinrich."
+  - id: "Shubert 1981"
+    essay: 4
+    full: "Shubert, Steven Blake. 1981. “Studies on the Egyptian Pylon.” *Journal of the Society for the Study of Egyptian Antiquities* 11, no. 3 (May): 135–64."
+  - id: "Sourouzian 1981"
+    essay: 4
+    full: "Sourouzian, Hourig. 1981. “L’apparition du pylône.” *Bulletin de l’Institut Français d'Archéologie Orientale* 81 (1): 141–51."
+  - id: "Spencer 2004"
+    essay: 4
+    full: "Spencer, Patricia. 2004. “Digging Diary 2003.” *Egyptian Archaeology* 24 (Autumn): 25–29."
+  - id: "Spier, Potts, and Cole 2018"
+    essay: 4
+    full: "Spier, Jeffrey, Timothy Potts, and Sarah E. Cole, eds. 2018. *Beyond the Nile: Egypt and the Classical World*. Los Angeles: J. Paul Getty Museum."
+  - id: "Stephens 2005"
+    essay: 4
+    full: "Stephens, Susan. 2005. “Battle of the Books.” In *The New Posidippus: A Hellenistic Poetry Book*, edited by Kathryn Gutzwiller, 229–48. Oxford: Oxford University Press."
+  - id: "Török 1997"
+    essay: 4
+    full: "Török, László. 1997. *The Kingdom of Kush: Handbook of Napatan Meroitic Civilization*. Leiden: Brill."
+  - id: "Török 2009"
+    essay: 4
+    full: "Török, László. 2009. *Between Two Worlds: The Frontier Region between Ancient Nubia and Egypt, 3700 BC–AD 500*. Leiden: Brill."
+  - id: "Troy 1986"
+    essay: 4
+    full: "Troy, Lana. 1986. *Patterns of Queenship in Ancient Egyptian Myth and History*. Uppsala: Uppsala University."
+  - id: "Troy 2002"
+    essay: 4
+    full: "Troy, Lana. 2002. “The Ancient Egyptian Queenship as an Icon of the State.” *NIN: Journal of Gender Studies in Antiquity* 3:1–24."
+  - id: "Tzalas 2003"
+    essay: 4
+    full: "Tzalas, Harry E. 2003. “Greco-Egyptian Underwater Archaeological Survey near Alexandria.” In *Towards Integrated Management of Alexandria’s Coastal Heritage*, by Selim Morcos et al., 74–79. Paris: United Nations Educational, Scientific and Cultural Organization."
+  - id: "Tzalas 2013"
+    essay: 4
+    full: "Tzalas, Harry E. 2013. “Surveys of the Greek Mission in Alexandria, 1998–2012: Fifteen Years of Uninterrupted Research.” In *Acta of the Conference: Alexander, the Greek Cosmos-System and Contemporary Global Society*, vol. A, edited by Michael Tritos et al., 320–48. Thessaloniki: Academy of Institutions and Cultures. [http://www.academy.edu.gr/files/praktika_alexandros_a.pdf](http://www.academy.edu.gr/files/praktika_alexandros_a.pdf)."
+  - id: "Tzalas 2018"
+    essay: 4
+    full: "Tzalas, Harry E. 2018. “The Submerged Ancient Architectural Elements and Structural Remains of the Eastern Coast of Alexandria, Egypt: An Underwater Survey of the Greek Mission.” In *Proceedings of the 4th Biennial of Architectural and Urban Restoration (BRAU4), Piraeus, April 2018*, 17–42. Italy: Centro Internazionale per la Conservazione del Patrimonio Architettonico. [https://www.ancientportsantiques.com/wp-content/uploads/Documents/&#65279;PLACES/Egypt-Libya/Alexandria/Alexandria-Tzalas2018.pdf](https://www.ancientportsantiques.com/wp-content/uploads/Documents/PLACES/Egypt-Libya/Alexandria/Alexandria-Tzalas2018.pdf)."
+  - id: "Versluys 2018"
+    essay: 4
+    full: "Versluys, Miguel John. 2018. “Egypt and/in/as Rome.” In *Beyond the Nile: Egypt and the Classical World*, edited by Jeffrey Spier, Timothy Potts, and Sara E. Cole, 230–37. Los Angeles: J. Paul Getty Museum."
+  - id: "Waddell 1940"
+    essay: 4
+    full: "Waddell, William Gillan. 1940. *Manetho*. London: Heinemann."
+  - id: "Weber 2010"
+    essay: 4
+    full: "Weber, Gregor. 2010. “Ungleichheiten, Integration oder Adaption? Der ptolemaiische Herrscher- und Dynastiekult in griechisch-makedonischer Perspektive.” In *Alexandreia und das ptolemäische Ägypten: Kulturbegegnungen in hellenistischer Zeit*, edited by Gregor Weber, 55–83. Berlin: Antike."
+  - id: "Wenig 2015"
+    essay: 4
+    full: "Wenig, Steffan. 2015. *Untersuchungen zur Ikonographie der Darstellungen der meroitischen Königsfamilie und zu Fragen der Chronologie des Reiches von Meroe*. Berlin: Golden House."
+  - id: "Wildung 1996"
+    essay: 4
+    full: "Wildung, Dietrich. 1996. *Sudan: Antike Königreiche am Nil*. Tübingen: Wasmuth."
+  - id: "Wildung 2008"
+    essay: 4
+    full: "Wildung, Dietrich. 2008. “Kandake: The Queens of Ancient Sudan.” In *Queens of Egypt: From Hetepheres to Cleopatra*, edited by Christiane Ziegler, 200–205. Monaco: Grimaldi Forum."
+  - id: "Winlock 1941"
+    essay: 4
+    full: "Winlock, Herbert E. 1941. *The Temple of Hibis in el Khārgeh Oasis*. Pt. 1, *The Excavations*. New York: Metropolitan Museum of Art."
+  - id: "Žabkar 1988"
+    essay: 4
+    sort: "Zabkar 1988"
+    full: "Žabkar, Louis V. 1988. *Hymns to Isis in Her Temple at Philae*. Hanover, NH: Published for Brandeis University Press by University Press of New England."
+  - id: "Zibelius-Chen 2006"
+    essay: 4
+    full: "Zibelius-Chen, Karola. 2006. “The Chronology of Nubian Kingdoms.” In *Ancient Egyptian Chronology*, edited by Erik Hornung, Rolf Krauss, and David A. Warburton, 284–303. Leiden: Brill."
+
+  - id: "Bagnall and Tallet 2019"
+    essay: 5
+    full: "Bagnall, Roger S., and Gaëlle Tallet. 2019. “The Great Oasis: An Administrative Entity from Pharaonic Times to Roman Times.” In *The Great Oasis of Egypt: The Kharga and Dakhla Oases in Antiquity*, edited by Roger S. Bagnall and Gaëlle Tallet, 83–104. Cambridge: Cambridge University Press."
+  - id: "Bagnall and Worp 2002"
+    essay: 5
+    full: "Bagnall, Roger S., and Klaas A. Worp. 2002. “An Inscribed Pedestal from the Temple of Tutu.” In *Dakhleh Oasis Project: Preliminary Reports on the 1994–1995 to 1998–1999 Field Seasons*, edited by Colin A. Hope and Gillian E. Bowen, 49–51. Oxford: Oxbow."
+  - id: "Baines 1974"
+    essay: 5
+    full: "Baines, John. 1974. “Translator’s Introduction.” In *Principles of Egyptian Art*, by Heinrich Schäfer, edited by Emma Brunner-Traut and translated and edited by John Baines, xi–xix. Oxford: Clarendon."
+  - id: "Berry 2002"
+    essay: 5
+    full: "Berry, Michelle. 2002. “The Study of Pigments from Shrine I at Ismant el-Kharab.” In *Dakhleh Oasis Project: Preliminary Reports on the 1994–1995 to 1998–1999 Field Seasons*, edited by Colin A. Hope and Gillian E. Bowen, 53–60. Oxford: Oxbow."
+  - id: "Bettles 2020"
+    essay: 5
+    full: "Bettles, Elizabeth. 2020. “Pink in the Kellis Mammisi and Kalabsha Temple: Solar Theology and Divine Gender in Roman Period Cultic Monuments.” In *Dust, Demons and Pots: Studies in Honour of Colin A. Hope*, edited by Ashten R. Warfe et al., 25–38. Leuven: Peeters."
+  - id: "Bettles and Kaper 2011"
+    essay: 5
+    sort: "Bettles, Elizabeth. 2020b."
+    full: "Bettles, Elizabeth, and Olaf E. Kaper. 2011. “The Divine Potters of Kellis.” In *Under the Potter’s Tree: Studies on Ancient Egypt Presented to Janine Bourriau on the Occasion of Her 70th Birthday*, edited by David Aston et al., 215–51. Leuven: Peeters."
+  - id: "Blondaux 2002"
+    essay: 5
+    full: "Blondaux, Laurence. 2002. “Conservation of Archaeological Wall Paintings in the Temple of Tutu.” In *Dakhleh Oasis Project: Preliminary Reports on the 1994–1995 to 1998–1999 Field Seasons*, edited by Colin A. Hope and Gillian E. Bowen, 61–63. Oxford: Oxbow."
+  - id: "Blondaux 2008"
+    essay: 5
+    full: "Blondaux, Laurence. 2008. “Conservation at Ismant el-Kharab: Examples of Wall Painting in Shrine 1.” In *The Oasis Papers 2: Proceedings of the Second International Conference of the Dakhleh Oasis Project*, edited by Marcia F. Wiseman, 151–52. Oxford: Oxbow."
+  - id: "Blondaux 2020"
+    essay: 5
+    full: "Blondaux, Laurence. 2020. “Conserving Wall Paintings in Archaeological Fields: A Case Study from Kellis, Dakhleh Oasis.” In *Dust, Demons and Pots: Studies in Honour of Colin A. Hope*, edited by Ashten R. Warfe et al., 49–56. Leuven: Peeters."
+  - id: "Bowen et al. 2007"
+    essay: 5
+    full: "Bowen, Gillian E., et al. 2007. “Brief Report on the 2007 Excavations at Ismant el-Kharab.” *Bulletin of the Australian Centre for Egyptology* 18:21–52."
+  - id: "Bresciani and Giammarusti 2015"
+    essay: 5
+    full: "Bresciani, Edda, and Antonio Giammarusti. 2015. *I templi di Medinet Madi nel Fayum*. Pisa: Plus, Pisa University Press."
+  - id: "Brunner-Traut 1974"
+    essay: 5
+    full: "Brunner-Traut, Emma. 1974. “Epilogue: Aspective.” In *Principles of Egyptian Art*, by Heinrich Schäfer, edited by Emma Brunner-Traut and translated and edited by John Baines, 421–46. Oxford: Clarendon."
+  - id: "Castiglione 1961"
+    essay: 5
+    full: "Castiglione, László. 1961. “Dualité du style dans l’art sépulcral égyptien à l’époque romaine.” *Acta Archaeologica Academiae Scientiarum Hungaricae* 9:209–30."
+  - id: "Cauville 1997"
+    essay: 5
+    full: "Cauville, Sylvie. 1997. *Le zodiaque d’Osiris*. Leuven: Peeters."
+  - id: "Clarke 2003"
+    essay: 5
+    full: "Clarke, John R. 2003. *Art in the Lives of Ordinary Romans: Visual Representation and Non-Elite Viewers in Italy, 100 B.C.–A.D. 315*. Berkeley: University of California Press."
+  - id: "Dobrowolski 2002"
+    essay: 5
+    full: "Dobrowolski, Jarosław. 2002. “Remarks on the Construction Stages of the Main Temple and Shrines I–II.” In *Dakhleh Oasis Project: Preliminary Reports on the 1994–1995 to 1998–1999 Field Seasons*, edited by Colin A. Hope and Gillian E. Bowen, 121–28. Oxford: Oxbow."
+  - id: "Effland 2014"
+    essay: 5
+    full: "Effland, Andreas. 2014. “‘You Will Open Up the Ways in the Underworld of the God’: Aspects of Roman and Late Antique Abydos.” In *Egypt in the First Millennium AD: Perspectives from New Fieldwork*, edited by E. O’Connell, 193–205. Leuven: Peeters."
+  - id: "Effland and Effland 2013"
+    essay: 5
+    sort: "Effland, Andreas. 2014b."
+    full: "Effland, Andreas, and Ute Effland. 2013. *Abydos: Tor zur ägyptischen Unterwelt*. Mainz-Darmstadt: Wissenschaftliche Buchgesellschaft."
+  - id: "Frankfurter 1998"
+    essay: 5
+    full: "Frankfurter, David. 1998. *Religion in Roman Egypt: Assimilation and Resistance*. Princeton, NJ: Princeton University Press."
+  - id: "Gabra et al. 1941"
+    essay: 5
+    full: "Gabra, Sami, et al. 1941. *Rapport sur les fouilles d’Hermoupolis Ouest (Touna el-Gebel)*. Cairo: Université Fouad Ier."
+  - id: "Gallazzi and Hadji-Minaglou 2000"
+    essay: 5
+    full: "Gallazzi, Claudio, and Gisèle Hadji-Minaglou. 2000. *Tebtynis I: La reprise des fouilles et le quartier de la chapelle d’Isis-Thermoutis*. Cairo: Institut Français d’Archéologie Orientale."
+  - id: "Gill 2016"
+    essay: 5
+    full: "Gill, James C. R. 2016. *Dakhleh Oasis and the Western Desert of Egypt under the Ptolemies*. Oxford: Oxbow."
+  - id: "Guimier-Sorbets 1998"
+    essay: 5
+    full: "Guimier-Sorbets, Anne-Marie. 1998. “Le pavement du triclinium à la méduse dans une maison d’époque impériale à Alexandrie.” In *Alexandrina 1*, edited by Jean-Yves Empereur, 115–39. Cairo: Institut Français d’Archéologie Orientale."
+  - id: "Hartwig 2015"
+    essay: 5
+    full: "Hartwig, Melinda K., ed. 2015. *A Companion to Ancient Egyptian Art*. Chichester: Wiley-Blackwell."
+  - id: "Hawass 2000"
+    essay: 5
+    full: "Hawass, Zahi. 2000. *Valley of the Golden Mummies*. Cairo: American University in Cairo Press."
+  - id: "Hölbl 2000"
+    essay: 5
+    sort: "Holbl 2000"
+    full: "Hölbl, Günther. 2000. *Altägypten im Römischen Reich: Der römische Pharao und seine Tempel.* Vol. 1, *Römische Politik und altägyptische Ideologie von Augustus bis Diocletian: Tempelbau in Oberägypten*. Mainz: Zabern."
+  - id: "Hölbl 2005"
+    essay: 5
+    sort: "Holbl 2005"
+    full: "Hölbl, Günther. 2005. *Altägypten im Römischen Reich: Der römische Pharao und seine Tempel.* Vol. 3, *Heiligtümer und religiöses Leben in den ägyptischen Wüsten und Oasen*. Mainz: Zabern."
+  - id: "Hope 2004"
+    essay: 5
+    full: "Hope, Colin A. 2004. “Ostraka and the Archaeology of Ismant el-Kharab.” In *Greek Ostraka from Kellis*, edited by Klaas A. Worp, 5–27. Oxford: Oxbow."
+  - id: "Hope 2009"
+    essay: 5
+    full: "Hope, Colin A. 2009. “Ismant el-Kharab: An Elite Roman Period Residence.” *Egyptian Archaeology* 34 (Spring): 20–24."
+  - id: "Hope 2013"
+    essay: 5
+    full: "Hope, Colin A. 2013. “Kellis.” In *The Encyclopedia of Ancient History*, edited by Roger S. Bagnall et al., 3726–28. Chichester: Wiley-Blackwell."
+  - id: "Hope 2015"
+    essay: 5
+    full: "Hope, Colin A. 2015. “The Roman-Period Houses of Kellis in Egypt’s Dakhleh Oasis.” In *Housing and Habitat in the Ancient Mediterranean: Cultural and Environmental Responses*, edited by Angelo Andrea Di Castro, Colin A. Hope, and Bruce E. Parr, 199–229. Leuven: Peeters."
+  - id: "Hope and Whitehouse 2006"
+    essay: 5
+    full: "Hope, Colin A., and Helen Whitehouse. 2006. “A Painted Residence at Ismant el-Kharab (Kellis) in the Dakhleh Oasis.” *Journal of Roman Archaeology* 19 (2): 313–28."
+  - id: "Husselman 1979"
+    essay: 5
+    full: "Husselman, Elinor M. 1979. *Karanis Excavations of the University of Michigan in Egypt 1928–1935: Topography and Architecture; A Summary of the Reports of the Director, Enoch E. Peterson*. Ann Arbor: University of Michigan Press."
+  - id: "Kákosy 1995"
+    essay: 5
+    full: "Kákosy, László. 1995. “Probleme der Religion im römerzeitlichen Ägypten.” In *Aufstieg und Niedergang der Römischen Welt (ANRW) / Rise and Decline of the Roman World: Geschichte und Kultur Roms im Spiegel der aktuellen Forschung*. Pt. 2, *Principat*. Vol. 18.5, *Religion: Heidentum (Die religiösen Verhältnisse in den Provinzen)*, edited by Wolfgang Haase, 2894–3049. Berlin: De Gruyter."
+  - id: "Kaper 1997"
+    essay: 5
+    full: "Kaper, Olaf E. 1997. “Temples and Gods in Roman Dakhleh: Studies in the Indigenous Cults of an Egyptian Oasis.” PhD diss., University of Groningen."
+  - id: "Kaper 1998"
+    essay: 5
+    full: "Kaper, Olaf E. 1998. “Temple Building in the Egyptian Deserts during the Roman Period.” In *Life on the Fringe: Living in the Southern Egyptian Deserts during the Roman and Early-Byzantine Periods. Proceedings of a Colloquium Held on the Occasion of the 25th Anniversary of the Netherlands Institute for Archaeology and Arabic Studies in Cairo, 9–12 December 1996*, edited by Olaf E. Kaper, 139–58. Leiden: Research School CNWS."
+  - id: "Kaper 2002"
+    essay: 5
+    full: "Kaper, Olaf E. 2002. “Pharaonic-Style Decoration in the Mammisi at Ismant el-Kharab: New Insights after the 1996–1997 Field Season.” In *Dakhleh Oasis Project: Preliminary Reports of the 1994–1995 to 1998–1999 Field Seasons*, edited by Colin A. Hope and Gillian E. Bowen, 217–23. Oxford: Oxbow."
+  - id: "Kaper 2003a"
+    essay: 5
+    full: "Kaper, Olaf E. 2003a. *The Egyptian God Tutu: A Study of the Sphinx-God and Master of Demons with a Corpus of Monuments*. Leuven: Peeters."
+  - id: "Kaper 2003b"
+    essay: 5
+    full: "Kaper, Olaf E. 2003b. “The God Tutu at Kellis: On Two Stelae Found at Ismant el-Kharab in 2000.” In *The Oasis Papers 3: Proceedings of the Third International Conference of the Dakhleh Oasis Project*, edited by Gillian E. Bowen and Colin A. Hope, 311–21. Oxford: Oxbow."
+  - id: "Kaper 2009"
+    essay: 5
+    full: "Kaper, Olaf E. 2009. “Restoring Wall Paintings of the Temple of Tutu.” *Egyptian Archaeology* 35 (Autumn): 3–7."
+  - id: "Kaper 2010"
+    essay: 5
+    full: "Kaper, Olaf E. 2010. “Galba’s Cartouches at Ain Birbiyeh.” In *Tradition and Transformation: Egypt under Roman Rule*, edited by Katja Lembke, Martina Minas-Nerpel, and Stefan Pfeiffer, 181–201. Leiden: Brill."
+  - id: "Kaper 2012a"
+    essay: 5
+    sort: "Kaper, Olaf E. 2012a."
+    full: "Kaper, Olaf E., ed. 2012a. *Colours of the Oasis: Artists and the Archaeology of Dakhleh Oasis, Egypt*. Leiden: privately printed."
+  - id: "Kaper 2012b"
+    essay: 5
+    full: "Kaper, Olaf E. 2012b. “Departing from Protocol: Emperor Names in the Temples of Dakhleh Oasis.” In *Auf den Spuren des Sobek: Festschrift für Horst Beinlich zum 28. Dezember 2012*, edited by Jochen Hallof, 137–62. Dettelbach: Röll."
+  - id: "Kaper 2012c"
+    essay: 5
+    full: "Kaper, Olaf E. 2012c. “The Western Oases.” In *The Oxford Handbook of Roman Egypt*, edited by Christina Riggs, 717–35. Oxford: Oxford University Press."
+  - id: "Kaper 2019"
+    essay: 5
+    full: "Kaper, Olaf E. 2019. “The Egyptian Royal Costume in the Late Period.” In *Egyptian Royal Ideology and Kingship under Periods of Foreign Rulers: Case Studies from the First Millennium BC*, edited by Julia Budka, 31–39. Wiesbaden: Harrassowitz."
+  - id: "Kaper forthcoming"
+    essay: 5
+    sort: "Kaper, Olaf E. 2022."
+    full: "Kaper, Olaf E. Forthcoming. “The Mammisi of Tutu in Kellis: Towards a New Definition of Birth Houses.” In *Mammisis of Egypt: Proceedings of the 1st International Colloquium Cairo, Institut Français d’Archéologie Orientale, March 27–28, 2019*, edited by Ali Abdelhalim Ali and Dagmar Budde. Cairo: Institut Français d’Archéologie Orientale."
+  - id: "Kaper and Worp 1995"
+    essay: 5
+    full: "Kaper, Olaf E., and Klaas A. Worp. 1995. “A Bronze Representing Tapsais of Kellis.” *Revue d’Égyptologie* 46:107–18."
+  - id: "Kockelmann 2011"
+    essay: 5
+    full: "Kockelmann, Holger. 2011. “Mammisi (Birth House).” In *UCLA Encyclopedia of Egyptology*, edited by Willeke Wendrich. Los Angeles: University of California. <http://digital2.library.ucla.edu/viewItem.do?ark=21198/zz0026wfgr>."
+  - id: "Kockelmann and Pfeiffer 2009"
+    essay: 5
+    sort: "Kockelmann x"
+    full: "Kockelmann, Holger, and Stefan Pfeiffer. 2009. “Betrachtungen zur Dedikation von Tempeln und Tempelteilen in ptolemäischer und römischer Zeit.” In *“. . . vor dem Papyrus sind alle gleich!”: Papyrologische Beiträge zu Ehren von Bärbel Kramer (P. Kramer)*, edited by Raimar Eberhard et al., 93–104. Berlin: De Gruyter."
+  - id: "Kurth 2016"
+    essay: 5
+    full: "Kurth, Dieter. 2016. *Wo Götter, Menschen und Tote lebten: Eine Studie zum Weltbild der alten Ägypter*. Hützel: Backe."
+  - id: "Leitz 2001"
+    essay: 5
+    full: "Leitz, Christian. 2001. *Die Aussenwand des Sanktuars in Dendara: Untersuchungen zur Dekorationssystematik*. Mainz: Zabern."
+  - id: "Lichocka 2004"
+    essay: 5
+    full: "Lichocka, Barbara. 2004. *Nemesis en Égypte romaine*. Mainz: Zabern."
+  - id: "Lieven 2010"
+    essay: 5
+    full: "Lieven, Alexandra von. 2010. “Deified Humans.” In *UCLA Encyclopedia of Egyptology*, edited by Jacco Dieleman and Willeke Wendrich. Los Angeles: University of California. <http://digital2.library.ucla.edu/viewItem.do?ark=21198/zz0025k5hz>."
+  - id: "McFadden 2014"
+    essay: 5
+    full: "McFadden, Susanna. 2014. “Art on the Edge: The Late Roman Wall Paintings of Amheida, Egypt.” In *Antike Malerei zwischen Lokalstil und Zeitstil: Textband*, edited by Norbert Zimmermann, 359–70, plates 125–27. Vienna: Verlag der Österreichischen Akademie der Wissenschaften."
+  - id: "Medeksza 1999"
+    essay: 5
+    full: "Medeksza, Stanisław. 1999. “Marina El-Alamein Conservation Work, 1998.” In *Polish Archaeology in the Mediterranean X: Reports 1998*, 51–62. Warsaw: Polish Centre of Mediterranean Archaeology, University of Warsaw."
+  - id: "Medeksza 2000"
+    essay: 5
+    full: "Medeksza, Stanisław. 2000. “Marina El-Alamein Conservation Work, 1999.” In *Polish Archaeology in the Mediterranean XI: Reports 1999*, 47–57. Warsaw: Polish Centre of Mediterranean Archaeology, University of Warsaw."
+  - id: "Medeksza 2001"
+    essay: 5
+    full: "Medeksza, Stanisław. 2001. “Marina El-Alamein—Conservation Work 2000.” In *Polish Archaeology in the Mediterranean XII: Reports 2000*, 63–75. Warsaw: Polish Centre of Mediterranean Archaeology, University of Warsaw."
+  - id: "Moormann 2011"
+    essay: 5
+    full: "Moormann, Eric M. 2011. *Divine Interiors: Mural Paintings in Greek and Roman Sanctuaries*. Amsterdam: Amsterdam University Press."
+  - id: "Moormann 2016"
+    essay: 5
+    full: "Moormann, Eric M. 2016. “Il tempio di Iside a Pompei e la sua scoperta.” In *Il Nilo a Pompei: Visioni d’Egitto nel mondo romano*, edited by Federico Poole, 105–20. Turin: Panini."
+  - id: "Nagel 2019"
+    essay: 5
+    full: "Nagel, Svenja. 2019. *Isis im Römischen Reich*. Vol. 2, *Adaption(en) des Kultes im Westen*. Wiesbaden: Harrassowitz."
+  - id: "Osing et al. 1982"
+    essay: 5
+    full: "Osing, Jürgen, et al., eds. 1982. *Denkmäler der Oase Dachla aus dem Nachlass von Ahmed Fakhry*. Mainz: Zabern."
+  - id: "Quack 2014"
+    essay: 5
+    full: "Quack, Joachim Friedrich. 2014. “Die theoretische Normierung der Soubassement-Dekoration: Erste Ergebnisse der Arbeit an der karbonisierten Handschrift von Tanis.” In *Altägyptische Enzyklopädien: Die Soubassements in den Tempeln der griechisch-römischen Zeit*. Vol. 1, *Soubassementstudien 1*, edited by Alexa Rickert and Bettina Ventker, 17–27. Wiesbaden: Harrassowitz."
+  - id: "Quack 2016"
+    essay: 5
+    full: "Quack, Joachim Friedrich. 2016. “Wie normativ ist das Buch vom Tempel, und wann und wo ist es so?” In *10. Ägyptologische Tempeltagung: Ägyptische Tempel zwischen Normierung und Individualität*, edited by Martina Ullmann, 99–109. Wiesbaden: Harrassowitz."
+  - id: "Riggs 2005"
+    essay: 5
+    full: "Riggs, Christina. 2005. *The Beautiful Burial in Roman Egypt: Art, Identity, and Funerary Religion*. Oxford: Oxford University Press."
+  - id: "Rochholz 2002"
+    essay: 5
+    full: "Rochholz, Matthias. 2002. *Schöpfung, Feindvernichtung, Regeneration: Untersuchung zum Symbolgehalt der machtgeladenen Zahl 7 im alten Ägypten*. Wiesbaden: Harrassowitz."
+  - id: "Ross 2002"
+    essay: 5
+    full: "Ross, Andrew. 2002. “Identifying the Oil Used in the Rituals in the Temple of Tutu.” In *Dakhleh Oasis Project: Preliminary Reports on the 1994–1995 to 1998–1999 Field Seasons*, edited by Colin A. Hope and Gillian E. Bowen, 263–67. Oxford: Oxbow."
+  - id: "Sauneron 1959"
+    essay: 5
+    full: "Sauneron, Serge. 1959. *Esna I: Quatre campagnes à Esna*. Cairo: Institut Français d’Archéologie Orientale."
+  - id: "Schlögl 1977"
+    essay: 5
+    full: "Schlögl, Hermann. 1977. *Der Sonnengott auf der Blüte: Eine ägyptische Kosmogonie des Neuen Reiches*. Basel: Éditions de Belles-Lettres."
+  - id: "Schneider 1979"
+    essay: 5
+    full: "Schneider, Hans D. 1979. *Taffeh: Rond de wederopbouw van een Nubische tempel*. The Hague: Staatsuitgeverij."
+  - id: "Sofroniew 2015"
+    essay: 5
+    full: "Sofroniew, Alexandra. 2015. *Household Gods: Private Devotion in Ancient Greece and Rome*. Los Angeles: Getty Trust Publications."
+  - id: "Spieser 2011"
+    essay: 5
+    full: "Spieser, Cathie. 2011. “Meskhenet et les sept Hathors en Égypte ancienne.” In *Des Fata aux fées: Regards croisés de l’Antiquité à nos jours*, edited by Martine Hennard Dutheil de la Rochère and Véronique Dasen, 63–92. Lausanne: Université de Lausanne."
+  - id: "Volokhine 2017"
+    essay: 5
+    full: "Volokhine, Youri. 2017. “Du côté des ‘Bès’ infernaux.” In *Entre dieux et hommes: Anges, démons et autres figures intermédiaires*, edited by Thomas Römer et al., 60–87. Fribourg: Academic Press; Göttingen: Vandenhoeck & Ruprecht."
+  - id: "Whitehouse 2010"
+    essay: 5
+    full: "Whitehouse, Helen. 2010. “Mosaics and Painting in Graeco-Roman Egypt.” In *Companion to Ancient Egypt*, edited by Alan B. Lloyd, 2:1008–31. Malden, MA: Wiley-Blackwell."
+  - id: "Whitehouse 2012"
+    essay: 5
+    full: "Whitehouse, Helen. 2012. “Vine and Acanthus: Decorative Themes in the Wall-Paintings of Kellis.” In *The Oasis Papers 6: Proceedings of the Sixth International Conference of the Dakhleh Oasis Project*, edited by Roger S. Bagnall, Paola Davoli, and Colin A. Hope, 381–90. Oxford: Oxbow."
+  - id: "Whitehouse 2015"
+    essay: 5
+    full: "Whitehouse, Helen. 2015. “A House, but Not Exactly a Home? The Painted Residence at Kellis Revisited.” In *Housing and Habitat in the Ancient Mediterranean: Cultural and Environmental Responses*, edited by Angelo Andrea Di Castro, Colin A. Hope, and Bruce E. Parr, 243–54. Leuven: Peeters."
+  - id: "Anderson 1987–88"
+    essay: 6
+    full: "Anderson, Maxwell L. 1987–88. “Pompeian Frescoes in the Metropolitan Museum of Art.” *Metropolitan Museum of Art Bulletin* 45 (Winter): 3–54."
+  - id: "Bauckham 2015"
+    essay: 6
+    full: "Bauckham, Richard. 2015. *Jude and the Relatives of Jesus in the Early Church*. London: Bloomsbury."
+  - id: "Blake 1959"
+    essay: 6
+    full: "Blake, Marion Elizabeth. 1959. *Roman Construction in Italy from Tiberius through the Flavians*. Washington, DC: Carnegie Institution."
+  - id: "Bol 1984"
+    essay: 6
+    full: "Bol, Renate. 1984. *Das Statuenprogramm des Herodes-Atticus-Nympäums*. Berlin: De Gruyter."
+  - id: "Brin 1986"
+    essay: 6
+    full: "Brin, Howard B. 1986. *Catalogue of Iudea Capta Coins*. Minneapolis: Emmett."
+  - id: "Bruneau 1972"
+    essay: 6
+    full: "Bruneau, Philippe. 1972. *Les mosaïques: Exploration archéologique de Délos*. Paris: De Boccard."
+  - id: "Butz 2015"
+    essay: 6
+    full: "Butz, Patricia A. 2015. “The Stoichedon Arrangement of the New Marathon Stele from the Villa of Herodes Atticus at Kynouria.” In *Ancient Documents and Their Contexts: First North American Congress of Greek and Latin Epigraphy (2011)*, edited by John Bodel and Nora Dimitrova, 82–97. Leiden: Brill."
+  - id: "Calandra and Adembri 2014"
+    essay: 6
+    full: "Calandra, Elena, and Benedetta Adembri, eds. 2014. *Adriano e la Grecia: Villa Adriana tra classicità ed ellenismo. La Mostra*. Milan: Electa."
+  - id: "Castriota 1995"
+    essay: 6
+    full: "Castriota, David. 1995. *The Ara Pacis Augustae and the Imagery of Abundance in Later Greek and Early Roman Imperial Art*. Princeton, NJ: Princeton University Press."
+  - id: "Charbonneaux, Martin, and Villard 1973"
+    essay: 6
+    full: "Charbonneaux, Jean, Roland Martin, and François Villard. 1973. *Hellenistic Art, 330–50 BC*. London: Thames & Hudson."
+  - id: "Clarke 1991"
+    essay: 6
+    full: "Clarke, John R. 1991. *The Houses of Roman Italy, 100 B.C.–A.D. 250: Ritual, Space, and Decoration*. Berkeley: University of California Press."
+  - id: "Cody 2003"
+    essay: 6
+    full: "Cody, Jane M. 2003. “Conquerors and Conquered on Flavian Coins.” In *Flavian Rome: Culture, Image, Text*, edited by Anthony James Boyle and William J. Dominik, 103–23. Leiden: Brill."
+  - id: "Davies 2000"
+    essay: 6
+    full: "Davies, Penelope J. E. 2000. *Death and the Emperor: Roman Imperial Funerary Monuments from Augustus to Marcus Aurelius*. Cambridge: Cambridge University Press."
+  - id: "Dickins 1905–6"
+    essay: 6
+    full: "Dickins, Guy. 1905–6. “Damophon of Messene.” *Annual of the British School at Athens* 12:109–36."
+  - id: "Dickins 1906–7"
+    essay: 6
+    full: "Dickins, Guy. 1906–7. “Damophon of Messene: II.” *Annual of the British School at Athens* 13:357–404."
+  - id: "Eck, Holder, and Pangerl 2010"
+    essay: 6
+    full: "Eck, Werner, Paul Holder, and Andreas Pangerl. 2010. “A Diploma for the Army of Britain in 132 and Hadrian’s Return to Rome from the East.” *Zeitschrift für Papyrologie und Epigraphik* 174:189–200."
+  - id: "Farlow 2016"
+    essay: 6
+    full: "Farlow, Megan Michelle. 2016. “The House of Augustus and the Villa Farnesina: The New Values of the Imperial Interior Decorative Program.” Honor’s thesis, University of Iowa."
+  - id: "Foss 1990"
+    essay: 6
+    full: "Foss, Clive. 1990. *Roman Historical Coins*. London: Seaby."
+  - id: "Galli 2017"
+    essay: 6
+    full: "Galli, Marco. 2017. “Hadrian’s Forgotten Heir: A New Portrait of Aelius Caesar from Eva (Loukou).” Lecture presented at the Gennadius Library of the American School of Classical Studies at Athens, November 9. [https://www.ascsa.edu.gr/News/newsDetails/&#65279;videocast-hadrians-forgotten-heir-a-new-portrait-of-aelius-caesar-from-eva](https://www.ascsa.edu.gr/News/newsDetails/videocast-hadrians-forgotten-heir-a-new-portrait-of-aelius-caesar-from-eva)."
+  - id: "Gleason 2010"
+    essay: 6
+    full: "Gleason, Maud W. 2010. “Making Space for Bicultural Identity: Herodes Atticus Commemorates Regilla.” In *Local Knowledge and Microidentities in the Imperial Greek World*, edited by Tim Whitmarsh, 125–62. Cambridge: Cambridge University Press."
+  - id: "Goette 1989"
+    essay: 6
+    full: "Goette, Hans R. 1989. “Römische Kinderbildnisse mit Jugendlocken.” *Athenische Mitteilungen* 104:203–17."
+  - id: "Graetz 1885"
+    essay: 6
+    full: "Graetz, Heinrich. 1885. “Historische und topographische Streifzüge: Die Römischen Legaten in Judäa unter Domitian und Trajan und ihre Beziehung zu Juden und Christen.” *Monatsschrift für Geschichte und Wissenschaft des Judentums* 34 (1): 17–34."
+  - id: "Havelock 1971"
+    essay: 6
+    full: "Havelock, Christine Mitchell. 1971. *Hellenistic Art:* *The Art of the Classical World from the Death of Alexander the Great to the Battle of Actium*. London: Phaidon."
+  - id: "Kaehler 1958"
+    essay: 6
+    full: "Kaehler, Heinz. 1958. *Rom und seine Welt: Bilder zur Geschichte und Kultur*. Munich: Bayerischer Schulbuch-Verlag."
+  - id: "Kavvadias 1893"
+    essay: 6
+    full: "Kavvadias, Panagiotes. 1893. *Fouilles de Lycosoura: Livraison I; Sculptures de Damophon, Inscriptions*. Athens: Vlastos."
+  - id: "Kramer-Hajos 2015"
+    essay: 6
+    full: "Kramer-Hajos, Margaretha. 2015. “Mourning on the Larnakes at Tanagra: Gender and Agency in Late Bronze Age Greece.” *Hesperia* 84 (October–December): 627–67."
+  - id: "Lambert 1984"
+    essay: 6
+    full: "Lambert, Royston. 1984. *Beloved and God: The Story of Hadrian and Antinous*. New York: Viking."
+  - id: "Leon 2001"
+    essay: 6
+    full: "Leon, Pilar. 2001. *Retratos romanos de la Bética*. Seville: Fundación El Monte."
+  - id: "Levick 2005"
+    essay: 6
+    full: "Levick, Barbara. 2005. *Vespasian*. London: Routledge."
+  - id: "MacDonald 1986"
+    essay: 6
+    full: "MacDonald, William L. 1986. *The Architecture of the Roman Empire*. Vol. 2, *An Urban Appraisal*. New Haven, CT: Yale University Press."
+  - id: "MacDonald and Pinto 1995"
+    essay: 6
+    full: "MacDonald, William L., and John A. Pinto. 1995. *Hadrian’s Villa and Its Legacy*. New Haven, CT: Yale University Press."
+  - id: "McKay 1977"
+    essay: 6
+    full: "McKay, Alexander G. 1977. *Houses, Villas and Palaces in the Roman World*. London: Thames & Hudson."
+  - id: "Meshorer 1982"
+    essay: 6
+    full: "Meshorer, Jakob. 1982. *Ancient Jewish Coinage*. Vol. 2, *Herod the Great through Bar Cochba*. Dix Hills, NY: Amphora."
+  - id: "Montalto 2013"
+    essay: 6
+    full: "Montalto, Marco Tentori. 2013. “Nuove considerazioni sulla stele della tribù Erechtheis dalla villa di Erode Attico a Loukou-Eva kynourias.” *Zeitschrift für Papyrologie und Epigraphik* 185:31–52."
+  - id: "Nelson 1996"
+    essay: 6
+    full: "Nelson, Robert S. 1996. “Appropriation.” In *Critical Terms for Art History*, edited by Robert S. Nelson and Richard Schiff, 116–28. Chicago: University of Chicago Press."
+  - id: "Neudecker 2014"
+    essay: 6
+    full: "Neudecker, Richard. 2014. ”Die Villa Hadriana als Modell für Herodes Atticus.” In *Adriano e la Grecia: Villa Adriana tra classicità ed ellenismo. Studi e ricerche*, edited by Elena Calandra and Benedetta Adembri, 135–54. Milan: Electa."
+  - id: "Opper 2008"
+    essay: 6
+    full: "Opper, Thorsten. 2008. *Hadrian: Empire and Conflict*. London: British Museum Press."
+  - id: "Papaioannou 2018"
+    essay: 6
+    full: "Papaioannou, Maria. 2018. “Villas in Greece and the Islands.” *The Roman Villa in the Mediterranean Basin: Late Republic to Late Antiquity*, edited by Annalisa Marzano and Guy P. R. Métraux, 328–76. Cambridge: Cambridge University Press."
+  - id: "Pollitt 1986"
+    essay: 6
+    full: "Pollitt, J. J. 1986. *Art in the Hellenistic Age*. Cambridge: Cambridge University Press."
+  - id: "Robertson 1959"
+    essay: 6
+    full: "Robertson, D. S. 1959. *A Handbook of Greek and Roman Architecture*. Cambridge: Cambridge University Press."
+  - id: "Rogers 2018"
+    essay: 6
+    full: "Rogers, Dylan Kelby. 2018. “Shifting Tides: Approaches to the Public Water-Displays of Roman Greece.” In *Great Waterworks in Roman Greece: Aqueducts and Monumental Fountain Structures*, edited by Georgia A. Aristodemou and Theodosios P. Tassios, 173–92. Oxford: Archaeopress."
+  - id: "Rogers 2021"
+    essay: 6
+    full: "Rogers, Dylan Kelby. 2021. “Sensing Water in Roman Greece: The Villa of Herodes Atticus at Eva-Loukou and the Sanctuary of Demeter and Kore at Eleusis.” *American Journal of Archaeology* 125, no. 1 (January): 91–122."
+  - id: "Rosso 2005"
+    essay: 6
+    full: "Rosso, Emmanuelle. 2005. ”Idéologie impériale et art officiel sous les Flaviens: Formulation, diffusion et réception dans les provinces occidentales de l’empire romain (60–96 ap. J. C.).” PhD diss., Université Paris IV—Sorbonne."
+  - id: "Smallwood 1962"
+    essay: 6
+    full: "Smallwood, E. Mary. 1962. “Atticus, Legate of Judaea under Trajan.” *Journal of Roman Studies* 52:131–33."
+  - id: "Smith 1991"
+    essay: 6
+    full: "Smith, Roland R. R. 1991. *Hellenistic Sculpture: A Handbook*. London: Thames & Hudson."
+  - id: "G. Spyropoulos 1995"
+    essay: 6
+    full: "Spyropoulos, George. 1995. “The Villa of Herodes Atticus at Mone Loukou.” MA thesis, King’s College, London."
+  - id: "G. Spyropoulos 2001"
+    essay: 6
+    full: "Spyropoulos, George. 2001. *Drei Meisterwerke der griechischen Plastik aus der Villa des Herodes Atticus zu Eva/Loukou*. Frankfurt: Lang."
+  - id: "G. Spyropoulos 2006a"
+    essay: 6
+    full: "Spyropoulos, George. 2006a. *Η έπαυλη του Ηρώδη Αττικού στην Ευα/Λουκού Κυνουρίας*. Athens: Olkos."
+  - id: "G. Spyropoulos 2006b"
+    essay: 6
+    full: "Spyropoulos, George. 2006b. *Νεκρόδειπνα, Ηρωικά ανάγλυφα και ο Ναός-Ηρώο του Αντίνοου στην έπαυλη του Ηρώδη Αττικού*. Sparta: Poulokephalos."
+  - id: "G. Spyropoulos 2009"
+    essay: 6
+    full: "Spyropoulos, George. 2009. *Οι Στήλες των πεσόντων στη μάχη του Μαραθώνα από την έπαυλη του Ηρώδη Αττικού στην Εύα Κυνουρίας*. Athens: Kardamitsa Publications."
+  - id: "G. Spyropoulos 2010"
+    essay: 6
+    full: "Spyropoulos, George. 2010. “A New Statue of Herakles from the Villa of Herodes Attikos in Arkadia.” In *Skopas of Paros: Abstracts Volume of the Third International Conference on the Archaeology of Paros and the Cyclades*, edited by Dora Katsonopoulou, 65–66. Athens: Dora Katsonopoulou."
+  - id: "G. Spyropoulos 2015a"
+    essay: 6
+    full: "Spyropoulos, George. 2015a. “La villa de Herodes Attico en Eva/Loukou, Arcadia.” In *Dioses, héroes y atletas: La imagen del cuerpo en la Grecia antigua*, edited by Carmen Sánchez and Inmaculada Escobar, 392–95. Alcalá de Henares: Museo Arqueológico Regional."
+  - id: "G. Spyropoulos 2015b"
+    essay: 6
+    full: "Spyropoulos, George. 2015b. “Vivere e morire nell’impero.” In *L’età dell’angoscia: Da Commodo a Diocleziano (180–305 d.C.)*, edited by Eugenio La Rocca, Claudio Parisi Presicce, and Annalisa Lo Monaco, 432–36. Rome: MondoMostre."
+  - id: "G. Spyropoulos 2016"
+    essay: 6
+    full: "Spyropoulos, George. 2016. “Herodes Atticus and the Greco-Roman World: Imperial Cosmos, Cosmic Allusions, Art and Culture in His Estate in Southern Peloponnese.” Lecture, Institute for the Study of the Ancient World, New York University, September 13. <https://isaw.nyu.edu/events/archive/2016/herodes-atticus-and-the-greco-roman-world-imperial-cosmos-cosmic-allusions-art-and-culture-in-his-estate-in-southern-peloponnese>."
+  - id: "G. Spyropoulos 2018"
+    essay: 6
+    full: "Spyropoulos, George. 2018. “Ein besonderer Fall: Die Nekropole von Tanagra in Boeotien-Jenseitsvorstellungen.” In *Mykene: Die sagenhafte Welt des Agamemnon*, edited by Bernhard Steinmann, 197–201. Karlsruhe: Badisches Landesmuseum; Darmstadt: Zabern."
+  - id: "T. Spyropoulos 1974"
+    essay: 6
+    full: "Spyropoulos, Theodore G. 1974. “Ανασκαφή μυκηναϊκής Τανάγρας.” *Prakt* 129:9–33."
+  - id: "T. Spyropoulos 1996–97"
+    essay: 6
+    full: "Spyropoulos, Theodore G. 1996–97. “Villa of Herodes Atticus.” *Archaeological Reports* 43:34–38."
+  - id: "T. Spyropoulos 2003"
+    essay: 6
+    full: "Spyropoulos, Theodore G. 2003. “Prächtige Villa, Refugium und Musenstätte: Die Villa des Herodes Atticus im arkadischen Eua.” *Antike Welt* 34 (5): 463–70."
+  - id: "Strazdins 2012"
+    essay: 6
+    full: "Strazdins, Estelle A. 2012. “The Future of the Second Sophistic.” PhD diss., Balliol College, Oxford."
+  - id: "Swoboda 1924"
+    essay: 6
+    full: "Swoboda, Karl M. 1924. *Römische und romanische Paläste: Eine architekturgeschichtliche Untersuchung*. Vienna: Schroll."
+  - id: "Thompson 1952"
+    essay: 6
+    full: "Thompson, Homer A. 1952. “The Altar of Pity in the Athenian Agora.” *Hesperia* 21 (January–March): 79–82."
+  - id: "Tobin 1997"
+    essay: 6
+    full: "Tobin, Jennifer. 1997. *Herodes Atticus and the City of Athens: Patronage and Conflict under the Antonines*. Amsterdam: Gieben."
+  - id: "Trimble 2007"
+    essay: 6
+    full: "Trimble, Jennifer. 2007. “Pharaonic Egypt and the Ara Pacis in Augustan Rome.” *Princeton/Stanford Working Papers in Classics*. [<span style='white-space:nowrap;'>http://</span>www.princeton.edu/~pswpc/pdfs/trimble/090701.pdf](http://www.princeton.edu/~pswpc/pdfs/trimble/090701.pdf)."
+
+  - id: "Adamo Muscettola 1994"
+    essay: 7
+    full: "Adamo Muscettola, Stefania. 1994. “I Flavi tra Iside e Cibele.” *La Parola del Passato: Rivista di Studi Antichi* 49:83–118."
+  - id: "Agnoli 2002"
+    essay: 7
+    full: "Agnoli, Nadia. 2002. *Museo Archeologico Nazionale di Palestrina: Le sculture*. Rome: «L’Erma» di Bretschneider."
+  - id: "Alföldy 1990"
+    essay: 7
+    full: "Alföldy, Géza. 1990. *Der Obelisk auf dem Petersplatz in Rom: Ein historisches Monument der Antike*. Heidelberg: Carl Winter Universitätsverlag."
+  - id: "Arslan 1997"
+    essay: 7
+    full: "Arslan, Ermanno A., ed. 1997. *Iside: Il mito il mistero la magia*. Milan: Electa."
+  - id: "Baillet 1902–3"
+    essay: 7
+    full: "Baillet, Auguste. 1902–3. “Labienus, der Errichter der Obelisken von Benevent.” *Zeitschrift für Ägyptische Sprache und Altertumskunde* 40:147–48."
+  - id: "Baines and Whitehouse 2005"
+    essay: 7
+    full: "Baines, John, and Helen Whitehouse. 2005. “Ägyptische Hieroglyphen in der Kaiserstadt Rom.” In *Ägypten Griechenland Rom: Abwehr und Berührung*, edited by Herbert Beck, Peter C. Bol, and Maraike Bückling, 405–15. Frankfurt: Das Städel, Städelsches Kunstinstitut und Städtische Galerie."
+  - id: "Barrett 2019"
+    essay: 7
+    full: "Barrett, Caitlín Eilís. 2019. *Domesticating Empire: Egyptian Landscapes in Pompeian Gardens*. New York: Oxford University Press."
+  - id: "Beck, Bol, and Bückling 2005"
+    essay: 7
+    full: "Beck, Herbert, Peter C. Bol, and Maraike Bückling, eds. 2005. *Ägypten Griechenland Rom: Abwehr und Berührung*. Frankfurt: Das Städel, Städelsches Kunstinstitut und Städtische Galerie."
+  - id: "Beckerath 1999"
+    essay: 7
+    full: "Beckerath, Jürgen von. 1999. *Handbuch der ägyptischen Königsnamen*. Mainz: Zabern."
+  - id: "Benaissa 2013"
+    essay: 7
+    full: "Benaissa, Amin. 2013. “Ammianus Marcellinus *Res Gestae* 17.4.17 and the Translator of the Obelisk in Rome’s *Circus Maximus*.” *Zeitschrift für Papyrologie und Epigraphik* 186:114–18."
+  - id: "Bierbrier 2019"
+    essay: 7
+    full: "Bierbrier, Morris L. 2019. *Who Was Who in Egyptology*. 5th ed. London: Egypt Exploration Society."
+  - id: "Bosticco 1952"
+    essay: 7
+    full: "Bosticco, Sergio. 1952. *Musei Capitolini: I monumenti egizi ed egittizzanti*. Rome: Istituto Grafico Tiberino."
+  - id: "Bove 2008"
+    essay: 7
+    full: "Bove, Elisa Valeria. 2008. “The Obelisk of Palestrina.” In *The She-Wolf and the Sphinx: Rome and Egypt from History to Myth*, edited by Eugenio Lo Sardo, 88–91. Milan: Electa."
+  - id: "Bove 2009"
+    essay: 7
+    full: "Bove, Elisa Valeria. 2009. “Una statuetta tolemaica da Praeneste.” *Archeologia Classica* 60:369–76."
+  - id: "Bragantini 2018"
+    essay: 7
+    full: "Bragantini, Irene. 2018. “A Note on the Temple of Isis at Beneventum.” In *The Iseum Campense from the Roman Empire to the Modern Age: Temple—Monument—Lieu de mémoire*, edited by Miguel John Versluys, Kristine Bülow Clausen, and Giuseppina Capriotti Vittozzi, 243–59. Rome: Quasar."
+  - id: "Bresciani 1986"
+    essay: 7
+    full: "Bresciani, Edda. 1986. “Tra Egitto e Roma: Aspetti della cultura egiziana in rapporto col mondo romano.” In *Gli interscambi culturali e socio-economici fra l’Africa settentrionale e l’Europa mediterranea*, edited by Luigi Serra, 1:83–98. Naples: Istituto Universitario Orientale."
+  - id: "Bresciani 1989"
+    essay: 7
+    full: "Bresciani, Edda. 1989. “La stele trilingue di Cornelio Gallo: Una rilettura egittologica.” *Egitto e Vicino Oriente* 12:93–98."
+  - id: "Bresciani 1992"
+    essay: 7
+    full: "Bresciani, Edda. 1992. “La stele trilingue di Cornelio Gallo: Una rilettura.” In *Roma e l’Egitto nell’antichità classica*, edited by Giovanni Pugliese Caratelli et al., 99–102. Rome: Istituto Poligrafico e Zecca dello Stato."
+  - id: "Bricault 2005"
+    essay: 7
+    sort: "Bricault 2005"
+    full: "Bricault, Laurent. 2005. *Recueil des inscriptions concernant les cultes isiaques (RICIS)*. Vol. 2, *Corpus*. Paris: De Boccard."
+  - id: "Bricault 2013"
+    essay: 7
+    sort: "Bricault 2013"
+    full: "Bricault, Laurent. 2013. *Les cultes isiaques dans le monde gréco-romain*. Paris: Belles Lettres."
+  - id: "Bricault and Gasparini 2018"
+    essay: 7
+    sort: "Bricault 2018"
+    full: "Bricault, Laurent, and Valentino Gasparini. 2018. “I Flavi, Roma e il culto di Iside.” In *Roma, la città degli dèi: La capitale dell’Impero come laboratorio religioso*, edited by Corinne Bonnet and Ennio Sanzi, 121–36. Rome: Carocci."
+  - id: "Budge 1926"
+    essay: 7
+    full: "Budge, E. A. Wallis. 1926. *Cleopatra’s Needles and Other Egyptian Obelisks: A Series of Descriptions of All the Important Inscribed Obelisks, with Hieroglyphic Texts, Translations, Etc.* London: Religious Tract Society."
+  - id: "Bülow Clausen 2012"
+    essay: 7
+    sort: "Bulow 2012"
+    full: "Bülow Clausen, Kristine. 2012. “Domitian between Isis and Minerva: The Dialogue between the ‘Egyptian’ and the ‘Graeco-Roman’ Aspects of the Sanctuary at Beneventum.” In *Egyptian Gods in the Hellenistic and Roman Mediterranean: Image and Reality between Local and Global*, edited by Laurent Bricault and Miguel John Versluys, 93–122. Palermo: Salvatore Sciascia."
+  - id: "Bülow Clausen 2015"
+    essay: 7
+    sort: "Bulow 2015"
+    full: "Bülow Clausen, Kristine. 2015. “The Flavian *Isea* in Beneventum and Rome: The Appropriation of Egyptian and Egyptianising Art in Imperial Beneventum and Rome.” PhD diss., Det Humanistiske Fakultet, Copenhagen."
+  - id: "Burkhardt 1985"
+    essay: 7
+    full: "Burkhardt, Adelheid. 1985. *Ägypter und Meroiten im Dodekaschoinos: Untersuchungen zur Typologie und Bedeutung der demotischen Graffiti*. Berlin: Akademie-Verlag."
+  - id: "Camodeca 1982"
+    essay: 7
+    full: "Camodeca, Giuseppe. 1982. “Ascesa al Senato e rapporti con i territori d’origine: Italia: Regio I (Campania, esclusa la zona di Capua e Cales), II (Apulia et Calabria), III (Lucania et Bruttii).” In *Atti del Colloquio Internazionale AIEGL su epigrafia e ordine senatorio*, 2:101–63. Rome: Edizioni di Storia e Letteratura."
+  - id: "Capponi 2017"
+    essay: 7
+    full: "Capponi, Livia. 2017. *Il ritorno della Fenice: Intellettuali e potere nell’Egitto romano*. Pisa: ETS."
+  - id: "Capriotti Vittozzi 2009"
+    essay: 7
+    full: "Capriotti Vittozzi, Giuseppina. 2009. “L’Egitto a *Praeneste*: Alcune note.” *Mediterranea: Quaderni Annuali dell’Istituto di Studi sulle Civiltà Italiche e del Mediterraneo Antico del Consiglio Nazionale delle Ricerche* 6:79–97."
+  - id: "Champollion-Figeac 1842"
+    essay: 7
+    full: "Champollion-Figeac, Jacques-Joseph. 1842. Review of *Interpretatio obeliscorum Urbis ad Gregorium XVI Pontificem Maximum digesta per Aloisium Mariam Ungarellium sodalem Barnabitam*, by Luigi Maria Ungarelli. *Revue de Bibliographie Analytique, ou Compte Rendu des Ouvrages Scientifiques et de Haute Littérature, Publiés en France et à l’Étranger* 3:648–66."
+  - id: "Ciampini 2004"
+    essay: 7
+    full: "Ciampini, Emanuele M. 2004. *Gli obelischi iscritti di Roma*. Rome: Istituto Poligrafico e Zecca dello Stato."
+  - id: "Coarelli 1994"
+    essay: 7
+    full: "Coarelli, Filippo. 1994. “Iside e Fortuna a Pompei e Palestrina.” *La Parola del Passato: Rivista di Studi Antichi* 49:119–29."
+  - id: "Cole 2017a"
+    essay: 7
+    full: "Cole, Sara E. 2017a. “Egyptian Obelisks and Their Afterlife in Ancient Rome.” *The Iris* (blog), Getty Trust, August 8, 2017. [http://blogs.getty.edu/iris/egyptian-obelisks-and-their-afterlife-in-ancient-rome](http://blogs.getty.edu/iris/egyptian-obelisks-and-their-afterlife-in-ancient-rome)."
+  - id: "Cole 2017b"
+    essay: 7
+    full: "Cole, Sara E. 2017b. “Obelisks on the Move.” *The Iris* (blog), Getty Trust, December 6, 2017. [http://blogs.getty.edu/iris/obelisks-on-the-move](http://blogs.getty.edu/iris/obelisks-on-the-move/)."
+  - id: "Cole and Risser 2020"
+    essay: 7
+    full: "Cole, Sara E., and Erik Risser. 2020. “Photos: An Ancient Obelisk Goes Home.” *The Iris* (blog), Getty Trust, October 23, 2020. [http://blogs.getty.edu/iris/photos-an-ancient-obelisk-goes-home](http://blogs.getty.edu/iris/photos-an-ancient-obelisk-goes-home)."
+  - id: "Cole, Risser, and Shelley 2018"
+    essay: 7
+    full: "Cole, Sara E., Erik Risser, and William Shelley. 2018. “Conserving an Ancient Obelisk.” *The Iris* (blog), Getty Trust, July 16, 2018. [http://blogs.getty.edu/iris/conserving-an-ancient-obelisk](http://blogs.getty.edu/iris/conserving-an-ancient-obelisk)."
+  - id: "Cole, Risser, and Shelley 2020"
+    essay: 7
+    full: "Cole, Sara E., Erik Risser, and William Shelley. 2020. “The Modern History of the Twin Obelisks of Benevento.” *Aegyptiaca: Journal of the History of Reception of Ancient Egypt* 5:380–433."
+  - id: "Colin 1993"
+    essay: 7
+    full: "Colin, Frédéric. 1993. “Domitien, Julie et Isis au pays des Hirpins (*CIL* IX, 1153 et l’obélisque de Bénévent).” *Chronique d’Égypte* 68:247–60."
+  - id: "Davies 1953"
+    essay: 7
+    full: "Davies, Norman de Garis. 1953. *The Temple of Hibis in el Khārgeh Oasis*. Vol. 3, *The Decoration*. Edited by Ludlow Bull and Lindsley F. Hall. New York: Metropolitan Museum of Art."
+  - id: "Deac 2014"
+    essay: 7
+    full: "Deac, Dan-Augustin. 2014. “Imitating the Egyptian Hieroglyphic Script in the Roman Era: The Case from Potaissa (Dacia Porolissensis).” *Zeitschrift für Ägyptische Sprache und Altertumskunde* 141:34–38."
+  - id: "De Meulenaere 1966"
+    essay: 7
+    full: "De Meulenaere, Herman. 1966. *Le surnom égyptien à la Basse Époque*. Istanbul: Nederlands Historisch-Archaeologisch Instituut in het Nabije Oosten."
+  - id: "De Meulenaere 1994"
+    essay: 7
+    full: "De Meulenaere, Herman. 1994. “***NT(r)*** et ***nf(r)***.” In *Hommages à Jean Leclant*, edited by Catherine Berger, Gisèle Clerc, and Nicolas Grimal, 4:65–71. Cairo: Institut Français d’Archéologie Orientale."
+  - id: "Derchain-Urtel 1999"
+    essay: 7
+    full: "Derchain-Urtel, Maria Theresia. 1999. *Epigraphische Untersuchungen zur griechisch-römischen Zeit in Ägypten*. Wiesbaden: Harrassowitz."
+  - id: "Donadoni 1992"
+    essay: 7
+    full: "Donadoni, Sergio. 1992. “Principi e obelischi a Roma.” In *The Heritage of Ancient Egypt: Studies in Honour of Erik Iversen*, edited by Jürgen Osing and Erland Kolding Nielsen, 27–36. Copenhagen: Museum Tusculanum Press."
+  - id: "Du Bourguet 2002"
+    essay: 7
+    full: "Du Bourguet, Pierre. 2002. *Le temple de Deir el-Médîna*. Cairo: Institut Français d’Archéologie Orientale."
+  - id: "Einaudi 2017"
+    essay: 7
+    full: "Einaudi, Silvia. 2017. “Francesco Salvolini: Le disciple controversé de Champollion.” *L’Antiquité à la BnF* (blog), Bibliothèque Nationale de France, March 30, 2017. [https://antiquitebnf.hypotheses.org/349](https://antiquitebnf.hypotheses.org/349)."
+  - id: "Erichsen 1954"
+    essay: 7
+    full: "Erichsen, Wolja. 1954. *Demotisches Glossar*. Copenhagen: Ejnar Munksgaard."
+  - id: "Erman 1893"
+    essay: 7
+    full: "Erman, Adolf. 1893. “Obelisken römischer Zeit: I. Die Obelisken von Benevent.” *Mitteilungen des Kaiserlich Deutschen Archäologischen Instituts Rom* 8:210–18."
+  - id: "Erman 1896"
+    essay: 7
+    full: "Erman, Adolf. 1896. “Die Obelisken der Kaiserzeit.” *Zeitschrift für Ägyptische Sprache und Alterthumskunde* 34:149–58."
+  - id: "Erman 1917"
+    essay: 7
+    full: "Erman, Adolf. 1917. *Römische Obelisken*. Berlin: Verlag der Königlichen Akademie der Wissenschaften."
+  - id: "Erman and Grapow 1926–31"
+    essay: 7
+    sort: "Erman, Adolf. 1917b."
+    full: "Erman, Adolf, and Hermann Grapow, eds. 1926–31. *Wörterbuch der ägyptischen Sprache*. 5 vols. Leipzig: Hinrichs."
+  - id: "Fairman 1943"
+    essay: 7
+    full: "Fairman, Herbert W. 1943. “Notes on the Alphabetic Signs Employed in the Hieroglyphic Inscriptions of the Temple of Edfu.” *Annales du Service des Antiquités de l’Égypte* 43:193–310."
+  - id: "Fairman 1945"
+    essay: 7
+    full: "Fairman, Herbert W. 1945. “An Introduction to the Study of Ptolemaic Signs and Their Values.” *Bulletin de l’Institut Français d’Archéologie Orientale* 43:51–138."
+  - id: "Gardiner 1986"
+    essay: 7
+    full: "Gardiner, Alan. 1986. *My Early Years*. Ballaghaue, Andreas (Isle of Man): John Gardiner."
+  - id: "Gasparini 2014"
+    essay: 7
+    full: "Gasparini, Valentino. 2014. “Les cultes isiaques et les pouvoirs locaux en Italie.” In *Power, Politics and the Cult of Isis*, edited by Laurent Bricault and Miguel John Versluys, 260–99. Leiden: Brill."
+  - id: "Gasparini and Gordon 2018"
+    essay: 7
+    sort: "Gasparini, Valentino. 2014b."
+    full: "Gasparini, Valentino, and Richard L. Gordon. 2018. “Egyptianism: Appropriating ‘Egypt’ in the ‘Isiac Cults’ of the Graeco-Roman World.” *Acta Antiqua Academiae Scientiarum Hungaricae* 58:571–606."
+  - id: "Gatti 1997"
+    essay: 7
+    full: "Gatti, Sandra. 1997. “La diffusione del culto di Iside: *Praeneste*.” In *Iside: Il mito il mistero la magia*, edited by Ermanno A. Arslan, 332–34. Milan: Electa."
+  - id: "Gauthier 1917"
+    essay: 7
+    full: "Gauthier, Henri. 1917. *Le livre des rois d’Égypte: Recueil de titres et protocoles royaux, noms propres de rois, reines, princes, princesses et parent de rois, suivi d’un index alphabétique*. Vol. 5, *Les empereurs romains*. Cairo: Institut Français d’Archéologie Orientale."
+  - id: "Giustozzi 2016"
+    essay: 7
+    full: "Giustozzi, Nunzio, ed. 2016. *Guide to the Egyptian Collection in the MANN*. Milan: Mondadori Electa; Naples: Museo Archeologico Nazionale di Napoli."
+  - id: "Grenier 1987"
+    essay: 7
+    full: "Grenier, Jean-Claude. 1987. “Les inscriptions hiéroglyphiques de l’obélisque Pamphili: Un témoignage méconnu sur l’avènement de Domitien.” *Mélanges de l’École Française de Rome: Antiquité* 99:937–61."
+  - id: "Grenier 1989"
+    essay: 7
+    full: "Grenier, Jean-Claude. 1989. *Les titulatures des empereurs romains dans les documents en langue égyptienne*. Brussels: Fondation Égyptologique Reine Élisabeth."
+  - id: "Grenier 2008"
+    essay: 7
+    full: "Grenier, Jean-Claude. 2008. *L’Osiris Antinoos*. Montpellier: Université Paul Valéry–CNRS."
+  - id: "Grenier and Coarelli 1986"
+    essay: 7
+    sort: "Grenier, Jean-Claude. 2008b."
+    full: "Grenier, Jean-Claude, and Filippo Coarelli. 1986. “La tombe d’Antinoüs à Rome.” *Mélanges de l’École Française de Rome: Antiquité* 98:217–53."
+  - id: "Habachi 2000"
+    essay: 7
+    full: "Habachi, Labib. 2000. *Die unsterblichen Obelisken Ägyptens*. Revised and expanded by Carola Vogel. Mainz: Zabern."
+  - id: "Hallof 2010"
+    essay: 7
+    full: "Hallof, Jochen. 2010. *Schreibungen der Pharaonennamen in den Ritualszenen der Tempel der griechisch-römischen Zeit Ägyptens*. Vol. 2, *Die römischen Kaiser*. Dettelbach: Röll."
+  - id: "Hanson 1989"
+    essay: 7
+    full: "Hanson, J. Arthur, ed. and trans. 1989. *Apuleius: Metamorphoses*. Vol. 2. Cambridge, MA: Harvard University Press."
+  - id: "Hayes 1953"
+    essay: 7
+    full: "Hayes, William C. 1953. “Notes on the Government of Egypt in the Late Middle Kingdom.” *Journal of Near Eastern Studies* 12:31–39."
+  - id: "Heil and Wachtel 2006"
+    essay: 7
+    full: "Heil, Matthäus, and Klaus Wachtel. 2006. *Prosopographia Imperii Romani: Saec. I. II. III*. Vol. 7.2. 2nd ed. Berlin: De Gruyter."
+  - id: "Herbin 1984"
+    essay: 7
+    full: "Herbin, François-René. 1984. “Une nouvelle page du Livre des Respirations.” *Bulletin de l’Institut Français d’Archéologie Orientale* 48:249–302."
+  - id: "Hoffmann, Minas-Nerpel, and Pfeiffer 2009"
+    essay: 7
+    full: "Hoffmann, Friedhelm, Martina Minas-Nerpel, and Stefan Pfeiffer. 2009. *Die dreisprachige Stele des C. Cornelius Gallus: Übersetzung und Kommentar*. Berlin: De Gruyter."
+  - id: "Iasiello 2006"
+    essay: 7
+    full: "Iasiello, Italo M. 2006. “La città dei miti: Uso e abuso dell’antico a Benevento.” *Samnium* 79:39–74."
+  - id: "Iversen 1961"
+    essay: 7
+    full: "Iversen, Erik. 1961. *The Myth of Egypt and Its Hieroglyphs in European Tradition*. Copenhagen: G.E.C. Gad."
+  - id: "Iversen 1968–72"
+    essay: 7
+    full: "Iversen, Erik. 1968–72. *Obelisks in Exile*. 2 vols. Copenhagen: G.E.C. Gad."
+  - id: "Iversen 1973"
+    essay: 7
+    full: "Iversen, Erik. 1973. “The Inscriptions from the Obelisks of Benevento.” *Acta Orientalia* 35:15–28."
+  - id: "Johnson 2001–14"
+    essay: 7
+    full: "Johnson, Janet H., ed. 2001–14. *The Demotic Dictionary of the Oriental Institute of the University of Chicago*. Chicago: Oriental Institute, University of Chicago. [https://oi.uchicago.edu/research/&#65279;publications/demotic-dictionary-oriental-institute-university-chicago](https://oi.uchicago.edu/research/publications/demotic-dictionary-oriental-institute-university-chicago)."
+  - id: "Jones 1959"
+    essay: 7
+    full: "Jones, Horace Leonard, ed. and trans. 1959. *The Geography of Strabo*. Vol. 8. London: William Heinemann; Cambridge, MA: Harvard University Press."
+  - id: "Klotz 2012"
+    essay: 7
+    full: "Klotz, David. 2012. *Caesar in the City of Amun: Egyptian Temple Construction and Theology in Roman Thebes*. Turnhout: Brepols."
+  - id: "Kucharek 2019"
+    essay: 7
+    full: "Kucharek, Andrea. 2019. “Papyrus PSI inv. I 130: A New Egyptian Source on the Cult of Antinoos.” *Göttinger Miszellen: Beiträge zur ägyptologischen Diskussion* 257:73–84."
+  - id: "Kurth 2007–15"
+    essay: 7
+    full: "Kurth, Dieter. 2007–15. *Einführung ins Ptolemäische: Eine Grammatik mit Zeichenliste und Übungsstücken*. 3 vols. Hützel: Backe."
+  - id: "Ladynin 2020"
+    essay: 7
+    full: "Ladynin, Ivan. 2020. “Udjahorresnet and the Royal Name of Cambyses: The ‘Derivative Sacrality’ of Achaemenids in Egypt.” *Journal of Ancient Egyptian Interconnections* 26:88–99."
+  - id: "Landgráfová 2011"
+    essay: 7
+    full: "Landgráfová, Renata. 2011. *It Is My Good Name That You Should Remember: Egyptian Biographical Texts on Middle Kingdom Stelae*. Prague: Faculty of Arts Charles University in Prague."
+  - id: "Lauth 1866"
+    essay: 7
+    full: "Lauth, Franz Joseph. 1866. “Der Obelisk in der Münchner Glyptothek.” *Zeitschrift für Ägyptische Sprache und Alterthumskunde* 4:92–95."
+  - id: "Lauth 1867"
+    essay: 7
+    full: "Lauth, Franz Joseph. 1867. “Noch einmal der Münchner Obelisk.” *Zeitschrift für Ägyptische Sprache und Alterthumskunde* 5:17–20."
+  - id: "Leitz 2002–3"
+    essay: 7
+    full: "Leitz, Christian, ed. 2002–3. *Lexikon der ägyptischen Götter und Götterbezeichnungen*. 8 vols. Leuven: Peeters."
+  - id: "Leitz 2004"
+    essay: 7
+    full: "Leitz, Christian. 2004. *Quellentexte zur ägyptischen Religion*. Vol. 1, *Die Tempelinschriften der griechisch-römischen Zeit*. Münster: LIT."
+  - id: "Leitz and Mendel 2017"
+    essay: 7
+    sort: "Leitz, Christian. 2004b."
+    full: "Leitz, Christian, and Daniela Mendel. 2017. *Athribis IV: Der Umgang L 1 bis L 3*. 2 vols. Cairo: Institut Français d’Archéologie Orientale."
+  - id: "Lembke 1994"
+    essay: 7
+    full: "Lembke, Katja. 1994. *Das Iseum Campense in Rom: Studie über den Isiskult unter Domitian*. Heidelberg: Verlag Archäologie und Geschichte."
+  - id: "Lembke 2018"
+    essay: 7
+    full: "Lembke, Katja. 2018. “The Iseum Campense and Its Social, Religious and Political Impact.” In *The Iseum Campense from the Roman Empire to the Modern Age: Temple—Monument—Lieu de mémoire*, edited by Miguel John Versluys, Kristine Bülow Clausen, and Giuseppina Capriotti Vittozzi, 29–40. Rome: Quasar."
+  - id: "Lepsius 1866a"
+    essay: 7
+    full: "Lepsius, Richard. 1866a. “Über denselben Obelisk.” *Zeitschrift für Ägyptische Sprache und Alterthumskunde* 4:95–96."
+  - id: "Lepsius 1866b"
+    essay: 7
+    full: "Lepsius, Richard. 1866b. “Über die Umschrift der Hieroglyphen.” *Zeitschrift für Ägyptische Sprache und Alterthumskunde* 4:73–81."
+  - id: "Lepsius 1867"
+    essay: 7
+    full: "Lepsius, Richard. 1867. “Noch einmal der Münchner Obelisk.” *Zeitschrift für Ägyptische Sprache und Alterthumskunde* 5:20."
+  - id: "Lichtheim 2006"
+    essay: 7
+    full: "Lichtheim, Miriam. 2006. *Ancient Egyptian Literature: A Book of Readings*. Vol. 2, *The New Kingdom*. 2nd ed. Berkeley: University of California Press."
+  - id: "Liebeschuetz 1979"
+    essay: 7
+    full: "Liebeschuetz, J. H. Wolfgang G. 1979. *Continuity and Change in Roman Religion*. Oxford: Clarendon Press."
+  - id: "Lieven 2007"
+    essay: 7
+    full: "Lieven, Alexandra von. 2007. *Grundriss des Laufes der Sterne: Das sogenannte Nutbuch*. 2 vols. Copenhagen: Museum Tusculanum Press."
+  - id: "Luke 2010"
+    essay: 7
+    full: "Luke, Trevor S. 2010. “A Healing Touch for Empire: Vespasian’s Wonders in Domitianic Rome.” *Greece & Rome* 57:77–106."
+  - id: "Malaise 1972a"
+    essay: 7
+    full: "Malaise, Michel. 1972a. *Les conditions de pénétration et de diffusion des cultes égyptiens en Italie*. Leiden: Brill."
+  - id: "Malaise 1972b"
+    essay: 7
+    full: "Malaise, Michel. 1972b. *Inventaire préliminaire des documents égyptiens découverts en Italie*. Leiden: Brill."
+  - id: "Marucchi 1904a"
+    essay: 7
+    full: "Marucchi, Orazio. 1904a. “Benevento—Nota sulle sculture di stile egizio scoperte in Benevento.” *Notizie degli Scavi di Antichità Comunicate alla R. Accademia dei Lincei*, 118–27."
+  - id: "Marucchi 1904b"
+    essay: 7
+    full: "Marucchi, Orazio. 1904b. “Nuovi studi sul tempio della Fortuna in Preneste e sopra i suoi musaici.” *Bullettino della Commissione Archeologica Comunale di Roma* 32:233–83."
+  - id: "Meeks 1998"
+    essay: 7
+    full: "Meeks, Dimitri. 1998. *Année lexicographique: Égypte ancienne*. Vol. 3, *1979*. 2nd ed. Paris: Cybèle."
+  - id: "Meeks 2006"
+    essay: 7
+    full: "Meeks, Dimitri. 2006. *Mythes et légendes du Delta d’après le papyrus Brooklyn 47.218.84*. Cairo: Institut Français d’Archéologie Orientale."
+  - id: "Meyer 1994"
+    essay: 7
+    full: "Meyer, Hugo, ed. 1994. *Der Obelisk des Antinoos: Eine kommentierte Edition*. Munich: Fink."
+  - id: "Moje 2013"
+    essay: 7
+    full: "Moje, Jan. 2013. “Die hieroglyphisch/demotische Stele Louvre E 13074: Synoptische Untersuchung der bilinguen Inschriften.” *Studien zur Altägyptischen Kultur* 42:233–49."
+  - id: "Möller 1912"
+    essay: 7
+    sort: "Moller 1912"
+    full: "Möller, Georg. 1912. *Hieratische Paläographie: Die ägyptische Buchschrift in ihrer Entwicklung von der fünften Dynastie bis zur römischen Kaiserzeit*. Vol. 3, *Von der zweiundzwanzigsten Dynastie bis zum dritten Jahrhundert nach Chr*. Leipzig: Hinrichs."
+  - id: "Möller 1913"
+    essay: 7
+    sort: "Moller 1913"
+    full: "Möller, Georg. 1913. *Die beiden Totenpapyrus Rhind des Museums zu Edinburg*. Leipzig: Hinrichs."
+  - id: "Montanari 2004"
+    essay: 7
+    full: "Montanari, Franco. 2004. *Vocabolario della lingua greca*. 2nd ed. Turin: Loescher."
+  - id: "Mora 1990"
+    essay: 7
+    full: "Mora, Fabio. 1990. *Prosopografia Isiaca*. Vol. 1. Leiden: Brill."
+  - id: "Morenz and Sperveslage 2020"
+    essay: 7
+    full: "Morenz, Ludwig D., and Gunnar Sperveslage. 2020. *Römisches Kaisertum in ägyptischem Gewand: Vom Pharao-fashioning der Imperatoren Augustus, Domitian und Hadrian*. Berlin: EB-Verlag."
+  - id: "Müller 1969"
+    essay: 7
+    sort: "Muller 1969"
+    full: "Müller, Hans Wolfgang. 1969. *Der Isiskult im antiken Benevent und Katalog der Skulpturen aus den ägyptischen Heiligtümern im Museo del Sannio zu Benevent*. Berlin: Hessling."
+  - id: "Müller 1975"
+    sort: "Muller 1975"
+    essay: 7
+    full: "Müller, Hans Wolfgang. 1975. “L’obélisque Albani (à Munich) avant son transfert à Paris.” *Bulletin de la Société Française d’Égyptologie* 72:7–22."
+  - id: "Müskens 2017"
+    essay: 7
+    sort: "Muskens 2017"
+    full: "Müskens, Sander. 2017. *Egypt beyond Representation: Materials and Materiality of Aegyptiaca Romana*. Leiden: Leiden University Press."
+  - id: "Nagel 2014"
+    essay: 7
+    full: "Nagel, Svenja. 2014. “Isis und die Herrscher: Eine ägyptische Göttin als (Über-)Trägerin von Macht und Herrschaft für Pharaonen, Ptolemäer und Kaiser.” In *Macht und Ohnmacht: Religiöse, soziale und ökonomische Spannungsfelder in frühen Gesellschaften*, edited by Diamantis Panagiotopoulos and Maren Schentuleit, 115–45. Wiesbaden: Harrassowitz."
+  - id: "Nagel 2019"
+    essay: 7
+    full: "Nagel, Svenja. 2019. *Isis im Römischen Reich*. 2 vols. Wiesbaden: Harrassowitz."
+  - id: "Panov 2015"
+    essay: 7
+    full: "Panov, Maxim Vyacheslavovich [Панов, Максим Вячеславович]. 2015. *Источники по истории жреческих семей Мемфиса и Летополя в Поздний Период*. 2 vols. Novosibirsk: privately printed."
+  - id: "Parker 2007"
+    essay: 7
+    full: "Parker, Grant. 2007. “Obelisks Still in Exile: Monuments Made to Measure?” In *Nile into Tiber: Egypt in the Roman World*, edited by Laurent Bricault, Miguel John Versluys, and Paul G. P. Meyboom, 209–22. Leiden: Brill."
+  - id: "Parker 2018"
+    essay: 7
+    full: "Parker, Grant. 2018. “Monolithic Appropriation? The Lateran Obelisk Compared.” In *Rome, Empire of Plunder: The Dynamics of Cultural Appropriation*, edited by Matthew P. Loar, Carolyn MacDonald, and Dan-el Padilla Peralta, 137–59. Cambridge: Cambridge University Press."
+  - id: "Pfeiffer 2010a"
+    essay: 7
+    full: "Pfeiffer, Stefan. 2010a. “Ägypten in der Selbstdarstellung der Flavier.” In *Tradition und Erneuerung: Mediale Strategien in der Zeit der Flavier*, edited by Norbert Kramer and Christiane Reitz, 273–88. Berlin: De Gruyter."
+  - id: "Pfeiffer 2010b"
+    essay: 7
+    full: "Pfeiffer, Stefan. 2010b. *Der römische Kaiser und das Land an Nil: Kaiserverehrung und Kaiserkult in Alexandria und Ägypten von Augustus bis Caracalla (30 v. Chr.–217 n. Chr.)*. Stuttgart: Steiner."
+  - id: "Pfeiffer 2015"
+    essay: 7
+    full: "Pfeiffer, Stefan. 2015. *Griechische und lateinische Inschriften zum Ptolemäerreich und zur römischen Provinz Aegyptus*. Berlin: LIT."
+  - id: "Pfeiffer 2018"
+    essay: 7
+    full: "Pfeiffer, Stefan. 2018. “Domitian’s Iseum Campense in Context.” In *The Iseum Campense from the Roman Empire to the Modern Age: Temple—Monument—Lieu de mémoire*, edited by Miguel John Versluys, Kristine Bülow Clausen, and Giuseppina Capriotti Vittozzi, 179–94. Rome: Quasar."
+  - id: "Pirelli 2006"
+    essay: 7
+    full: "Pirelli, Rosanna. 2006. “Il culto di Iside a Benevento.” In *Egittomania: Iside e il mistero*, edited by Stefano De Caro, 129–36. Milan: Electa."
+  - id: "Pirelli 2007"
+    essay: 7
+    full: "Pirelli, Rosanna. 2007. “Il culto di Iside a Benevento.” In *Il culto di Iside a Benevento*, edited by Luisa Bocciero et al., 9–17. Milan: Electa."
+  - id: "Pirelli 2016"
+    essay: 7
+    full: "Pirelli, Rosanna. 2016. “Il tempio di Iside a Benevento.” In *Il Nilo a Pompei: Visioni d’Egitto nel mondo romano*, edited by Federico Poole, 89–95. Modena: Franco Cosimo Panini."
+  - id: "Pirelli and Iasiello 1997"
+    essay: 7
+    sort: "Pirelli, Rosanna. 2016b."
+    full: "Pirelli, Rosanna, and Italo M. Iasiello. 1997. “L’Iseo di Benevento—Marco Rutilio Lupo.” In *Iside: Il mito il mistero la magia*, edited by Ermanno A. Arslan, 376–80. Milan: Electa."
+  - id: "Posener 1936"
+    essay: 7
+    full: "Posener, Georges. 1936. *La première domination perse en Égypte: Recueil d’inscriptions hiéroglyphiques*. Cairo: Institut Français d’Archéologie Orientale."
+  - id: "Pozzi 1989"
+    essay: 7
+    full: "Pozzi, Enrica, ed. 1989. *La Collezione Egiziana del Museo Archeologico Nazionale di Napoli*. Naples: Arte Tipografica."
+  - id: "Quack 2005"
+    essay: 7
+    full: "Quack, Joachim Friedrich. 2005. “Heiligtümer ägyptischer Gottheiten und ihre Ausstattung in Italien.” In *Ägypten Griechenland Rom: Abwehr und Berührung*, edited by Herbert Beck, Peter C. Bol, and Maraike Bückling, 398–404. Frankfurt: Das Städel, Städelsches Kunstinstitut und Städtische Galerie."
+  - id: "Ray 1976"
+    essay: 7
+    full: "Ray, John D. 1976. *The Archive of Ḥor*. London: Egypt Exploration Society."
+  - id: "Rolfe 1914"
+    essay: 7
+    full: "Rolfe, John C., ed. and trans. 1914. *Suetonius*. Vol. 2. London: William Heinemann; Cambridge, MA: Harvard University Press."
+  - id: "Rosso 2018"
+    essay: 7
+    full: "Rosso, Emmanuelle. 2018. “Des empereurs aux traits isiaques? Images et contextes.” In *Individuals and Materials in the Greco-Roman Cults of Isis: Agents, Images, and Practices*, edited by Valentino Gasparini and Richard Veymiers, 1:539–67. Leiden: Brill."
+  - id: "Roullet 1972"
+    essay: 7
+    full: "Roullet, Anne. 1972. *The Egyptian and Egyptianizing Monuments of Imperial Rome*. Leiden: Brill."
+  - id: "Schiaparelli 1893"
+    essay: 7
+    full: "Schiaparelli, Ernesto. 1893. “Benevento—Antichità egizie scoperte entro l’abitato.” *Notizie degli Scavi di Antichità Comunicate alla R. Accademia dei Lincei*, 267–74."
+  - id: "Schlüter 2014"
+    essay: 7
+    full: "Schlüter, Arnulf. 2014. “Der Münchner Obelisk: Rom—Paris—München; Stationen einer langen Reise.” *Sokar* 28:90–97."
+  - id: "Schneider 2004"
+    essay: 7
+    full: "Schneider, Rolf Michael. 2004. “Nicht mehr Ägypten, sondern Rom. Der neue Lebensraum der Obelisken.” In “Fremdheit—Eigenheit: Ägypten, Griechenland und Rom; Austausch und Verständnis,” edited by Peter C. Bol, Gabriele Kaminski, and Caterina Maderna. Special issue, *Städel-Jahrbuch*, n.s., 19:155–79."
+  - id: "Sethe 1904–16"
+    essay: 7
+    full: "Sethe, Kurt. 1904–16. *Hieroglyphische Urkunden der griechisch-römischen Zeit*. Leipzig: Hinrichs."
+  - id: "Sfameni Gasparro 1973"
+    essay: 7
+    full: "Sfameni Gasparro, Giulia. 1973. *I culti orientali in Sicilia*. Leiden: Brill."
+  - id: "Sirago 1992"
+    essay: 7
+    full: "Sirago, Vito Antonio. 1992. “Il Samnium nel mondo antico: 5. Domiziano e il Tempio Isiaco di Benevento.” *Samnium* 65:70–81."
+  - id: "Smith 2015"
+    essay: 7
+    full: "Smith, Ian Gordon. 2015. “A Chronology for Agricola, *Mons Graupius* and Domitian’s Triumph in the Chattan War.” *Historia: Zeitschrift für Alte Geschichte* 64:156–204."
+  - id: "Spalinger 2015"
+    essay: 7
+    full: "Spalinger, Anthony. 2015. “Concepts of Kingship: The Golden Horus Name ![](/img/figures/essay-07-inline/image223.png).” In *Royal versus Divine Authority: Acquisition, Legitimization and Renewal of Power*, edited by Filip Coppens, Jiří Janák, and Hana Vymazalová, 331–50. Wiesbaden: Harrassowitz."
+  - id: "Sperveslage 2017"
+    essay: 7
+    full: "Sperveslage, Gunnar. 2017. “Der Domitiansobelisk: Ägyptische Hieroglyphen für römische Leser?” *Sokar* 34:78–87."
+  - id: "Spiegelberg 1920"
+    essay: 7
+    full: "Spiegelberg, Wilhelm. 1920. “T. Sextius Africanus als Stifter eines Obelisken.” *Zeitschrift für Ägyptische Sprache und Altertumskunde* 56:102–3."
+  - id: "Spier, Potts, and Cole 2018"
+    essay: 7
+    full: "Spier, Jeffrey, Timothy Potts, and Sara E. Cole, eds. 2018. *Beyond the Nile: Egypt and the Classical World*. Los Angeles: J. Paul Getty Museum."
+  - id: "Stauffer 1984"
+    essay: 7
+    full: "Stauffer, Ethelbert. 1984. “Antike Madonnenreligion: IX. Die Gottesmutter von Benevent.” In *Principat*. Vol. 17.3, *Religion (Heidentum: Römische Götterkulte, orientalische Kulte in der römischen Welt [Forts.])*, edited by Wolfgang Haase, 1481–86. Berlin: De Gruyter."
+  - id: "Stern 1884"
+    essay: 7
+    full: "Stern, Ludwig. 1884. “Alterthumskunde: Aegyptische Ausgrabungen in Rom—Ein neuer Obelisk—Die Geschichte der Obelisken in Aegypten, Europa und Amerika—Unabhängigkeit der ältesten ägyptischen Kunst—Asiatisches in der mittleren und neuen—Die Phönicier.” *Zeitschrift für die Gebildete Welt über das Gesammte Wissen Unserer Zeit und über Alle Wichtigen Berufszweige* 5:290–300."
+  - id: "Swetnam-Burland 2007"
+    essay: 7
+    full: "Swetnam-Burland, Molly. 2007. “Egyptian Objects, Roman Contexts: A Taste for Aegyptiaca in Italy.” In *Nile into Tiber: Egypt in the Roman World*, edited by Laurent Bricault, Miguel John Versluys, and Paul G. P. Meyboom, 113–36. Leiden: Brill."
+  - id: "Swetnam-Burland 2010"
+    essay: 7
+    full: "Swetnam-Burland, Molly. 2010. “*Aegyptus Redacta*: The Egyptian Obelisk in the Augustan Campus Martius.” *Art Bulletin* 92:135–53."
+  - id: "Swetnam-Burland 2011"
+    essay: 7
+    full: "Swetnam-Burland, Molly. 2011. “‘Egyptian’ Priests in Roman Italy.” In *Cultural Identity in the Ancient Mediterranean*, edited by Erich S. Gruen, 336–53. Los Angeles: Getty Publications."
+  - id: "Swetnam-Burland 2015"
+    essay: 7
+    full: "Swetnam-Burland, Molly. 2015. *Egypt in Italy: Visions of Egypt in Roman Imperial Culture*. New York: Cambridge University Press."
+  - id: "Takács 1995"
+    essay: 7
+    full: "Takács, Sarolta A. 1995. *Isis and Sarapis in the Roman World*. Leiden: Brill."
+  - id: "Torelli 2002"
+    essay: 7
+    full: "Torelli, Marina R. 2002. *Benevento romana*. Rome: «L’Erma» di Bretschneider."
+  - id: "Ungarellius 1842"
+    essay: 7
+    full: "Ungarellius, Aloisius Maria [Ungarelli, Luigi Maria]. 1842. *Interpretatio obeliscorum Urbis ad Gregorium XVI Pontificem Maximum digesta*. 2 vols. Rome: Typographia Reverendae Camerae Apostolicae."
+  - id: "Verhoeven 2001"
+    essay: 7
+    full: "Verhoeven, Ursula. 2001. *Untersuchungen zur späthieratischen Buchschrift*. Leuven: Peeters."
+  - id: "Vernus 1986"
+    essay: 7
+    full: "Vernus, Pascal. 1986. *Le surnom au Moyen Empire: Répertoire, procédés d’expression et structures de la double identité du début de la XIIe dynastie à la fin de la XVIIe dynastie*. Rome: Biblical Institute Press."
+  - id: "Versluys 2020"
+    essay: 7
+    full: "Versluys, Miguel John, ed. 2020. *Beyond Egyptomania: Objects, Style and Agency*. Berlin: De Gruyter."
+  - id: "Vleeming 2001"
+    essay: 7
+    full: "Vleeming, Sven P. 2001. *Some Coins of Artaxerxes and Other Short Texts in the Demotic Script Found on Various Objects and Gathered from Many Publications*. Leuven: Peeters."
+  - id: "Vleeming 2015"
+    essay: 7
+    full: "Vleeming, Sven P. 2015. *Demotic Graffiti and Other Short Texts Gathered from Many Publications (Short Texts III 1201–2350)*. Leuven: Peeters."
+  - id: "Wente 1990"
+    essay: 7
+    full: "Wente, Edward F. 1990. *Letters from Ancient Egypt*. Edited by Edmund S. Meltzer. Atlanta: Scholars Press."
+  - id: "Widmer and Devauchelle 2017"
+    essay: 7
+    full: "Widmer, Ghislaine, and Didier Devauchelle. 2017. “Une formule de malédiction et quelques autres graffiti démotiques de Karnak.” *Cahiers de Karnak* 16:417–24."
+  - id: "Wildung 1976"
+    essay: 7
+    full: "Wildung, Dietrich, ed. 1976. *Staatliche Sammlung Ägyptischer Kunst*. 2nd ed. Munich: Staatliche Sammlung Ägyptischer Kunst."
+  - id: "Wilson 1997"
+    essay: 7
+    full: "Wilson, Penelope. 1997. *A Ptolemaic Lexikon: A Lexicographical Study of the Texts in the Temple of Edfu*. Leuven: Peeters."
+  - id: "Winter 1977"
+    essay: 7
+    full: "Winter, Erich. 1977. “Das Kalabsha-Tor in Berlin.” *Jahrbuch Preußischer Kulturbesitz* 14:59–71."
+  - id: "Zawadzki 1969"
+    essay: 7
+    full: "Zawadzki, Tadeusz. 1969. “Un nouveau praefectus castrorum en Égypte et deux obélisques érigés par un centurion.” *Chronique d’Égypte* 44:106–17."
+  - id: "Zoega 1797"
+    essay: 7
+    full: "Zoega, Georgius [Zoëga, Georg]. 1797. *De origine et usu obeliscorum*. Rome: Typis Lazzarinii Typographi Cameralis."

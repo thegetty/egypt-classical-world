@@ -1,90 +1,436 @@
 figure_list:
-  - id: "dog1"
-    src: sample-figures/lange.jpg
-    caption: "*Dorothea Lange, Resettlement Administration photographer, in California*, 1936."
-    credit: "Library of Congress Prints and Photographs Division"
-  - id: "dog2"
-    src: sample-figures/evans.jpg
-    caption: "*Walker Evans, profile, hand up to face*, 1937."
-    credit: "Library of Congress Prints and Photographs Division"
-  - id: "fig-1"
-    label: "Figure 1"
-    src: sample-figures/evans-legionnaire.jpg
-    caption: "Walker Evans. *[American Legionnaire]*, 1935. "
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-2"
-    label: "Figure 2"
-    src: sample-figures/evans-sons.jpg
-    caption: "Walker Evans. *Sons of the American Legion, Bethlehem, Pennsylvania*, 1935."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-3"
-    label: "Figure 3"
-    src: sample-figures/evans-graveyard.jpg
-    caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-4"
-    label: "Figure 4"
-    src: sample-figures/evans-hymns.jpg
-    caption: "Walker Evans. *Alabama Tenant Farmer Family Singing Hymns / The Tengle Family, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-5"
-    label: "Figure 5"
-    src: sample-figures/evans-burroughs.jpg
-    caption: "Walker Evans. *Floyd and Lucille Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-6"
-    label: "Figure 6"
-    src: sample-figures/evans-washroom.jpg
-    caption: "Walker Evans. *Washroom in the Dog Run of the Burroughs Home, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-7"
-    label: "Figure 7"
-    src: sample-figures/evans-child.jpg
-    caption: "Walker Evans. *Farmer's Child, Alabama / Othel Lee (Squeakie) Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-8"
-    label: "Figure 8"
-    src: sample-figures/evans-refugee.jpg
-    caption: "Walker Evans. *Arkansas Flood Refugee*, 1937."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "lange-house"
-    src: sample-figures/lange-house.jpg
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "evans-video"
-    src: sample-figures/evans-video-still.jpg
-    media_id: BpGN0UUtqqU
-    media_type: youtube
-    caption: "A selection of Walker Evans photos from the across the United States of America, 1930s."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "photo-podcast"
-    media_id: 336879231
-    media_type: soundcloud
-    caption: "Echoing the work of Lange and Evans, contemporary photographer Chris Killip documents social landscapes and is known for a series of powerful images of struggling industrial communities in North East England."
-  - id: "mother"
-    src: sample-figures/mother.jpg
-    caption: "Dorothea Lange, *Human Erosion in California / Migrant Mother*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-  - id: "mother-b"
-    src: sample-figures/mother-b.jpg
-    caption: "Dorothea Lange, alternate version of *Migrant Mother*, 1936."
-    credit: Library of Congress Prints and Photographs Division
-  - id: "mother-c"
-    src: sample-figures/mother-c.jpg
-    caption: "Dorothea Lange, alternate version of *Migrant Mother*, 1936."
-    credit: Library of Congress Prints and Photographs Division
-  - id: "pickers"
-    src: sample-figures/pickers.jpg
-    caption: "Dorothea Lange, *Pea Pickers, Nipomo, California*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "duo"
-    src: sample-figures/duo.jpg
-    caption: "Walker Evans, *Bud Fields with His Wife Ivy, and His Daughter Ellen, Hale County, Alabama*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-  - id: "family"
-    src: sample-figures/family.jpg
-    caption: "Walker Evans, *Burrough’s Family, Hale County, Alabama*, 1935."
-    credit: The J. Paul Getty Museum, Los Angeles
-
+  - id: "fig-1-1"
+    src: figures/fig-1-1.jpg
+    label: "Figure 1.1"
+    caption: "Map of the eastern Mediterranean with the location of the Uluburun shipwreck"
+    credit:
+  - id: "fig-1-2"
+    src: figures/fig-1-2.jpg
+    label: "Figure 1.2"
+    caption: "Scepter-Mace, Late Bronze Age, ca. 1300 BC. Stone, 7.8 × 19.2 × 5.2 cm. Found in the Uluburun shipwreck. Bodrum Museum of Underwater Archaeology, 12.7.92 (KW 2742)."
+    credit: "Image: © Institute of Nautical Archaeology"
+  - id: "fig-1-3"
+    src: figures/fig-1-3.jpg
+    label: "Figure 1.3"
+    caption: "Relief from Abu Simbel showing the Sherden bodyguards of Ramesses II at Kadesh (after Breasted 1906, vol. 1)."
+    credit: "Image: Reproduced with permission from Hanna Holborn Gray Special Collections Research Center, University of Chicago Library"
+  - id: "fig-1-4-a"
+    src: figures/fig-1-4-a.jpg
+    label: "Figure 1.4a"
+    caption: "Two views of a model of a ship cart, Egyptian, 19th–20th Dynasty, late 13th–early 12th century BC. Wood with pigment, 13.2 × 38.5 × 5.5 cm. Found in a tomb at Gurob, Egypt. University College London, Petrie Museum of Egyptian Archaeology, UC16044."
+    credit: "Photographs courtesy of the J. Paul Getty Museum and the Petrie Museum of Egyptian Archaeology"
+  - id: "fig-1-4-b"
+    src: figures/fig-1-4-b.jpg
+    label: "Figure 1.4b"
+    caption: "Two views of a model of a ship cart, Egyptian, 19th–20th Dynasty, late 13th–early 12th century BC. Wood with pigment, 13.2 × 38.5 × 5.5 cm. Found in a tomb at Gurob, Egypt. University College London, Petrie Museum of Egyptian Archaeology, UC16044."
+    credit: "Photographs courtesy of the J. Paul Getty Museum and the Petrie Museum of Egyptian Archaeology"
+  - id: "fig-1-5-a"
+    src: figures/fig-1-5-a.jpg
+    label: "Figure 1.5a"
+    caption: "Egyptian and Mycenaean warriors, Egyptian, 18th Dynasty, ca. 1346–1332 BC. Painted papyrus, 10.3 × 10.5 cm. Found in the Chapel of the King’s Statue, Tell el-Amarna (Akhetaten). London, The British Museum, EA74100. (a) Papyrus. (b) Detail illustration."
+    credit: "Papyrus © The Trustees of the British Museum. Illustration by Martin Hense"
+  - id: "fig-1-5-b"
+    src: figures/fig-1-5-b.jpg
+    label: "Figure 1.5b"
+    caption: "Egyptian and Mycenaean warriors, Egyptian, 18th Dynasty, ca. 1346–1332 BC. Painted papyrus, 10.3 × 10.5 cm. Found in the Chapel of the King’s Statue, Tell el-‘Amarna (Akhetaten). London, British Museum, EA74100. (a) Papyrus. (b) Detail illustration."
+    credit: "Papyrus © The Trustees of the British Museum. Illustration by Martin Hense"
+  - id: "fig-1-6"
+    src: figures/fig-1-6.jpg
+    label: "Figure 1.6"
+    caption: "Schematic representation of contacts and the transfer of ideas and literary topoi"
+    credit:
+  - id: "fig-2-1"
+    src: figures/fig-2-1.jpg
+    label: "Figure 2.1"
+    caption: "Grave stela of Piabrm with Carian inscription, Caro-Egyptian, ca. 540–500 BC. Limestone, 63.5 × 31.3 × 10 cm. Found at Saqqara. London, British Museum, EA67235."
+    credit: "Image: © The Trustees of the British Museum"
+  - id: "fig-2-2"
+    src: figures/fig-2-2.jpg
+    label: "Figure 2.2"
+    caption: "Color reconstruction of Piabrm’s stela (London, British Museum, EA67235). Left: areas with substantial traces of identifiable color; right: hypothetical reconstruction using minor traces and comparative data."
+    credit: "Image: © The Trustees of the British Museum. Drawing: Kate Morton"
+  - id: "fig-2-3"
+    src: figures/fig-2-3.jpg
+    label: "Figure 2.3"
+    caption: "Fragments of a grave stela, Caro-Egyptian, ca. 540–500 BC. Limestone, 12 × 10.8 cm, 17.4 × 16.2 cm. Found at Saqqara. London, British Museum, EA67238, EA67239."
+    credit: "Image: © The Trustees of the British Museum"
+  - id: "fig-2-4"
+    src: figures/fig-2-4.jpg
+    label: "Figure 2.4"
+    caption: "Tomb group, early 4th century BC. Left to right: Offering tray. Terracotta, 2.1 × 5 × 6.4 cm; *Lekythos*. Terracotta, 7.4 × 4.9 cm; *Lekythos*. Terracotta, H: 5.4 cm; Lamp. Terracotta, L: 7.6 cm. Found in the cemetery of Naukratis. Boston, Museum of Fine Arts, RES.87.163, 11.46019, 2017.803, 88.819."
+    credit: "Image: © 2022, Museum of Fine Arts, Boston"
+  - id: "fig-2-5"
+    src: figures/fig-2-5.jpg
+    label: "Figure 2.5"
+    caption: "Red-figure acorn *lekythos*, Greek, Athenian, early 4th century BC. Terracotta, 22 × 7.5 cm. Found in the cemetery at Naukratis. London, British Museum, 1888,0601.716."
+    credit: "Image: © The Trustees of the British Museum"
+  - id: "fig-2-6"
+    src: figures/fig-2-6.jpg
+    label: "Figure 2.6"
+    caption: "Finger ring showing Eros playing with an *iunx*, Greek, 4th century BC. Gilded copper, Diam: 1.8 cm. Found in the cemetery at Naukratis. London, British Museum, 1888,0601.1."
+    credit: "Image: © The Trustees of the British Museum"
+  - id: "fig-2-7"
+    src: figures/fig-2-7.jpg
+    label: "Figure 2.7"
+    caption: "Figures of cats, Egyptian, early 3rd century BC. Marble and limestone, H: 4.5 to 30.5 cm. Probably from the Boubasteion at Naukratis. London, British Museum, 1905,0612.1–3, 4, 6, 7, 18."
+    credit: "Image: © The Trustees of the British Museum"
+  - id: "fig-2-8"
+    src: figures/fig-2-8.jpg
+    label: "Figure 2.8"
+    caption: "Statuette of a boy and goose, Ptolemaic, ca. 240 BC. Silver, H: 9.2 cm. Found at Alexandria. London, British Museum, 1845,0705.1."
+    credit: "Image: © The Trustees of the British Museum"
+  - id: "fig-2-9"
+    src: figures/fig-2-9.jpg
+    label: "Figure 2.9"
+    caption: "Wild goat–style *oinochoe* showing a sphinx strangling a goose, Milesian, ca. 600 BC (after Jacopi 1931, plate VI). From Kameiros, Rhodes"
+    credit:
+  - id: "fig-2-10"
+    src: figures/fig-2-10.jpg
+    label: "Figure 2.10"
+    caption: "Tomb painting, Egyptian, 18th Dynasty, ca. 1350 BC. Painted plaster, 98 × 115 × 22 cm. From the tomb of Nebamun, Thebes. London, British Museum, EA37977."
+    credit: "Image: © The Trustees of the British Museum"
+  - id: "fig-3-1"
+    src: figures/fig-3-1.jpg
+    label: "Figure 3.1"
+    caption: "Statuette of Isis with Horus on her lap, Egyptian, Third Intermediate Period, ca. 1069–664 BC. Faience, 14.3 × 4 cm. Eton College, Myers Collection, ECM.1717-2010."
+    credit: "Image: Reproduced by permission of the Provost and Fellows of Eton College"
+  - id: "fig-3-2"
+    src: figures/fig-3-2.jpg
+    label: "Figure 3.2"
+    caption: "Amulet with the triad Isis-Harpokrates-Nephthys, Egyptian, Third Intermediate Period, ca. 1069–664 BC. Faience, 2.2 × 1.5 cm. Eton College, Myers Collection, ECM.1558-2010."
+    credit: "Image: Reproduced by permission of the Provost and Fellows of Eton College"
+  - id: "fig-3-3"
+    src: figures/fig-3-3.jpg
+    label: "Figure 3.3"
+    caption: "Ostracon with the representation of a typical shaft tomb in profile showing funerary rites in the burial chamber as well as at the mouth of the tomb shaft, Egyptian, ca. 1450 BC. Limestone, H: 16 cm. From Thebes. Manchester Museum, University of Manchester, 5886."
+    credit: "Image: Reproduced with permission"
+  - id: "fig-3-4"
+    src: figures/fig-3-4.jpg
+    label: "Figure 3.4"
+    caption: "Bust of Isis wearing a horned lunar headdress with side plumes, Romano-Egyptian, ca. 1st century BC–1st century AD. Bronze, 9.3 × 5.8 × 2.3 cm. Sydney, Macquarie University History Museum, MU4488. A 3D scan of this object is available for viewing at [https://objectbasedlearning.com/Macquarie-University-History-Museum/MU4488.html](https://objectbasedlearning.com/Macquarie-University-History-Museum/MU4488.html)."
+    credit:
+  - id: "fig-3-5"
+    src: figures/fig-3-5.jpg
+    label: "Figure 3.5"
+    caption: "Sanctuary of Isis on the island of Delos (Serapeion C). The statue of Isis found in the cella was donated by the population of Athens in 128/127 BC."
+    credit:
+  - id: "fig-4-1"
+    src: figures/fig-4-1.jpg
+    label: "Figure 4.1"
+    caption: "Pylon tower, excavated by the HIAMAS underwater mission at Alexandria in 2003. Image: © Hellenic Institute of Ancient and Medieval Alexandrian Studies, Athens."
+    credit: "Drawing: Silvana Gargiulo"
+  - id: "fig-4-2"
+    src: figures/fig-4-2.jpg
+    label: "Figure 4.2"
+    caption: "Axonometric view of the pylon tower excavated by the HIAMAS underwater mission at Alexandria in 2003. Image: © Hellenic Institute of Ancient and Medieval Alexandrian Studies, Athens."
+    credit: "Drawing: Silvana Gargiulo"
+  - id: "fig-4-3"
+    src: figures/fig-4-3.jpg
+    label: "Figure 4.3"
+    caption: "Frontal view of the diminutive pylon tower, exhibited in the Open-Air Museum in Kom el-Dikka, Alexandria, since 2009"
+    credit:
+  - id: "fig-4-4"
+    src: figures/fig-4-4.jpg
+    label: "Figure 4.4"
+    caption: "Lateral view of the diminutive pylon tower, Kom el-Dikka"
+    credit:
+  - id: "fig-4-5"
+    src: figures/fig-4-5.jpg
+    label: "Figure 4.5"
+    caption: "Sketch of the monolithic flight of steps as found on the seabed."
+    credit: "Image: © Hellenic Institute of Ancient and Medieval Alexandrian Studies, Athens. Drawing: Silvana Gargiulo"
+  - id: "fig-4-6"
+    src: figures/fig-4-6.jpg
+    label: "Figure 4.6"
+    caption: "Hypothetical reconstruction of the Isis temple on Acra Lochias, Alexandria."
+    credit: "Image: © Hellenic Institute of Ancient and Medieval Alexandrian Studies, Athens. Drawing: Yiannis Nakas, after a proposal by Harry Tzalas before the excavation of the flight of steps (see fig. 4.5)"
+  - id: "fig-4-7"
+    src: figures/fig-4-7.jpg
+    label: "Figure 4.7"
+    caption: "Karnak, pylon gate on the eastern side of the courtyard between the seventh and eighth pylons, opening to the barque shrine of Thutmose III at the sacred lake."
+    credit: "Image: René Preys with agreement of CFEETK (French-Egyptian Centre for the Study of Karnak Temples)"
+  - id: "fig-4-8"
+    src: figures/fig-4-8.jpg
+    label: "Figure 4.8"
+    caption: "Karnak, external side of pylon gate on the eastern side of the courtyard between the seventh and eighth pylons, opening to the barque shrine of Thutmose III at the sacred lake."
+    credit: "Image: Martina Minas-Nerpel with agreement of CFEETK (French-Egyptian Centre for the Study of Karnak Temples)"
+  - id: "fig-4-9"
+    src: figures/fig-4-9.jpg
+    label: "Figure 4.9"
+    caption: "The altar at Tôd. Image: Christophe Thiers"
+    credit:
+  - id: "fig-4-10"
+    src: figures/fig-4-10.jpg
+    label: "Figure 4.10"
+    caption: "Pyramid and pylon of tomb Beg. N19 of King Tarekeniwal (second century BC) at the royal pyramid cemetery of Begrawiya North (Meroe/Sudan)."
+    credit:  "Image: Pawel Wolf, © DAI/QMPS"
+  - id: "fig-5-1"
+    src: figures/fig-5-1.jpg
+    label: "Figure 5.1"
+    caption: "Plan of the Kellis main temple with its mammisi."
+    credit:  "Adapted from a drawing by Jarosław Dobrowolski (1996)"
+  - id: "fig-5-2"
+    src: figures/fig-5-2.jpg
+    label: "Figure 5.2"
+    caption: "View of the rear wall of the mammisi after excavation"
+    credit:
+  - id: "fig-5-3"
+    src: figures/fig-5-3.jpg
+    label: "Figure 5.3"
+    caption: "Reconstruction of the northwestern corner of the mammisi, showing the niche in the rear wall and the Seven Hathors in the upper register of the vault."
+    credit: "Drawing: Martin Hense"
+  - id: "fig-5-4"
+    src: figures/fig-5-4.jpg
+    label: "Figure 5.4"
+    caption: "Painted apron from the aedicula niche in the back wall of the mammisi."
+    credit: "Restoration: Edwige Brida"
+  - id: "fig-5-5"
+    src: figures/fig-5-5.jpg
+    label: "Figure 5.5"
+    caption: "Reconstruction of the entire central pattern of the vaulted ceiling (colors not calibrated)."
+    credit: "Drawing: Martin Hense"
+  - id: "fig-5-6"
+    src: figures/fig-5-6.jpg
+    label: "Figure 5.6"
+    caption: "Ceiling pattern from the northern half of the shrine with a goddess supporting the sky. Restoration set on a background of sand, in preparation for a final layer of plaster."
+    credit: "Restoration: Laurence Blondaux"
+  - id: "fig-5-7"
+    src: figures/fig-5-7.jpg
+    label: "Figure 5.7"
+    caption: "The Seven Hathors, preceded by a figure of the goddess Meret, and facing a seated Tapsais followed by Neith. Restoration set upon a background of sand, in preparation for a final layer of plaster."
+    credit: "Restoration: Laurence Blondaux; Image: © Fotografie Christien Boeles"
+  - id: "fig-5-8"
+    src: figures/fig-5-8.jpg
+    label: "Figure 5.8"
+    caption: "Detail of the first four of the Seven Hathors."
+    credit: "Image: © Fotografie Christien Boeles"
+  - id: "fig-5-9"
+    src: figures/fig-5-9.jpg
+    label: "Figure 5.9"
+    caption: "The first five priests on the southern wall. Their feet as well as the shrine on the right end have been copied from the part of the painting still on the wall. Restoration: Laurence Blondaux."
+    credit: "Image: © Fotografie Christien Boeles"
+  - id: "fig-6-1"
+    src: figures/fig-6-1.jpg
+    label: "Figure 6.1"
+    caption: "Plan of the villa of Herodes Atticus. Drawing: Anna Pantelakaki (from a plan provided by G. Spyropoulos)"
+    credit:
+  - id: "fig-6-2"
+    src: figures/fig-6-2.jpg
+    label: "Figure 6.2"
+    caption: "View of the atrium of the villa of Herodes Atticus and the artificial pool from the southwest"
+    credit:
+  - id: "fig-6-3"
+    src: figures/fig-6-3.jpg
+    label: "Figure 6.3"
+    caption: "View of the southern stoa with mosaics and the artificial pool from the southwest"
+    credit:
+  - id: "fig-6-4"
+    src: figures/fig-6-4.jpg
+    label: "Figure 6.4"
+    caption: "Bust of Emperor Hadrian. The usual image of the mythical gorgon Medusa decorating the emperor’s breastplate has been replaced by a portrait of Antinous. The bust was found on the western side of the river, close to the exedra on which it stood, along with many other portraits."
+    credit:
+  - id: "fig-6-5"
+    src: figures/fig-6-5.jpg
+    label: "Figure 6.5"
+    caption: "Bust of Artemis Ephesia. This bust represents a copy of the cult statue of Artemis, known mainly from coins. On her head she wears a *polos* decorated with rosettes, sphinxes, and deer, one of her companion animals. From the sides of the *polos* emerges a disc decorated with a star on the proper right side. The upper part of her breastplate is decorated with a necklace, from which acorns hang. The lower part of her breast supports, up to its point of preservation, two rows of breasts as a fertility symbol or, as other scholars have suggested, gourds, also a fertility symbol."
+    credit:
+  - id: "fig-6-6"
+    src: figures/fig-6-6.jpg
+    label: "Figure 6.6"
+    caption: "The Temple-Sanctuary of Antinous-Dionysos, view from the west"
+    credit:
+  - id: "fig-6-7"
+    src: figures/fig-6-7.jpg
+    label: "Figure 6.7"
+    caption: "Statue of Antinous-Dionysos. The statue, which originally stood on a podium in the apse of the building, was removed when the sanctuary was transformed into a mausoleum and placed on a pedestal on the northwest corner of the building, where it was found. Antinous was worshipped here as Dionysos, as also verified by the inscriptions (ΘΕΩ ΔΙΟΝΥΣΩ) found in situ."
+    credit:
+  - id: "fig-6-8"
+    src: figures/fig-6-8.jpg
+    label: "Figure 6.8"
+    caption: "Statue of a river god, found in the Serapeion of the villa"
+    credit:
+  - id: "fig-6-9"
+    src: figures/fig-6-9.jpg
+    label: "Figure 6.9"
+    caption: "Head of a statue of a river god, probably a personification of the Nile River, found in the Serapeion of the villa"
+    credit:
+  - id: "fig-6-10"
+    src: figures/fig-6-10.jpg
+    label: "Figure 6.10"
+    caption: "Fragmentary statue of Osiris, found in the Serapeion of the villa"
+    credit:
+  - id: "fig-7-1"
+    src: figures/fig-7-1.jpg
+    label: "Figure 7.1"
+    caption: "Borgia obelisk, the two upper fragments. 1st century AD. Granite, H: 0.63 and 0.47 m. Museo Archeologico Nazionale di Palestrina, inv. 80548; E 19."
+    credit: "Photograph courtesy of the Museo Archeologico Nazionale di Palestrina"
+  - id: "fig-7-2"
+    src: figures/fig-7-2.jpg
+    label: "Figure 7.2"
+    caption: "Borgia obelisk, the lower section. 1st century AD. Granite, H: 1.9 m. Museo Archeologico Nazionale di Napoli, inv. 2317."
+    credit: "Photograph courtesy of the Museo Archeologico Nazionale di Napoli"
+  - id: "fig-7-3"
+    src: figures/fig-7-3.jpg
+    label: "Figure 7.3"
+    caption: "Borgia obelisk, facsimile of the inscriptions (after Bove 2008, 89)"
+    credit:
+  - id: "fig-7-4"
+    src: figures/fig-7-4.jpg
+    label: "Figure 7.4"
+    caption: "Borgia obelisk, standardized copy of the hieroglyphic inscriptions (prepared with JSesh hieroglyphic editor)"
+    credit:
+  - id: "fig-7-5"
+    src: figures/fig-7-5.jpg
+    label: "Figure 7.5"
+    caption: "Albani obelisk. 1st century AD. Granite, H of ancient section: 3.2 m; H as restored: 5.5 m. Munich, Staatliches Museum Ägyptischer Kunst, inv. Gl. WAF 39."
+    credit: "Photograph courtesy of Staatliches Museum Ägyptischer Kunst"
+  - id: "fig-7-6"
+    src: figures/fig-7-6.jpg
+    label: "Figure 7.6"
+    caption: "Albani obelisk, facsimile of the inscriptions (after Müller 1975, 16)"
+    credit:
+  - id: "fig-7-7"
+    src: figures/fig-7-7.jpg
+    label: "Figure 7.7"
+    caption: "Albani obelisk, standardized copy of the hieroglyphic inscriptions (prepared with JSesh hieroglyphic editor)"
+    credit:
+  - id: "fig-7-8"
+    src: figures/fig-7-8.jpg
+    label: "Figure 7.8"
+    caption: "Benevento obelisk A, view from the southeast. AD 88/89. Granite, H: 5.39 m. Benevento, Piazza Papiniano."
+    credit: "Photograph by Luigi Prada (29 July 2020)"
+  - id: "fig-7-9"
+    src: figures/fig-7-9.jpg
+    label: "Figure 7.9"
+    caption: "Benevento obelisk B, following conservation in 2017–18. AD 88/89. Granite, H of ancient section: 3.5 m; H as restored: 5.2 m. Benevento, Museo del Sannio, inv. 1916."
+    credit: "Photograph by Paul D. Wordsworth (29 July 2020)"
+  - id: "fig-7-10"
+    src: figures/fig-7-10.jpg
+    label: "Figure 7.10"
+    caption: "Benevento obelisk A, side 1 (orthophotograph)."
+    credit: "Photograph and imaging by Paul D. Wordsworth (2020)"
+  - id: "fig-7-11"
+    src: figures/fig-7-11.jpg
+    label: "Figure 7.11"
+    caption: "Benevento obelisk B, side 1 (photograph, prior to conservation)."
+    credit: Photograph courtesy of the J. Paul Getty Museum, Los Angeles (2017)
+  - id: "fig-7-12"
+    src: figures/fig-7-12.jpg
+    label: "Figure 7.12"
+    caption: "Benevento obelisks, facsimile of inscriptions A/1 and B/1 (edited and improved version of Erman 1896, plate viii)"
+    credit:
+  - id: "fig-7-13"
+    src: figures/fig-7-13.jpg
+    label: "Figure 7.13"
+    caption: "Benevento obelisks, synoptic standardized copy of the hieroglyphic inscriptions A/1 and B/1 (prepared with JSesh hieroglyphic editor)"
+    credit:
+  - id: "fig-7-14"
+    src: figures/fig-7-14.jpg
+    label: "Figure 7.14"
+    caption: "Benevento obelisk A, side 2 (orthophotograph)."
+    credit: "Photograph and imaging by Paul D. Wordsworth (2020)"
+  - id: "fig-7-15"
+    src: figures/fig-7-15.jpg
+    label: "Figure 7.15"
+    caption: "Benevento obelisk B, side 2 (photograph, prior to conservation)."
+    credit: Photograph courtesy of the J. Paul Getty Museum, Los Angeles (2017)
+  - id: "fig-7-16"
+    src: figures/fig-7-16.jpg
+    label: "Figure 7.16"
+    caption: "Benevento obelisks, facsimile of inscriptions A/2 and B/2 (edited and improved version of Erman 1896, plate viii)"
+    credit:
+  - id: "fig-7-17"
+    src: figures/fig-7-17.jpg
+    label: "Figure 7.17"
+    caption: "Benevento obelisks, synoptic standardized copy of the hieroglyphic inscriptions A/2 and B/2 (prepared with JSesh hieroglyphic editor)"
+    credit:
+  - id: "fig-7-18"
+    src: figures/fig-7-18.jpg
+    label: "Figure 7.18"
+    caption: "Benevento obelisk A, side 3 (orthophotograph)."
+    credit: "Photograph and imaging by Paul D. Wordsworth (2020)"
+  - id: "fig-7-19"
+    src: figures/fig-7-19.jpg
+    label: "Figure 7.19"
+    caption: "Benevento obelisk B, side 3 (photograph, prior to conservation)."
+    credit: Photograph courtesy of the J. Paul Getty Museum, Los Angeles (2017)
+  - id: "fig-7-20"
+    src: figures/fig-7-20.jpg
+    label: "Figure 7.20"
+    caption: "Benevento obelisks, facsimile of inscriptions A/3 and B/3 (edited and improved version of Erman 1896, plate viii)"
+    credit:
+  - id: "fig-7-21"
+    src: figures/fig-7-21.jpg
+    label: "Figure 7.21"
+    caption: "Benevento obelisks, synoptic standardized copy of the hieroglyphic inscriptions A/3 and B/3 (prepared with JSesh hieroglyphic editor)"
+    credit:
+  - id: "fig-7-22"
+    src: figures/fig-7-22.jpg
+    label: "Figure 7.22"
+    caption: "Benevento obelisk A, side 4 (orthophotograph)."
+    credit: "Photograph and imaging by Paul D. Wordsworth (2020)"
+  - id: "fig-7-23"
+    src: figures/fig-7-23.jpg
+    label: "Figure 7.23"
+    caption: "Benevento obelisk B, side 4 (photograph, prior to conservation)."
+    credit: Photograph courtesy of the J. Paul Getty Museum, Los Angeles (2017)
+  - id: "fig-7-24"
+    src: figures/fig-7-24.jpg
+    label: "Figure 7.24"
+    caption: "Benevento obelisks, facsimile of inscriptions A/4 and B/4 (edited and improved version of Erman 1896, plate viii)"
+    credit:
+  - id: "fig-7-25"
+    src: figures/fig-7-25.jpg
+    label: "Figure 7.25"
+    caption: "Benevento obelisks, synoptic standardized copy of the hieroglyphic inscriptions A/4 and B/4 (prepared with JSesh hieroglyphic editor)"
+    credit:
+  - id: "fig-7-26"
+    src: figures/fig-7-26.jpg
+    label: "Figure 7.26"
+    caption: "Benevento obelisk A, combined orthophotographs of all sides."
+    credit: "Photograph and imaging by Paul D. Wordsworth (2020)"
+  - id: "fig-7-27"
+    src: figures/fig-7-27.jpg
+    label: "Figure 7.27"
+    caption: "Benevento obelisk B, combined photographs of all sides (prior to conservation)."
+    credit: Photographs courtesy of the J. Paul Getty Museum, Los Angeles (2017)
+  - id: "fig-7-28"
+    src: figures/fig-7-28.jpg
+    label: "Figure 7.28"
+    caption: "The first published copy of the Benevento obelisk(s), by Georg Zoëga, as a single monument recomposed from a number of fragments pertaining to both obelisks A and B (from Zoega 1797, 644)"
+    credit:
+  - id: "fig-7-29"
+    src: figures/fig-7-29.jpg
+    label: "Figure 7.29"
+    caption: "Copy of the Benevento obelisks by Luigi Ungarelli, based on original work by Jean-François Champollion, prior to the rediscovery of the top fragment of obelisk A (from Ungarellius 1842, 2: plate v)"
+    credit:
+  - id: "fig-7-30"
+    src: figures/fig-7-30.jpg
+    label: "Figure 7.30"
+    caption: "Facsimile of Benevento obelisk A by Adolf Erman (from Erman 1896, plate viii). The curly brackets have been edited in, to mark differences between Erman’s facsimile and mine"
+    credit:
+  - id: "fig-7-31"
+    src: figures/fig-7-31.jpg
+    label: "Figure 7.31"
+    caption: "Facsimile of Benevento obelisk B by Adolf Erman (from Erman 1896, plate viii). The curly brackets have been edited in, to mark differences between Erman’s facsimile and mine"
+    credit:
+  - id: "fig-7-32"
+    src: figures/fig-7-32.jpg
+    label: "Figure 7.32"
+    caption: "Facsimile of Benevento obelisk A (edited and improved version of Erman 1896, plate viii)"
+    credit:
+  - id: "fig-7-33"
+    src: figures/fig-7-33.jpg
+    label: "Figure 7.33"
+    caption: "Facsimile of Benevento obelisk B (edited and improved version of Erman 1896, plate viii)"
+    credit:
+  - id: "fig-7-34"
+    src: figures/fig-7-34.jpg
+    label: "Figure 7.34"
+    caption: "Paul D. Wordsworth documenting Benevento obelisk A."
+    credit: "Photograph by Luigi Prada (29 July 2020)"
+  - id: "fig-7-35"
+    src: figures/fig-7-35.jpg
+    label: "Figure 7.35"
+    caption: "Detail of telescopic pole rig for photographic documentation of Benevento obelisk A."
+    credit: "Photograph by Luigi Prada (29 July 2020)"

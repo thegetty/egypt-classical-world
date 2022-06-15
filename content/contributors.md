@@ -1,7 +1,7 @@
 ---
 title: Contributors
-weight: 201
+weight: 80
 type: page
 ---
 
-{{< q-contributor range="primary" format="bio" >}}
+{{< q-contributor range="all" format="bio" >}}
