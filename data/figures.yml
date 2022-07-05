@@ -3,61 +3,73 @@ figure_list:
     src: figures/fig-1-1.jpg
     label: "Figure 1.1"
     caption: "Map of the eastern Mediterranean with the location of the Uluburun shipwreck"
+    alt text: "Line map of the eastern Mediterranean with the Uluburun shipwreck marked just off the coast in the northern sea between Knossos to the west and Ugarit to the east."
     credit:
   - id: "fig-1-2"
     src: figures/fig-1-2.jpg
     label: "Figure 1.2"
     caption: "Scepter-Mace, Late Bronze Age, ca. 1300 BC. Stone, 7.8 × 19.2 × 5.2 cm. Found in the Uluburun shipwreck. Bodrum Museum of Underwater Archaeology, 12.7.92 (KW 2742)."
+    alt text: "Stone mace-head with carved decorative lines raised on two clear display cubes"
     credit: "Image: © Institute of Nautical Archaeology"
   - id: "fig-1-3"
     src: figures/fig-1-3.jpg
     label: "Figure 1.3"
     caption: "Relief from Abu Simbel showing the Sherden bodyguards of Ramesses II at Kadesh (after Breasted 1906, vol. 1)."
+    alt text: "Stone relief showing three soldiers at left and two soldiers at right with raised weapons and circular shields."
     credit: "Image: Reproduced with permission from Hanna Holborn Gray Special Collections Research Center, University of Chicago Library"
   - id: "fig-1-4-a"
     src: figures/fig-1-4-a.jpg
     label: "Figure 1.4a"
     caption: "Two views of a model of a ship cart, Egyptian, 19th–20th Dynasty, late 13th–early 12th century BC. Wood with pigment, 13.2 × 38.5 × 5.5 cm. Found in a tomb at Gurob, Egypt. University College London, Petrie Museum of Egyptian Archaeology, UC16044."
+    alt text: "Small model boat on four wheels with sticks coming out of a concave body and remnants of blue, red, yellow, and black paint"
     credit: "Photographs courtesy of the J. Paul Getty Museum and the Petrie Museum of Egyptian Archaeology"
   - id: "fig-1-4-b"
     src: figures/fig-1-4-b.jpg
     label: "Figure 1.4b"
     caption: "Two views of a model of a ship cart, Egyptian, 19th–20th Dynasty, late 13th–early 12th century BC. Wood with pigment, 13.2 × 38.5 × 5.5 cm. Found in a tomb at Gurob, Egypt. University College London, Petrie Museum of Egyptian Archaeology, UC16044."
+    alt text: "Small model boat on four wheels with sticks coming out of a concave body and remnants of blue, red, yellow, and black paint"
     credit: "Photographs courtesy of the J. Paul Getty Museum and the Petrie Museum of Egyptian Archaeology"
   - id: "fig-1-5-a"
     src: figures/fig-1-5-a.jpg
     label: "Figure 1.5a"
     caption: "Egyptian and Mycenaean warriors, Egyptian, 18th Dynasty, ca. 1346–1332 BC. Painted papyrus, 10.3 × 10.5 cm. Found in the Chapel of the King’s Statue, Tell el-Amarna (Akhetaten). London, The British Museum, EA74100. (a) Papyrus. (b) Detail illustration."
+    alt text: "Painted papyrus fragment showing multiple heads of warriors with black hair and yellow caps"
     credit: "Papyrus © The Trustees of the British Museum. Illustration by Martin Hense"
   - id: "fig-1-5-b"
     src: figures/fig-1-5-b.jpg
     label: "Figure 1.5b"
     caption: "Egyptian and Mycenaean warriors, Egyptian, 18th Dynasty, ca. 1346–1332 BC. Painted papyrus, 10.3 × 10.5 cm. Found in the Chapel of the King’s Statue, Tell el-‘Amarna (Akhetaten). London, British Museum, EA74100. (a) Papyrus. (b) Detail illustration."
+    alt text: "Painted papyrus fragment showing multiple heads of warriors with black hair and yellow caps"
     credit: "Papyrus © The Trustees of the British Museum. Illustration by Martin Hense"
   - id: "fig-1-6"
     src: figures/fig-1-6.jpg
     label: "Figure 1.6"
     caption: "Schematic representation of contacts and the transfer of ideas and literary topoi"
+    alt text: "Map of the Mediterranean region with arrows connecting the objects that have been discussed to their respective locations"
     credit:
   - id: "fig-2-1"
     src: figures/fig-2-1.jpg
     label: "Figure 2.1"
     caption: "Grave stela of Piabrm with Carian inscription, Caro-Egyptian, ca. 540–500 BC. Limestone, 63.5 × 31.3 × 10 cm. Found at Saqqara. London, British Museum, EA67235."
+    alt text: "Round-topped limestone stela with incised detail divided into three registers. Male figure before Osiris and Isis at top. In the middle, an Ibis-headed figure before a bull with Carian text above. At bottom, a deceased woman on a couch with mourners."
     credit: "Image: © The Trustees of the British Museum"
   - id: "fig-2-2"
     src: figures/fig-2-2.jpg
     label: "Figure 2.2"
     caption: "Color reconstruction of Piabrm’s stela (London, British Museum, EA67235). Left: areas with substantial traces of identifiable color; right: hypothetical reconstruction using minor traces and comparative data."
+    alt text: "Color reconstruction of Piabrm’s stela rendered in bright pigments, including blue, red, green, yellow, brown, and white"
     credit: "Image: © The Trustees of the British Museum. Drawing: Kate Morton"
   - id: "fig-2-3"
     src: figures/fig-2-3.jpg
     label: "Figure 2.3"
     caption: "Fragments of a grave stela, Caro-Egyptian, ca. 540–500 BC. Limestone, 12 × 10.8 cm, 17.4 × 16.2 cm. Found at Saqqara. London, British Museum, EA67238, EA67239."
+    alt text: "Stela fragments depicting upper and lower halves of male figure with hands raised in adoration and remains of a Carian inscription"
     credit: "Image: © The Trustees of the British Museum"
   - id: "fig-2-4"
     src: figures/fig-2-4.jpg
     label: "Figure 2.4"
     caption: "Tomb group, early 4th century BC. Left to right: Offering tray. Terracotta, 2.1 × 5 × 6.4 cm; *Lekythos*. Terracotta, 7.4 × 4.9 cm; *Lekythos*. Terracotta, H: 5.4 cm; Lamp. Terracotta, L: 7.6 cm. Found in the cemetery of Naukratis. Boston, Museum of Fine Arts, RES.87.163, 11.46019, 2017.803, 88.819."
+    alt text: "From left to right: a pale yellow, unglazed clay oval tray with two handles, raised in center to form circular bowl, three beads inside; two single-handle jars made of reddish clay with designs painted in black; and an undecorated, pinkish clay wheel-made lamp with a double-convex body, a steep inward-sloping rim, and a low foot, short rounded nozzle."
     credit: "Image: © 2022, Museum of Fine Arts, Boston"
   - id: "fig-2-5"
     src: figures/fig-2-5.jpg
@@ -88,6 +100,7 @@ figure_list:
     src: figures/fig-2-10.jpg
     label: "Figure 2.10"
     caption: "Tomb painting, Egyptian, 18th Dynasty, ca. 1350 BC. Painted plaster, 98 × 115 × 22 cm. From the tomb of Nebamun, Thebes. London, British Museum, EA37977."
+    alt text: "Tomb painting featuring a large central male figure balanced on a canoe. A miniature female figure sits between the male’s legs and a female figure stands behind him. Assorted fish are visible underwater and the landscape features a blue thrush of tall papyrus with red-brown accents. Columns of hieroglyphs occupy the negative space in the top right quadrant."
     credit: "Image: © The Trustees of the British Museum"
   - id: "fig-3-1"
     src: figures/fig-3-1.jpg
