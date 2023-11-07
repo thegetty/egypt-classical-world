@@ -3,521 +3,521 @@ figure_list:
     src: figures/fig-1-1.jpg
     label: "Figure 1.1"
     caption: "Map of the eastern Mediterranean with the location of the Uluburun shipwreck."
-    alt text: "Line map of the eastern Mediterranean with the Uluburun shipwreck marked in the sea just off the southern coast of Anatolia between Knossos to the west and Ugarit to the east."
     credit:
+    alt: "Line map of the eastern Mediterranean with the Uluburun shipwreck marked in the sea just off the southern coast of Anatolia between Knossos to the west and Ugarit to the east."
   - id: "fig-1-2"
     src: figures/fig-1-2.jpg
     label: "Figure 1.2"
     caption: "Scepter-Mace, Late Bronze Age, ca. 1300 BC. Stone, 7.8 × 19.2 × 5.2 cm. Found in the Uluburun shipwreck. Bodrum Museum of Underwater Archaeology, 12.7.92 (KW 2742)."
-    alt text: "Dark brown-black colored and rough-surfaced stone object with incised decorative lines. The cylindrically shaped stone ends with a door-knob shape  on the right, while the left end narrows and curls upwards and around to create a small loop."
     credit: "Image: © Institute of Nautical Archaeology"
+    alt: "Dark brown-black colored and rough-surfaced stone object with incised decorative lines. The cylindrically shaped stone ends with a door-knob shape  on the right, while the left end narrows and curls upwards and around to create a small loop."
   - id: "fig-1-3"
     src: figures/fig-1-3.jpg
     label: "Figure 1.3"
     caption: "Relief from Abu Simbel showing the Sherden bodyguards of Ramesses II at Kadesh (after Breasted 1906, vol. 1)."
-    alt text: "Incised stone relief depicting three soldiers at left and two soldiers at right with raised weapons and circular shields."
     credit: "Image: Reproduced with permission from Hanna Holborn Gray Special Collections Research Center, University of Chicago Library"
+    alt: "Incised stone relief depicting three soldiers at left and two soldiers at right with raised weapons and circular shields."
   - id: "fig-1-4-a"
     src: figures/fig-1-4-a.jpg
     label: "Figure 1.4a"
     caption: "Two views of a model of a ship cart, Egyptian, 19th–20th Dynasty, late 13th–early 12th century BC. Wood with pigment, 13.2 × 38.5 × 5.5 cm. Found in a tomb at Gurob, Egypt. University College London, Petrie Museum of Egyptian Archaeology, UC16044."
-    alt text: "Small wooden model boat on four wheels with sticks projecting upwards from its curved body and remnants of blue, red, yellow, and black paint."
     credit: "Photographs courtesy of the J. Paul Getty Museum and the Petrie Museum of Egyptian Archaeology"
+    alt: "Small wooden model boat on four wheels with sticks projecting upwards from its curved body and remnants of blue, red, yellow, and black paint."
   - id: "fig-1-4-b"
     src: figures/fig-1-4-b.jpg
     label: "Figure 1.4b"
     caption: "Two views of a model of a ship cart, Egyptian, 19th–20th Dynasty, late 13th–early 12th century BC. Wood with pigment, 13.2 × 38.5 × 5.5 cm. Found in a tomb at Gurob, Egypt. University College London, Petrie Museum of Egyptian Archaeology, UC16044."
-    alt text: "Opposite side of small wooden model boat on four wheels with sticks projecting upwards from its curved body and remnants of blue, red, yellow, and black paint."
     credit: "Photographs courtesy of the J. Paul Getty Museum and the Petrie Museum of Egyptian Archaeology"
+    alt: "Opposite side of small wooden model boat on four wheels with sticks projecting upwards from its curved body and remnants of blue, red, yellow, and black paint."
   - id: "fig-1-5-a"
     src: figures/fig-1-5-a.jpg
     label: "Figure 1.5a"
     caption: "Egyptian and Mycenaean warriors, Egyptian, 18th Dynasty, ca. 1346–1332 BC. Painted papyrus, 10.3 × 10.5 cm. Found in the Chapel of the King’s Statue, Tell el-Amarna (Akhetaten). London, The British Museum, EA74100. (a) Papyrus. (b) Detail illustration."
-    alt text: "Painted papyrus fragment on black background showing multiple heads and bodies of warriors with black hair, wearing yellow caps and white sarongs."
     credit: "Papyrus © The Trustees of the British Museum. Illustration by Martin Hense"
+    alt: "Painted papyrus fragment on black background showing multiple heads and bodies of warriors with black hair, wearing yellow caps and white sarongs."
   - id: "fig-1-5-b"
     src: figures/fig-1-5-b.jpg
     label: "Figure 1.5b"
     caption: "Egyptian and Mycenaean warriors, Egyptian, 18th Dynasty, ca. 1346–1332 BC. Painted papyrus, 10.3 × 10.5 cm. Found in the Chapel of the King’s Statue, Tell el-‘Amarna (Akhetaten). London, British Museum, EA74100. (a) Papyrus. (b) Detail illustration."
-    alt text: "Digital reconstruction of painted papyrus fragment showing multiple heads and bodies of warriors with black hair, wearing yellow caps and white sarongs."
     credit: "Papyrus © The Trustees of the British Museum. Illustration by Martin Hense"
+    alt: "Digital reconstruction of painted papyrus fragment showing multiple heads and bodies of warriors with black hair, wearing yellow caps and white sarongs."
   - id: "fig-1-6"
     src: figures/fig-1-6.jpg
     label: "Figure 1.6"
     caption: "Schematic representation of contacts and the transfer of ideas and literary topoi."
-    alt text: "Map of the Mediterranean region with arrows connecting the objects that have been discussed to their respective locations"
     credit:
+    alt: "Map of the Mediterranean region with arrows connecting the objects that have been discussed to their respective locations."
   - id: "fig-2-1"
     src: figures/fig-2-1.jpg
     label: "Figure 2.1"
     caption: "Grave stela of Piabrm with Carian inscription, Caro-Egyptian, ca. 540–500 BC. Limestone, 63.5 × 31.3 × 10 cm. Found at Saqqara. London, British Museum, EA67235."
-    alt text: "Incised, round-topped limestone stela. A winged sun disc is shown at the rounded top. Top register shows male figure standing before a male and a female deity. In the middle, an Ibis-headed figure faces an offering table, bull, and female deity, with small Carian text above all figures. At bottom lies a deceased woman surrounded by female figures pulling at their hair in mourning."
     credit: "Image: © The Trustees of the British Museum"
+    alt: "Incised, round-topped limestone stela. A winged sun disc is shown at the rounded top. Top register shows male figure standing before a male and a female deity. In the middle, an Ibis-headed figure faces an offering table, bull, and female deity, with small Carian text above all figures. At bottom lies a deceased woman surrounded by female figures pulling at their hair in mourning."
   - id: "fig-2-2"
     src: figures/fig-2-2.jpg
     label: "Figure 2.2"
     caption: "Color reconstruction of Piabrm’s stela (London, British Museum, EA67235). Left: areas with substantial traces of identifiable color; right: hypothetical reconstruction using minor traces and comparative data."
-    alt text: "Color reconstruction of Piabrm’s stela rendered in bright pigments, including blue, red, green, yellow, brown, and white."
     credit: "Image: © The Trustees of the British Museum. Drawing: Kate Morton"
+    alt: "Color reconstruction of Piabrm’s stela rendered in bright pigments, including blue, red, green, yellow, brown, and white."
   - id: "fig-2-3"
     src: figures/fig-2-3.jpg
     label: "Figure 2.3"
     caption: "Fragments of a grave stela, Caro-Egyptian, ca. 540–500 BC. Limestone, 12 × 10.8 cm, 17.4 × 16.2 cm. Found at Saqqara. London, British Museum, EA67238, EA67239."
-    alt text: "Stela fragments depicting upper and lower halves of male figure with hands raised in adoration before an offering table and remains of a Carian inscription along the right border."
     credit: "Image: © The Trustees of the British Museum"
+    alt: "Stela fragments depicting upper and lower halves of male figure with hands raised in adoration before an offering table and remains of a Carian inscription along the right border."
   - id: "fig-2-4"
     src: figures/fig-2-4.jpg
     label: "Figure 2.4"
     caption: "Tomb group, early 4th century BC. Left to right: Offering tray. Terracotta, 2.1 × 5 × 6.4 cm; *Lekythos*. Terracotta, 7.4 × 4.9 cm; *Lekythos*. Terracotta, H: 5.4 cm; Lamp. Terracotta, L: 7.6 cm. Found in the cemetery of Naukratis. Boston, Museum of Fine Arts, RES.87.163, 11.46019, 2017.803, 88.819."
-    alt text: "From left to right: a yellowish-tan, unglazed clay oval offering tray with two handles, raised in center to form circular bowl; two single-handle reddish-orange *lekythos* jars with painted black, vegetal or geometric designs; and an undecorated, reddish-orange wheel-made lamp, with a steep inward-sloping rim, small central knob projecting upwards from the base, and a short rounded spout."
     credit: "Image: © 2022, Museum of Fine Arts, Boston"
+    alt: "From left to right: a yellowish-tan, unglazed clay oval offering tray with two handles, raised in center to form circular bowl; two single-handle reddish-orange *lekythos* jars with painted black, vegetal or geometric designs; and an undecorated, reddish-orange wheel-made lamp, with a steep inward-sloping rim, small central knob projecting upwards from the base, and a short rounded spout."
   - id: "fig-2-5"
     src: figures/fig-2-5.jpg
     label: "Figure 2.5"
     caption: "Red-figure acorn *lekythos*, Greek, Athenian, early 4th century BC. Terracotta, 22 × 7.5 cm. Found in the cemetery at Naukratis. London, British Museum, 1888,0601.716."
-    alt text: "Light reddish-orange vessel with a flat ring-shaped base, from which projects a narrowing cylinder made to resemble and upside-down acorn. The top of the vessel ends with a narrow-fluted mouth and small loop handle at the vessel's neck. Painted with a mythological scene in black slip."
     credit: "Image: © The Trustees of the British Museum"
+    alt: "Light reddish-orange vessel with a flat ring-shaped base, from which projects a narrowing cylinder made to resemble and upside-down acorn. The top of the vessel ends with a narrow-fluted mouth and small loop handle at the vessel's neck. Painted with a mythological scene in black slip."
   - id: "fig-2-6"
     src: figures/fig-2-6.jpg
     label: "Figure 2.6"
     caption: "Finger ring showing Eros playing with an *iunx*, Greek, 4th century BC. Gilded copper, Diam: 1.8 cm. Found in the cemetery at Naukratis. London, British Museum, 1888,0601.1."
-    alt text: "Frontal view of gold ring bezel depicting winged Eros crouching, playing an instrument. The bezel's edges show small chips, and minute tool marks or scratches are visible on the bezel's surface."
     credit: "Image: © The Trustees of the British Museum"
+    alt: "Frontal view of gold ring bezel depicting winged Eros crouching, playing an instrument. The bezel's edges show small chips, and minute tool marks or scratches are visible on the bezel's surface."
   - id: "fig-2-7"
     src: figures/fig-2-7.jpg
     label: "Figure 2.7"
     caption: "Figures of cats, Egyptian, early 3rd century BC. Marble and limestone, H: 4.5 to 30.5 cm. Probably from the Boubasteion at Naukratis. London, British Museum, 1905,0612.1–3, 4, 6, 7, 18."
-    alt text: "A group of four standing and two sitting light tan-colored stone cats. All but one are sculpted on one or two-tiered plinth bases. Several are depicted with objects ensnared in the mouth or paws."
     credit: "Image: © The Trustees of the British Museum"
+    alt: "A group of four standing and two sitting light tan-colored stone cats. All but one are sculpted on one or two-tiered plinth bases. Several are depicted with objects ensnared in the mouth or paws."
   - id: "fig-2-8"
     src: figures/fig-2-8.jpg
     label: "Figure 2.8"
     caption: "Statuette of a boy and goose, Ptolemaic, ca. 240 BC. Silver, H: 9.2 cm. Found at Alexandria. London, British Museum, 1845,0705.1."
-    alt text: "Silver object, with brownish patina, in the shape of a cross-legged boy, whose head turns to the side. The boy cradles the feet and back of a goose whose neck bends forward and up to nip at the boy's hair or ear."
     credit: "Image: © The Trustees of the British Museum"
+    alt: "Silver object, with brownish patina, in the shape of a cross-legged boy, whose head turns to the side. The boy cradles the feet and back of a goose whose neck bends forward and up to nip at the boy's hair or ear."
   - id: "fig-2-9"
     src: figures/fig-2-9.jpg
     label: "Figure 2.9"
     caption: "Wild goat–style *oinochoe* showing a sphinx strangling a goose, Milesian, ca. 600 BC (after Jacopi 1931, plate VI). From Kameiros, Rhodes."
-    alt text: "Colored pencil drawing of a painted terracotta vessel. The tripartite-fluted mouth of the vessel can be seen, from which a wide handle extends down behind the vessel."
     credit:
+    alt: "Colored pencil drawing of a painted terracotta vessel. The tripartite-fluted mouth of the vessel can be seen, from which a wide handle extends down behind the vessel."
   - id: "fig-2-10"
     src: figures/fig-2-10.jpg
     label: "Figure 2.10"
     caption: "Tomb painting, Egyptian, 18th Dynasty, ca. 1350 BC. Painted plaster, 98 × 115 × 22 cm. From the tomb of Nebamun, Thebes. London, British Museum, EA37977."
-    alt text: "Fragment of tomb painting featuring a large central male figure balanced on a canoe. A miniature female figure sits between the male’s legs and another female figure stands behind him. Assorted fish are visible underwater, and the landscape features a blue thrush of tall papyrus with red-brown accents and numerous types of birds in flight. Columns of hieroglyphs fill the top right quadrant."
     credit: "Image: © The Trustees of the British Museum"
+    alt: "Fragment of tomb painting featuring a large central male figure balanced on a canoe. A miniature female figure sits between the male’s legs and another female figure stands behind him. Assorted fish are visible underwater, and the landscape features a blue thrush of tall papyrus with red-brown accents and numerous types of birds in flight. Columns of hieroglyphs fill the top right quadrant."
   - id: "fig-3-1"
     src: figures/fig-3-1.jpg
     label: "Figure 3.1"
     caption: "Statuette of Isis with Horus on her lap, Egyptian, Third Intermediate Period, ca. 1069–664 BC. Faience, 14.3 × 4 cm. Eton College, Myers Collection, ECM.1717-2010."
-    alt text: "Three-quarter profile view of turquoise-green-colored statuette. The goddess Isis sits on a carved throne with long straight hair and a large, stepped headdress. She holds one breast, while the god Horus as a child sits sideways on her lap, facing the viewer."
     credit: "Image: Reproduced by permission of the Provost and Fellows of Eton College"
+    alt: "Three-quarter profile view of turquoise-green-colored statuette. The goddess Isis sits on a carved throne with long straight hair and a large, stepped headdress. She holds one breast, while the god Horus as a child sits sideways on her lap, facing the viewer."
   - id: "fig-3-2"
     src: figures/fig-3-2.jpg
     label: "Figure 3.2"
     caption: "Amulet with the triad Isis-Harpokrates-Nephthys, Egyptian, Third Intermediate Period, ca. 1069–664 BC. Faience, 2.2 × 1.5 cm. Eton College, Myers Collection, ECM.1558-2010."
-    alt text: "Frontal view of turquoise-blue-colored object. Three nude female goddesses stand upright on a plinth with clasped hands and their backs against a solid wall. They all wear different headdresses."
     credit: "Image: Reproduced by permission of the Provost and Fellows of Eton College"
+    alt: "Frontal view of turquoise-blue-colored object. Three nude female goddesses stand upright on a plinth with clasped hands and their backs against a solid wall. They all wear different headdresses."
   - id: "fig-3-3"
     src: figures/fig-3-3.jpg
     label: "Figure 3.3"
     caption: "Ostracon with the representation of a typical shaft tomb in profile showing funerary rites in the burial chamber as well as at the mouth of the tomb shaft, Egyptian, ca. 1450 BC. Limestone, H: 16 cm. From Thebes. Manchester Museum, University of Manchester, 5886."
-    alt text: "Fragmentary tan-colored piece of stone with a black ink sketch on its surface depicting various figures, a tomb shaft, and burial rites inside the tomb."
     credit: "Image: Reproduced with permission"
+    alt: "Fragmentary tan-colored piece of stone with a black ink sketch on its surface depicting various figures, a tomb shaft, and burial rites inside the tomb."
   - id: "fig-3-4"
     src: figures/fig-3-4.jpg
     label: "Figure 3.4"
     caption: "Bust of Isis wearing a horned lunar headdress with side plumes, Romano-Egyptian, ca. 1st century BC–1st century AD. Bronze, 9.3 × 5.8 × 2.3 cm. Sydney, Macquarie University History Museum, MU4488. A 3D scan of this object is available for viewing at [https://objectbasedlearning.com/Macquarie-University-History-Museum/MU4488.html](https://objectbasedlearning.com/Macquarie-University-History-Museum/MU4488.html)."
-    alt text: "Patinaed bonze metal bust of the female goddess Isis. Her face is shown smiling, and she wears her hair in shoulder-length locks. A cloak or garment of some sort crosses her right shoulder and falls between her bare breasts."
     credit:
+    alt: "Patinaed bonze metal bust of the female goddess Isis. Her face is shown smiling, and she wears her hair in shoulder-length locks. A cloak or garment of some sort crosses her right shoulder and falls between her bare breasts."
   - id: "fig-3-5"
     src: figures/fig-3-5.jpg
     label: "Figure 3.5"
     caption: "Sanctuary of Isis on the island of Delos (Serapeion C). The statue of Isis found in the cella was donated by the population of Athens in 128/127 BC."
-    alt text: "Color photograph of archaeological ruins. Several half-broken columns stand on plinths, while many more fragments are scattered on the ground among brownish-red brush. The front façade of a temple remains standing in the upper right, blue sky showing through its four-columned entrance."
     credit:
+    alt: "Color photograph of archaeological ruins. Several half-broken columns stand on plinths, while many more fragments are scattered on the ground among brownish-red brush. The front façade of a temple remains standing in the upper right, blue sky showing through its four-columned entrance."
   - id: "fig-4-1"
     src: figures/fig-4-1.jpg
     label: "Figure 4.1"
     caption: "Pylon tower, excavated by the HIAMAS underwater mission at Alexandria in 2003. Image: © Hellenic Institute of Ancient and Medieval Alexandrian Studies, Athens."
-    alt text: "Carefully rendered black and white line drawing of the pylon, rectangular-pyramidal in form with truncated top. The drawing shows a scale alongside a top view, and thre views of the front and two narrow sides."
     credit: "Drawing: Silvana Gargiulo"
+    alt: "Carefully rendered black and white line drawing of the pylon, rectangular-pyramidal in form with truncated top. The drawing shows a scale alongside a top view, and thre views of the front and two narrow sides."
   - id: "fig-4-2"
     src: figures/fig-4-2.jpg
     label: "Figure 4.2"
     caption: "Axonometric view of the pylon tower excavated by the HIAMAS underwater mission at Alexandria in 2003. Image: © Hellenic Institute of Ancient and Medieval Alexandrian Studies, Athens."
-    alt text: "Line drawing of the pylong in three-quarter profile view. On the front surface, two long and narrow recesses are visible, each topped by two vertically parallel smaller square recesses."
     credit: "Drawing: Silvana Gargiulo"
+    alt: "Line drawing of the pylong in three-quarter profile view. On the front surface, two long and narrow recesses are visible, each topped by two vertically parallel smaller square recesses."
   - id: "fig-4-3"
     src: figures/fig-4-3.jpg
     label: "Figure 4.3"
     caption: "Frontal view of the diminutive pylon tower, exhibited in the Open-Air Museum in Kom el-Dikka, Alexandria, since 2009."
-    alt text: "Color photograph of reddish-pink stone pylon. The pylon takes up most of the foreground, and several modern buildings are seen far in the distance under blue sky."
     credit:
+    alt: "Color photograph of reddish-pink stone pylon. The pylon takes up most of the foreground, and several modern buildings are seen far in the distance under blue sky."
   - id: "fig-4-4"
     src: figures/fig-4-4.jpg
     label: "Figure 4.4"
     caption: "Lateral view of the diminutive pylon tower, Kom el-Dikka."
-    alt text: "Color photograph of reddish-pink stone pylon. The lateral view reveals the pylon's setting on a long, packed dirt street with several small moern buildings lining either side."
     credit:
+    alt: "Color photograph of reddish-pink stone pylon. The lateral view reveals the pylon's setting on a long, packed dirt street with several small moern buildings lining either side."
   - id: "fig-4-5"
     src: figures/fig-4-5.jpg
     label: "Figure 4.5"
     caption: "Sketch of the monolithic flight of steps as found on the seabed."
-    alt text: "Black and white sketch of a set of five steps."
     credit: "Image: © Hellenic Institute of Ancient and Medieval Alexandrian Studies, Athens. Drawing: Silvana Gargiulo"
+    alt: "Black and white sketch of a set of five steps."
   - id: "fig-4-6"
     src: figures/fig-4-6.jpg
     label: "Figure 4.6"
     caption: "Hypothetical reconstruction of the Isis temple on Acra Lochias, Alexandria."
-    alt text: "Black and white line drawing of a hypothetical ancient temple. Four flags fly above the entrance, the main doorway depicts an engraved winged sun disc at top, and a lone female figure stands before the steps."
     credit: "Image: © Hellenic Institute of Ancient and Medieval Alexandrian Studies, Athens. Drawing: Yiannis Nakas, after a proposal by Harry Tzalas before the excavation of the flight of steps (see fig. 4.5)"
+    alt: "Black and white line drawing of a hypothetical ancient temple. Four flags fly above the entrance, the main doorway depicts an engraved winged sun disc at top, and a lone female figure stands before the steps."
   - id: "fig-4-7"
     src: figures/fig-4-7.jpg
     label: "Figure 4.7"
     caption: "Karnak, pylon gate on the eastern side of the courtyard between the seventh and eighth pylons, opening to the barque shrine of Thutmose III at the sacred lake."
-    alt text: "Color photograph of pinkish-red stone blocks forming monumental walls and open gate."
     credit: "Image: René Preys with agreement of CFEETK (French-Egyptian Centre for the Study of Karnak Temples)"
+    alt: "Color photograph of pinkish-red stone blocks forming monumental walls and open gate."
   - id: "fig-4-8"
     src: figures/fig-4-8.jpg
     label: "Figure 4.8"
     caption: "Karnak, external side of pylon gate on the eastern side of the courtyard between the seventh and eighth pylons, opening to the barque shrine of Thutmose III at the sacred lake."
-    alt text: "Color photograph of large stone blocks forming monumental walls, floors, and open gate."
     credit: "Image: Martina Minas-Nerpel with agreement of CFEETK (French-Egyptian Centre for the Study of Karnak Temples)"
+    alt: "Color photograph of large stone blocks forming monumental walls, floors, and open gate."
   - id: "fig-4-9"
     src: figures/fig-4-9.jpg
     label: "Figure 4.9"
     caption: "The altar at Tôd."
-    alt text: "Color photograph of large stone blocks forming a pylon, covered with inscribed hieroglyphs."
     credit: "Image: Christophe Thiers"
+    alt: "Color photograph of large stone blocks forming a pylon, covered with inscribed hieroglyphs."
   - id: "fig-4-10"
     src: figures/fig-4-10.jpg
     label: "Figure 4.10"
     caption: "Pyramid and pylon of tomb Beg. N19 of King Tarekeniwal (second century BC) at the royal pyramid cemetery of Begrawiya North (Meroe/Sudan)."
-    alt text: "Color photograph of two brown-stone pylons, made of stepped blocks, with a larger triangular stone block pyramid rising above. The two pylons have traces of engraved figures flanking the entrance with upraised weapons."
     credit:  "Image: Pawel Wolf, © DAI/QMPS"
+    alt: "Color photograph of two brown-stone pylons, made of stepped blocks, with a larger triangular stone block pyramid rising above. The two pylons have traces of engraved figures flanking the entrance with upraised weapons."
   - id: "fig-5-1"
     src: figures/fig-5-1.jpg
     label: "Figure 5.1"
     caption: "Plan of the Kellis main temple with its mammisi."
-    alt text: "Black and white drawing of a temple's architectural plan viewed from above. The mammisi is labeled in the bottom left along with various other rooms including the 'west court', 'main temple', and 'shrine IV'."
     credit:  "Adapted from a drawing by Jarosław Dobrowolski (1996)"
+    alt: "Black and white drawing of a temple's architectural plan viewed from above. The mammisi is labeled in the bottom left along with various other rooms including the 'west court', 'main temple', and 'shrine IV'."
   - id: "fig-5-2"
     src: figures/fig-5-2.jpg
     label: "Figure 5.2"
     caption: "View of the rear wall of the mammisi after excavation."
-    alt text: "Color photograph of mudbrick ruins. Three half walls of a room remain standing with fragmentary plaster decoration in green, red, yellow, and white."
     credit:
+    alt: "Color photograph of mudbrick ruins. Three half walls of a room remain standing with fragmentary plaster decoration in green, red, yellow, and white."
   - id: "fig-5-3"
     src: figures/fig-5-3.jpg
     label: "Figure 5.3"
     caption: "Reconstruction of the northwestern corner of the mammisi, showing the niche in the rear wall and the Seven Hathors in the upper register of the vault."
-    alt text: "Color digital reconstruction of the mammisi interior with green, red, yellow, white, and blue painted plaster."
     credit: "Drawing: Martin Hense"
+    alt: "Color digital reconstruction of the mammisi interior with green, red, yellow, white, and blue painted plaster."
   - id: "fig-5-4"
     src: figures/fig-5-4.jpg
     label: "Figure 5.4"
     caption: "Painted apron from the aedicula niche in the back wall of the mammisi."
-    alt text: "Color photograph of plaster apron fragment. The white, green, and yellow painted decoration remains in fragments."
     credit: "Restoration: Edwige Brida"
+    alt: "Color photograph of plaster apron fragment. The white, green, and yellow painted decoration remains in fragments."
   - id: "fig-5-5"
     src: figures/fig-5-5.jpg
     label: "Figure 5.5"
     caption: "Reconstruction of the entire central pattern of the vaulted ceiling (colors not calibrated)."
-    alt text: "Color digital reconstruction of vaulted ceiling decoration. The central figure of Isis-Demeter wears a green robe and white headdress. A small nude child figure appears by her head."
     credit: "Drawing: Martin Hense"
+    alt: "Color digital reconstruction of vaulted ceiling decoration. The central figure of Isis-Demeter wears a green robe and white headdress. A small nude child figure appears by her head."
   - id: "fig-5-6"
     src: figures/fig-5-6.jpg
     label: "Figure 5.6"
     caption: "Ceiling pattern from the northern half of the shrine with a goddess supporting the sky. Restoration set on a background of sand, in preparation for a final layer of plaster."
-    alt text: "Color photograph of painted plaster fragment from vaulted ceiling."
     credit: "Restoration: Laurence Blondaux"
+    alt: "Color photograph of painted plaster fragment from vaulted ceiling."
   - id: "fig-5-7"
     src: figures/fig-5-7.jpg
     label: "Figure 5.7"
     caption: "The Seven Hathors, preceded by a figure of the goddess Meret, and facing a seated Tapsais followed by Neith. Restoration set upon a background of sand, in preparation for a final layer of plaster."
-    alt text: "Fragmentary plaster remains from the mammisi ceiling. Standing goddesses before offering plinths wear elaborate, colorful garments on a white background."
     credit: "Restoration: Laurence Blondaux; Image: © Fotografie Christien Boeles"
+    alt: "Fragmentary plaster remains from the mammisi ceiling. Standing goddesses before offering plinths wear elaborate, colorful garments on a white background."
   - id: "fig-5-8"
     src: figures/fig-5-8.jpg
     label: "Figure 5.8"
     caption: "Detail of the first four of the Seven Hathors."
-    alt text: "Fragmentary plaster remains from the mammisi ceiling. The intricate garments of the goddesses are marked by geometric designs in gold, red, green, and blue paint."
     credit: "Image: © Fotografie Christien Boeles"
+    alt: "Fragmentary plaster remains from the mammisi ceiling. The intricate garments of the goddesses are marked by geometric designs in gold, red, green, and blue paint."
   - id: "fig-5-9"
     src: figures/fig-5-9.jpg
     label: "Figure 5.9"
     caption: "The first five priests on the southern wall. Their feet as well as the shrine on the right end have been copied from the part of the painting still on the wall. Restoration: Laurence Blondaux."
-    alt text: "Drawn, color reconstruction of fragmentary plaster remains from the mammisi. Six figures in white garments walk toward a truncated pyramid-shaped shrine."
     credit: "Image: © Fotografie Christien Boeles"
+    alt: "Drawn, color reconstruction of fragmentary plaster remains from the mammisi. Six figures in white garments walk toward a truncated pyramid-shaped shrine."
   - id: "fig-6-1"
     src: figures/fig-6-1.jpg
     label: "Figure 6.1"
     caption: "Plan of the villa of Herodes Atticus."
-    alt text: "Black and white architectural drawing of a villa, shown from above. Letters are used to mark different rooms of the villa with a corresponding key in the right bottom corner."
     credit: "Drawing: Anna Pantelakaki (from a plan provided by G. Spyropoulos)"
+    alt: "Black and white architectural drawing of a villa, shown from above. Letters are used to mark different rooms of the villa with a corresponding key in the right bottom corner."
   - id: "fig-6-2"
     src: figures/fig-6-2.jpg
     label: "Figure 6.2"
     caption: "View of the atrium of the villa of Herodes Atticus and the artificial pool from the southwest."
-    alt text: "Color photograph of architectural ruins. Low broken stone walls line large open spaces."
     credit:
+    alt: "Color photograph of architectural ruins. Low broken stone walls line large open spaces."
   - id: "fig-6-3"
     src: figures/fig-6-3.jpg
     label: "Figure 6.3"
     caption: "View of the southern stoa with mosaics and the artificial pool from the southwest."
-    alt text: "Color photograph of architectural ruins. Low broken stone walls line large open spaces, and square mosaic sections with figural images line a long gravel path."
     credit:
+    alt: "Color photograph of architectural ruins. Low broken stone walls line large open spaces, and square mosaic sections with figural images line a long gravel path."
   - id: "fig-6-4"
     src: figures/fig-6-4.jpg
     label: "Figure 6.4"
     caption: "Bust of Emperor Hadrian. The usual image of the mythical gorgon Medusa decorating the emperor’s breastplate has been replaced by a portrait of Antinous. The bust was found on the western side of the river, close to the exedra on which it stood, along with many other portraits."
-    alt text: "Reddish-pink stone bust of a middle-aged man. His hair is thick and curly, and he has a mustache and beard. The left shoulder is completely broken away."
     credit:
+    alt: "Reddish-pink stone bust of a middle-aged man. His hair is thick and curly, and he has a mustache and beard. The left shoulder is completely broken away."
   - id: "fig-6-5"
     src: figures/fig-6-5.jpg
     label: "Figure 6.5"
     caption: "Bust of Artemis Ephesia. This bust represents a copy of the cult statue of Artemis, known mainly from coins. On her head she wears a *polos* decorated with rosettes, sphinxes, and deer, one of her companion animals. From the sides of the *polos* emerges a disc decorated with a star on the proper right side. The upper part of her breastplate is decorated with a necklace, from which acorns hang. The lower part of her breast supports, up to its point of preservation, two rows of breasts as a fertility symbol or, as other scholars have suggested, gourds, also a fertility symbol."
-    alt text: "Reddish-pink stone bust of a female deity."
     credit:
+    alt: "Reddish-pink stone bust of a female deity."
   - id: "fig-6-6"
     src: figures/fig-6-6.jpg
     label: "Figure 6.6"
     caption: "The Temple-Sanctuary of Antinous-Dionysos, view from the west."
-    alt text: "Color photograph of architectural ruins. Low broken stone walls line variously-sized rectangular rooms."
     credit:
+    alt: "Color photograph of architectural ruins. Low broken stone walls line variously-sized rectangular rooms."
   - id: "fig-6-7"
     src: figures/fig-6-7.jpg
     label: "Figure 6.7"
     caption: "Statue of Antinous-Dionysos. The statue, which originally stood on a podium in the apse of the building, was removed when the sanctuary was transformed into a mausoleum and placed on a pedestal on the northwest corner of the building, where it was found. Antinous was worshipped here as Dionysos, as also verified by the inscriptions (ΘΕΩ ΔΙΟΝΥΣΩ) found in situ."
-    alt text: "Fragmentary stone statue of a beardless, young man. The right arm and full lower half are broken away; the left arm is raised and bent, with the index finger hooked toward the figure's curly hair."
     credit:
+    alt: "Fragmentary stone statue of a beardless, young man. The right arm and full lower half are broken away; the left arm is raised and bent, with the index finger hooked toward the figure's curly hair."
   - id: "fig-6-8"
     src: figures/fig-6-8.jpg
     label: "Figure 6.8"
     caption: "Statue of a river god, found in the Serapeion of the villa."
-    alt text: "Stone statue of a reclining, bearded, curly-haired deity. His muscled chest and abdomen are bare, and a draped cloak envelops his lower half and supporting arm."
     credit:
+    alt: "Stone statue of a reclining, bearded, curly-haired deity. His muscled chest and abdomen are bare, and a draped cloak envelops his lower half and supporting arm."
   - id: "fig-6-9"
     src: figures/fig-6-9.jpg
     label: "Figure 6.9"
     caption: "Head of a statue of a river god, probably a personification of the Nile River, found in the Serapeion of the villa."
-    alt text: "Color photograph of red-stone head of a male figure. The hair is thick and curly, and the figure has a full beard and mustache. The fragment sits on green grass."
     credit:
+    alt: "Color photograph of red-stone head of a male figure. The hair is thick and curly, and the figure has a full beard and mustache. The fragment sits on green grass."
   - id: "fig-6-10"
     src: figures/fig-6-10.jpg
     label: "Figure 6.10"
     caption: "Fragmentary statue of Osiris, found in the Serapeion of the villa."
-    alt text: "Light-tan stone bust of male head. The figure has not facial hair and wears an Egyptian-style head covering the falls smoothly down behind the shoulders."
     credit:
+    alt: "Light-tan stone bust of male head. The figure has not facial hair and wears an Egyptian-style head covering the falls smoothly down behind the shoulders."
   - id: "fig-7-1"
     src: figures/fig-7-1.jpg
     label: "Figure 7.1"
     caption: "Borgia obelisk, the two upper fragments. 1st century AD. Granite, H: 0.63 and 0.47 m. Museo Archeologico Nazionale di Palestrina, inv. 80548; E 19."
-    alt text: "Two fragments of a reddish-brown rectangular stone obelisk. Engraved hieroglyphs are visible on multiple sides of the fragments."
     credit: "Photograph courtesy of the Museo Archeologico Nazionale di Palestrina"
+    alt: "Two fragments of a reddish-brown rectangular stone obelisk. Engraved hieroglyphs are visible on multiple sides of the fragments."
   - id: "fig-7-2"
     src: figures/fig-7-2.jpg
     label: "Figure 7.2"
     caption: "Borgia obelisk, the lower section. 1st century AD. Granite, H: 1.9 m. Museo Archeologico Nazionale di Napoli, inv. 2317."
-    alt text: "Reconstructed fragments of a reddish-brown rectangular stone obelisk. Engraved hieroglyphs are visible on multiple sides of the obelisk."
     credit: "Photograph courtesy of the Museo Archeologico Nazionale di Napoli"
+    alt: "Reconstructed fragments of a reddish-brown rectangular stone obelisk. Engraved hieroglyphs are visible on multiple sides of the obelisk."
   - id: "fig-7-3"
     src: figures/fig-7-3.jpg
     label: "Figure 7.3"
     caption: "Borgia obelisk, facsimile of the inscriptions (after Bove 2008, 89)."
-    alt text: "Black and white schematic line drawing of the remaining fragments of an obelisk. Views of all four sides with the tentatively placed fragments are shown."
     credit:
+    alt: "Black and white schematic line drawing of the remaining fragments of an obelisk. Views of all four sides with the tentatively placed fragments are shown."
   - id: "fig-7-4"
     src: figures/fig-7-4.jpg
     label: "Figure 7.4"
     caption: "Borgia obelisk, standardized copy of the hieroglyphic inscriptions (prepared with JSesh hieroglyphic editor)."
-    alt text: "Black and white computerized rendering of Egyptian hieroglyphs, taken from the stone obelisk."
     credit:
+    alt: "Black and white computerized rendering of Egyptian hieroglyphs, taken from the stone obelisk."
   - id: "fig-7-5"
     src: figures/fig-7-5.jpg
     label: "Figure 7.5"
     caption: "Albani obelisk. 1st century AD. Granite, H of ancient section: 3.2 m; H as restored: 5.5 m. Munich, Staatliches Museum Ägyptischer Kunst, inv. Gl. WAF 39."
-    alt text: "Fully reconstructed, three-quarter profile view of a tall stone obelisk, with Egyptian hieroglyphs."
     credit: "Photograph courtesy of Staatliches Museum Ägyptischer Kunst"
+    alt: "Fully reconstructed, three-quarter profile view of a tall stone obelisk, with Egyptian hieroglyphs."
   - id: "fig-7-6"
     src: figures/fig-7-6.jpg
     label: "Figure 7.6"
     caption: "Albani obelisk, facsimile of the inscriptions (after Müller 1975, 16)."
-    alt text: "Black and white schematic line drawing of the four sides of the obelisk, with Egyptian hieroglyphs."
     credit:
+    alt: "Black and white schematic line drawing of the four sides of the obelisk, with Egyptian hieroglyphs."
   - id: "fig-7-7"
     src: figures/fig-7-7.jpg
     label: "Figure 7.7"
     caption: "Albani obelisk, standardized copy of the hieroglyphic inscriptions (prepared with JSesh hieroglyphic editor)."
-    alt text: "Black and white computerized rendering of Egyptian hieroglyphs, taken from the stone obelisk."
     credit:
+    alt: "Black and white computerized rendering of Egyptian hieroglyphs, taken from the stone obelisk."
   - id: "fig-7-8"
     src: figures/fig-7-8.jpg
     label: "Figure 7.8"
     caption: "Benevento obelisk A, view from the southeast. AD 88/89. Granite, H: 5.39 m. Benevento, Piazza Papiniano."
-    alt text: "Color photograph of stone obelisk in a modern city. Yellow plaster and stone buildings appear behind the obelisk, and a person stands looking up at the obelisk."
     credit: "Photograph by Luigi Prada (29 July 2020)"
+    alt: "Color photograph of stone obelisk in a modern city. Yellow plaster and stone buildings appear behind the obelisk, and a person stands looking up at the obelisk."
   - id: "fig-7-9"
     src: figures/fig-7-9.jpg
     label: "Figure 7.9"
     caption: "Benevento obelisk B, following conservation in 2017–18. AD 88/89. Granite, H of ancient section: 3.5 m; H as restored: 5.2 m. Benevento, Museo del Sannio, inv. 1916."
-    alt text: "Color photogrpah of stone obelisk inside of a modern museum."
     credit: "Photograph by Paul D. Wordsworth (29 July 2020)"
+    alt: "Color photogrpah of stone obelisk inside of a modern museum."
   - id: "fig-7-10"
     src: figures/fig-7-10.jpg
     label: "Figure 7.10"
     caption: "Benevento obelisk A, side 1 (orthophotograph)."
-    alt text: "Color photograph of tall stone obelisk. The top narrows slightly to a point, and Egyptian hieroglyphs are visible on the surface."
     credit: "Photograph and imaging by Paul D. Wordsworth (2020)"
+    alt: "Color photograph of tall stone obelisk. The top narrows slightly to a point, and Egyptian hieroglyphs are visible on the surface."
   - id: "fig-7-11"
     src: figures/fig-7-11.jpg
     label: "Figure 7.11"
     caption: "Benevento obelisk B, side 1 (photograph, prior to conservation)."
-    alt text: "Color photograph of bottom half of a stone obelisk. Egyptian hieroglyphs are visible on the surface."
-    credit: Photograph courtesy of the J. Paul Getty Museum, Los Angeles (2017)
+    credit: "Photograph courtesy of the J. Paul Getty Museum, Los Angeles (2017)"
+    alt: "Color photograph of bottom half of a stone obelisk. Egyptian hieroglyphs are visible on the surface."
   - id: "fig-7-12"
     src: figures/fig-7-12.jpg
     label: "Figure 7.12"
     caption: "Benevento obelisks, facsimile of inscriptions A/1 and B/1 (edited and improved version of Erman 1896, plate viii)."
-    alt text: "Black and white schematic line drawing of two sides of the same obelisk, with Egyptian hieroglyphs."
     credit:
+    alt: "Black and white schematic line drawing of two sides of the same obelisk, with Egyptian hieroglyphs."
   - id: "fig-7-13"
     src: figures/fig-7-13.jpg
     label: "Figure 7.13"
     caption: "Benevento obelisks, synoptic standardized copy of the hieroglyphic inscriptions A/1 and B/1 (prepared with JSesh hieroglyphic editor)."
-    alt text: "Black and white computerized rendering of Egyptian hieroglyphs, taken from the stone obelisk."
     credit:
+    alt: "Black and white computerized rendering of Egyptian hieroglyphs, taken from the stone obelisk."
   - id: "fig-7-14"
     src: figures/fig-7-14.jpg
     label: "Figure 7.14"
     caption: "Benevento obelisk A, side 2 (orthophotograph)."
-    alt text: "Color photograph of tall stone obelisk. The top narrows sllightly to a point, and Egyptian hieroglyphs are visible on the surface."
     credit: "Photograph and imaging by Paul D. Wordsworth (2020)"
+    alt: "Color photograph of tall stone obelisk. The top narrows sllightly to a point, and Egyptian hieroglyphs are visible on the surface."
   - id: "fig-7-15"
     src: figures/fig-7-15.jpg
     label: "Figure 7.15"
     caption: "Benevento obelisk B, side 2 (photograph, prior to conservation)."
-    alt text: "Color photograph of bottom half of a stone obelisk. Egyptian hieroglyphs are visible on the surface."
-    credit: Photograph courtesy of the J. Paul Getty Museum, Los Angeles (2017)
+    credit: "Photograph courtesy of the J. Paul Getty Museum, Los Angeles (2017)"
+    alt: "Color photograph of bottom half of a stone obelisk. Egyptian hieroglyphs are visible on the surface."
   - id: "fig-7-16"
     src: figures/fig-7-16.jpg
     label: "Figure 7.16"
     caption: "Benevento obelisks, facsimile of inscriptions A/2 and B/2 (edited and improved version of Erman 1896, plate viii)."
-    alt text: "Black and white schematic line drawing of two sides of the same obelisk, with Egyptian hieroglyphs."
     credit:
+    alt: "Black and white schematic line drawing of two sides of the same obelisk, with Egyptian hieroglyphs."
   - id: "fig-7-17"
     src: figures/fig-7-17.jpg
     label: "Figure 7.17"
     caption: "Benevento obelisks, synoptic standardized copy of the hieroglyphic inscriptions A/2 and B/2 (prepared with JSesh hieroglyphic editor)."
-    alt text: "Black and white computerized rendering of Egyptian hieroglyphs, taken from the stone obelisk."
     credit:
+    alt: "Black and white computerized rendering of Egyptian hieroglyphs, taken from the stone obelisk."
   - id: "fig-7-18"
     src: figures/fig-7-18.jpg
     label: "Figure 7.18"
     caption: "Benevento obelisk A, side 3 (orthophotograph)."
-    alt text: "Color photograph of tall stone obelisk. The top narrows slightly to a point, and Egyptian hieroglyphs are visible on the surface."
     credit: "Photograph and imaging by Paul D. Wordsworth (2020)"
+    alt: "Color photograph of tall stone obelisk. The top narrows slightly to a point, and Egyptian hieroglyphs are visible on the surface."
   - id: "fig-7-19"
     src: figures/fig-7-19.jpg
     label: "Figure 7.19"
     caption: "Benevento obelisk B, side 3 (photograph, prior to conservation)."
-    alt text: "Color photograph of bottom half of a stone obelisk. Egyptian hieroglyphs are visible on the surface."
-    credit: Photograph courtesy of the J. Paul Getty Museum, Los Angeles (2017)
+    credit: "Photograph courtesy of the J. Paul Getty Museum, Los Angeles (2017)"
+    alt: "Color photograph of bottom half of a stone obelisk. Egyptian hieroglyphs are visible on the surface."
   - id: "fig-7-20"
     src: figures/fig-7-20.jpg
     label: "Figure 7.20"
     caption: "Benevento obelisks, facsimile of inscriptions A/3 and B/3 (edited and improved version of Erman 1896, plate viii)."
-    alt text: "Black and white schematic line drawing of two sides of the same obelisk, with Egyptian hieroglyphs."
     credit:
+    alt: "Black and white schematic line drawing of two sides of the same obelisk, with Egyptian hieroglyphs."
   - id: "fig-7-21"
     src: figures/fig-7-21.jpg
     label: "Figure 7.21"
     caption: "Benevento obelisks, synoptic standardized copy of the hieroglyphic inscriptions A/3 and B/3 (prepared with JSesh hieroglyphic editor)."
-    alt text: "Black and white computerized rendering of Egyptian hieroglyphs, taken from the stone obelisk."
     credit:
+    alt: "Black and white computerized rendering of Egyptian hieroglyphs, taken from the stone obelisk."
   - id: "fig-7-22"
     src: figures/fig-7-22.jpg
     label: "Figure 7.22"
     caption: "Benevento obelisk A, side 4 (orthophotograph)."
-    alt text: "Color photograph of tall stone obelisk. The top narrows slightly to a point, and Egyptian hieroglyphs are visible on the surface."
     credit: "Photograph and imaging by Paul D. Wordsworth (2020)"
+    alt: "Color photograph of tall stone obelisk. The top narrows slightly to a point, and Egyptian hieroglyphs are visible on the surface."
   - id: "fig-7-23"
     src: figures/fig-7-23.jpg
     label: "Figure 7.23"
     caption: "Benevento obelisk B, side 4 (photograph, prior to conservation)."
-    alt text: "Color photograph of bottom half of a stone obelisk. Egyptian hieroglyphs are visible on the surface."
-    credit: Photograph courtesy of the J. Paul Getty Museum, Los Angeles (2017)
+    credit: "Photograph courtesy of the J. Paul Getty Museum, Los Angeles (2017)"
+    alt: "Color photograph of bottom half of a stone obelisk. Egyptian hieroglyphs are visible on the surface."
   - id: "fig-7-24"
     src: figures/fig-7-24.jpg
     label: "Figure 7.24"
     caption: "Benevento obelisks, facsimile of inscriptions A/4 and B/4 (edited and improved version of Erman 1896, plate viii)."
-    alt text: "Black and white schematic line drawing of two sides of the same obelisk, with Egyptian hieroglyphs."
     credit:
+    alt: "Black and white schematic line drawing of two sides of the same obelisk, with Egyptian hieroglyphs."
   - id: "fig-7-25"
     src: figures/fig-7-25.jpg
     label: "Figure 7.25"
     caption: "Benevento obelisks, synoptic standardized copy of the hieroglyphic inscriptions A/4 and B/4 (prepared with JSesh hieroglyphic editor)."
-    alt text: "Black and white computerized rendering of Egyptian hieroglyphs, taken from the stone obelisk."
     credit:
+    alt: "Black and white computerized rendering of Egyptian hieroglyphs, taken from the stone obelisk."
   - id: "fig-7-26"
     src: figures/fig-7-26.jpg
     label: "Figure 7.26"
     caption: "Benevento obelisk A, combined orthophotographs of all sides."
-    alt text: "Color photograph of all four sides of a single stone obelisk. Egyptian hieroglyphs are visible on all four surfaces."
     credit: "Photograph and imaging by Paul D. Wordsworth (2020)"
+    alt: "Color photograph of all four sides of a single stone obelisk. Egyptian hieroglyphs are visible on all four surfaces."
   - id: "fig-7-27"
     src: figures/fig-7-27.jpg
     label: "Figure 7.27"
     caption: "Benevento obelisk B, combined photographs of all sides (prior to conservation)."
-    alt text: "Color photograph of all four sides of a single, broken stone obelisk. Only the bottom half remains. Egyptian hieroglyphsa re visible on all four surfaces."
-    credit: Photographs courtesy of the J. Paul Getty Museum, Los Angeles (2017)
+    credit: "Photographs courtesy of the J. Paul Getty Museum, Los Angeles (2017)"
+    alt: "Color photograph of all four sides of a single, broken stone obelisk. Only the bottom half remains. Egyptian hieroglyphsa re visible on all four surfaces."
   - id: "fig-7-28"
     src: figures/fig-7-28.jpg
     label: "Figure 7.28"
     caption: "The first published copy of the Benevento obelisk(s), by Georg Zoëga, as a single monument recomposed from a number of fragments pertaining to both obelisks A and B (from Zoega 1797, 644)."
-    alt text: "Black and white archival print of all four sides of a single stone obelisk. Egyptian hieroglyphs are visible on all four surfaces."
     credit:
+    alt: "Black and white archival print of all four sides of a single stone obelisk. Egyptian hieroglyphs are visible on all four surfaces."
   - id: "fig-7-29"
     src: figures/fig-7-29.jpg
     label: "Figure 7.29"
     caption: "Copy of the Benevento obelisks by Luigi Ungarelli, based on original work by Jean-François Champollion, prior to the rediscovery of the top fragment of obelisk A (from Ungarellius 1842, 2: plate v)."
-    alt text: "Black and white line drawing of two complete obelisks, both with all four sides shown. Egyptian hieroglyphs are visible on all obelisk surfaces."
     credit:
+    alt: "Black and white line drawing of two complete obelisks, both with all four sides shown. Egyptian hieroglyphs are visible on all obelisk surfaces."
   - id: "fig-7-30"
     src: figures/fig-7-30.jpg
     label: "Figure 7.30"
     caption: "Facsimile of Benevento obelisk A by Adolf Erman (from Erman 1896, plate viii). The curly brackets have been edited in, to mark differences between Erman’s facsimile and mine."
-    alt text: "Black and white line drawing of all four sides of a single obelisk. Egyptian hieroglyphs are visible on all four surfaces."
     credit:
+    alt: "Black and white line drawing of all four sides of a single obelisk. Egyptian hieroglyphs are visible on all four surfaces."
   - id: "fig-7-31"
     src: figures/fig-7-31.jpg
     label: "Figure 7.31"
     caption: "Facsimile of Benevento obelisk B by Adolf Erman (from Erman 1896, plate viii). The curly brackets have been edited in, to mark differences between Erman’s facsimile and mine."
-    alt text: "Black and white line drawing of all four sides of a single, broken obelisk. Only the bottom half remains. Egyptian hieroglyphs are visible on all four surfaces."
     credit:
+    alt: "Black and white line drawing of all four sides of a single, broken obelisk. Only the bottom half remains. Egyptian hieroglyphs are visible on all four surfaces."
   - id: "fig-7-32"
     src: figures/fig-7-32.jpg
     label: "Figure 7.32"
     caption: "Facsimile of Benevento obelisk A (edited and improved version of Erman 1896, plate viii)."
-    alt text: "Black and white line drawing of all four sides of a single obelisk. Egyptian hieroglyphs are visible on all four surfaces."
     credit:
+    alt: "Black and white line drawing of all four sides of a single obelisk. Egyptian hieroglyphs are visible on all four surfaces."
   - id: "fig-7-33"
     src: figures/fig-7-33.jpg
     label: "Figure 7.33"
     caption: "Facsimile of Benevento obelisk B (edited and improved version of Erman 1896, plate viii)."
-    alt text: "Black and white line drawings of all four sides of a single, broken stone obelisk. Only the bottom half remains. Egyptian hieroglyphs are visible on all four surfaces."
     credit:
+    alt: "Black and white line drawings of all four sides of a single, broken stone obelisk. Only the bottom half remains. Egyptian hieroglyphs are visible on all four surfaces."
   - id: "fig-7-34"
     src: figures/fig-7-34.jpg
     label: "Figure 7.34"
     caption: "Paul D. Wordsworth documenting Benevento obelisk A."
-    alt text: "Color photograph of an obelisk on a plinth in the middle of a modern city square. Buildings surround the obelisk, and a person is standing in front with a camera on a tall pole."
     credit: "Photograph by Luigi Prada (29 July 2020)"
+    alt: "Color photograph of an obelisk on a plinth in the middle of a modern city square. Buildings surround the obelisk, and a person is standing in front with a camera on a tall pole."
   - id: "fig-7-35"
     src: figures/fig-7-35.jpg
     label: "Figure 7.35"
     caption: "Detail of telescopic pole rig for photographic documentation of Benevento obelisk A."
-    alt text: "Color photograph of obelisk from below, showing the tall pole holding a camera, which is being used to take photos of the obelisk."
     credit: "Photograph by Luigi Prada (29 July 2020)"
+    alt: "Color photograph of obelisk from below, showing the tall pole holding a camera, which is being used to take photos of the obelisk."
